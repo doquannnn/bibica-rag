@@ -1,7 +1,7 @@
 [project]
 name = "bibica-rag"
 version = "0.1.0"
-description = "RAG over Bibica internal HR documents + benchmark of RAG methods"
+description = "RAG over Bibica internal HR documents + benchmark of RAG methods + PO extraction with a local VLM"
 requires-python = ">=3.12,<3.13"
 dependencies = [
   "torch>=2.4",
@@ -31,6 +31,14 @@ dependencies = [
   "haystack-ai",
   "dspy",
   "httpx",
+  "openpyxl",
+  "pypdfium2",
+]
+
+[dependency-groups]
+dev = [
+  "pytest",
+  "reportlab",
 ]
 
 [tool.uv]
@@ -43,3 +51,6 @@ explicit = true
 
 [tool.uv.sources]
 torch = { index = "pytorch-cpu" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
