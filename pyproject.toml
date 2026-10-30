@@ -1,0 +1,45 @@
+[project]
+name = "bibica-rag"
+version = "0.1.0"
+description = "RAG over Bibica internal HR documents + benchmark of RAG methods"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "torch>=2.4",
+  "sentence-transformers>=3.3",
+  "transformers",
+  "faiss-cpu",
+  "bm25s",
+  "pyvi",
+  "underthesea",
+  "python-docx",
+  "openai",
+  "gradio",
+  "pandas",
+  "pyyaml",
+  "tqdm",
+  "numpy",
+  "FlagEmbedding",
+  "langchain",
+  "langchain-core",
+  "langchain-openai",
+  "langchain-text-splitters",
+  "langchain-community",
+  "langgraph",
+  "llama-index-core",
+  "llama-index-llms-openai-like",
+  "llama-index-embeddings-huggingface",
+  "haystack-ai",
+  "dspy",
+  "httpx",
+]
+
+[tool.uv]
+package = false
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
