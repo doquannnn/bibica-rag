@@ -1,7 +1,10 @@
 """Per-customer extraction specs: which fields to extract from a given customer's PO.
 
-The source of truth is the Excel file in `PO Extraction/`. Its exact layout is not fixed, so the loader
-detects the most common layouts sheet by sheet (header names are matched accent/case-insensitively):
+Default: `config/po_customers.yaml`, transcribed from the Bibica Excel file (DS_SIEU_THI_VA_MA_DMS_*.xlsx), where
+the fields are marked as boxes on PO screenshots and therefore cannot be read from the cells.
+
+The loader also reads field lists written as cells in an Excel file; it detects the most common layouts sheet by
+sheet (header names are matched accent/case-insensitively):
 
 1. long    — one row per (customer, field):  | Khách hàng | Thông tin cần trích xuất | Mô tả | Kiểu | Nhóm | Ví dụ |
              (customer cells may be merged / left blank under the first row of each customer)
@@ -28,6 +31,9 @@ from pathlib import Path
 from bibica_rag.po.normalize import clean_text, slug, words
 
 FIELD_TYPES = ("text", "number", "date", "table")
+ROOT = Path(__file__).resolve().parents[2]
+DEFAULT_SPEC = ROOT / "config" / "po_customers.yaml"
+PO_DIR = ROOT / "PO Extraction"
 
 
 @dataclass
@@ -37,6 +43,7 @@ class Field:
     description: str = ""
     example: str = ""
     columns: list["Field"] = field(default_factory=list)  # only for type == "table"
+    offset_days: int = 0  # date fields: added after extraction (e.g. delivery date = order date + 5 days)
 
     def to_dict(self) -> dict:
         d = {"name": self.name, "type": self.type}
@@ -44,6 +51,8 @@ class Field:
             d["description"] = self.description
         if self.example:
             d["example"] = self.example
+        if self.offset_days:
+            d["offset_days"] = self.offset_days
         if self.columns:
             d["columns"] = [c.to_dict() for c in self.columns]
         return d
@@ -56,7 +65,8 @@ class Field:
         return cls(name=clean_text(d["name"]),
                    type=parse_type(d.get("type"), d["name"]) if not cols else "table",
                    description=clean_text(d.get("description", "") or ""),
-                   example=clean_text(d.get("example", "") or ""), columns=cols)
+                   example=clean_text(d.get("example", "") or ""), columns=cols,
+                   offset_days=int(d.get("offset_days", 0) or 0))
 
 
 @dataclass
@@ -65,6 +75,9 @@ class CustomerSpec:
     fields: list[Field] = field(default_factory=list)
     aliases: list[str] = field(default_factory=list)
     notes: str = ""
+    skip_pages_containing: list[str] = field(default_factory=list)  # pages whose text has one of these are ignored
+    dms_sheet: str = ""  # sheet of the DMS code Excel holding this customer's stores
+    code_field: str = ""  # field holding the store code to look up in that sheet
 
     @property
     def field_names(self) -> list[str]:
@@ -76,12 +89,17 @@ class CustomerSpec:
             d["aliases"] = self.aliases
         if self.notes:
             d["notes"] = self.notes
+        for k in ("skip_pages_containing", "dms_sheet", "code_field"):
+            if getattr(self, k):
+                d[k] = getattr(self, k)
         return d
 
     @classmethod
     def from_dict(cls, d) -> "CustomerSpec":
         return cls(name=clean_text(d["name"]), fields=[Field.from_dict(f) for f in d.get("fields", [])],
-                   aliases=[clean_text(a) for a in d.get("aliases", [])], notes=d.get("notes", "") or "")
+                   aliases=[clean_text(a) for a in d.get("aliases", [])], notes=clean_text(d.get("notes", "") or ""),
+                   skip_pages_containing=list(d.get("skip_pages_containing", []) or []),
+                   dms_sheet=d.get("dms_sheet", "") or "", code_field=d.get("code_field", "") or "")
 
 
 # ---------------------------------------------------------------- types
@@ -96,6 +114,8 @@ def infer_type(name: str) -> str:
     # "Số PO", "Mã hàng", "Địa chỉ giao hàng" ... are identifiers / text even if they contain a hint word
     if s.startswith(("so", "ma", "diachi", "noigiao", "dvt", "donvi")) and not s.startswith("soluong"):
         return "text"
+    if s.startswith("sl") or s.startswith("qty"):
+        return "number"
     if any(h in s for h in _DATE_HINTS):
         return "date"
     if any(h in s for h in _NUMBER_HINTS):
@@ -342,6 +362,19 @@ def find_spec_file(folder: str | Path) -> Path | None:
     return None
 
 
+def default_spec_path() -> Path | None:
+    return DEFAULT_SPEC if DEFAULT_SPEC.exists() else find_spec_file(PO_DIR)
+
+
+def find_dms_file(folder: str | Path = PO_DIR) -> Path | None:
+    """The store-code Excel (DS_SIEU_THI_VA_MA_DMS_*.xlsx) in `folder`, else any Excel file there."""
+    folder = Path(folder)
+    if not folder.exists():
+        return None
+    files = sorted(p for pat in ("*.xlsx", "*.xlsm") for p in folder.rglob(pat) if not p.name.startswith("~$"))
+    return next((p for p in files if "dms" in slug(p.stem)), files[0] if files else None)
+
+
 # ---------------------------------------------------------------- customer detection
 
 def detect_customer(specs: dict[str, CustomerSpec], pdf_path: str | Path | None = None,
@@ -388,12 +421,12 @@ def main(argv=None):
     import argparse
 
     ap = argparse.ArgumentParser(description="Print the per-customer field specs understood from the Excel file")
-    ap.add_argument("path", nargs="?", default=None, help="Excel/YAML spec (default: first one in 'PO Extraction/')")
+    ap.add_argument("path", nargs="?", default=None, help="Excel/YAML spec (default: config/po_customers.yaml)")
     ap.add_argument("--yaml-out", help="write the specs as YAML (edit it, then put it next to the Excel to override)")
     args = ap.parse_args(argv)
-    path = args.path or find_spec_file(Path(__file__).resolve().parents[2] / "PO Extraction")
+    path = args.path or default_spec_path()
     if not path:
-        sys.exit("No spec file given and none found in 'PO Extraction/'")
+        sys.exit("No spec file given and no config/po_customers.yaml")
     specs = load_specs(path, verbose=True)
     text = dump_specs(specs)
     print(text)

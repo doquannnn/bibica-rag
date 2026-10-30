@@ -21,7 +21,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from bibica_rag.po.normalize import clean_text, normalize_value, slug
-from bibica_rag.po.spec import CustomerSpec, Field, find_spec_file, load_specs
+from bibica_rag.po.spec import CustomerSpec, Field, default_spec_path, load_specs
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -161,7 +161,7 @@ def main(argv=None):
     b = sub.add_parser("score", help="score predictions against GT")
     b.add_argument("--pred", default=str(ROOT / "results" / "po"))
     b.add_argument("--gt", default=str(ROOT / "data" / "po_gt"))
-    b.add_argument("--spec", help="Excel/YAML spec (default: first one found in 'PO Extraction/')")
+    b.add_argument("--spec", help="YAML/Excel spec (default: config/po_customers.yaml)")
     b.add_argument("--only-checked", action="store_true", help="ignore GT files still marked checked: false")
     b.add_argument("--out", default=str(ROOT / "results" / "po_eval"))
     args = ap.parse_args(argv)
@@ -169,7 +169,7 @@ def main(argv=None):
     if args.cmd == "init-gt":
         print(f"{init_gt(Path(args.pred), Path(args.gt), args.overwrite)} GT templates written to {args.gt}")
         return
-    spec_path = args.spec or find_spec_file(ROOT / "PO Extraction")
+    spec_path = args.spec or default_spec_path()
     if not spec_path:
         sys.exit("No spec file: pass --spec")
     rep = score_dir(Path(args.pred), Path(args.gt), load_specs(spec_path), args.only_checked)

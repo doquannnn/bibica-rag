@@ -95,7 +95,7 @@ def parse_date(v) -> date | None:
     m = re.search(r"([a-z]{3})[a-z]*\s+(\d{1,2}),?\s+(\d{4})", s)  # 'March 5, 2025'
     if m and m.group(1) in _MONTHS:
         return _mk(int(m.group(3)), _MONTHS[m.group(1)], int(m.group(2)))
-    m = re.search(r"(\d{1,2})[-/.](\d{1,2})[-/.](\d{2,4})", s)  # dd/mm/yyyy
+    m = re.search(r"(\d{1,2})(?:[-/.]|\s+)(\d{1,2})(?:[-/.]|\s+)(\d{4}|\d{2}\b)", s)  # dd/mm/yyyy, 'dd mm yyyy'
     if m:
         d, mo, y = map(int, m.groups())
         if mo > 12 >= d:  # clearly month-first

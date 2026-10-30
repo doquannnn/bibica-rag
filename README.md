@@ -29,20 +29,23 @@ The VLM needs its `mmproj` file to see the page images; any Qwen VL GGUF served 
 
 ## PO extraction (`bibica_rag/po/`)
 
-Data (not tracked): `PO Extraction/` with the customer PDFs (sub-folders per customer are fine) and the Excel file
-listing the fields to extract for each customer.
+Data (not tracked): `PO Extraction/` with the retailer PO PDFs and `DS_SIEU_THI_VA_MA_DMS_*.xlsx`.
 
-1. **Spec** (`spec.py`) — reads the Excel file; long (customer, field), matrix (fields × customers with `x`),
-   wide (customers × fields) and sheet-per-customer layouts are detected automatically. Optional columns:
-   description, type (text/number/date/table), group (fields of a line-item group become one table), example,
-   alias (keywords to recognise the customer). Check what was understood:
-   `uv run python -m bibica_rag.po.spec "PO Extraction/<file>.xlsx"`. If something is off, write the fixed
-   version with `--yaml-out "PO Extraction/<file>.yaml"` (same stem as the Excel): it is merged on top.
-2. **Customer** — from the file/folder name, else the PDF text layer, else the VLM picks from the customer list;
+1. **Fields per retailer** — `config/po_customers.yaml`, transcribed from the annotated PO screenshots in the
+   Excel (one sheet per retailer): Số PO, Ngày đề nghị giao hàng, Mã KH and the line items (Mã SP, SL đặt; BHX also
+   Đơn vị), with where each value is printed on that retailer's PO. `offset_days: 5` implements "lấy ngày này + 5
+   ngày" (BigC, Lan Chi, Satra); `skip_pages_containing` drops BigC's "DETAIL DELIVERY BY STORE" pages.
+   Print it with `uv run python -m bibica_rag.po.spec`.
+2. **Customer** — from the file/folder name, else the PDF text layer, else the VLM picks from the list;
    can also be forced in the UI / with `--customer`.
-3. **Extraction** (`extract.py`) — page images (+ text layer as a hint) → Qwen VLM, constrained by a JSON schema
-   whose keys are exactly that customer's fields; output is filtered to the spec, nulls for absent values,
-   numbers/dates normalized. `uv run python -m bibica_rag.po.extract "PO Extraction/" --out results/po`
+3. **Extraction** (`extract.py`) — one VLM call per page (page 1: all fields; later pages: line items only,
+   concatenated), constrained by a JSON schema whose keys are exactly that retailer's fields; the PDF text layer
+   is added as a hint unless it is garbled (e.g. AEON's fonts). Output is filtered to the spec, nulls for absent
+   values, numbers/dates normalized.
+4. **DMS code** (`dms.py`) — Mã KH is looked up in the Excel (MÃ TRÊN PO PDF → MÃ DMS, TÊN SIÊU THỊ DMS,
+   "Đơn vị tính ..."); unknown codes are reported so the Excel can be completed.
+
+`uv run python -m bibica_rag.po.extract "PO Extraction/" --out results/po`
 
 ### Testing
 - Unit tests (no model or data needed: synthetic Excel/PDF + fake LLM): `uv run pytest`
@@ -53,3 +56,4 @@ listing the fields to extract for each customer.
   uv run python -m bibica_rag.po.evaluate score --pred results/po --gt data/po_gt     # results/po_eval/report.md
   BIBICA_LIVE=1 uv run pytest tests/test_po_live.py -s                                 # gate: customer 100%, exact field set, accuracy >= BIBICA_PO_MIN_ACC (0.9)
   ```
+  `tests/test_po_live.py::test_real_po_preprocessing` runs without the model whenever the PDFs and GT are present.

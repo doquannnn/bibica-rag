@@ -11,9 +11,10 @@ from pathlib import Path
 import gradio as gr
 
 from bibica_rag import llm
-from bibica_rag.po.extract import PO_DIR, ExtractionResult, extract_po
+from bibica_rag.po.dms import load_dms_mapping
+from bibica_rag.po.extract import extract_po
 from bibica_rag.po.pdf import load_pdf
-from bibica_rag.po.spec import CustomerSpec, dump_specs, find_spec_file, load_specs
+from bibica_rag.po.spec import CustomerSpec, default_spec_path, dump_specs, find_dms_file, load_specs
 from bibica_rag.rag import chat
 
 AUTO = "(Tự động nhận diện)"
@@ -22,9 +23,9 @@ AUTO = "(Tự động nhận diện)"
 # ---------------------------------------------------------------- PO extraction
 
 def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
-    path = Path(spec_file) if spec_file else find_spec_file(PO_DIR)
+    path = Path(spec_file) if spec_file else default_spec_path()
     if not path:
-        return {}, "⚠️ Chưa có file cấu hình: tải file Excel lên hoặc đặt nó trong thư mục `PO Extraction/`."
+        return {}, "⚠️ Chưa có file cấu hình trường: `config/po_customers.yaml`."
     try:
         specs = load_specs(path)
     except Exception as e:  # noqa: BLE001
@@ -33,12 +34,27 @@ def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
     return specs, f"📄 `{path.name}` — {len(specs)} khách hàng, {n_fields} trường"
 
 
+def _load_dms(dms_file) -> tuple[dict | None, str]:
+    path = Path(dms_file) if dms_file else find_dms_file()
+    if not path:
+        return None, "⚠️ Chưa có file mã DMS (DS_SIEU_THI_VA_MA_DMS_*.xlsx) — sẽ không tra mã DMS."
+    try:
+        mapping = load_dms_mapping(path)
+    except Exception as e:  # noqa: BLE001
+        return None, f"⚠️ Không đọc được `{path.name}`: {e}"
+    return mapping, f"🏪 `{path.name}` — {sum(len(s.rows) for s in mapping.values())} mã cửa hàng"
+
+
+def on_dms_change(dms_file):
+    return _load_dms(dms_file)
+
+
 def on_spec_change(spec_file):
     specs, msg = _load_specs(spec_file)
     return specs, msg, gr.update(choices=[AUTO, *specs], value=AUTO), dump_specs(specs) if specs else ""
 
 
-def run_extraction(pdf_files, specs, customer, max_pages, use_text, progress=gr.Progress()):
+def run_extraction(pdf_files, specs, dms, customer, max_pages, use_text, progress=gr.Progress()):
     if not pdf_files:
         raise gr.Error("Chưa chọn file PDF")
     if not specs:
@@ -46,7 +62,7 @@ def run_extraction(pdf_files, specs, customer, max_pages, use_text, progress=gr.
     results = []
     for path in progress.tqdm(pdf_files, desc="Đang trích xuất"):
         r = extract_po(path, specs, customer=None if customer in (None, AUTO) else customer,
-                       max_pages=int(max_pages), use_text_layer=use_text)
+                       max_pages=int(max_pages), use_text_layer=use_text, dms_mapping=dms)
         r.file = Path(path).name
         results.append(r.to_dict())
     names = [r["file"] for r in results]
@@ -58,8 +74,10 @@ def _summary(results):
     rows = []
     for r in results:
         n = len(r["fields"])
+        dms = r.get("dms") or {}
         rows.append([r["file"], r["customer"] or "", r["customer_reason"],
-                     f"{n - len(r['missing'])}/{n}" if n else "", r["elapsed_s"], r["error"]])
+                     f"{n - len(r['missing'])}/{n}" if n else "", dms.get("Mã DMS") or dms.get("ghi_chu", ""),
+                     r["elapsed_s"], r["error"]])
     return rows
 
 
@@ -70,11 +88,16 @@ def show_result(name, results, pdf_files):
     table = []
     for k, v in r["fields"].items():
         table.append([k, json.dumps(v, ensure_ascii=False, indent=1) if isinstance(v, (list, dict)) else v])
+    for k, v in (r.get("dms") or {}).items():
+        if v:
+            table.append([f"[DMS] {k}", v])
     images = []
     for p in pdf_files or []:
         if Path(p).name == name:
-            images = load_pdf(p, dpi=100, max_pages=4).images
-    out = {"customer": r["customer"], "fields": r["fields"]}
+            pages = load_pdf(p, dpi=100, max_pages=30).images
+            images = [(img, f"Trang {i + 1}" + (" ✓" if i + 1 in r.get("pages_used", []) else " (bỏ qua)"))
+                      for i, img in enumerate(pages)]
+    out = {"customer": r["customer"], "fields": r["fields"], "dms": r.get("dms", {})}
     if r["error"]:
         out["error"] = r["error"]
     return table, out, images
@@ -107,6 +130,9 @@ def export(results) -> list[str]:
                 sheets.setdefault(f"{r['customer']} - {k}", []).extend({"File": r["file"], **row} for row in v)
             else:
                 head[k] = v
+        for k in ("Mã DMS", "Tên siêu thị DMS", "Đơn vị tính DMS"):
+            if (r.get("dms") or {}).get(k):
+                head[k] = r["dms"][k]
         sheets.setdefault(r["customer"], []).append(head)
     xl = out_dir / "po_extraction.xlsx"
     with pd.ExcelWriter(xl) as w:
@@ -163,6 +189,7 @@ def respond(message, history, k):
 
 def build_app() -> gr.Blocks:
     specs0, msg0 = _load_specs(None)
+    dms0, dms_msg0 = _load_dms(None)
     with gr.Blocks(title="Bibica AI") as app:
         gr.Markdown("# Bibica AI — Trích xuất PO & Hỏi đáp tài liệu nội bộ")
         with gr.Row():
@@ -171,22 +198,27 @@ def build_app() -> gr.Blocks:
 
         with gr.Tab("📑 Trích xuất PO"):
             specs = gr.State(specs0)
+            dms = gr.State(dms0)
             results = gr.State([])
             with gr.Row():
                 with gr.Column(scale=1):
                     pdfs = gr.File(label="File PO (PDF)", file_count="multiple", file_types=[".pdf"],
                                    type="filepath")
-                    spec_file = gr.File(label="Cấu hình khách hàng (Excel/YAML) — để trống dùng file trong "
-                                              "`PO Extraction/`", file_types=[".xlsx", ".xls", ".yaml", ".yml",
-                                                                              ".json"], type="filepath")
+                    with gr.Accordion("File cấu hình", open=False):
+                        spec_file = gr.File(label="Trường cần trích xuất (YAML) — trống: config/po_customers.yaml",
+                                            file_types=[".yaml", ".yml", ".json", ".xlsx"], type="filepath")
+                        dms_file = gr.File(label="Mã siêu thị → mã DMS (Excel) — trống: file trong PO Extraction/",
+                                           file_types=[".xlsx", ".xlsm"], type="filepath")
                     spec_msg = gr.Markdown(msg0)
+                    dms_msg = gr.Markdown(dms_msg0)
                     customer = gr.Dropdown([AUTO, *specs0], value=AUTO, label="Khách hàng")
                     with gr.Accordion("Tùy chọn", open=False):
-                        max_pages = gr.Slider(1, 10, value=4, step=1, label="Số trang tối đa gửi cho VLM")
+                        max_pages = gr.Slider(1, 30, value=20, step=1, label="Số trang tối đa đọc từ PDF")
                         use_text = gr.Checkbox(True, label="Gửi kèm lớp text của PDF (nếu có)")
                     btn = gr.Button("Trích xuất", variant="primary")
                 with gr.Column(scale=2):
-                    summary = gr.Dataframe(headers=["File", "Khách hàng", "Nhận diện", "Đã điền", "Giây", "Lỗi"],
+                    summary = gr.Dataframe(headers=["File", "Khách hàng", "Nhận diện", "Đã điền", "Mã DMS", "Giây",
+                                                    "Lỗi"],
                                            label="Kết quả", interactive=False, wrap=True)
                     pick = gr.Dropdown([], label="Xem chi tiết file")
                     with gr.Row():
@@ -200,7 +232,8 @@ def build_app() -> gr.Blocks:
                 spec_view = gr.Code(dump_specs(specs0) if specs0 else "", language="yaml")
 
             spec_file.change(on_spec_change, spec_file, [specs, spec_msg, customer, spec_view])
-            btn.click(run_extraction, [pdfs, specs, customer, max_pages, use_text],
+            dms_file.change(on_dms_change, dms_file, [dms, dms_msg])
+            btn.click(run_extraction, [pdfs, specs, dms, customer, max_pages, use_text],
                       [results, summary, pick, fields, js, gallery, files_out])
             pick.change(show_result, [pick, results, pdfs], [fields, js, gallery])
 
