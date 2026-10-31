@@ -1,0 +1,51 @@
+{"key": "35a0b8dd5425e314", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 30%; reference is 35% (Phó Phòng/Phó Quản đốc PX)."}
+{"key": "3a00c0bf42ca34f4", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 30%, wrong; should be 35%."}
+{"key": "ebfed4df1bf367ea", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct."}
+{"key": "eae6186481dd7209", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 30% from nhóm 2; wrong, 35%."}
+{"key": "e3bca742645032fe", "qid": "QCL-080", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "35% correct, but claims allocation table gives 35% for PQĐ (it is 30/40)."}
+{"key": "3d6d199bf4895e74", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% correct."}
+{"key": "c8d2a12c14020fa6", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% correct; extra values right."}
+{"key": "e9a231fab0422dcd", "qid": "QCL-082", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "40% correct but wrongly places Trợ lý sản phẩm in nhóm E rows."}
+{"key": "ba1d3fb27d122429", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% correct."}
+{"key": "81a4c5b25051dd23", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% and 30% correct."}
+{"key": "3118fa599e807faf", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% and 30% correct."}
+{"key": "9fd0ac2a7b9af210", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% and 30% correct."}
+{"key": "306b5d3e4beb9f1d", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct."}
+{"key": "4271204220db0b59", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct."}
+{"key": "34c231a407f03679", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 40%; correct is 35%."}
+{"key": "83cb9224c8f2d726", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/10/40 wrong; should be 50/10/60."}
+{"key": "f70d6ca218e3e083", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/10/40 wrong; should be 50/10/60."}
+{"key": "ff10726b1b24da00", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "50/10/60 correct."}
+{"key": "abc8a089e3e81ea2", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/10/40 wrong."}
+{"key": "14f3a3a77e0af9cf", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/10/40 wrong."}
+{"key": "380f75b3053f291a", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gives Phó TGĐ 15/20/35; actual BTGĐ nhóm 2 none, nhóm 3 10, total 10."}
+{"key": "e3ef335a7b394c91", "qid": "QCL-086", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Says no figures available; the table gives them. Wrong citation tag."}
+{"key": "838948a91fe66253", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "20/10/30 wrong; that is GĐ column, not BTGĐ."}
+{"key": "86c2b6db81871cc1", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "20/10/30 wrong; BTGĐ is -/10/10."}
+{"key": "28812f18291938b0", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2 = 30 right but total 60 wrong (40)."}
+{"key": "52e29432a7888cf3", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2 = 30 right but total 30 wrong (40)."}
+{"key": "3eb5eb3003cef340", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Nhóm 2 = 30 right; total 60 and nhóm 3 30 wrong; odd Điều 2 claim."}
+{"key": "e1c9b5911f89ab25", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2 = 30 right; total 60 and nhóm 3 30 wrong."}
+{"key": "8a29d3fe13e0c14d", "qid": "QCL-087", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 nhóm 2, total 40 correct."}
+{"key": "9b683df4373d43e2", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60/40, ±1 per 1%, <90% all correct."}
+{"key": "dedcdecdb872cf46", "qid": "QCL-089", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Garbled 60/40 and omits the ±1 point per 1% rule."}
+{"key": "9aa2efb3a624385e", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements correct."}
+{"key": "cb4195a9af9ad5bf", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 8 citation extraneous but others fine."}
+{"key": "673f8c9ae703ec25", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements correct."}
+{"key": "38d275b946fb9c1f", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct."}
+{"key": "1124f6d42693fa1b", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct."}
+{"key": "0b6a77b67c81160a", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct mức, formula, components."}
+{"key": "bc3eeeda1b46443f", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct mức, formula, components."}
+{"key": "972fd04ccc4bca82", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct mức, formula, components."}
+{"key": "69cbe2abe0e536be", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD Điều 14 extra is supported."}
+{"key": "ec20751c680dc841", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct mức, formula, components."}
+{"key": "2abccffe0adbc6ef", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "106 points wrong (108); months 15-16 right."}
+{"key": "ee1d3500bc92a428", "qid": "QCL-094", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Incoherent; claims not completed, only tháng 14; wrong."}
+{"key": "92f9d80224e81e22", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "106 wrong (108); months 15/16 and personal rule right."}
+{"key": "9b078d7645662e34", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "106 and inconsistent sums (104.4); months 15-16 right."}
+{"key": "73166964e08313c1", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "106/104 inconsistent, wrong total; months 15-16 right."}
+{"key": "d928c0ab35ad80a4", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, profit 88% <90%."}
+{"key": "9ab78a9dc38211bf", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, profit 88% <90%."}
+{"key": "5c3542864cdd104a", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, profit 88% <90%."}
+{"key": "a238ccc0a2ad34ba", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, profit 88% <90%."}
+{"key": "81e1e93a9a116311", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, profit 88% <90%."}

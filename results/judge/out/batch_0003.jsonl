@@ -1,0 +1,40 @@
+{"key": "9d31c39bd5df7e71", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: khiếu nại hoặc tranh chấp lao động cá nhân; lặp ý."}
+{"key": "c7ebc1a967979d53", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ các kênh khiếu nại theo Điều 32."}
+{"key": "6daf260e18969330", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng chế độ ốm đau BHXH; phần trợ cấp QCL Điều 13 chính xác."}
+{"key": "f1713bd367a6977a", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, ngắn gọn."}
+{"key": "600386357dba5b92", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo BLLĐ; dẫn QCL Điều 12/TULD Điều 10 cho nghỉ việc riêng là sai nhỏ."}
+{"key": "a8a248528c431059", "qid": "NQLD-011", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thêm 'Luật BHXH' vào Điều 10, văn bản chỉ dẫn chiếu Bộ luật lao động."}
+{"key": "ae05171050fda30f", "qid": "NQLD-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; áp khoản 1% BHTN cho nghỉ việc riêng là sai (QCL 13 áp ốm đau, thai sản)."}
+{"key": "5359a79ae0848cdb", "qid": "NQLD-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; gắn quy định phép dư Điều 7 với nghỉ không lương là suy diễn sai."}
+{"key": "d67de28f7d0e8ddc", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng BLLĐ, công thức QCL Điều 12 chính xác."}
+{"key": "2e6ae68ee144cac1", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng theo BLLĐ; chỉ trích 'Trích đoạn', không nêu văn bản."}
+{"key": "bf0b45d2b4005a8e", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: Tổng Giám đốc hoặc quản lý trực tiếp."}
+{"key": "98461e0397296938", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, trích dẫn đúng Điều 14."}
+{"key": "5784e17226d80e3b", "qid": "NQLD-015", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Chung chung, thiếu 'không khiếm nhã'; thêm chi tiết bịa; dẫn sai Điều 7."}
+{"key": "1229698000e9396e", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ: văn minh lịch sự, không khiếm nhã."}
+{"key": "383f97b6a13974c5", "qid": "NQLD-016", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Bịa quy định trang phục chi tiết, lặp vô hạn; không có trong Nội quy."}
+{"key": "0048ce2990670d55", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: theo quy định công ty, sạch sẽ, gọn gàng, lịch sự."}
+{"key": "1e625ea5a00e37bb", "qid": "NQLD-018", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Hiểu sai thành thủ tục thôi việc; nội dung bịa, trích dẫn sai."}
+{"key": "918a10b8bfdfa2d3", "qid": "NQLD-018", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có vệ sinh, kiểm tra điện nước; thêm mục b,c Điều 19 như việc trước khi rời đi."}
+{"key": "620cc51178fc117f", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; phần kỷ luật Điều 28 phù hợp."}
+{"key": "4f8f9a9d7cac98e8", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: cần đồng ý của quản lý hoặc Giám đốc."}
+{"key": "737403a76367f7f3", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu QCL Điều 7 và dẫn chiếu BLLĐ theo NQLD Điều 24."}
+{"key": "4e2b9ab0957c5b73", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu trường hợp QCL Điều 7 và dẫn chiếu BLLĐ tại NQLD Điều 24."}
+{"key": "fa0025ac5a209c3c", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: không có con số, theo Bộ luật Lao động."}
+{"key": "c19d2439e6e21444", "qid": "NQLD-022", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; gán QCL quy định 'thời hạn điều chuyển' là sai."}
+{"key": "b2d80af5f3c835f7", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai thẩm quyền."}
+{"key": "5ebc4d02a8ac02f8", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; lỗi ký tự lạ 'đại代表' nhưng vẫn hiểu."}
+{"key": "72d8b3eda878e085", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Điều 124 BLLĐ."}
+{"key": "3bf8dd9302a4dba0", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Điều 124 BLLĐ."}
+{"key": "c3850aa7f8d1216e", "qid": "NQLD-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu chức danh Tổng Giám đốc, thiếu tên Nguyễn Quốc Hoàng."}
+{"key": "a3db30f95b2ef26a", "qid": "NQLD-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sai khi nói NQLD không có thông tin người ký; chỉ nêu người ký QCL."}
+{"key": "72ed30324a3b5427", "qid": "NQLD-026", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sai: nói không có ngày giờ ký, bỏ qua chữ ký số 22/03/2024 22:45:07."}
+{"key": "a7e16c4007d50935", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng ngày giờ 22/03/2024 22:45:07."}
+{"key": "8db134eb779317d6", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 2 ca và giờ."}
+{"key": "b105ef93fcd1655e", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 2 ca và giờ."}
+{"key": "c045da2302e5e9aa", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 30 và 45 phút."}
+{"key": "0aa6e3cbc484f456", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 30/45 phút; thêm lao động nữ chính xác."}
+{"key": "3668021ab22173bb", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 12/14/16 ngày; phần thâm niên chính xác."}
+{"key": "ab68ca27c3638332", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 12/14/16 ngày."}
+{"key": "c3a0c910a6ef0986", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 15 ngày, đặc biệt 90 ngày."}
+{"key": "5a2fb88023935b7a", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 15/90 ngày, đủ chi tiết."}

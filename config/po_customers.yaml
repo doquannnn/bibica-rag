@@ -7,7 +7,10 @@
 # - offset_days: added to the extracted date by code ("lấy ngày này + 5 ngày" in the Excel); the VLM only copies
 #   the printed date
 # - skip_pages_containing: pages whose text layer contains one of these strings are not sent to the VLM
-# Retailers marked "chưa có PDF mẫu" were transcribed from the Excel screenshot only — check them on a real PO.
+# - date_order: mdy -> the PO prints month first (Satra); the VLM copies the string, code parses it
+# - decimal_comma: the PO writes decimals with a comma (Satra "1,000" = 1); the VLM copies the string
+# Checked against the real sample POs in "PO Extraction/" (Oct-Nov 2023) and data/po_gt/, except LANCHI
+# (no sample PDF yet: transcribed from the Excel screenshot only).
 
 common_item_note: &items_note "Mỗi dòng sản phẩm của đơn hàng, theo đúng thứ tự trên PO; không lấy dòng tổng."
 
@@ -17,10 +20,10 @@ customers:
     dms_sheet: AEON
     code_field: Mã KH
     fields:
-      - {name: Số PO, type: text, description: 'Ô "Số đơn hàng" góc trên bên phải (vd 10051000172869).'}
+      - {name: Số PO, type: text, description: 'Ô "Số đơn hàng" góc trên bên phải (vd 80034000513365).'}
       - {name: Ngày đề nghị giao hàng, type: date,
          description: 'Cột "Ngày Giao Hàng" ở hàng đầu phiếu, ghi thành 3 ô ngày | tháng | năm (vd 22 | 09 | 2021). Không lấy "Ngày Đặt Hàng" hay "Ngày In".'}
-      - {name: Mã KH, type: text, description: 'Ô "Mã Cửa Hàng" (vd 1005).'}
+      - {name: Mã KH, type: text, description: 'Ô "Mã Cửa Hàng" (vd 8003). Không lấy "Loại Phiếu" (321).'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
@@ -37,12 +40,12 @@ customers:
       - {name: Ngày đề nghị giao hàng, type: date,
          description: '"Ngày NCC giao hàng" (hoặc "Ngày giao hàng"); nếu là khoảng "07/10/2023 - 13/10/2023" thì lấy ngày ĐẦU. Không lấy "Ngày đặt hàng".'}
       - {name: Mã KH, type: text,
-         description: 'Chỉ con số đứng đầu ở dòng "Kho NCC giao hàng" / "Kho nhận hàng" (vd "4089 - BHX_DON_BHO - Kho DC Long Bình" -> 4089).'}
+         description: 'Chỉ con số đứng đầu ở dòng "Kho NCC giao hàng" / "Kho nhận hàng" (vd "4089 - BHX_DON_BHO - Kho DC Long Bình" -> 4089). Không lấy mã "Tên chi nhánh NCC" (18141) hay mã NCC (36521).'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
-          - {name: Mã SP, type: text, description: 'Cột "Mã sản phẩm/Barcode": mã vạch 13 số ở dòng trên của ô.'}
+          - {name: Mã SP, type: text, description: 'Cột "Mã sản phẩm/Barcode": mã 13 số ở dòng TRÊN của ô (vd 8934609602339). Không lấy mã thùng in ở cột "Ghi chú" (vd 8934609400164).'}
           - {name: SL đặt, type: number, description: 'Cột "SL" (vd 1,308.00 -> 1308).'}
           - {name: Đơn vị, type: text, description: 'Cột "ĐVT" (Hộp, Túi, ...).'}
 
@@ -55,16 +58,16 @@ customers:
       PO gồm các trang "PURCHASE NOTE" (đơn tổng — lấy) và có thể có các trang "DETAIL DELIVERY BY STORE"
       (chia theo cửa hàng — KHÔNG lấy, sẽ bị trùng số lượng).
     fields:
-      - {name: Số PO, type: text, description: 'Cột "Order No" (vd 2122040743620).'}
+      - {name: Số PO, type: text, description: 'Cột "Order No" (vd 2345054414574). Không lấy "SO number" của các trang chia cửa hàng.'}
       - {name: Ngày đề nghị giao hàng, type: date, offset_days: 5,
-         description: 'Chép đúng ngày ở cột "Order Date" (dd/mm/yy, vd 02/06/21 -> 2021-06-02). KHÔNG tự cộng ngày (hệ thống tự cộng 5 ngày).'}
-      - {name: Mã KH, type: text, description: 'Cột "Com. Contract" (vd M1500121).'}
+         description: 'Chép đúng ngày ở cột "Order Date" (dd/mm/yy, vd 09/11/23 -> 2023-11-09). KHÔNG tự cộng ngày (hệ thống tự cộng 5 ngày). Không lấy "Delivery Date To Store".'}
+      - {name: Mã KH, type: text, description: 'Cột "Com. Contract" (vd M1500806).'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
           - {name: Mã SP, type: text, description: 'Cột "Article" (mã 13 số).'}
-          - {name: SL đặt, type: number, description: 'Cột "OU Qty" (không phải "Free Qty" hay "SKU/OU").'}
+          - {name: SL đặt, type: number, description: 'Cột "OU Qty" (không phải "Free Qty", "SKU/ OU" hay "LV").'}
 
   - name: COOP
     aliases: [Co.op, Coopmart, Saigon Co.op, SGC, JDA Software]
@@ -82,15 +85,14 @@ customers:
           - {name: Mã SP, type: text, description: 'Cột "SKU Number" (vd 3003964-0).'}
           - {name: SL đặt, type: number, description: 'Cột "Qty Ord/CS" (số thùng, vd 108.00 -> 108). Không lấy "Qty Ord/Pcs".'}
 
-  # ---- chưa có PDF mẫu: chép từ ảnh chú thích trong Excel, cần kiểm tra trên PO thật
   - name: Lotte
     aliases: [LOTTE, Ord sheet]
     dms_sheet: Lotte
     code_field: Mã KH
     fields:
-      - {name: Số PO, type: text, description: 'Giá trị "Ord slip no" (vd 210924-01003-00024).'}
-      - {name: Ngày đề nghị giao hàng, type: date, description: 'Giá trị "Sply dt" (vd 2021-09-27). Không lấy "Ord dt".'}
-      - {name: Mã KH, type: text, description: 'Mã cửa hàng ở ô "Str/ nm" (vd 01003).'}
+      - {name: Số PO, type: text, description: 'Giá trị "Ord slip no" (vd 231113-01011-00129).'}
+      - {name: Ngày đề nghị giao hàng, type: date, description: 'Giá trị "Sply dt" (vd 2023-11-16). Không lấy "Ord dt".'}
+      - {name: Mã KH, type: text, description: 'Mã cửa hàng 5 chữ số ở ô "Str/ nm" góc phải, phía trên tên tỉnh (vd 01011 trên "Can Tho"); giữ số 0 đầu.'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
@@ -99,34 +101,35 @@ customers:
           - {name: SL đặt, type: number, description: 'Cột "Ord qty".'}
 
   - name: E-Mart
-    aliases: [Emart, Emart-Vietnam]
+    aliases: [Emart, Emart-Vietnam, THISO RETAIL]
     dms_sheet: E-Mart
     code_field: Mã KH
     fields:
       - {name: Số PO, type: text, description: 'Giá trị "PO No." (vd 4500565963).'}
-      - {name: Ngày đề nghị giao hàng, type: date, description: 'Giá trị "Delivery Date" (vd 25.09.2021).'}
-      - {name: Mã KH, type: text, description: 'Hai từ đầu của địa chỉ "Delivery to" (vd "366 PHAN VAN TRI, ..." -> "366 PHAN").'}
+      - {name: Ngày đề nghị giao hàng, type: date, description: 'Giá trị "Delivery Date" (vd 17.11.2023). Không lấy "Order By / Date".'}
+      - {name: Mã KH, type: text,
+         description: 'Toàn bộ giá trị "Delivery to" (vd "EMART GO VAP 366 PHAN VAN TRI,P5,Q.GO VAP,TPHCM"); mã DMS được tra theo cụm số nhà + tên đường ("366 PHAN") nằm trong chuỗi này.'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
           - {name: Mã SP, type: text, description: 'Cột "Unit Barcode (Mã vạch lẻ)".'}
-          - {name: SL đặt, type: number, description: 'Cột "PO Qty.".'}
+          - {name: SL đặt, type: number, description: 'Cột "PO Qty." (không phải "Qty. inBox").'}
 
   - name: MM
-    aliases: [Mega Market, MM Mega Market]
+    aliases: [Mega Market, MM Mega Market, Mega]
     dms_sheet: MM
     code_field: Mã KH
     fields:
-      - {name: Số PO, type: text, description: '"Số thứ tự đơn đặt hàng" (vd 90071.71236263).'}
-      - {name: Ngày đề nghị giao hàng, type: date, description: '"Giao hàng ngày" (vd 28.09.2021). Không lấy "Ngày đặt hàng".'}
-      - {name: Mã KH, type: text, description: 'Mã "ILN" trong khối "Địa điểm giao hàng" (vd 8935132500710).'}
+      - {name: Số PO, type: text, description: '"Số thứ tự đơn đặt hàng" (vd 90071.71395899), chép cả dấu chấm.'}
+      - {name: Ngày đề nghị giao hàng, type: date, description: '"Giao hàng ngày" (vd 17.11.2023). Không lấy "Ngày đặt hàng".'}
+      - {name: Mã KH, type: text, description: 'Mã "ILN" trong khối "Địa điểm giao hàng" bên phải (vd 8935132500710). Không lấy ILN/GLN của "Người mua", "Khách hàng" hay "Người bán".'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
           - {name: Mã SP, type: text, description: 'Cột "EAN sản phẩm".'}
-          - {name: SL đặt, type: number, description: 'Cột "Đơn đặt hàng số lượng" (dấu phẩy là thập phân: 60,00 -> 60).'}
+          - {name: SL đặt, type: number, decimal_comma: true, description: 'Cột "Đơn đặt hàng số lượng" (vd 60,00 hoặc 120). Không lấy "Mã sản phẩm người mua".'}
 
   - name: LANCHI
     aliases: [LAN CHI, THE CITY, SIEU THI THE CITY]
@@ -149,28 +152,30 @@ customers:
     dms_sheet: SATRA
     code_field: Mã KH
     fields:
-      - {name: Số PO, type: text, description: '"Đơn đặt hàng số" (vd P-000139167).'}
-      - {name: Ngày đề nghị giao hàng, type: date, offset_days: 5,
-         description: 'Chép đúng "Ngày" dưới tiêu đề ĐƠN ĐẶT HÀNG (vd 8/29/2021, tháng trước). KHÔNG tự cộng ngày (hệ thống tự cộng 5 ngày).'}
+      - {name: Số PO, type: text, description: '"Đơn đặt hàng số" (vd P-004215818).'}
+      - {name: Ngày đề nghị giao hàng, type: date, offset_days: 5, date_order: mdy,
+         description: '"Ngày" ngay dưới tiêu đề ĐƠN ĐẶT HÀNG ở đầu trang (vd 11/28/2023). KHÔNG tự cộng ngày (hệ thống tự cộng 5 ngày). Không lấy "Ngày giao hàng" ở cuối trang.'}
       - {name: Mã KH, type: text, description: 'Giá trị "Mã số NCC" (vd VD-00001986).'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
-          - {name: Mã SP, type: text, description: 'Cột "Barcode", chép đủ (vd 308934609202430).'}
-          - {name: SL đặt, type: number, description: 'Cột "Số lượng" (dấu phẩy là thập phân: 1,000 -> 1; 2,000 -> 2).'}
+          - {name: Mã SP, type: text, description: 'Cột "Barcode", chép đủ mọi chữ số (vd 308934609103164 hoặc 8934609103997). Không lấy cột "Mã hàng" (6 số).'}
+          - {name: SL đặt, type: number, decimal_comma: true, description: 'Cột "Số lượng" (vd 1,000 nghĩa là 1; 24,000 nghĩa là 24).'}
 
   - name: VIN
-    aliases: [WinCommerce, Vincommerce, WCM_, WMT_]
+    aliases: [WinCommerce, Vincommerce, WCM_, WMT_, WMP_]
     dms_sheet: VIN
     code_field: Mã KH
     fields:
-      - {name: Số PO, type: text, description: 'Cột "Mã đơn hàng" (vd 4131736078).'}
-      - {name: Ngày đề nghị giao hàng, type: date, description: 'Cột "Ngày yêu cầu giao hàng" (vd 04/10/2021).'}
-      - {name: Mã KH, type: text, description: 'Cột "Mã điểm giao hàng" (vd 1267).'}
+      - {name: Số PO, type: text, description: '"Số đơn hàng (PO No.)" (vd 4154941212); trên file Excel xuất từ hệ thống là cột "Mã đơn hàng".'}
+      - {name: Ngày đề nghị giao hàng, type: date,
+         description: '"Ngày giao (Delivery Date)" (vd 23.11.2023); file Excel: cột "Ngày yêu cầu giao hàng". Không lấy "Ngày đặt hàng (PO date)".'}
+      - {name: Mã KH, type: text,
+         description: 'Mã điểm giao hàng: con số đứng đầu dòng dưới "Địa chỉ giao hàng (Delivery Address)" (vd "1291-WMP_AMBIENT_HUNGYEN_HANGTHUONG" -> 1291); file Excel: cột "Mã điểm giao hàng". Không lấy mã nhà cung cấp (0002062500).'}
       - name: Chi tiết hàng
         type: table
         description: *items_note
         columns:
-          - {name: Mã SP, type: text, description: 'Cột "Barcode hàng".'}
-          - {name: SL đặt, type: number, description: 'Cột "Số lượng đặt".'}
+          - {name: Mã SP, type: text, description: 'Cột "Mã vạch (Barcode)" 13 số (vd 8934609103218); không lấy mã hàng 8 số ở cột "Tên hàng". File Excel: cột "Barcode hàng".'}
+          - {name: SL đặt, type: number, description: 'Cột "Số lượng (Quantity)" (vd 1,635 -> 1635); file Excel: cột "Số lượng đặt".'}

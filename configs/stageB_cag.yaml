@@ -1,0 +1,4 @@
+# Full-context CAG baseline: whole corpus (~23.5k tokens) as the prompt prefix, served by a separate llama-server
+# (port 8081, 2 slots x 32k ctx, --cache-reuse) because the main server's 8k slots cannot hold it.
+#   LLM_BASE_URL=http://127.0.0.1:8081/v1 uv run python -m bibica_rag.eval.run_pipelines --config configs/stageB_cag.yaml --workers 2
+- {run: cag-full-context, kind: cag}

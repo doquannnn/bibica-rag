@@ -1,0 +1,31 @@
+# Stage B: every pipeline end-to-end on the 240 test questions with Qwen3.5-4B (llama-server, 8 slots).
+# "best" retrieval = Stage-A2 winner (clause chunks + vn-embedding + qwen3-emb + diacritic-folded BM25, RRF).
+# Frameworks use the single-embedder hybrid (qwen3-emb + BM25), so LangChain / LlamaIndex / Haystack compare against
+# naive-qwen3hyb on equal footing.
+# Rerankers: bge-reranker-v2-m3 lifts Stage-A Recall@5 0.961 -> 0.976 (MRR .922 -> .949) but costs ~18 s CPU per query, so the main
+# pipelines run without a reranker and naive-best-rerank measures its end-to-end effect separately.
+
+# --- baselines -------------------------------------------------------------------------------------------------
+- {run: naive-fixed500-bge, kind: naive, chunking: fixed500, retriever: "dense:bge-m3"}
+- {run: naive-clause-bm25, kind: naive, chunking: clause_header, retriever: "bm25:foldplus"}
+
+# --- best retrieval, hand-written pipelines --------------------------------------------------------------------
+- {run: naive-best, kind: naive, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: naive-best-rerank, kind: naive, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|rerank:bge-reranker-v2-m3"}
+- {run: naive-best-s2b, kind: naive, chunking: clause_parent, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: multiquery-best, kind: multiquery, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: hyde-best, kind: hyde, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: raptor-best, kind: raptor, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+
+# --- frameworks (same chunks, embedder, reranker, prompt) -----------------------------------------------------
+- {run: naive-qwen3hyb, kind: naive, chunking: clause_header, retriever: "hybrid:dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: langchain, kind: langchain, chunking: clause_header, embedder: qwen3-emb-0.6b, reranker: null}
+- {run: llamaindex, kind: llamaindex, chunking: clause_header, embedder: qwen3-emb-0.6b, reranker: null}
+- {run: haystack, kind: haystack, chunking: clause_header, embedder: qwen3-emb-0.6b, reranker: null}
+- {run: dspy, kind: dspy, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: langgraph-crag, kind: langgraph_crag, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+
+# --- no chunk retrieval ----------------------------------------------------------------------------------------
+- {run: llm-wiki-claude, kind: llm_wiki, variant: claude}
+- {run: llm-wiki-qwen, kind: llm_wiki, variant: qwen}
+- {run: lightrag-mix, kind: lightrag, embedder: vn-embedding, mode: mix}

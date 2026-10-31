@@ -31,8 +31,10 @@ def clean_text(s) -> str:
 _NUM_CHARS = re.compile(r"[^0-9,.\-]")
 
 
-def parse_number(v) -> float | None:
-    """Parse '1.234.567,5' (VN), '1,234,567.5' (EN), '12 500 VND', 1234 -> float. None if not a number."""
+def parse_number(v, decimal_comma: bool = False) -> float | None:
+    """Parse '1.234.567,5' (VN), '1,234,567.5' (EN), '12 500 VND', 1234 -> float. None if not a number.
+
+    decimal_comma: the document always writes decimals with a comma (Satra '1,000' = 1, MM '60,00' = 60)."""
     if v is None or isinstance(v, bool):
         return None
     if isinstance(v, (int, float)):
@@ -44,7 +46,9 @@ def parse_number(v) -> float | None:
         return None
     neg = neg or s.startswith("-")
     s = s.replace("-", "")
-    if "," in s and "." in s:
+    if decimal_comma and "," in s:
+        s = s.replace(".", "").replace(",", ".")
+    elif "," in s and "." in s:
         # the right-most separator is the decimal one
         dec, thou = (",", ".") if s.rfind(",") > s.rfind(".") else (".", ",")
         s = s.replace(thou, "").replace(dec, ".")
@@ -73,8 +77,9 @@ _MONTHS = {m: i + 1 for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
 
 
-def parse_date(v) -> date | None:
-    """Parse common PO date formats; day-first for ambiguous numeric dates (Vietnam convention)."""
+def parse_date(v, order: str = "dmy") -> date | None:
+    """Parse common PO date formats; day-first for ambiguous numeric dates (Vietnam convention) unless
+    order == "mdy" (e.g. Satra prints 11/28/2023)."""
     if v is None:
         return None
     if isinstance(v, date):
@@ -98,7 +103,9 @@ def parse_date(v) -> date | None:
     m = re.search(r"(\d{1,2})(?:[-/.]|\s+)(\d{1,2})(?:[-/.]|\s+)(\d{4}|\d{2}\b)", s)  # dd/mm/yyyy, 'dd mm yyyy'
     if m:
         d, mo, y = map(int, m.groups())
-        if mo > 12 >= d:  # clearly month-first
+        if order == "mdy":
+            d, mo = mo, d
+        if mo > 12 >= d:  # clearly the other order
             d, mo = mo, d
         return _mk(y + 2000 if y < 100 else y, mo, d)
     return None
@@ -113,17 +120,17 @@ def _mk(y, mo, d):
 
 # ---------------------------------------------------------------- values by type
 
-def normalize_value(v, ftype: str):
+def normalize_value(v, ftype: str, date_order: str = "dmy", decimal_comma: bool = False):
     """Canonical form used both for the final output and for comparison in the evaluator."""
     if v is None:
         return None
     if isinstance(v, str) and v.strip().lower() in ("", "null", "none", "n/a", "na", "-", "không có"):
         return None
     if ftype == "number":
-        x = parse_number(v)
+        x = parse_number(v, decimal_comma=decimal_comma and isinstance(v, str))
         return format_number(x) if x is not None else clean_text(v)
     if ftype == "date":
-        d = parse_date(v)
+        d = parse_date(v, date_order)
         return d.isoformat() if d else clean_text(v)
     if isinstance(v, (int, float)) and not isinstance(v, bool):
         return format_number(float(v))

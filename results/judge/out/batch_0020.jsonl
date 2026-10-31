@@ -1,0 +1,60 @@
+{"key": "c1b3fb3c585a1e2f", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 'Không' - contradicts QCL Điều 10 (trả đủ lương); invented compensation content."}
+{"key": "1a8d784ea3a36c14", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct QCL rule; claims TULD Điều 5 covers company fault - unsupported."}
+{"key": "1920254790213555", "qid": "QCL-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: trả đủ lương theo HĐLĐ; extra details accurate."}
+{"key": "d2602d985496973c", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives QCL ngày 15 plus TULD 2 kỳ (20/10); correct."}
+{"key": "ced433f805bde37f", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL ngày 15 and TULD difference explained correctly."}
+{"key": "557ef51eddcdf274", "qid": "QCL-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly limits QCL ngày 15 to sales staff; misattributes TULD rule to QCL."}
+{"key": "262e13ac479c07e3", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day plus bank delay caveat; correct."}
+{"key": "5522b2254d8c860b", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day and bank caveat; correct."}
+{"key": "1c83dd85842c2da2", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct content; one citation slip (QCL Điều 12 instead of TULD Điều 9)."}
+{"key": "bd1a629e0d05074e", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tài khoản Công ty cổ phần Bibica; correct."}
+{"key": "6abf898da7c5f805", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches QCL Điều 11.3."}
+{"key": "9c2a61efad9a7f43", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches QCL Điều 11.3."}
+{"key": "cd95a1fe15506512", "qid": "QCL-039", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "States 40 giờ/tuần; documents say 48 giờ/tuần or 26 ngày/tháng."}
+{"key": "9254f5e45d1e8a38", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần or 26 ngày/tháng, 8 giờ/ngày; correct."}
+{"key": "c7f87c1cd6a38bd6", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 công/tháng, 8 giờ; correct with TULD."}
+{"key": "0e4220ea5088e62d", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong: 76.000 instead of 156.000."}
+{"key": "6843f02e68c312ce", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 156.000; labels formula mục ii instead of i (minor)."}
+{"key": "641a00e2ac766e16", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Final answer 52.000 wrong; should be 156.000."}
+{"key": "cb7e5a8dd002869b", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nghỉ bù, tăng ca, TGĐ phê duyệt all correct."}
+{"key": "6f54af5a547ab392", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements correct."}
+{"key": "487d776ded63c1cf", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements correct; cites QCL Chương III Điều 12 in prose."}
+{"key": "d532c20cd44c61bb", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo ngày nghỉ hằng tuần; TULD Điều 10 also matches."}
+{"key": "04db737dd50e3f7f", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo ngày nghỉ hằng tuần."}
+{"key": "b219f5d943f5a055", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD and NQLD references accurate."}
+{"key": "a6131593dcf8b113", "qid": "QCL-043", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Leads with 2 triệu (wrong for 2 years), then corrects to 1% BHXH; confusing."}
+{"key": "1d8ee48b04a3001b", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% tiền lương đóng BHXH trong 6 tháng; correct."}
+{"key": "3c1c0142276e7e4c", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương đóng BHXH trong 6 tháng; correct."}
+{"key": "ae3c8f4aec8e9ffb", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu with 1% BHTN rule correct; QCL Phụ lục 2 citation wrong."}
+{"key": "b83c420d152a19cb", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 2 triệu and 1% BHTN rule; citation typo minor."}
+{"key": "ea00827ab1248774", "qid": "QCL-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Amount correct but mislabels BHTN as Bảo hiểm Y tế."}
+{"key": "2615424dcb7dc6f7", "qid": "QCL-045", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Refuses though QCL Điều 13 provides 1% BHTN compensation; unsupported claims."}
+{"key": "f6999bac80e5f10f", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 14 ngày, 1% BHTN, cùng kỳ bảng lương."}
+{"key": "5fe326ec8a62a9bf", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 14 ngày and 1% BHTN."}
+{"key": "4ad92d56eaba78e4", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công correct; 100% lương from TULD Điều 12 also cited."}
+{"key": "e293f7c2be4306d6", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 100% ngày công theo thời gian thực tế."}
+{"key": "faa45446c0b43604", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD 100% lương detail accurate."}
+{"key": "dee6d534b0edcf3b", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công correct; 500.000 bonus from TULD Điều 17, citation slips."}
+{"key": "982af0760cb884da", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công per QCL Điều 14; TULD Điều 7 correct."}
+{"key": "7f53e555425684aa", "qid": "QCL-047", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says counted as normal day but conflates with employee birthday cost rules."}
+{"key": "f70b3eabb029caab", "qid": "QCL-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly claims ratio not in documents; QCL Điều 15 gives 80-90/10-20."}
+{"key": "b28eb7b1e38d10f8", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct 80-90% / 10-20%; cites Phụ lục 2 instead of Điều 15."}
+{"key": "e3ade822b54992af", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 80-90% / 10-20%."}
+{"key": "777e5c3589352f61", "qid": "QCL-049", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly claims no ratio; QCL Điều 15 gives NV 60% / 10-40%."}
+{"key": "685b43b58beedcd1", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 60% and 10-40%."}
+{"key": "f1db04dd01663063", "qid": "QCL-049", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ratios correct but invents KPI 40% for specific qualification groups."}
+{"key": "1da1ba28634eb060", "qid": "QCL-050", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong list; invented KPI 10-60% and other unrelated items."}
+{"key": "1b958d0c99e432d5", "qid": "QCL-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All six factors listed correctly."}
+{"key": "997daf47c8e8f76f", "qid": "QCL-050", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly denies the six factors are listed in QCL Điều 15."}
+{"key": "7fa77b4299794b9c", "qid": "QCL-052", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Refuses though QCL Điều 15 answers; misstates KPI tháng condition."}
+{"key": "b6efa4ab8b5e58af", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: only base salary rises, KPI not adjusted."}
+{"key": "2801001168335184", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: only base salary rises."}
+{"key": "42c82665d5b8eb71", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong result 6.240.000; correct is 7.200.000."}
+{"key": "4954f76e649494a8", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong (300.000x24 != 6.240.000); correct is 7.200.000."}
+{"key": "bf0e7fdbcbb6efd7", "qid": "QCL-053", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 7.200.000 with QCL Điều 16 formula."}
+{"key": "ccfe5e668da47b7a", "qid": "QCL-054", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says no figure; QCL Điều 16 gives 700.000đ/tháng."}
+{"key": "6849a5130ae7662b", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 700.000đ/tháng theo ngày công chuẩn."}
+{"key": "1bf8545db453b0f4", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 700.000đ; note on gián tiếp supported by Điều 16d."}
+{"key": "434749e3412f13ae", "qid": "QCL-055", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses, wrong company name, fabricated trợ cấp citations."}
+{"key": "83a78bd81a53b947", "qid": "QCL-055", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives correct 800.000 but opens by claiming info missing; contradictory."}
+{"key": "6d1a4f7940cf85b7", "qid": "QCL-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 800.000đ for Tổ phó; conditions accurate."}

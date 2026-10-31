@@ -1,0 +1,139 @@
+{"key": "48987a92e63fa087", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "3a9989d55ef28ebe", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "47211812a5fc6184", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra nhóm 4 note valid"}
+{"key": "253bb3cc6f7728d1", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios right; titles missing"}
+{"key": "8ee4f0725ae4652a", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete"}
+{"key": "1d2a9b57dc245a90", "qid": "QCL-011", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Titles wrong (nhóm 3); invented Phụ lục 2 KPI examples"}
+{"key": "0569c4b705a3066b", "qid": "QCL-011", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Titles are nhóm 3, wrong; ratios right"}
+{"key": "d7173bea7e25827f", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios right; wrongly says titles not stated"}
+{"key": "2ef06bbfc1b91e12", "qid": "QCL-011", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Titles wrong (nhóm 3); ratios right"}
+{"key": "56ff6b64bd4ea316", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete"}
+{"key": "500ba398c83d7cd6", "qid": "QCL-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "8.928.000 and 9.428.000 correct"}
+{"key": "791563f16314d159", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong 9.128.000/9.628.000"}
+{"key": "33af2d08556c5b63", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong numbers"}
+{"key": "700412eedf52a0d7", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong numbers"}
+{"key": "010a7d6a6783d313", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong numbers"}
+{"key": "df9414bf33033c01", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong numbers"}
+{"key": "959a4d54059b5462", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong base and lương cứng equals base"}
+{"key": "61dd93b70e6a8a86", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "a95493017f718d2b", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "c9d1af7705d76064", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "1ef0c10d7e81f70d", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "455b0ddd87109ca3", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "ded02f764ddac763", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "9c5f9d2276a8dc5c", "qid": "QCL-014", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Omits bảng đánh giá; invented NQLD Điều 28 claim"}
+{"key": "8c57cb45e3321f2a", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct; vague citations; irrelevant extra"}
+{"key": "d9fe8788a26065d0", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "bf130a57f13fa13c", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct"}
+{"key": "4a162caf3cef2903", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "2b12a8050d91b3ed", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct"}
+{"key": "7b0e2c971e254625", "qid": "QCL-014", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; misframes unrelated rules as consequences of failing probation"}
+{"key": "3b35373384b5bb32", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "8e1d9adf16d4abd8", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "d664d5db5437340e", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "7937d3ef412f4a8e", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "16c9bf64a7edfe8c", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "da969a33912b5e04", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "12446956302c69f5", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN, 100% LCB correct"}
+{"key": "31ac79b7b1c05942", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct"}
+{"key": "84d875608d0854cc", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct"}
+{"key": "c1d7dbe09090ed4e", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct"}
+{"key": "99b00de8d38cbccb", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "e48ae64440c1e2b9", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "cbdff0656671b5b2", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "0885885356092832", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "974ee36996d207e8", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct; assumes nhóm 1 needlessly"}
+{"key": "cf05d96d1312dda9", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "9bb6774ee5deaf4a", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm correct"}
+{"key": "3c6f9479cfbd75bd", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "aa2f498a198a1318", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "8c06681f3ad85d28", "qid": "QCL-019", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "03 năm right but garbles 4A condition"}
+{"key": "3f49f7b38e93dc14", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d37c137bd960c390", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "2897f1d6bf6d479e", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported"}
+{"key": "1c31f49ab24526ea", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "9a4f574ac124a78a", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; irrelevant extras but supported"}
+{"key": "e23315ae812d49b6", "qid": "QCL-021", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Main right; misapplies xếp lương sau thử việc to promotion"}
+{"key": "38deda70006c5aca", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "5f3a13133386085b", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "2d460c07557f4ea9", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "c4e78dbf8eda97fb", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "d3adf0e43e98df75", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "1b60e53603763d1e", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "212ff83d718bf875", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct"}
+{"key": "9d43ab86ae145581", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%; extras supported"}
+{"key": "8b12adfb7b28f1b9", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%"}
+{"key": "fdee7eae2a7f280f", "qid": "QCL-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lễ 100% ok; phép năm 100% not stated"}
+{"key": "621544d8c41c222b", "qid": "QCL-025", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Invents conditions attributed to QCL Điều 14"}
+{"key": "1208f0dbaf544679", "qid": "QCL-025", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Invents conditions attributed to QCL Điều 14"}
+{"key": "82d61a59058c678a", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%"}
+{"key": "6da9ad79feb825ad", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kế hoạch sản xuất kinh doanh correct"}
+{"key": "3be1d109fbf0445f", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kế hoạch sản xuất kinh doanh correct"}
+{"key": "45451d7e681763a7", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kế hoạch sản xuất kinh doanh correct"}
+{"key": "d89dbbd1c8057854", "qid": "QCL-028", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Four funds right; misplaces QC/cơ điện under gián tiếp"}
+{"key": "5b4eec66ced3c029", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Adds quỹ khen thưởng phúc lợi as 5th component"}
+{"key": "07e130eda34a13d3", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra fund framed as separate"}
+{"key": "f238190cdb87c4fd", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Adds 5th fund as component"}
+{"key": "7c0053e1d44197bf", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Adds 5th fund as component"}
+{"key": "339e270b195f5d71", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "d9d341f5bd25f514", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "e9c3313d5bdb3fa0", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "ad09f9fa437c6098", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "4beb4e6afcf25cab", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "abc796839da56187", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and targets correct"}
+{"key": "8660485243cd534e", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Not eligible; correct"}
+{"key": "a421b392e12c413b", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "b98e4e51860a0c53", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d2cc60c944880ef7", "qid": "QCL-030", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Right verdict; claims no KPI for any resigner; bad citations"}
+{"key": "5117b4f9ac7fb357", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "e5a301e133707444", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "9deaf41577593b16", "qid": "QCL-031", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says no then contradicts: may still get tháng 13"}
+{"key": "facf68d084a06c1e", "qid": "QCL-031", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Contradicts itself with tháng 13 pro-rata claim"}
+{"key": "b24bf09bd65ada0c", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "No; correct"}
+{"key": "a259233d7acfd13e", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "No; correct"}
+{"key": "f39bdc6544775322", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "No; correct"}
+{"key": "510b3f0b0dbe0b38", "qid": "QCL-031", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Contradicts itself with tháng 13 pro-rata claim"}
+{"key": "25e0d2a9fbf0d5c0", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; wrongly says rule applies to company-fault"}
+{"key": "8905a4dd308c57b0", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; wrongly extends to company fault; muddled"}
+{"key": "87da91dcd2271e5a", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; says 5 remaining days (is 6); company-fault error"}
+{"key": "c20691e6d8cdfd48", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "86e65548f746af43", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "9f82807c5a653840", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; 5 remaining days wrong (6)"}
+{"key": "a59d985daff4bea8", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "209a8a957fe5689f", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Có right; irrelevant birthday claim; TULD Điều 5 misattributed"}
+{"key": "f5f379002ce28865", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Does not answer; irrelevant invented reasoning"}
+{"key": "ec26871a35d07b49", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Có right; TULD Điều 12/2 claims fabricated"}
+{"key": "b374df287188152b", "qid": "QCL-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported"}
+{"key": "de7579e4debbc6d1", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có right; TULD Điều 2 misread"}
+{"key": "df5f91d32ba4976a", "qid": "QCL-035", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong provision; min-wage rule, not full pay"}
+{"key": "39859d2233e75548", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong; says no pay, confuses birthday clawback"}
+{"key": "b8fc0911968abf94", "qid": "QCL-036", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives both rules; invents group scopes"}
+{"key": "d478a85dadd664c5", "qid": "QCL-036", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives both; invents QCL group scopes"}
+{"key": "5f83b58e84459c3e", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives QCL 15 and TULD 20/10"}
+{"key": "9b6096f6910ec0bb", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL 15 plus TULD difference"}
+{"key": "4724eba9594929ee", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD rule; omits QCL ngày 15 general"}
+{"key": "2eb46e52ceaacc0a", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both rules"}
+{"key": "467ddb9836fef4e8", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Next working day; wrongly attributes bán hàng to QCL"}
+{"key": "d6517a8624acc7de", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "16d61c314f200aa8", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct core; bogus '15/11' remark, irrelevant QTV"}
+{"key": "ee6b016149f7d8d7", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "a9366b2e8d884a67", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; mislabels bán hàng under QCL"}
+{"key": "b1477804f68bf144", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; mislabels groups under QCL"}
+{"key": "38b96fa5766f55cc", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; mislabels bán hàng under QCL"}
+{"key": "6769e6acb69aedfb", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account correct"}
+{"key": "b1cdec85b1cb6699", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account correct"}
+{"key": "9342ac46672fe93a", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account correct"}
+{"key": "f65f9b8dc7676cc7", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account correct"}
+{"key": "718ab680fac6013a", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account correct"}
+{"key": "1504aaf8b1f2e876", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần or 26 ngày correct"}
+{"key": "dd1fd8fdd79ea7de", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần or 26 ngày correct"}
+{"key": "59e5b3057be280b6", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần or 26 ngày correct"}
+{"key": "d21dcde16b90a696", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần or 26 ngày correct"}
+{"key": "b1e7ab1665c7663c", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần or 26 ngày correct"}
+{"key": "bb6cecbfc284c2dd", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 correct"}
+{"key": "031b147cefb90430", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 correct"}
+{"key": "2cf55a824c63d37a", "qid": "QCL-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 14.800 wrong; calc gives 156.000"}
+{"key": "027e170ef7fd9e17", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "52.000 omits x3"}
+{"key": "ea9cf5dfd559fe32", "qid": "QCL-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 132.000 wrong; calc 156.000"}
+{"key": "31b1cdd0e542ee0c", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "52.000 omits x3"}
+{"key": "0628b465807a6e56", "qid": "QCL-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 144.000; messy, truncated, calc 156.000"}

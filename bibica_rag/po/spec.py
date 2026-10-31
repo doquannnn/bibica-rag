@@ -44,6 +44,8 @@ class Field:
     example: str = ""
     columns: list["Field"] = field(default_factory=list)  # only for type == "table"
     offset_days: int = 0  # date fields: added after extraction (e.g. delivery date = order date + 5 days)
+    date_order: str = "dmy"  # date fields: "mdy" when the PO prints month first (Satra: 11/28/2023)
+    decimal_comma: bool = False  # number fields: the PO writes decimals with a comma (Satra "1,000" = 1)
 
     def to_dict(self) -> dict:
         d = {"name": self.name, "type": self.type}
@@ -53,6 +55,10 @@ class Field:
             d["example"] = self.example
         if self.offset_days:
             d["offset_days"] = self.offset_days
+        if self.date_order != "dmy":
+            d["date_order"] = self.date_order
+        if self.decimal_comma:
+            d["decimal_comma"] = True
         if self.columns:
             d["columns"] = [c.to_dict() for c in self.columns]
         return d
@@ -66,7 +72,9 @@ class Field:
                    type=parse_type(d.get("type"), d["name"]) if not cols else "table",
                    description=clean_text(d.get("description", "") or ""),
                    example=clean_text(d.get("example", "") or ""), columns=cols,
-                   offset_days=int(d.get("offset_days", 0) or 0))
+                   offset_days=int(d.get("offset_days", 0) or 0),
+                   date_order=str(d.get("date_order", "dmy") or "dmy").lower(),
+                   decimal_comma=bool(d.get("decimal_comma", False)))
 
 
 @dataclass

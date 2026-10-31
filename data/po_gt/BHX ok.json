@@ -1,0 +1,22 @@
+{
+  "file": "BHX ok.pdf",
+  "customer": "BHX",
+  "checked": true,
+  "fields": {
+    "Số PO": "07211PO2310129860",
+    "Ngày đề nghị giao hàng": "2023-10-07",
+    "Mã KH": "7211",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609602339",
+        "SL đặt": 300.0,
+        "Đơn vị": "Hộp"
+      },
+      {
+        "Mã SP": "8934609105175",
+        "SL đặt": 120.0,
+        "Đơn vị": "Túi"
+      }
+    ]
+  }
+}

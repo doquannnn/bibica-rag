@@ -222,7 +222,9 @@ def build_nodes(code: str, title: str, lines):
     pending_chapter = False
 
     def flush():
-        if cur["kind"] != "preamble" and not cur["parts"]:
+        if cur["kind"] == "chapter" and not cur["parts"]:
+            return  # chapter heading directly followed by its first Điều
+        if cur["kind"] not in ("preamble", "chapter") and not cur["parts"]:
             # whole article fits on its heading line, e.g. "Điều 24. ...: Theo quy định của Bộ Luật Lao động."
             cur["parts"] = [cur["title"]]
         if cur["parts"]:
@@ -234,14 +236,22 @@ def build_nodes(code: str, title: str, lines):
             m_ar = HEAD_ARTICLE.match(text)
             m_ap = HEAD_APPENDIX.match(text)
             if m_ch:
+                flush()
                 chapter = f"Chương {m_ch.group(2)}" + (f": {m_ch.group(3).strip()}" if m_ch.group(3).strip() else "")
                 pending_chapter = not m_ch.group(3).strip()
+                # chapters without any Điều (e.g. "Điều khoản thi hành") become their own node
+                cur = {"node_id": f"{code}/Chương {m_ch.group(2)}", "kind": "chapter", "number": 0,
+                       "title": chapter, "chapter": chapter, "parts": []}
                 continue
             if pending_chapter and not (m_ar or m_ap):
                 chapter = f"{chapter}: {text}"
+                cur["title"] = cur["chapter"] = chapter
                 pending_chapter = False
                 continue
             pending_chapter = False
+            if cur["kind"] == "appendix" and not cur["parts"] and cur["title"].endswith("."):
+                cur["title"] = f"{cur['title']} {text}"
+                continue
             if m_ar:
                 flush()
                 n = int(m_ar.group(2))

@@ -1,0 +1,55 @@
+{"key": "8c32bcd1f39fa330", "qid": "MULTI-030", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD principle; misses quỹ khen thưởng, Hội đồng thi đua criteria and QCL Điều 21."}
+{"key": "597494d4fb218268", "qid": "MULTI-030", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly says from quỹ lương; QCL Điều 22 does not contain cited content."}
+{"key": "e90e118ca1e12b0b", "qid": "MULTI-030", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD side correct; fabricates QCL Phụ lục with mức thưởng, omits QCL Điều 21."}
+{"key": "cb3531d4c72cfb7e", "qid": "MULTI-030", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Does not address sáng kiến reward; says info absent though it exists."}
+{"key": "f1ece8f09a6478d0", "qid": "MULTI-030", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Fund 'or TGĐ decision' misstated; misses Hội đồng thi đua recognition criteria."}
+{"key": "cd8f2a8f7ad6e5b0", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related QCL content accurate."}
+{"key": "c291f000f58ba206", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; minor Điều 5/6 conflation."}
+{"key": "449a41e231a60a30", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; 07% and Nhóm 3 accurate."}
+{"key": "768b680192188f1e", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate context."}
+{"key": "f6bef1a5291feb9d", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related content accurate."}
+{"key": "76fb2680dc58e3a2", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related provisions accurate."}
+{"key": "fc6bad225f0b0f27", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "ca3a84688008f2fd", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "f7d676ddf120d822", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "da6567ca433a3645", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; Điều 4 citation slip minor."}
+{"key": "fff1524630183c1b", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; break times accurate."}
+{"key": "4a94e18ddddf5a1b", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "States no specific amount; mentions QCL Điều 16 support item."}
+{"key": "6bcc8c999e3724d7", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly says no amount specified in QCL Điều 16."}
+{"key": "b2bb0b7e8fd81fe7", "qid": "NONE-009", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines, but applies xăng xe formula to tiền ăn giữa ca, unsupported."}
+{"key": "fa53e03cf4b08e93", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "72c672e0304f24fd", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related leave notice rules accurate."}
+{"key": "c41eecb0811714e1", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related content accurate."}
+{"key": "e2ddb1d70752244c", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related content roughly accurate."}
+{"key": "137d8a1f4f3dc774", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; 02 tuần and 07 ngày accurate."}
+{"key": "16d1823f92173bf7", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related content accurate."}
+{"key": "26a86a300cd0a068", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "3c36102405fcb869", "qid": "NONE-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines; misdescribes birthday-cost recovery as recovering salary."}
+{"key": "a5e99c455a94e99c", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "95c9337bfdfb6319", "qid": "NONE-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines; NQLD Điều 7 wrongly described as termination rules."}
+{"key": "521cca4a6e13ca57", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "1404c41ea77d0ee3", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; 100% công/lương accurate."}
+{"key": "75f3e7621b188518", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related content accurate."}
+{"key": "b925a24ca05e0d42", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "e3383515c53d662f", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "67990577a75b98b6", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "76e50eee8bcc1b06", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; QCL 16/TULD 15 accurate."}
+{"key": "aa4a04326aa8ccc0", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "1d3ad440a8419d8e", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "598c2f0bd388df8e", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "24b53f98ef397f83", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; TULD 17 car loan accurate."}
+{"key": "f4764c21cbb8fb3f", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "5a6e3df897903b11", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "cfb7982b45363297", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; mentions giờ đưa rước context."}
+{"key": "f3e62fb20cba87e5", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "f1bce5daebefcad3", "qid": "NONE-017", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines but claims thai sản only for female; NQLD 9.2 covers male."}
+{"key": "2dcd289c48090a87", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; female-specific details roughly accurate."}
+{"key": "1313e55951ff9d1d", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correct: male per Luật BHXH, no specific days."}
+{"key": "ef60f10059e449a6", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Declines; overlooks NQLD 9.2 male clause but no fabrication."}
+{"key": "3f9e3078052c941c", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "7592c8b88be815bd", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; TULD 7 accurate."}
+{"key": "4b2bafd2a1b6e0cd", "qid": "NONE-018", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines; conflates employee-birthday cost recovery with company birthday bonus."}
+{"key": "c5f140db0bd9c10c", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; bonus amounts accurate."}
+{"key": "0230d7c93ba56d4b", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "f2d23a61ff9edee8", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "65521ac8da2bcf14", "qid": "NQLD-001", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct: NĐ 145/2020/NĐ-CP; only excerpt-number citations."}

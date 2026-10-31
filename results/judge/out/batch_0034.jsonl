@@ -1,0 +1,56 @@
+{"key": "55c1f1c0cc495586", "qid": "NQLD-092", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says cảnh cáo/trừng phạt tiền; not in NQLD Điều 28. Correct is khiển trách."}
+{"key": "54aa2402a3f5306d", "qid": "NQLD-092", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives khấu trừ lương (Điều 32 compensation) instead of khiển trách; misapplied."}
+{"key": "cecfcfd6a4578ef7", "qid": "NQLD-092", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách bằng văn bản, correct; extra recidivism rule supported."}
+{"key": "09ee6baa10eaeeb4", "qid": "NQLD-092", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách bằng văn bản correct."}
+{"key": "3f9014f62239b11c", "qid": "NQLD-092", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Cảnh cáo/phạt tiền 10 ngày lương invented; misses khiển trách."}
+{"key": "f45f11b91b0c9bfd", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition with accurate extras."}
+{"key": "a9a649d71e3db781", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition; extras supported."}
+{"key": "d7045856f63974cd", "qid": "NQLD-094", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; wrongly claims Nội quy gives no normal working hours (Điều 5 does)."}
+{"key": "d4e45b8af7307f59", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition and supported extras."}
+{"key": "c674835d193daaf5", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All cases covered; Điều 8 note supported."}
+{"key": "c7f4b52e518ba383", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both contexts correctly distinguished."}
+{"key": "48aa9e8a95acf436", "qid": "NQLD-095", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct core; last line wrongly says illness not on list is not valid reason."}
+{"key": "3fd2ae71d46e5b9c", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both contexts; Điều 14 note supported."}
+{"key": "57f57ed2e1b69632", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three thresholds and criteria caveat correct."}
+{"key": "14bbe4c9d684125d", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three thresholds and criteria caveat correct."}
+{"key": "ef445d89cfb52133", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three thresholds and criteria caveat correct."}
+{"key": "c5e6bd7ca99dc7e1", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three thresholds and criteria caveat correct."}
+{"key": "3bc0b8d175b47e5c", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three thresholds and criteria caveat correct."}
+{"key": "b4a9de2402512228", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both types defined correctly."}
+{"key": "bf0aa080e20a1c24", "qid": "NQLD-098", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Non-verbal lists only body language, omits trưng bày/miêu tả tài liệu trực quan."}
+{"key": "72313ae6cd343364", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both definitions complete."}
+{"key": "bb7dab7854a0867e", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both definitions complete."}
+{"key": "3d1cbc76e56f39d5", "qid": "NQLD-099", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right but never states physical harassment leads to sa thải; lists unrelated, wrong triggers."}
+{"key": "3538f91d63fe1720", "qid": "NQLD-099", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition and sa thải correct; invented cách chức-for-harassment recidivism claim."}
+{"key": "07fc1ee66c6b7314", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and sa thải correct."}
+{"key": "d4d22ecbb3560349", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and sa thải, Điều 28.4.a correct."}
+{"key": "ed26485199b57d9f", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; Điều 17 and TULD Điều 18 cited correctly."}
+{"key": "4fa0431fa1e4e353", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; Điều 17 and TULD Điều 18 cited correctly."}
+{"key": "1cd9ea48b7f63547", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; Điều 17 and TULD Điều 18 cited correctly."}
+{"key": "790bf485fb5c8a57", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; Điều 17 and TULD Điều 18 cited correctly."}
+{"key": "7915dedf0edbdd61", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; Điều 17 and TULD Điều 18 cited correctly."}
+{"key": "2572dcec53097dc7", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Matches Điều 1."}
+{"key": "270b68df63aadcaf", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 10 extra supported."}
+{"key": "b85ada933f0db55f", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported by Điều 1, 10, 22."}
+{"key": "85f25223e97e5c57", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Matches Điều 1."}
+{"key": "b272eca13d83c1c1", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 3 extras supported."}
+{"key": "6aed30a57ffa53dc", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám Đốc decides; correct."}
+{"key": "7a11d8ee8b84d42b", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám Đốc decides; correct."}
+{"key": "6d0644183c845b16", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám Đốc decides; correct."}
+{"key": "5af731fde48dfc41", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám Đốc decides; correct."}
+{"key": "7c6cf3efde8f07ff", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám Đốc decides; correct."}
+{"key": "cf8bab1cff8102c6", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and hệ số x lương tối thiểu vùng correct; extras supported."}
+{"key": "c711583be224ba24", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and hệ số x lương tối thiểu vùng correct; extras supported."}
+{"key": "a1cde3b934157c38", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and hệ số x lương tối thiểu vùng correct; extras supported."}
+{"key": "752a6e1d963046c4", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and hệ số x lương tối thiểu vùng correct; extras supported."}
+{"key": "582ebff603302c16", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and hệ số x lương tối thiểu vùng correct; extras supported."}
+{"key": "f8e4706b48ec09c1", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lương cứng = LCB + hỗ trợ, correct."}
+{"key": "852966b42269d80e", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lương cứng = LCB + hỗ trợ, correct."}
+{"key": "297f7d45ea980d04", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lương cứng = LCB + hỗ trợ, correct."}
+{"key": "00d40ce6fb7f2fff", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lương cứng = LCB + hỗ trợ, correct."}
+{"key": "cfadc3d390e2ec48", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lương cứng = LCB + hỗ trợ, correct."}
+{"key": "47d0abbe88b1c1a9", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; breakdown consistent with Điều 16."}
+{"key": "eac32903b0f12d57", "qid": "QCL-006", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition correct but conflates Điều 9 wage funds with LCV components."}
+{"key": "da6eeaf76b8757c8", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; resignation note supported."}
+{"key": "08c859f0ed4613a7", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct, concise."}
+{"key": "2e67b22d9cc62c25", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct with consistent extras."}

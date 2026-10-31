@@ -1,0 +1,364 @@
+[
+ {
+  "qid": "MULTI-030",
+  "question": "thuong sang kien cai tien ky thuat trong thoa uoc va quy che luong quy dinh ntn",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Thỏa ước: thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất lấy từ quỹ khen thưởng; nhân viên có đăng ký sáng kiến và được Hội đồng thi đua khen thưởng Công ty công nhận là giải pháp tốt, đã được áp dụng và mang lại hiệu quả thiết thực thì được xem xét khen thưởng; mức thưởng, xét thưởng phải không trái pháp luật và quy định cụ thể trong quy chế tiền lương tiền thưởng (TULD Điều 16). Quy chế lương: quỹ khen thưởng được dùng khen thưởng CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, tốt hơn về quy trình/chất lượng sản phẩm so với hiện tại (QCL Điều 21); quy chế không nêu mức tiền thưởng cụ thể.",
+  "key_facts": [
+   "quỹ khen thưởng",
+   "Hội đồng thi đua khen thưởng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 16": "Điều 16. Chế độ khen thưởng\n1. Thưởng từ quỹ lương:\na. Công ty xét thưởng cho người lao động từ quỹ lương nếu quỹ lương công ty cho phép. Mức thưởng căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ, quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh và quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng.\nb. Tất cả các vấn đề liên quan đến phân phối tiền thưởng được qui định đầy đủ trong qui chế, quy định tiền lương tiền thưởng của Công ty.\n2. Thưởng từ quỹ khen thưởng:\na. Quỹ khen thưởng của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua nhằm khen thưởng các cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho Công ty, như sáng kiến cải tiến kỹ thuật, tiết kiệm tiêu hao vật tư, nguyên liệu .v.v…\nb. Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất:\n- Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất nhằm mục đích tận dụng rộng rãi trí tuệ, tài năng sáng tạo của lực lượng lao động góp phần nâng cao hiệu quả sản xuất kinh doanh tại Công ty.\n- Tất cả nhân viên có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất... và được Hội đồng thi đua khen thưởng Công ty công nhận là một giải pháp tốt, đã được áp dụng và mang lại hiệu quả thiết thực cho Công ty đều được xem xét khen thưởng.\n- Các qui định về mức thưởng, xét thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất không trái với pháp luật và phải qui định cụ thể trong qui chế tiền lương tiền thưởng của Công ty\n3. Việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng.",
+   "QCL/Điều 21": "Điều 21. Quỹ khen thưởng được thực hiện khen thưởng những trường hợp sau\n1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc tất cả các giải pháp khác trong tất cả các lĩnh vực sản xuất kinh doanh và được các đề xuất, ý tưởng mang lại các hiệu quả về kinh tế, tốt hơn về qui trình/chất lượng sản phẩm so với hiện tại.\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3. Ngoài ra quỹ khen thưởng phúc lợi có thể được phân phối cho người lao động trong trường hợp thu nhập người lao động bị giảm sút khi có đề xuất của BCH Công Đoàn Cơ Sở áp dụng cho CNV còn đang làm việc."
+  },
+  "answers": [
+   {
+    "key": "8c32bcd1f39fa330",
+    "answer": "Thưởng sáng kiến cải tiến kỹ thuật được quy định cụ thể trong Quy chế tiền lương - tiền thưởng của Công ty, không trái với pháp luật [TULD Điều 16].\n\nVề cách tính lương - thưởng bổ sung, thời gian tính thưởng dựa trên tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ tính lương bổ sung, theo Phụ lục số 3 của Quy chế [TULD Điều 14].\n\nTài liệu trích đoạn không nêu chi tiết mức thưởng hay tiêu chuẩn cụ thể cho sáng kiến cải tiến kỹ thuật, chỉ xác định nguyên tắc phải qui định rõ trong Quy chế [TULD Điều 16]."
+   },
+   {
+    "key": "597494d4fb218268",
+    "answer": "Thưởng sáng kiến cải tiến kỹ thuật được qui định cụ thể trong Quy chế tiền lương, tiền thưởng của Công ty, không trái với pháp luật [QCL Điều 22]. Mức thưởng này thuộc chế độ khen thưởng, được xét từ quỹ lương nếu quỹ cho phép, căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh [TULD Điều 16]. Các vấn đề phân phối tiền thưởng chi tiết đều được qui định đầy đủ trong Quy chế tiền lương, tiền thưởng [TULD Điều 16]."
+   },
+   {
+    "key": "e90e118ca1e12b0b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, thưởng sáng kiến cải tiến kỹ thuật thuộc chế độ khen thưởng từ quỹ khen thưởng, dành cho cá nhân/tập thể có đăng ký sáng kiến, được Hội đồng thi đua khen thưởng công nhận là giải pháp tốt, đã áp dụng và mang lại hiệu quả thiết thực [TULD Điều 16].\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, mức thưởng cụ thể cho sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất được qui định chi tiết trong Phụ lục của Quy chế này, đảm bảo không trái pháp luật [QCL Điều 22].\n\nQuy chế tiền lương, tiền thưởng là văn bản quy định cụ thể về mức thưởng, trong khi Thỏa ước lao động tập thể xác định nguyên tắc phân phối và đối tượng được xét thưởng [TULD Điều 16]."
+   },
+   {
+    "key": "cb3531d4c72cfb7e",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định về tiền lương, thưởng bổ sung phải tuân thủ quy chế tiền lương - tiền thưởng và tính theo tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ (theo Phụ lục 3 quy chế).\n\nTuy nhiên, các trích đoạn tài liệu cung cấp **không có thông tin chi tiết** về cách tính cụ thể tiền lương, tiền thưởng kỹ thuật hay các mức tiền cụ thể. Tài liệu chỉ nêu nguyên tắc chung là phải tuân thủ quy định của pháp luật và các văn bản hướng dẫn (Bộ luật Lao động) cũng như quy chế tiền lương - tiền thưởng đã được ban hành.\n\nNguồn: [TULD Điều 14], [TULD Điều 10], [NQLD Điều 12]."
+   },
+   {
+    "key": "f1ece8f09a6478d0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024 (Điều 16), chế độ khen thưởng sáng kiến cải tiến kỹ thuật phải được qui định cụ thể trong Quy chế tiền lương, tiền thưởng của Công ty và không trái với pháp luật.\n\nQuy chế tiền lương, tiền thưởng Bibica năm 2024 (Điều 20-21) quy định Quỹ khen thưởng được hình thành từ lợi nhuận hoặc quyết định của Tổng giám đốc, dùng để khen thưởng sáng kiến cải tiến kỹ thuật.\n\nTài liệu nội bộ không có thông tin về mức tiền cụ thể hay tiêu chí chi tiết để xét thưởng sáng kiến trong các văn bản được cung cấp."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-005",
+  "question": "Hệ số lương bậc 1 của kỹ sư trong thang lương công ty là bao nhiêu?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không cung cấp giá trị hệ số lương cụ thể. Phụ lục 01 Quy chế lương chỉ ghi 'Đính kèm Thang lương Bảng lương hiện hành' mà không có bảng số; quy chế chỉ nêu lương cơ bản = hệ số lương x lương tối thiểu vùng và mức chênh lệch giữa các bậc trong một ngạch từ 07%.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "cd8f2a8f7ad6e5b0",
+    "answer": "Tài liệu nội bộ không có thông tin về mức số cụ thể của hệ số lương bậc 1 cho vị trí kỹ sư.\n\nCác tài liệu chỉ quy định:\n- Hệ số lương được xác định theo Thang lương Bảng lương Công ty đã ban hành theo Phụ lục 01 (QCL Điều 2).\n- Hệ số lương được chuẩn hóa theo trình độ chuyên môn nghiệp vụ (QCL Điều 15).\n- Tiêu chí xét nâng hệ số lương dựa trên điểm A và thâm niên theo từng nhóm (QCL Điều 6).\n\nĐể biết con số chính xác, cần xem Phụ lục 01 đính kèm Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   },
+   {
+    "key": "c291f000f58ba206",
+    "answer": "Tài liệu nội bộ không có thông tin về mức số cụ thể của hệ số lương bậc 1 cho vị trí kỹ sư.\n\nCác trích đoạn cung cấp quy định về tiêu chí xét nâng lương và định nghĩa hệ số lương nhưng không liệt kê bảng thang lương chi tiết. Theo [QCL Điều 5], đối tượng xét nâng lương bao gồm kỹ sư (Nhóm 3) với điều kiện đủ 01 năm làm việc. Theo [QCL Điều 6], kỹ sư thuộc Nhóm 3 có thể xét nâng bậc nếu đạt 4A và hoàn thành công việc. Theo [QCL Điều 2], hệ số lương là hệ số cứng theo Thang lương Bảng lương Công ty đã ban hành theo Phụ lục 01, tuy nhiên nội dung Phụ lục 01 này không được cung cấp trong tài liệu trích đoạn."
+   },
+   {
+    "key": "449a41e231a60a30",
+    "answer": "Tài liệu nội bộ không có thông tin về mức hệ số lương cụ thể của bậc 1 đối với kỹ sư.\n\nTheo [QCL Phụ lục 01], thang lương và bảng lương chi tiết được quy định trong Phụ lục 01 đính kèm Quy chế. Theo [QCL Điều 3], mức chênh lệch giữa các bậc lương trong cùng một ngạch là từ 07%. Theo [QCL Điều 6], kỹ sư thuộc Nhóm 3 (Cử nhân, kỹ sư) và được xét nâng lương dựa trên điều kiện 4A và thâm niên."
+   },
+   {
+    "key": "768b680192188f1e",
+    "answer": "Tài liệu nội bộ không có thông tin về mức số cụ thể của hệ số lương bậc 1 cho vị trí kỹ sư.\n\nTheo [QCL Điều 2], hệ số lương là hệ số cứng theo Thang lương Bảng lương Công ty đã ban hành theo Phụ lục 01. Tuy nhiên, các trích đoạn được cung cấp chỉ nêu quy định về cơ cấu, điều kiện xét nâng và phân nhóm, không liệt kê bảng số liệu cụ thể của từng bậc lương hay hệ số tương ứng cho từng nhóm chức năng như kỹ sư."
+   },
+   {
+    "key": "f6bef1a5291feb9d",
+    "answer": "Tài liệu nội bộ không có thông tin về số liệu cụ thể của hệ số lương bậc 1 cho vị trí kỹ sư.\n\nCác trích đoạn cung cấp quy định về cơ cấu lương và điều kiện xét nâng bậc, nhưng không liệt kê bảng thang lương chi tiết.\n- [QCL Điều 3] quy định mức chênh lệch giữa các bậc trong một ngạch là từ 07%.\n- [QCL Điều 6] và [Trích đoạn 4, 5] nêu điều kiện nâng bậc (cần 4A và cộng dồn) cho nhóm kỹ sư (Nhóm 3) nhưng không ghi rõ giá trị hệ số cụ thể."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-007",
+  "question": "Mức lương tối thiểu vùng mà công ty đang áp dụng hiện nay là bao nhiêu đồng?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu con số lương tối thiểu vùng. Chúng chỉ dẫn chiếu khái niệm này (lương cơ bản = hệ số lương x lương tối thiểu vùng; mức bồi thường, sa thải tính theo số tháng lương tối thiểu vùng do Chính phủ công bố).",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "76fb2680dc58e3a2",
+    "answer": "Tài liệu nội bộ không có thông tin về mức lương tối thiểu vùng cụ thể mà công ty đang áp dụng.\n\nCác trích đoạn chỉ nêu quy định chung:\n- Theo QCL Điều 2 và Điều 3, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng theo quy định của Nhà nước.\n- Theo QCL Điều 10 và TULD Điều 5, khi tính lương ngừng việc, mức lương không được thấp hơn mức lương tối thiểu chung.\n\nĐể biết con số cụ thể, cần tham khảo Phụ lục 01 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 hoặc văn bản hướng dẫn của Bộ Lao động - Thương binh và Xã hội."
+   },
+   {
+    "key": "fc6bad225f0b0f27",
+    "answer": "Tài liệu nội bộ không có thông tin về mức lương tối thiểu vùng cụ thể mà công ty đang áp dụng.\n\nTheo [QCL Điều 2], Lương Cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng. Theo [QCL Điều 3], mức lương tối thiểu chung được quy định theo mức do Nhà nước ban hành, nhưng số liệu cụ thể này không được nêu trong các trích đoạn tài liệu đã cung cấp."
+   },
+   {
+    "key": "ca3a84688008f2fd",
+    "answer": "Tài liệu nội bộ không có thông tin về mức lương tối thiểu vùng cụ thể mà công ty đang áp dụng.\n\nCác văn bản chỉ quy định mức lương cơ bản được tính bằng hệ số lương nhân với mức lương tối thiểu vùng theo quy định của Nhà nước, nhưng không nêu con số cụ thể của mức này [QCL Điều 2]."
+   },
+   {
+    "key": "f7d676ddf120d822",
+    "answer": "Tài liệu nội bộ không có thông tin về mức lương tối thiểu vùng cụ thể mà công ty đang áp dụng hiện nay.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, mức lương tối thiểu chung được quy định theo mức do Nhà nước quy định [QCL Điều 3]. Tuy nhiên, các văn bản trích đoạn không nêu con số cụ thể của mức này."
+   },
+   {
+    "key": "da6567ca433a3645",
+    "answer": "Tài liệu nội bộ không có thông tin về con số cụ thể của mức lương tối thiểu vùng mà công ty đang áp dụng.\n\nCác trích đoạn chỉ nêu quy định: mức lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng [QCL Điều 2]; mức lương tối thiểu chung phải theo quy định của Nhà nước [QCL Điều 3, Điều 4]. Tuy nhiên, văn bản không ghi rõ giá trị đồng của mức lương tối thiểu vùng này."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-009",
+  "question": "Tiền ăn giữa ca mỗi ngày của công nhân là bao nhiêu?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu mức tiền ăn giữa ca. Quy chế lương chỉ nhắc tiền ăn giữa ca là một khoản hỗ trợ không đóng BHXH trong công thức thu nhập, không có số tiền cụ thể.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "fff1524630183c1b",
+    "answer": "Tài liệu nội bộ không có thông tin về số tiền cụ thể cho tiền ăn giữa ca.\n\nCác trích đoạn cung cấp chi tiết về thời gian nghỉ giữa ca (30 phút/1 ca ban ngày, 45 phút/1 ca đêm) và các khoản hỗ trợ khác như phụ cấp trách nhiệm, hỗ trợ xăng xe, nhưng không đề cập đến mức lương hoặc tiền thưởng dành riêng cho bữa ăn giữa ca."
+   },
+   {
+    "key": "4a94e18ddddf5a1b",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền ăn giữa ca được xem là khoản hỗ trợ không xác định mức tiền cụ thể. Khoản này được ghi trong hợp đồng lao động nếu có và được cộng vào tổng thu nhập của nhân viên.\n\n[QCL Điều 16]"
+   },
+   {
+    "key": "6bcc8c999e3724d7",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền ăn giữa ca được xem là khoản hỗ trợ phục vụ.\n\nThu nhập của mỗi cá nhân bao gồm: Lương cơ bản + Thưởng KPI + Lương chế độ + **Hỗ trợ** (trong đó có tiền ăn giữa ca) + Các khoản bổ sung – Các khoản phải trừ [QCL Điều 16].\n\nTuy nhiên, tài liệu nội bộ **không quy định cụ thể số tiền** (đồng) cho khoản tiền ăn giữa ca này. Mức hỗ trợ này được ghi trong hợp đồng lao động hoặc các quyết định lương khác, không xác định mức tiền cụ thể trong văn bản hiện hành [QCL Điều 16]."
+   },
+   {
+    "key": "b2bb0b7e8fd81fe7",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về số tiền (đồng) của tiền ăn giữa ca.\n\nTheo [QCL Điều 16], tiền hỗ trợ ăn giữa ca được tính theo công thức: Mức hỗ trợ/ công chuẩn x ngày công thực tế. Tuy nhiên, tài liệu không nêu rõ mức tiền hỗ trợ chuẩn cụ thể cho từng vị trí hay đơn vị.\n\nNgoài ra, [NQLD Điều 5] quy định thời gian nghỉ giữa ca là 30 phút/1 ca ban ngày và 45 phút/1 ca đêm, nhưng không đề cập đến mức tiền ăn cụ thể."
+   },
+   {
+    "key": "fa53e03cf4b08e93",
+    "answer": "Tài liệu nội bộ không có thông tin về mức tiền ăn giữa ca của công nhân.\n\nCác văn bản quy định chi tiết về thời gian nghỉ giữa ca (30 phút/1 ca ban ngày, 45 phút/1 ca đêm) và thời giờ làm việc nhưng không đề cập đến khoản tiền ăn cụ thể [NQLD Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-011",
+  "question": "Nếu muốn nghỉ việc thì tôi phải báo trước cho công ty bao nhiêu ngày?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không quy định thời hạn báo trước khi người lao động xin nghỉ việc. Tài liệu chỉ đề cập hệ quả của việc có đơn nghỉ việc đối với thưởng KPI, thưởng Lễ Tết và thưởng bổ sung.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "72c672e0304f24fd",
+    "answer": "Tài liệu nội bộ không có quy định cụ thể về số ngày báo trước khi nghỉ việc.\n\nTuy nhiên, các văn bản quy định về các loại nghỉ khác như sau:\n- Nghỉ phép năm: Xin nghỉ từ 05 ngày trở lên phải báo trước 02 tuần [NQLD Điều 7].\n- Nghỉ bệnh: Thông báo sớm nhất và nộp giấy xác nhận sau khi nghỉ [NQLD Điều 8].\n- Về sớm hoặc ra ngoài vì mục đích cá nhân: Phải được Tổng Giám đốc hoặc quản lý trực tiếp chấp thuận trước [NQLD Điều 14].\n- Trường hợp ngừng việc do thiếu đơn hàng: Công ty sẽ thông báo nghỉ phép hoặc trả lương ngừng việc tùy thuộc vào số ngày còn phép năm của nhân viên [TULD Điều 5]."
+   },
+   {
+    "key": "c41eecb0811714e1",
+    "answer": "Tài liệu nội bộ không có quy định cụ thể về số ngày báo trước khi nghỉ việc.\n\nTuy nhiên, các văn bản quy định về các trường hợp liên quan như sau:\n- **Nghỉ phép năm:** Phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Tổng Giám đốc (nếu nghỉ liên tiếp từ 3 ngày trở lên). Trường hợp nghỉ từ 05 ngày trở lên phải làm đơn trước 02 tuần [NQLD Điều 7].\n- **Nghỉ việc (ngừng việc):** Do thiếu đơn hàng hay lý do khách quan, Công ty sẽ thông báo cho người lao động nghỉ phép năm nếu còn phép năm; nếu đã hết phép năm thì trả lương ngừng việc theo thỏa thuận hai bên [TULD Điều 5].\n- **Nghỉ bệnh:** Phải thông báo cho Công ty trong thời gian sớm nhất [NQLD Điều 8]."
+   },
+   {
+    "key": "e2ddb1d70752244c",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày báo trước khi nghỉ việc.\n\nCác văn bản quy định chủ yếu về việc chấm dứt hợp đồng lao động như sau:\n- [TULD Điều 5]: Công ty phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực hợp đồng.\n- [NQLD Điều 7]: Quy định về số ngày nghỉ phép hàng năm và cách xử lý số ngày phép chưa nghỉ hết (chuyển sang năm sau hoặc thanh toán bằng tiền nếu thôi việc).\n- [NQLD Điều 14]: Quy định về việc vắng mặt không báo trước hoặc về sớm sẽ bị xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật.\n\nBạn vui lòng tham khảo thêm các quy định về chấm dứt hợp đồng lao động trong các văn bản khác hoặc liên hệ bộ phận nhân sự để được hướng dẫn cụ thể."
+   },
+   {
+    "key": "137d8a1f4f3dc774",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày báo trước khi nghỉ việc.\n\nCác văn bản quy định chi tiết về thời gian báo trước chỉ liên quan đến các trường hợp nghỉ phép, nghỉ bệnh hoặc nghỉ thai sản:\n- Nghỉ phép: Phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Tổng Giám đốc (nếu nghỉ liên tiếp từ 3 ngày trở lên). Nghỉ từ 05 ngày trở lên phải làm đơn trước 02 tuần [NQLD Điều 7].\n- Nghỉ bệnh: Phải thông báo ngay cho người quản lý và nộp giấy xác nhận của cơ sở khám, chữa bệnh sau khi nghỉ [NQLD Điều 8].\n- Nghỉ thai sản: Phải thông báo trước ít nhất 07 ngày nếu muốn trở lại làm việc trước khi hết thời gian nghỉ [NQLD Điều 9]."
+   },
+   {
+    "key": "16d1823f92173bf7",
+    "answer": "Tài liệu nội bộ không có quy định cụ thể về số ngày báo trước khi nghỉ việc.\n\nTuy nhiên, tài liệu quy định các trường hợp liên quan như sau:\n- **Nghỉ phép năm**: Đơn xin nghỉ từ 05 ngày trở lên phải nộp trước 02 tuần [NQLD Điều 7].\n- **Nghỉ không báo trước**: Nếu vắng mặt không thông báo hoặc không được chấp thuận sẽ bị xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật [NQLD Điều 14].\n- **Nghỉ do thiếu đơn hàng**: Công ty sẽ thông báo nghỉ phép hoặc trả lương ngừng việc tùy thuộc vào số ngày tạm tính đến tháng 12 [TULD Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-012",
+  "question": "Khi nghỉ việc, tôi được nhận trợ cấp thôi việc bao nhiêu?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không quy định mức trợ cấp thôi việc. Liên quan duy nhất là Nội quy lao động: NLĐ thôi việc, mất việc làm mà chưa nghỉ phép năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "26a86a300cd0a068",
+    "answer": "Tài liệu nội bộ không có thông tin về mức trợ cấp thôi việc khi nghỉ việc.\n\nCác tài liệu quy định chi tiết về trợ cấp thai sản, ốm đau và phụ cấp hỗ trợ cho công nhân trực tiếp sản xuất, tổ trưởng, tổ phó, công nhân vận hành, bốc xếp và lao động phổ thông. Tuy nhiên, không có điều khoản nào trong Quy chế tiền lương, Nội quy lao động hay Thỏa ước lao động tập thể được cung cấp đề cập cụ thể đến khoản trợ cấp thôi việc khi nhân viên nghỉ việc."
+   },
+   {
+    "key": "3c36102405fcb869",
+    "answer": "Tài liệu nội bộ không có thông tin về mức trợ cấp thôi việc khi nghỉ việc.\n\nCác tài liệu cung cấp chi tiết về:\n- [QCL Điều 16]: Quy định việc thu hồi số tiền lương các tháng nghỉ việc nếu nghỉ trước tháng sinh nhật (trừ nghỉ hưu).\n- [QCL Điều 13], [TULD Điều 11]: Quy định trợ cấp thai sản và ốm đau (không phải thôi việc).\n- [NQLD Điều 10]: Chỉ ghi chung chung quyền nghỉ việc riêng có lương theo Bộ luật Lao động."
+   },
+   {
+    "key": "a5e99c455a94e99c",
+    "answer": "Tài liệu nội bộ không có thông tin về mức trợ cấp thôi việc.\n\nCác trích đoạn cung cấp chi tiết về:\n- Trợ cấp thai sản và ốm đau (QCL Điều 13).\n- Cấu trúc thu nhập và các khoản hỗ trợ, phụ cấp (QCL Điều 16).\n- Quy định về nghỉ việc riêng có lương (NQLD Điều 10)."
+   },
+   {
+    "key": "95c9337bfdfb6319",
+    "answer": "Tài liệu nội bộ không có thông tin về mức trợ cấp thôi việc khi nghỉ việc.\n\nCác văn bản quy định nội dung liên quan đến thu nhập và hỗ trợ khác như sau:\n- [QCL Điều 16]: Công ty tạm xét thâm niên đến hết tháng 12 để thanh toán vào tháng sinh nhật; nếu nghỉ việc trước tháng sinh nhật (trừ nghỉ hưu), công ty không trả theo tỷ lệ tháng làm việc và có thể thu hồi số tiền của những tháng nghỉ việc.\n- [QCL Điều 16]: Quy định mức hỗ trợ phụ cấp cho các vị trí như Tổ trưởng (900.000đ), Tổ phó (800.000đ), Công nhân vận hành (700.000đ), Bốc xếp/Lao động phổ thông (500.000đ) tính theo ngày công chuẩn.\n- [NQLD Điều 7]: Quy định về việc chấm dứt hợp đồng lao động và các chế độ liên quan."
+   },
+   {
+    "key": "521cca4a6e13ca57",
+    "answer": "Tài liệu nội bộ không có thông tin về mức trợ cấp thôi việc khi nghỉ việc. Các trích đoạn cung cấp chi tiết về trợ cấp thai sản, trợ cấp ốm đau, tai nạn lao động và các khoản phụ cấp hỗ trợ trong tháng (như phụ cấp tổ trưởng, tổ phó, công nhân vận hành, bốc xếp) nhưng không đề cập đến quy định cụ thể về tiền trợ cấp thôi việc."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-013",
+  "question": "Đi công tác thì phụ cấp lưu trú, công tác phí mỗi ngày là bao nhiêu?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu mức công tác phí hay phụ cấp lưu trú. Tài liệu chỉ quy định CNV đi công tác được hưởng 100% lương theo HĐLĐ (Thỏa ước) hoặc được chấm 100% ngày công (Quy chế lương).",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "1404c41ea77d0ee3",
+    "answer": "Tài liệu nội bộ không có thông tin về mức cụ thể của phụ cấp lưu trú và công tác phí mỗi ngày.\n\nCác văn bản quy định nội dung như sau:\n- [QCL Điều 14]: Công nhân đi công tác theo tờ trình được duyệt được chấm 100% ngày công theo thời gian thực tế.\n- [TULD Điều 12]: Công nhân đi công tác do Công ty cử được hưởng 100% lương theo Hợp đồng lao động.\n- [QCL Điều 16]: Quy định chi tiết các khoản hỗ trợ (xăng xe, đi lại) và lương sản phẩm nhưng không nêu rõ số tiền cụ thể cho phụ cấp lưu trú hay công tác phí."
+   },
+   {
+    "key": "75f3e7621b188518",
+    "answer": "Tài liệu nội bộ không có thông tin về mức cụ thể của phụ cấp lưu trú và công tác phí mỗi ngày.\n\nCác văn bản quy định chỉ nêu nguyên tắc tính lương và hỗ trợ cho công nhân đi công tác như sau:\n- Theo [QCL Điều 14], công nhân đi công tác được chấm 100% ngày công theo thời gian thực tế.\n- Theo [TULD Điều 12], công nhân đi công tác do công ty cử được hưởng 100% lương theo hợp đồng lao động.\n- Theo [QCL Điều 16], mức hỗ trợ xăng xe, đi lại được tính theo công chuẩn x ngày công thực tế, nhưng đối với công nhân gián tiếp thì mức hỗ trợ được thỏa thuận riêng trong hợp đồng lao động.\n\nDo đó, số tiền cụ thể cho lưu trú và công tác phí không được ghi rõ trong các trích đoạn đã cung cấp."
+   },
+   {
+    "key": "b925a24ca05e0d42",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú hay công tác phí mỗi ngày cho người đi công tác.\n\nCác văn bản quy định chi tiết về thu nhập và hỗ trợ cho người lao động bao gồm:\n- [QCL Điều 16]: Quy định công thức tính tổng thu nhập, bao gồm lương cơ bản, thưởng KPI, các khoản hỗ trợ (xăng xe, đi lại) và các khoản phải trừ.\n- [TULD Điều 12]: Quy định người đi công tác được hưởng 100% lương theo hợp đồng lao động.\n- [QCL Điều 14]: Quy định chấm 100% ngày công cho người đi công tác theo tờ trình được duyệt."
+   },
+   {
+    "key": "e3383515c53d662f",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú và công tác phí mỗi ngày khi đi công tác.\n\nCác văn bản quy định nội dung khác liên quan đến việc đi công tác như sau:\n- Theo [QCL Điều 14], CNV đi công tác được chấm 100% ngày công theo thời gian thực tế.\n- Theo [TULD Điều 12], CNV đi công tác do Công ty cử được hưởng 100% lương theo Hợp đồng lao động.\n- Theo [QCL Điều 12], Quản trị viên làm việc ngoài giờ, ngày nghỉ cuối tuần hoặc Lễ/Tết được khuyến khích nghỉ bù hoặc được tính tăng ca theo Luật."
+   },
+   {
+    "key": "67990577a75b98b6",
+    "answer": "Tài liệu nội bộ không có thông tin về số tiền cụ thể của phụ cấp lưu trú và công tác phí mỗi ngày.\n\nCác văn bản quy định nội dung như sau:\n- [QCL Điều 14]: Công nhân viên đi công tác theo tờ trình được duyệt sẽ được chấm 100% ngày công theo thời gian thực tế.\n- [TULD Điều 12]: Công nhân viên đi công tác do Công ty cử đi được hưởng 100% lương theo Hợp đồng lao động.\n- [QCL Điều 16]: Quy định chi tiết các khoản hỗ trợ (xăng xe, đi lại) và mức phụ cấp trách nhiệm, nhưng không nêu cụ thể số tiền cho lưu trú hay công tác phí."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-014",
+  "question": "Đoàn phí công đoàn bị trừ vào lương là bao nhiêu phần trăm?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu tỷ lệ đoàn phí công đoàn. Thỏa ước và Quy chế lương chỉ liệt kê công đoàn phí (cho đoàn viên công đoàn) là khoản được khấu trừ, không có mức cụ thể.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "76e50eee8bcc1b06",
+    "answer": "Tài liệu nội bộ không quy định cụ thể tỷ lệ phần trăm khấu trừ công đoàn phí.\n\nTheo [QCL Điều 16], công đoàn phí là một trong các khoản phải trừ từ thu nhập đối với đoàn viên công đoàn.\nTheo [TULD Điều 15], công ty sẽ trừ chi phí này theo quy định đã báo trước cho người lao động.\nTuy nhiên, cả hai văn bản đều không nêu rõ con số cụ thể (ví dụ: 1% hay 2%) mà chỉ xác định đây là khoản phải trừ theo quy định đã thông báo."
+   },
+   {
+    "key": "aa4a04326aa8ccc0",
+    "answer": "Tài liệu nội bộ không quy định cụ thể tỷ lệ phần trăm khấu trừ công đoàn phí.\n\nTheo Thỏa ước lao động tập thể 2024 và Quy chế tiền lương Bibica 2024, công đoàn phí chỉ được khấu trừ cho các cá nhân là đoàn viên công đoàn, nhưng không nêu rõ mức % cụ thể trong các trích đoạn đã cung cấp [TULD Điều 15], [QCL Điều 16]."
+   },
+   {
+    "key": "1d3ad440a8419d8e",
+    "answer": "Tài liệu nội bộ không quy định cụ thể tỷ lệ phần trăm khấu trừ công đoàn phí.\n\nTheo Thỏa ước lao động tập thể 2024, công ty sẽ khấu trừ công đoàn phí cho các cá nhân là đoàn viên công đoàn nhưng không nêu rõ mức % [TULD Điều 15].\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, công đoàn phí cũng được liệt kê là một trong các khoản phải trừ từ thu nhập nhưng không ghi rõ con số cụ thể [QCL Điều 16]."
+   },
+   {
+    "key": "598c2f0bd388df8e",
+    "answer": "Tài liệu nội bộ không quy định cụ thể con số phần trăm khấu trừ đoàn phí.\n\nTheo [QCL Điều 16], đoàn phí chỉ được trừ cho cá nhân là đoàn viên công đoàn.\nTheo [TULD Điều 15], công ty sẽ trừ chi phí này theo quy định đã báo trước cho người lao động."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-016",
+  "question": "Xe đưa rước nhân viên chạy những tuyến nào và đón lúc mấy giờ?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu tuyến đường hay giờ đón của xe đưa rước. Thỏa ước chỉ nhắc đến 'giờ đưa rước nhân viên' khi quy định việc cho NLĐ mượn xe Công ty (không ảnh hưởng giờ đưa rước).",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "24b53f98ef397f83",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón xe đưa rước nhân viên.\n\nTheo Thỏa ước lao động tập thể 2024, xe chỉ được cho mượn trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về cho các nhu cầu gia đình như ma chay, cưới hỏi [TULD Điều 17]. Các quy định khác về giờ giấc và việc làm riêng được nêu trong Nội quy lao động 2024 nhưng không đề cập chi tiết đến lộ trình xe đưa rước [NQLD Điều 12, 13, 14]."
+   },
+   {
+    "key": "f4764c21cbb8fb3f",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón xe đưa rước nhân viên.\n\nTheo Thỏa ước lao động tập thể 2024, xe chỉ được cho mượn trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về [TULD Điều 17]. Tài liệu không quy định chi tiết về danh sách tuyến đường hay khung giờ đón xe."
+   },
+   {
+    "key": "5a6e3df897903b11",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón xe đưa rước nhân viên.\n\nTheo Thỏa ước lao động tập thể 2024, xe chỉ được cho mượn trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về [TULD Điều 17]. Tuy nhiên, văn bản không nêu rõ danh sách các tuyến đường cụ thể hay thời gian đón xe."
+   },
+   {
+    "key": "cfb7982b45363297",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón xe đưa rước nhân viên.\n\nTài liệu chỉ quy định:\n- Xe được cho mượn phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi tuyến đường không vượt quá 100 km/02 lượt đi và về [TULD Điều 17].\n- Người lao động phải chịu chi phí xăng dầu và các khoản chi phí khác liên quan [TULD Điều 17].\n- Việc mượn xe chỉ được thực hiện nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên [TULD Điều 17]."
+   },
+   {
+    "key": "f3e62fb20cba87e5",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể hay giờ đón xe đưa rước nhân viên.\n\nTheo Thỏa ước lao động tập thể 2024, xe chỉ được cho mượn trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về, phục vụ việc riêng như ma chay hay cưới hỏi [TULD Điều 17]. Người lao động phải chịu chi phí xăng dầu và các khoản liên quan [TULD Điều 17]. Nội quy lao động chỉ yêu cầu thông báo lý do khi đi trễ, về sớm hoặc ra ngoài vì mục đích cá nhân [NQLD Điều 14]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-017",
+  "question": "Lao động nam được nghỉ bao nhiêu ngày khi vợ sinh con?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu số ngày nghỉ cụ thể khi vợ sinh con. Nội quy lao động chỉ ghi chế độ thai sản đối với lao động nam thực hiện theo quy định của Luật BHXH.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "f1bce5daebefcad3",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ dành riêng cho lao động nam khi vợ sinh con.\n\nCác trích đoạn cung cấp chi tiết về chế độ nghỉ thai sản (khi sinh con) chỉ áp dụng cho lao động nữ theo Luật BHXH và quy định cụ thể của NQLD (Điều 9). Trong khi đó, các quy định về thời giờ làm việc và nghỉ ngơi (Điều 5) cũng không đề cập đến quyền lợi nghỉ sinh riêng cho nam giới."
+   },
+   {
+    "key": "2dcd289c48090a87",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ dành cho lao động nam khi vợ sinh con.\n\nCác trích đoạn cung cấp chi tiết về chế độ nghỉ thai sản (khi khám thai, sinh con, dưỡng sức) và quy định về việc trở lại làm việc sớm chỉ dành riêng cho lao động nữ [NQLD Điều 9]. Nội quy cũng quy định các quyền lợi đặc biệt như nghỉ dưỡng sức thêm 30 phút/ngày và không bố trí ca đêm cho lao động nữ mang thai từ tháng thứ 7, nhưng không đề cập đến quyền tương tự cho lao động nam [NQLD Điều 5]."
+   },
+   {
+    "key": "1313e55951ff9d1d",
+    "answer": "Theo Nội quy lao động 2024, lao động nam được hưởng chế độ nghỉ thai sản theo quy định của Luật Bảo hiểm xã hội. Tài liệu nội bộ không nêu cụ thể số ngày nghỉ cho nam khi vợ sinh con.\n\n[Trích đoạn 2 | nguồn: NQLD/Điều 9]"
+   },
+   {
+    "key": "ef60f10059e449a6",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ dành riêng cho lao động nam khi vợ sinh con.\n\nCác quy định hiện có trong trích đoạn chỉ đề cập đến chế độ nghỉ thai sản dành cho lao động nữ (theo Luật BHXH) và các quyền lợi đặc thù như nghỉ dưỡng sức, không bố trí ca đêm hay làm thêm giờ cho lao động nữ mang thai từ tháng thứ 7. Không có điều khoản nào quy định số ngày nghỉ phép năm hay chế độ đặc biệt riêng cho lao động nam trong trường hợp này."
+   },
+   {
+    "key": "3f9e3078052c941c",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ dành cho lao động nam khi vợ sinh con.\n\nCác trích đoạn cung cấp chi tiết về chế độ nghỉ thai sản cho lao động nữ (khi khám thai, sinh con, dưỡng sức) và quy định về thời giờ làm việc chung, nhưng không đề cập quyền lợi nghỉ phép cụ thể cho người chồng."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-018",
+  "question": "Ngày sinh nhật Công ty là ngày nào trong năm?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu ngày cụ thể của sinh nhật Công ty. Chúng chỉ quy định NLĐ được nghỉ hưởng nguyên lương và được thưởng (500.000/200.000/100.000 đồng) vào dịp sinh nhật Công ty.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "7592c8b88be815bd",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật Công ty cụ thể.\n\nCác văn bản quy định chỉ nêu nguyên tắc:\n- Theo TULD Điều 7, nhân viên được nghỉ hưởng nguyên lương vào \"ngày kỷ niệm sinh nhật Công ty\" (ngoài ngày lễ tết).\n- Theo QCL Điều 16, công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào \"tháng sinh nhật\" nhân viên.\n\nTuy nhiên, không có dữ liệu xác định ngày tháng cụ thể của ngày sinh nhật Công ty trong các trích đoạn đã cung cấp."
+   },
+   {
+    "key": "4b2bafd2a1b6e0cd",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày cụ thể sinh nhật Công ty.\n\nCác văn bản quy định chỉ nêu nguyên tắc thưởng sinh nhật Công ty cho người lao động dựa trên thâm niên lao động (từ 1 năm trở lên: 500.000đ; dưới 1 năm: 200.000đ; thử việc: 100.000đ) và quy định việc thu hồi tiền thưởng nếu nhân viên nghỉ việc trước ngày sinh nhật [TULD Điều 7], [TULD Điều 17], [QCL Điều 9], [QCL Điều 16]."
+   },
+   {
+    "key": "c5f140db0bd9c10c",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày cụ thể của ngày sinh nhật Công ty.\n\nTheo [TULD Điều 17], ngày sinh nhật Công ty là dịp để nhân viên được thưởng (500.000đ/người cho thâm niên 1 năm trở lên, 200.000đ cho dưới 1 năm, 100.000đ cho thời gian thử việc). Tuy nhiên, các văn bản đã trích dẫn không nêu rõ ngày tháng cụ thể của ngày này trong năm."
+   },
+   {
+    "key": "0230d7c93ba56d4b",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật Công ty cụ thể.\n\nTheo Thỏa ước lao động tập thể 2024, ngày sinh nhật Công ty là một ngày nghỉ hưởng nguyên lương [TULD Điều 7]. Tuy nhiên, các văn bản đã cung cấp (TULD, NQLD, QCL) chỉ quy định về mức thưởng và quyền nghỉ, không nêu rõ ngày tháng cụ thể của ngày này trong năm."
+   },
+   {
+    "key": "f2d23a61ff9edee8",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày cụ thể sinh nhật Công ty.\n\nCác văn bản quy định chi tiết về mức thưởng sinh nhật Công ty và điều kiện hưởng (thâm niên, thời gian thử việc) nhưng không nêu ngày tháng tổ chức sự kiện này.\n- [TULD Điều 17]\n- [QCL Điều 16]\n- [QCL Điều 14]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-001",
+  "question": "Nội quy lao động 2024 của Bibica được ban hành căn cứ vào Nghị định nào của Chính phủ?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy lao động được ban hành căn cứ Nghị định 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động (cùng với Bộ luật Lao động ngày 20/11/2019) (NQLD Phần mở đầu).",
+  "key_facts": [
+   "145/2020/NĐ-CP"
+  ],
+  "gold_evidence": {
+   "NQLD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\n| CÔNG TY CỔ PHẦN BIBICA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n|---|---|\n|  | Độc lập - Tự do - Hạnh phúc |\n| Số: ……………… | TP. HCM, ngày ….. tháng …..năm 2024 |\nNỘI QUY LAO ĐỘNG\n- Căn cứ Bộ luật Lao động nước Cộng hòa xã hội chủ nghĩa Việt Nam ngày 20/11/2019;\n- Căn cứ Nghị định 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động;\n- Căn cứ tổ chức sản xuất kinh doanh và tổ chức lao động trong doanh nghiệp;\n- Sau khi trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty, Tổng Giám đốc Công ty ban hành Nội quy lao động trong Công ty gồm các quy định sau:"
+  },
+  "answers": [
+   {
+    "key": "65521ac8da2bcf14",
+    "answer": "Nội quy lao động 2024 của Bibica được ban hành căn cứ vào **Nghị định 145/2020/NĐ-CP** ngày 14/12/2020 của Chính phủ về điều kiện lao động và quan hệ lao động.\n\nNgoài Nghị định này, văn bản còn căn cứ vào Bộ luật Lao động ngày 20/11/2019 và thực tế tổ chức sản xuất, kinh doanh của doanh nghiệp.\n\n[Trích đoạn 1], [Trích đoạn 3], [Trích đoạn 4]"
+   }
+  ]
+ }
+]

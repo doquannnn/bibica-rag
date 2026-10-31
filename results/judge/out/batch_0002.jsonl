@@ -1,0 +1,40 @@
+{"key": "b7b1a76009b986ac", "qid": "MULTI-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three issuers/signers correct; TULD-Bibica link is an inference."}
+{"key": "d5408139869e4f0a", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "TULD, NQLD covered; wrongly says no QCL signer info; NQLD roles garbled; TULD cites wrong."}
+{"key": "721ee948a35dcd87", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All return conditions and both subsidy tiers correct."}
+{"key": "95177efdcfff5c76", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits the minimum 04 months condition; subsidy tiers correct."}
+{"key": "aaa5ed9d47d76c7f", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Deduction correct; claims company funds funerals, misses car loan; invented 'current staff only'."}
+{"key": "0490476763f374a6", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong deduction reason (disciplinary damages); car loan 100km correct; fake TULD Điều 21, irrelevant items."}
+{"key": "f95833b1ff807395", "qid": "MULTI-029", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Weekly rest and 48h basis correct; 'không tính tăng ca' for 12h shift unsupported."}
+{"key": "3913c856ad6cc86b", "qid": "MULTI-029", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although NQLD Điều 5 and TULD/QCL give the answer."}
+{"key": "76b9da8737ed2e16", "qid": "MULTI-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and QCL content correct; omits quỹ khen thưởng source; QTV appendix extra ok."}
+{"key": "8357697cf45d9c98", "qid": "MULTI-030", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Refuses; answer exists in TULD Điều 16 and QCL Điều 21."}
+{"key": "40a613f193a42286", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; 07% gap is QCL Điều 3, cited as Phụ lục 1."}
+{"key": "41fe141205a4af11", "qid": "NONE-005", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": false, "note": "Invents coefficient 40 from KPI weight table."}
+{"key": "6dead98083a4a6ed", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; formula and 07% correctly cited."}
+{"key": "02c7ff49899415ed", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly says no figure in documents; QCL Điều 3 matches."}
+{"key": "8c1fc3e6c7317f4d", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; QCL Điều 16 classification accurate."}
+{"key": "4429043f78be42f2", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Says no specific amount defined; QCL Điều 16 income formula accurate."}
+{"key": "0b227b10da1eed24", "qid": "NONE-011", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": false, "note": "Invents 30-day notice; NQLD Điều 28 has no such rule."}
+{"key": "b18f72ac2a390cc9", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; leave payout is NQLD Điều 7 not Điều 8."}
+{"key": "20ec36eb027a2812", "qid": "NONE-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; cites dubious Nghị định 12/2024 as severance decree."}
+{"key": "8b82940582aae43a", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "7dafdd331f6c378a", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; QCL Điều 14 and TULD Điều 12 accurate."}
+{"key": "3129ebc8c1652c78", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; TULD Điều 17 items accurate."}
+{"key": "de40266528c5abdd", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; Phụ lục 2 20% KPI weight accurate."}
+{"key": "3acabb874279ac64", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; deduction for union members accurate."}
+{"key": "2cd5df08939f47d8", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related TULD/NQLD content accurate."}
+{"key": "e0755696a44f4fde", "qid": "NONE-016", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; adds unsupported 'trong giờ làm việc' condition."}
+{"key": "86149d6cc04faf3d", "qid": "NONE-017", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Says days not specified; wrongly applies maternity subsidy to male workers."}
+{"key": "baadd51aafbb281d", "qid": "NONE-017", "correctness": 1, "faithful": false, "citation_ok": null, "refusal_ok": true, "note": "Declines; wrongly says no provision for husbands (NQLD 9.2 refers to BHXH law)."}
+{"key": "18469025e59fbbf9", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; bonus amounts are TULD Điều 17, cited Điều 7."}
+{"key": "60e3291e4d844aa7", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; related content accurate."}
+{"key": "e19fd849e6000b9e", "qid": "NQLD-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct decree 145/2020/NĐ-CP."}
+{"key": "1a28e1158baadf2b", "qid": "NQLD-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct decree 145/2020/NĐ-CP."}
+{"key": "2b7a7a59312f8bb8", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; says 'cơ sở' instead of 'Công ty', minor."}
+{"key": "0720d72a5615c42b", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct issuer and consulted body."}
+{"key": "1df09bdc8ae08399", "qid": "NQLD-004", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Invents 01/01/2024 effective date; actually upon DOLISA registration."}
+{"key": "2294bf76cd0ad0f9", "qid": "NQLD-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: effective upon Sở LĐTBXH registration confirmation."}
+{"key": "3cd5c7d58e25d97b", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct hours 8:00-16:30, break 12:00-13:00."}
+{"key": "ecca1d96a862511f", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct hours and lunch break."}
+{"key": "9780e77aa3c39305", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct full pay; extra QCL/TULD details accurate."}
+{"key": "b2b8683c7ee6d321", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct full pay on public holidays."}

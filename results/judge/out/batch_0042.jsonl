@@ -1,0 +1,56 @@
+{"key": "b768caeb48fb5100", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/tuần, 26 công; extra correct"}
+{"key": "c257a08d3d70c0d2", "qid": "TULD-007", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly says TULD gives no standard; numbers only from QCL"}
+{"key": "d591e0b4b8f5d8ae", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "4ce1f9090a91b6a3", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "92eaf793739db138", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "27d6da45099efad0", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% lương; QCL extra correct"}
+{"key": "3554bcc89127f868", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "cd822de682e6315f", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "f6515c6b599c8fc8", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "ec4940b38ef4cae6", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "34281539bbafc10e", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "1e53529956113f8f", "qid": "TULD-009", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Claims no payment method stated; wrong citation Điều 14"}
+{"key": "f72fdb584118c7b3", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "4a47307ae6070f79", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần mỗi năm; NQLD Điều 18 supported"}
+{"key": "f3a2083f58ab6172", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần mỗi năm; NQLD Điều 18 supported"}
+{"key": "e9711171d78b556d", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần mỗi năm; NQLD Điều 18 supported"}
+{"key": "fce54569f06a5d81", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần mỗi năm; NQLD Điều 18 supported"}
+{"key": "b3cbb9f1e4b50bf0", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần mỗi năm; NQLD Điều 18 supported"}
+{"key": "db1149b18945c029", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; QCL Điều 1 note supported"}
+{"key": "17063b433f52954b", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; QCL Điều 1 extra supported"}
+{"key": "92f8ee3a78d41f75", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "928a2919523c8953", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL citations loosely relevant"}
+{"key": "57fc98f2161a964d", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không được tái ký, correct"}
+{"key": "9ec1c744f478cbc9", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct answer but QCL 12 and NQLD 27 citations irrelevant"}
+{"key": "e03982c40d1ab58e", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "2d6d9dd80e55521a", "qid": "TULD-013", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Wrongly says documents lack info; answer in TULD Điều 5"}
+{"key": "4c20d079f5aa9daa", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "fece074dc6112625", "qid": "TULD-014", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says annual leave; misses company birthday; claims no other days"}
+{"key": "6665e3cacb39cba5", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày sinh nhật Công ty, correct"}
+{"key": "2ca4ce75e19dff83", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Annual leave, not birthday; wrong question"}
+{"key": "6a46378dbaaaec92", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "078bdf6c2f07b838", "qid": "TULD-014", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Annual leave only; claims no other day; wrong"}
+{"key": "0748b3fcc1b5014b", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Three tiers correct; QCL extras supported"}
+{"key": "c973e2580ed04b49", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported"}
+{"key": "fd3e99405dddd3f9", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "6d30a1c5bac9b723", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "2f2d7e53eb0a6307", "qid": "TULD-015", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tiers right; misattributes birthday-expense rule to thưởng"}
+{"key": "602677718d07f7fe", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 20/10/15 correct"}
+{"key": "e3e51857dd1c4e76", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 20/10/15 correct"}
+{"key": "f9b4e10286f953fa", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 20/10/15 correct"}
+{"key": "446ca539cecda794", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 20/10/15 correct"}
+{"key": "8a5e11c185cb1a8b", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 chương 19 điều, đăng ký correct"}
+{"key": "42b895a0ed29d04b", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; vague citation"}
+{"key": "612c0520abd19026", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "61c96b5f942a5110", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct, no citation"}
+{"key": "a2047cf3a45a6cb4", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; vague citation"}
+{"key": "b263093df5844969", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày and đương nhiên hết hiệu lực correct"}
+{"key": "47a8e52898082573", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày and đương nhiên hết hiệu lực correct"}
+{"key": "4c0aece5cdeb47d5", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày and đương nhiên hết hiệu lực correct"}
+{"key": "3c96b9955a825c84", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày and đương nhiên hết hiệu lực correct"}
+{"key": "3953d6a8346e4650", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày and đương nhiên hết hiệu lực correct"}
+{"key": "8eeaf6768ca0affb", "qid": "TULD-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says probationers need not follow TULD; 100.000 right"}
+{"key": "ec5f1a78297d8f9e", "qid": "TULD-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Yes on TULD but muddles Tết bonus with 200.000"}
+{"key": "f706a955d00c3c73", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Yes, and 100.000 tier listed"}
+{"key": "fc31de90ccd0fa70", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes and 100.000 correct"}
+{"key": "30a6948b5499ddf7", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes and 100.000; Điều 10 citation off"}

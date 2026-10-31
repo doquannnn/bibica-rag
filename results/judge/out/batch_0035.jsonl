@@ -1,0 +1,52 @@
+{"key": "5cf131d5f0ac46b3", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; extras supported"}
+{"key": "35211a4d88164d2e", "qid": "QCL-007", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right; attributes gián tiếp KPI formula to công nhân trực tiếp"}
+{"key": "0d6b376a7c21661e", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition right; extras loosely framed but supported"}
+{"key": "39e5b3c2038d81c3", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct"}
+{"key": "4c64cbaf14e40d05", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; extras acceptable"}
+{"key": "ab915ddc3a54504e", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct, extras supported"}
+{"key": "a3692df03c8c4f19", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct"}
+{"key": "615be805b94d9c89", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; '[NQCL' typo only"}
+{"key": "cedd6623f76c6788", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition correct"}
+{"key": "a15d0d2560d6e307", "qid": "QCL-008", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; mislabels nhóm 1-3 as lao động phổ thông/kỹ thuật"}
+{"key": "48987a92e63fa087", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "43679a65f5b01925", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "8d10eb5825d16475", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "56ff6b64bd4ea316", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Titles and 70-85/15-30 correct"}
+{"key": "fb398d2c4c1157c9", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; list wrongly cited to NQLD Điều 7 but other cites fine"}
+{"key": "e2ce47afea05e998", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios right; fails to list titles"}
+{"key": "0007766e8a153d6a", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "c7dfc50efb13487b", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios right; title list abridged, omits Phó trưởng phòng KT/Công ty thành viên"}
+{"key": "959a4d54059b5462", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong: 9.128.000 for both; correct 8.928.000 and 9.428.000"}
+{"key": "fbf9340b2de88882", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong: 8.948.000/9.448.000 vs 8.928.000/9.428.000"}
+{"key": "e136e2cb21b8db8c", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses though Điều 2 gives formula; wrong lương cứng definition"}
+{"key": "09b6c1acf72dabcb", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong: 9.128.000 and 9.628.000"}
+{"key": "3169e9cdf786d133", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong LCB, wrong lương cứng definition, no final answer"}
+{"key": "ded02f764ddac763", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "916140ba2f1f2f2d", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct; extras supported"}
+{"key": "634a88fa7b31db31", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "0bd5b22b1bf360fa", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct"}
+{"key": "7b0e2c971e254625", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core correct; extras misframed as consequences but supported"}
+{"key": "5987c5ba58cfd95d", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "a4c48b8f396ef688", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 2 cite irrelevant"}
+{"key": "49f314a58dba7a4d", "qid": "QCL-014", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Omits bảng đánh giá; wrongly ties discipline to failing probation"}
+{"key": "940295c4aeb41e81", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, appropriately restrained"}
+{"key": "12446956302c69f5", "qid": "QCL-015", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "85% right but says 1% đóng BHXH instead of BHTN"}
+{"key": "9eecba32f610594f", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85%, 1%, 100% correct"}
+{"key": "aa314d3f19eefef5", "qid": "QCL-015", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says BHXH instead of BHTN"}
+{"key": "6d49036e4ba35f21", "qid": "QCL-015", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says BHXH not BHTN; irrelevant NQLD cite"}
+{"key": "a7b94c2b9182bdaa", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "5e8ca2f3ed88864e", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct"}
+{"key": "cf05d96d1312dda9", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "3365945fce4dacb5", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "cde9c484e6869061", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "eba3d82418776680", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct"}
+{"key": "2897f1d6bf6d479e", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm correct"}
+{"key": "81cec1f2bfa6f074", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm correct"}
+{"key": "0fa53c8b8343d819", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm correct"}
+{"key": "33ba46669974483a", "qid": "QCL-019", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "03 năm right; wrongly requires 4A for the 3-year route"}
+{"key": "afefddc472fe2a71", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm correct"}
+{"key": "38deda70006c5aca", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "b53ce123f0f964a9", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported"}
+{"key": "34e6f495276277a6", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; temporary transfer supported"}
+{"key": "b209232017c2f9e3", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "543cc735eb0136bd", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}

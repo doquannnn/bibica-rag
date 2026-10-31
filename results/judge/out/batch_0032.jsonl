@@ -1,0 +1,59 @@
+{"key": "1110b43bef4f2a5a", "qid": "NQLD-062", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sa thải đúng theo Điều 28.4b; trích QCL Điều 12 không liên quan."}
+{"key": "71dadc96ccdd51b8", "qid": "NQLD-062", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải đúng; 'một nửa thời hạn (tức 2 tháng)' là suy diễn không có căn cứ."}
+{"key": "947c0b6af295f9ed", "qid": "NQLD-062", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có nêu sa thải 4b nhưng phân vân kéo dài thêm; lừa đảo không thuộc sa thải."}
+{"key": "a3ca6de536d97da4", "qid": "NQLD-062", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải đúng; diễn giải thời hiệu 6 tháng tính từ lần đầu là sai."}
+{"key": "c4550be635e323b3", "qid": "NQLD-062", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: tái phạm trong 6 tháng chưa xóa kỷ luật nên bị sa thải."}
+{"key": "6dbcc5e5a3873098", "qid": "NQLD-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không được từ chối; quyền từ chối khi nguy hiểm theo Điều 19e đúng."}
+{"key": "4c40c105189d83f2", "qid": "NQLD-063", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng; 'lệnh động viên' và bồi thường hỏa hoạn theo hợp đồng trách nhiệm sai."}
+{"key": "4b7d3a4d1a527909", "qid": "NQLD-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, trích Điều 12 và Điều 19 chính xác."}
+{"key": "c9c2bb38eaecb03b", "qid": "NQLD-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; bổ sung Điều 19e và Điều 32 mục 1.4 chính xác."}
+{"key": "28bc4bd538b48faf", "qid": "NQLD-064", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu 2 hình thức, thiếu kéo dài nâng lương và cách chức."}
+{"key": "33d0650256e141eb", "qid": "NQLD-064", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu 2 hình thức, thiếu kéo dài nâng lương và cách chức."}
+{"key": "e3cf8ad6c444a2da", "qid": "NQLD-064", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 4 hình thức đúng Điều 28."}
+{"key": "42fd69926a7a1bf8", "qid": "NQLD-064", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Liệt kê hình thức khen thưởng bịa đặt, sai hoàn toàn."}
+{"key": "d7e4accadfbbb417", "qid": "NQLD-064", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Liệt kê hình thức khen thưởng bịa đặt, sai hoàn toàn."}
+{"key": "2fb152b8cceace02", "qid": "NQLD-065", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Nói 5 bước, thiếu bước thông báo cuộc họp xử lý kỷ luật."}
+{"key": "5c957d10d4da29b2", "qid": "NQLD-065", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nói 5 bước, thiếu bước ban hành quyết định xử lý kỷ luật."}
+{"key": "6218f6b4b970bd86", "qid": "NQLD-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 bước đúng Điều 27; Điều 21 trích đúng."}
+{"key": "f7d3e9ad0811e386", "qid": "NQLD-065", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "5 bước sai lệch, thiếu ban hành quyết định; bước 4 là đổi lịch họp."}
+{"key": "88854cf1f0c09013", "qid": "NQLD-065", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gộp bước 2 và 4, nói 5 bước; nội dung khác đúng."}
+{"key": "d6572a3705662aaf", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ các trường hợp theo Điều 27."}
+{"key": "658316f63f0ca14c", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ các trường hợp theo Điều 27."}
+{"key": "ee7e0473ed774377", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ các trường hợp theo Điều 27."}
+{"key": "c78d224695005684", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ các trường hợp theo Điều 27."}
+{"key": "5d3be44bb4e200e7", "qid": "NQLD-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nội dung đủ; gán sai cho Điều 31 (tạm đình chỉ công việc)."}
+{"key": "dc9be6a9f0402f9c", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi Điều 20; bổ sung Điều 28, 17 chính xác."}
+{"key": "8a10ef1a0d63e6eb", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi Điều 20; bổ sung từ Điều 28 có căn cứ."}
+{"key": "19675205a7b75be6", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi Điều 20, nguồn đúng."}
+{"key": "2e7a70d6a735828c", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi Điều 20; bổ sung Điều 28, 17 đúng."}
+{"key": "463c4e4c2787a827", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi Điều 20."}
+{"key": "9cba31ef3926880d", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 trách nhiệm theo Điều 18."}
+{"key": "a30d24cd2488ee21", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ các trách nhiệm Điều 18; TULD Điều 2 bổ sung đúng."}
+{"key": "958f9caca30581c5", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 trách nhiệm; TULD Điều 2 bổ sung đúng."}
+{"key": "b8caea636c6c7a5a", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 trách nhiệm theo Điều 18."}
+{"key": "5b6cf9bb2f2eab43", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 trách nhiệm theo Điều 18."}
+{"key": "55f823d77b45c88a", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ các hành vi Điều 17; bổ sung Điều 13 đúng."}
+{"key": "3e628a09f8e25f32", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ Điều 17; bổ sung Điều 13, 22 có căn cứ."}
+{"key": "a1463c50dedda122", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ Điều 17; bổ sung Điều 13, 22 có căn cứ."}
+{"key": "ddf515564a59fbd7", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ Điều 17; bổ sung Điều 13, 27 có căn cứ."}
+{"key": "b026f403fcfb5ade", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ các hành vi Điều 17; thêm Điều 13 đúng."}
+{"key": "4d85c36577038e59", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 vi phạm cách chức theo Điều 28.3."}
+{"key": "f1803e47ebd9342c", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 vi phạm cách chức theo Điều 28.3."}
+{"key": "80a5eca27ab87bfc", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 vi phạm cách chức theo Điều 28.3."}
+{"key": "7ead7056379df89f", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 vi phạm cách chức theo Điều 28.3."}
+{"key": "2bf5585ffe97b362", "qid": "NQLD-072", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Giải thích sai điểm e, f Điều 17 là lừa đảo/vi phạm nhiệm vụ; danh sách gộp."}
+{"key": "bb3ea598b08eeb46", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp Điều 32 mục 1.2."}
+{"key": "9947a00cbec6629f", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp Điều 32 mục 1.2."}
+{"key": "3df2afce34b26d55", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp; bổ sung 1.3, 1.4 đúng."}
+{"key": "7416900f6da45c0b", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp; bổ sung 1.3, 1.4 đúng."}
+{"key": "338b30792d3c1654", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp; bổ sung đúng."}
+{"key": "59dd301db18d9d2e", "qid": "NQLD-074", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi; sai khi nói quấy rối lời nói bị kéo dài nâng lương nếu tái phạm."}
+{"key": "2b2776c917281d30", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi; bổ sung Điều 17, 30 đúng."}
+{"key": "6254e645316fd715", "qid": "NQLD-074", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gộp sai các vi phạm iii-x vào nhóm cố ý gây tổn hại lợi ích."}
+{"key": "eb725d801f81c29a", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi, phân biệt đúng nhóm khác và sa thải."}
+{"key": "e5b8d9263302be73", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi; ngưỡng sa thải nêu đúng."}
+{"key": "e1ceb7ea4f1225f0", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng không được ngủ; coi là nghỉ không lý do chính đáng là không có căn cứ."}
+{"key": "97f5cd56e7341240", "qid": "NQLD-076", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo Điều 13f."}
+{"key": "0e8493cb501e0106", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng; 'xem là nghỉ không lý do chính đáng' không có căn cứ."}
+{"key": "d99723a47122d120", "qid": "NQLD-076", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo Điều 13f; Điều 14 nêu đúng ngữ cảnh vắng mặt."}
+{"key": "285a3d99b67b155d", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng; áp Điều 14 'nghỉ không lý do chính đáng' cho việc ngủ là sai."}

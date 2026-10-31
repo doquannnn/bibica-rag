@@ -1,4 +1,4 @@
-"""Extract the customer-specific fields from a PO PDF with the local Qwen VLM.
+"""Extract the customer-specific fields from a PO PDF with a VLM (Gemini API or the local Qwen server, see vlm.py).
 
 Pipeline per file:
   1. render pages + text layer (`pdf.load_pdf`); a garbled text layer (fonts without a Unicode map, e.g. AEON)
@@ -10,6 +10,8 @@ Pipeline per file:
      every field; each further page only for the line-item tables, whose rows are concatenated
   4. post-process: keep only the spec's fields, in spec order, null when absent, normalize numbers/dates,
      apply `offset_days`; then look the store code up in the DMS Excel (`dms.lookup`)
+  5. self-checks without ground truth (`validate.py`): values grounded in the PDF text layer, EAN-13 check
+     digits, duplicate lines, empty required fields -> `warnings` for the person reviewing the order
 
 CLI:  python -m bibica_rag.po.extract "PO Extraction/" --out results/po
 """
@@ -54,6 +56,8 @@ class ExtractionResult:
     text_layer: str = ""  # used / garbled / none / disabled
     elapsed_s: float = 0.0
     raw_responses: list[str] = field(default_factory=list)
+    warnings: list[str] = field(default_factory=list)  # self-checks (validate.py) for the reviewer
+    model: str = ""
     error: str = ""
 
     def to_dict(self) -> dict:
@@ -84,6 +88,10 @@ def _field_line(f: Field, indent: str = "- ") -> str:
         line += f": {f.description}"
     if f.example:
         line += f" (ví dụ: {f.example})"
+    if f.type == "date" and f.date_order == "mdy":
+        line += " — PO này ghi THÁNG/NGÀY/NĂM: chép NGUYÊN VĂN chuỗi ngày như in trên PO, không đổi định dạng."
+    if f.type == "number" and f.decimal_comma:
+        line += ' — PO này dùng dấu phẩy làm dấu thập phân: chép NGUYÊN VĂN chuỗi số như in (vd "1,000").'
     if f.type == "table" and f.columns:
         line += "\n" + "\n".join(_field_line(c, "    - cột ") for c in f.columns)
     return line
@@ -171,7 +179,7 @@ def _normalize_field(f: Field, v):
     if f.type != "table":
         if isinstance(v, (list, dict)):  # model nested a scalar; flatten instead of losing it
             v = json.dumps(v, ensure_ascii=False) if v else None
-        v = normalize_value(v, f.type)
+        v = normalize_value(v, f.type, date_order=f.date_order, decimal_comma=f.decimal_comma)
         if f.type == "date" and f.offset_days and v is not None:
             d = parse_date(v)
             v = (d + timedelta(days=f.offset_days)).isoformat() if d else v
@@ -195,21 +203,31 @@ def _normalize_field(f: Field, v):
 
 # ---------------------------------------------------------------- VLM calls
 
-def _chat(client, model: str, content: list, schema: dict | None, max_tokens: int) -> str:
-    from bibica_rag.llm import NO_THINK
+def _chat(client, model: str, content: list, schema: dict | None, max_tokens: int, local: bool = True) -> str:
+    """One VLM call. JSON-schema constrained when the server supports it (llama.cpp turns it into a grammar);
+    servers that reject the schema (old llama-server builds, Gemini on some schema features) are retried
+    with JSON mode, then unconstrained — the post-processing keeps only the spec's keys anyway."""
+    from bibica_rag.po.vlm import call_with_retry
 
-    kwargs = dict(model=model, temperature=0, max_tokens=max_tokens, extra_body=NO_THINK,
+    kwargs = dict(model=model, temperature=0, max_tokens=max_tokens,
                   messages=[{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": content}])
+    if local:  # Qwen3.x chat templates think by default; extraction does not need it
+        kwargs["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}}
+    formats = []
     if schema is not None:
+        formats.append({"type": "json_schema", "json_schema": {"name": "po", "strict": True, "schema": schema}})
+        if not local:
+            formats.append({"type": "json_object"})
+    for fmt in formats:
         try:
-            resp = client.chat.completions.create(
-                response_format={"type": "json_schema",
-                                 "json_schema": {"name": "po", "strict": True, "schema": schema}}, **kwargs)
+            resp = call_with_retry(lambda: client.chat.completions.create(response_format=fmt, **kwargs))
             return resp.choices[0].message.content or ""
-        except Exception as e:  # noqa: BLE001 — older llama-server builds reject json_schema; retry unconstrained
-            if "response_format" not in str(e) and "schema" not in str(e).lower() and "grammar" not in str(e):
+        except Exception as e:  # noqa: BLE001
+            msg = str(e).lower()
+            if getattr(e, "status_code", None) != 400 and not any(
+                    k in msg for k in ("response_format", "schema", "grammar")):
                 raise
-    resp = client.chat.completions.create(**kwargs)
+    resp = call_with_retry(lambda: client.chat.completions.create(**kwargs))
     return resp.choices[0].message.content or ""
 
 
@@ -218,7 +236,8 @@ def _content(prompt: str, images: list) -> list:
     return content + [{"type": "text", "text": prompt}]
 
 
-def classify_customer(client, model: str, specs: dict[str, CustomerSpec], pages: PdfPages) -> str | None:
+def classify_customer(client, model: str, specs: dict[str, CustomerSpec], pages: PdfPages,
+                      local: bool = True) -> str | None:
     names = list(specs)
     prompt = ("Đây là đơn đặt hàng gửi tới Bibica. Khách hàng (siêu thị / bên đặt hàng) là ai? Chọn đúng một tên "
               "trong danh sách, hoặc null nếu không có trong danh sách:\n" +
@@ -226,7 +245,7 @@ def classify_customer(client, model: str, specs: dict[str, CustomerSpec], pages:
               + '\nTrả về JSON: {"customer": <tên>}')
     schema = {"type": "object", "properties": {"customer": {"enum": names + [None]}}, "required": ["customer"],
               "additionalProperties": False}
-    raw = _chat(client, model, _content(prompt, pages.images[:1]), schema, max_tokens=200)
+    raw = _chat(client, model, _content(prompt, pages.images[:1]), schema, max_tokens=200, local=local)
     try:
         name = parse_json_response(raw).get("customer")
     except ValueError:
@@ -251,15 +270,20 @@ def select_pages(spec: CustomerSpec, pages: PdfPages) -> list[int]:
 
 def extract_po(pdf_path: str | Path, specs: dict[str, CustomerSpec], customer: str | None = None,
                client=None, model: str | None = None, max_pages: int = 20, dpi: int = 150,
-               use_text_layer: bool = True, max_tokens: int = 4096, pages: PdfPages | None = None,
-               dms_mapping: dict | None = None) -> ExtractionResult:
-    from bibica_rag import llm
+               use_text_layer: bool = True, max_tokens: int = 8192, pages: PdfPages | None = None,
+               dms_mapping: dict | None = None, backend=None) -> ExtractionResult:
+    """`client`/`model` (any OpenAI-compatible client) take precedence; otherwise `backend` (default: from env,
+    see vlm.py) picks Gemini or the local llama-server."""
+    from bibica_rag.po import vlm
 
-    client = client or llm.get_client()
-    model = model or llm.MODEL
     t0 = time.time()
     res = ExtractionResult(file=str(pdf_path), customer=None, customer_reason="")
+    local = True
     try:
+        if client is None:
+            backend = backend or vlm.backend_from_env()
+            client, model, local = vlm.get_client(backend), model or backend.model, backend.local
+        res.model = model or ""
         pages = pages or load_pdf(pdf_path, dpi=dpi, max_pages=max_pages)
         res.n_pages = pages.n_pages
         all_text = "\n".join(pages.texts)
@@ -273,7 +297,7 @@ def extract_po(pdf_path: str | Path, specs: dict[str, CustomerSpec], customer: s
         else:
             res.customer, res.customer_reason = detect_customer(specs, pdf_path, all_text if usable else "")
             if res.customer is None and specs:
-                res.customer = classify_customer(client, model, specs, pages)
+                res.customer = classify_customer(client, model, specs, pages, local=local)
                 res.customer_reason = "VLM nhận diện từ trang 1" if res.customer else res.customer_reason
         if res.customer is None:
             raise LookupError("Không nhận diện được khách hàng — hãy chọn khách hàng thủ công")
@@ -291,7 +315,7 @@ def extract_po(pdf_path: str | Path, specs: dict[str, CustomerSpec], customer: s
                 ("" if n == 0 else " Chỉ lấy các dòng hàng xuất hiện trên trang này (trả về [] nếu không có)."))
             text = pages.texts[i] if use_text_layer and usable else ""
             raw = _chat(client, model, _content(build_prompt(spec, text, fields, note), [pages.images[i]]),
-                        build_schema(spec, fields), max_tokens)
+                        build_schema(spec, fields), max_tokens, local=local)
             res.raw_responses.append(raw)
             data = parse_json_response(raw)
             for f in fields:
@@ -307,6 +331,10 @@ def extract_po(pdf_path: str | Path, specs: dict[str, CustomerSpec], customer: s
             from bibica_rag.po.dms import lookup
 
             res.dms = lookup(dms_mapping, spec.dms_sheet, res.fields.get(spec.code_field))
+        from bibica_rag.po.validate import validate
+
+        kept_text = "\n".join(pages.texts[i] for i in idx) if usable else ""
+        res.warnings = validate(spec, res.fields, kept_text, res.dms)
     except Exception as e:  # noqa: BLE001 — one bad file must not stop a batch
         res.error = f"{e.__class__.__name__}: {e}"
     res.elapsed_s = round(time.time() - t0, 2)
@@ -323,7 +351,7 @@ def iter_pdfs(path: str | Path) -> list[Path]:
 def main(argv=None):
     import argparse
 
-    ap = argparse.ArgumentParser(description="Extract customer-specific fields from PO PDFs with the local VLM")
+    ap = argparse.ArgumentParser(description="Extract customer-specific fields from PO PDFs with a VLM")
     ap.add_argument("inputs", nargs="*", default=[str(PO_DIR)], help="PDF files or folders")
     ap.add_argument("--spec", help="YAML/Excel field spec (default: config/po_customers.yaml)")
     ap.add_argument("--dms", help="store-code Excel (default: the DS_SIEU_THI_VA_MA_DMS file in 'PO Extraction/')")
@@ -332,7 +360,13 @@ def main(argv=None):
     ap.add_argument("--max-pages", type=int, default=20)
     ap.add_argument("--dpi", type=int, default=150)
     ap.add_argument("--no-text-layer", action="store_true", help="send only the page images")
+    ap.add_argument("--provider", help="gemini | local | openai (default: BIBICA_PO_PROVIDER / auto)")
+    ap.add_argument("--model", help="override the provider's default model")
     args = ap.parse_args(argv)
+    from bibica_rag.po.vlm import backend_from_env
+
+    backend = backend_from_env(args.provider)
+    print(f"VLM: {backend.describe()}", file=sys.stderr)
 
     spec_path = args.spec or default_spec_path()
     if not spec_path:
@@ -349,10 +383,12 @@ def main(argv=None):
     for inp in args.inputs:
         for pdf in iter_pdfs(inp):
             r = extract_po(pdf, specs, customer=args.customer, max_pages=args.max_pages, dpi=args.dpi,
-                           use_text_layer=not args.no_text_layer, dms_mapping=mapping)
+                           use_text_layer=not args.no_text_layer, dms_mapping=mapping, backend=backend,
+                           model=args.model)
             (out / f"{pdf.stem}.json").write_text(json.dumps(r.to_dict(), ensure_ascii=False, indent=2),
                                                   encoding="utf-8")
-            status = r.error or f"{len(r.fields) - len(r.missing)}/{len(r.fields)} fields"
+            status = r.error or (f"{len(r.fields) - len(r.missing)}/{len(r.fields)} fields, "
+                                 f"{len(r.warnings)} warnings")
             print(f"{pdf.name}: [{r.customer}] {status} pages={r.pages_used} ({r.elapsed_s}s)")
 
 

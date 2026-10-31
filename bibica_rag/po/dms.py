@@ -92,5 +92,13 @@ def lookup(mapping: dict[str, DmsSheet], sheet_name: str, po_code) -> dict:
         if row.po_code and code_key(row.po_code) == key:
             res["Mã DMS"], res["Tên siêu thị DMS"] = row.dms_code or None, row.dms_name or row.store_name or None
             return res
+    # codes made of words (E-Mart "366 PHAN") are matched inside the longer text read from the PO
+    # ("EMART GO VAP 366 PHAN VAN TRI,P5,..."); purely numeric codes must match exactly
+    for row in sheet.rows:
+        if row.po_code and re.search(r"[A-Za-z]", row.po_code) and " " in row.po_code.strip() \
+                and re.search(rf"(?<![0-9a-z]){re.escape(' '.join(row.po_code.lower().split()))}(?![0-9])",
+                              " ".join(str(po_code).lower().split())):
+            res["Mã DMS"], res["Tên siêu thị DMS"] = row.dms_code or None, row.dms_name or row.store_name or None
+            return res
     res["ghi_chu"] = f"mã KH '{po_code}' chưa có trong sheet '{sheet.name}' — cần bổ sung vào file mã DMS"
     return res

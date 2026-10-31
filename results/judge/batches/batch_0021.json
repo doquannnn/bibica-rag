@@ -1,0 +1,548 @@
+[
+ {
+  "qid": "QCL-056",
+  "question": "Một Tổ trưởng sản xuất có số ngày sản xuất theo kế hoạch tháng là 25 ngày, tổng ngày công thực tế 23 ngày (không có ngày LT50, không nghỉ không phép). Mức hỗ trợ người này được hưởng trong tháng là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Mức hỗ trợ chuẩn của Tổ trưởng là 900.000đ/tháng. Tỷ lệ ngày công 23/25 = 92% >= 85% nên đủ điều kiện hưởng hỗ trợ. Mức được hưởng = Mức chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – LT50) = 900.000 / 25 x 23 = 828.000 đồng (không vượt mức hỗ trợ chuẩn) (QCL Điều 16).",
+  "key_facts": [
+   "900.000",
+   "85%",
+   "828.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "75a7d88bf1947ae7",
+    "answer": "Mức hỗ trợ được tính dựa trên tỷ lệ ngày công thực tế so với kế hoạch tháng.\n\nTheo quy định, tiền lương hàng tháng được chi trả vào ngày 15 của tháng cho CNV gián tiếp, phục vụ và sản xuất (trừ trường hợp đặc biệt của TULD). [QCL/Điều 11]\n\nCông thức tính hỗ trợ (lương thực tế) dựa trên số ngày công thực tế chia cho số ngày kế hoạch:\n(23 ngày thực tế / 25 ngày kế hoạch) x Mức lương cơ bản.\n\nVì không có ngày LT50 hay nghỉ phép, toàn bộ 23 ngày đều được tính vào ngày công thực tế để hưởng lương. [QCL/Điều 10]\n\n*Lưu ý: Tài liệu không quy định cụ thể mức tiền hỗ trợ bằng số tiền tuyệt đối cho trường hợp này, chỉ quy định phương pháp tính dựa trên tỷ lệ ngày công.*"
+   },
+   {
+    "key": "d64613bea91fb4cf",
+    "answer": "Mức hỗ trợ người này được hưởng là **1.760.000 đồng**.\n\n**Tính toán chi tiết:**\n1.  **Mức hỗ trợ chuẩn:** Theo Điều 16, Mục h, điểm iii của [QCL Phụ lục 2], đối với Tổ trưởng (TT) là **900.000 đồng/tháng** tính theo ngày công chuẩn.\n2.  **Số ngày công chuẩn:** Theo Điều 12 của [QCL], ngày công chuẩn là **26 ngày/tháng**.\n3.  **Số ngày sản xuất thực tế:** Theo câu hỏi là **23 ngày** (không có LT50, không nghỉ không phép).\n4.  **Công thức tính:** Mức phụ cấp thực tế = (Mức hỗ trợ chuẩn / Số ngày chuẩn) x Số ngày thực tế.\n    *   (900.000 / 26) x 23 = 34.615,38 x 23 ≈ **796.154 đồng**.\n\n*Lưu ý:* Tuy nhiên, theo Điều 16, Mục h, điểm iii của [QCL Phụ lục 2], mức phụ cấp tối đa bằng mức hỗ trợ chuẩn và chỉ được hưởng nếu số ngày thực tế >= 85% số ngày công chuẩn.\n*   Tỷ lệ ngày công: 23 / 26 ≈ 88,46% (> 85%), nên đủ điều kiện hưởng.\n*   Công thức chính xác theo văn bản: Mức phụ cấp thực tế = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công thực tế - LT50).\n    *   Trong trường hợp này, \"Số ngày sản xuất theo kế hoạch tháng\" trong công thức thường hiểu là số ngày chuẩn (26 ngày) hoặc số ngày kế hoạch đã"
+   },
+   {
+    "key": "2e256434e4838ce1",
+    "answer": "Mức hỗ trợ tháng của Tổ trưởng sản xuất được tính dựa trên quy định trong [QCL Điều 16].\n\nTheo [QCL Điều 16], mức hỗ trợ chuẩn cho Tổ phó (Tp) là **800.000đ/tháng**. Công thức tính mức hỗ trợ thực tế trong tháng là:\n**Mức hỗ trợ chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công thực tế – trừ LT50)**.\n\nÁp dụng vào trường hợp của bạn:\n- Mức hỗ trợ chuẩn: 800.000đ.\n- Số ngày sản xuất theo kế hoạch: 25 ngày.\n- Tổng ngày công thực tế: 23 ngày (không có LT50).\n\nTính toán: (800.000 / 25) x 23 = **32.000 x 23 = 736.000đ**.\n\nVì mức tính toán này (736.000đ) thấp hơn mức hỗ trợ chuẩn (800.000đ), nên mức hỗ trợ người này được hưởng trong tháng là **736.000đ**."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-058",
+  "question": "cong nhan truc tiep sx nghi khong phep thi tien ho tro thang con duoc huong ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Không. Theo điều kiện hưởng các khoản hỗ trợ (công nhân trực tiếp sản xuất, phân xưởng cơ điện, bốc xếp), trường hợp nghỉ không phép thì Hỗ trợ = 0 đồng (QCL Điều 16).",
+  "key_facts": [
+   "0 đồng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "aefaddfec5705736",
+    "answer": "Không được hưởng tiền hỗ trợ tháng.\n\nTheo quy định, mức hỗ trợ cho công nhân trực tiếp sản xuất (bao gồm tổ trưởng, tổ phó, công nhân vận hành, bốc xếp và lao động phổ thông) được tính dựa trên số ngày công thực tế. Nếu nghỉ không phép, mức hỗ trợ sẽ bằng **0 đồng** [NQLD Điều 32].\n\nNgoài ra, để được hưởng hỗ trợ, số ngày công thực tế phải đạt tối thiểu **85%** so với số ngày công làm việc theo kế hoạch sản xuất của đơn vị. Nếu nghỉ không phép, điều kiện này không được đáp ứng [NQLD Điều 32]."
+   },
+   {
+    "key": "ba0ae549407b415f",
+    "answer": "Theo quy định tại Điều 16, mục iii, điểm d của Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL), mức hỗ trợ cho công nhân trực tiếp sản xuất, phân xưởng cơ điện và bốc xếp được tính theo công thức: Mức phụ cấp tối đa = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công thực tế – trừ LT50).\n\nĐiều kiện hưởng hỗ trợ bao gồm:\n- Xác định số ngày việc theo KHSX tuần của đơn vị.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >= 85% so với số ngày công làm việc theo KHSX của đơn vị.\n\nDo đó, nếu công nhân trực tiếp sản xuất nghỉ không phép, họ sẽ **không được hưởng** tiền hỗ trợ cho kỳ đó.\n\n[NQCL Điều 16]"
+   },
+   {
+    "key": "2a2042045550ef89",
+    "answer": "Nhân viên sản xuất trực tiếp không nghỉ phép thì được hưởng hỗ trợ. Theo [QCL Điều 16], mức hỗ trợ được tính dựa trên số ngày công thực tế làm việc so với kế hoạch sản xuất (KHSX). Điều kiện tối thiểu là phải đạt >= 85% số ngày công theo KHSX. Nếu nghỉ không phép, mức hỗ trợ bằng 0 đồng. Số ngày làm việc thực tế sẽ được Khối KH xác nhận cuối tháng để tính toán hỗ trợ tương ứng."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-059",
+  "question": "Nhân viên có thâm niên công tác 5 năm (60 tháng) thì chi phí sinh nhật được tính là bao nhiêu và được chi trả khi nào?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Chi phí sinh nhật = 10.000 đồng x thâm niên công tác lũy tiến theo tháng = 10.000 x 60 = 600.000 đồng. Khoản này chỉ tính cho CNV có thâm niên từ 01 năm trở lên và được chi trả vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/CNV/năm) (QCL Điều 16).",
+  "key_facts": [
+   "10.000",
+   "600.000",
+   "tháng sinh nhật"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "a304dfdf8f352aa9",
+    "answer": "Nhân viên có thâm niên 5 năm (trên 1 năm) được hưởng **500.000 đồng/người** khi tham gia sinh nhật công ty.\n\nChi phí này được chi trả theo quy định về **Thưởng sinh nhật Công ty và ngày Lễ, Tết** trong chính sách khen thưởng và phúc lợi của Công ty."
+   },
+   {
+    "key": "00298bab626c2510",
+    "answer": "Chi phí sinh nhật được tính là 10.000 đồng nhân với thâm niên công tác tính theo tháng. Với thâm niên 5 năm (60 tháng), tổng chi phí là 600.000 đồng.\n\nChi phí này được chi trả vào tháng sinh nhật của nhân viên. Tuy nhiên, nhân viên phải đủ thâm niên 01 năm trở lên mới được tính. Nếu nhân viên nghỉ việc trước tháng sinh nhật, công ty sẽ thu hồi số tiền đã chi trả cho các tháng nghỉ việc và không trả theo tỷ lệ tháng làm việc (trừ trường hợp nghỉ hưu).\n\n[QCL/Điều 16]"
+   },
+   {
+    "key": "e9ebfd433796256f",
+    "answer": "Chi phí sinh nhật được tính là 500.000 đồng/tháng (10.000 đồng x 50 tháng thâm niên). Tuy nhiên, do nhân viên chưa đủ 01 năm thâm niên để tính chi phí sinh nhật, nên khoản này không được chi trả. Chi phí sinh nhật chỉ được chi trả vào tháng sinh nhật của nhân viên khi họ đã đủ 01 năm công tác trở lên.\n\n[QCL Điều 16]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-060",
+  "question": "Nếu mình nghỉ việc trước tháng sinh nhật thì tiền sinh nhật có được trả theo số tháng đã làm không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không. Công ty không trả chi phí sinh nhật theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu); trường hợp CNV nghỉ việc, Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc (QCL Điều 16).",
+  "key_facts": [
+   "nghỉ hưu"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "df01577506a42b3d",
+    "answer": "Theo quy định, nhân viên nghỉ việc **không được** xét thưởng sinh nhật.\n\nCụ thể:\n*   **Thưởng sinh nhật:** Chỉ dành cho người lao động đã ký HĐLĐ có thâm niên từ 1 năm trở lên (500.000đ), dưới 1 năm (200.000đ) hoặc đang thử việc (100.000đ).\n*   **Trường hợp nghỉ việc:** Nhân viên có đơn nghỉ việc **không được** xét thưởng các khoản như Lễ Tết, lì xì đầu năm mới, sinh nhật công ty hay thưởng hiệu quả quý/tháng 13/kế hoạch năm.\n\nDo đó, dù đã làm việc một phần tháng đó, nếu nghỉ việc trước ngày sinh nhật thì **không được** nhận tiền sinh nhật.\n\n[TQCL Điều 12], [TULD Điều 16]"
+   },
+   {
+    "key": "16d37f91c7e929ed",
+    "answer": "Không, tiền sinh nhật không được trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước ngày sinh nhật.\n\nTheo quy định tại Điều 16g của Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n- Công ty **không trả theo tỷ lệ tháng làm việc** nếu nhân viên nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu).\n- Chi phí sinh nhật được tính dựa trên thâm niên công tác lũy tiến theo tháng, nhưng chỉ được thanh toán vào tháng sinh nhật của nhân viên.\n- Nếu nhân viên nghỉ việc trước kỳ sinh nhật, số tiền đã tạm tính cho các tháng làm việc sẽ bị thu hồi lại.\n\n[NQCL Điều 16g]"
+   },
+   {
+    "key": "8e2e3102c9035fca",
+    "answer": "Không, tiền sinh nhật không được trả theo số tháng đã làm nếu nghỉ việc trước tháng sinh nhật.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, Công ty chỉ tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật. Trường hợp nhân viên nghỉ việc trước tháng sinh nhật, Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc đó và không trả theo tỷ lệ tháng làm việc (trừ trường hợp nghỉ hưu) [QCL Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-061",
+  "question": "Một công nhân có HSL 2, ngày công NC1 là 22, LT50 là 4, LT100 là 2, Ca3 là 10 và hệ số năng suất là 1. Tổng công quy đổi của người này là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Tổng công quy đổi = HSL x (NC1 + LT50/2 + LT100 + Ca3 x 30%) x hsns = 2 x (22 + 4/2 + 2 + 10 x 30%) x 1 = 2 x 29 = 58. Lương sản phẩm cá nhân sau đó = Tổng lương SP chuyền / Tổng công quy đổi chuyền x Công quy đổi cá nhân (QCL Điều 16).",
+  "key_facts": [
+   "58"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "ee9379ac3de59964",
+    "answer": "Tài liệu nội bộ không có thông tin để tính toán tổng công quy đổi cụ thể cho trường hợp này.\n\nTuy nhiên, tài liệu quy định phương pháp tính lương cho công nhân sản xuất như sau:\n*   Tổng công quy đổi được xác định trên cơ sở: Sản lượng x Đơn giá sản phẩm x Ngày công x Hệ số lương x Hệ số năng suất x Tổng công quy đổi.\n*   Trong đó, ngày công bình thường là 26 ngày/tháng (8 giờ/ngày).\n*   Các hệ số như hệ số năng suất, hệ số lương và đơn giá sản phẩm cần được lấy từ các bảng phụ lục đính kèm trong Quy chế tiền lương (QCL) để thực hiện phép tính.\n\n[QCL/Điều 10]"
+   },
+   {
+    "key": "dbd8012e8cf1a839",
+    "answer": "Tổng công quy đổi được tính theo công thức trong Điều 16, mục e của Quy chế tiền lương (QCL):\n\nTổng công quy đổi = HSL x (NC1 + LT50/2 + LT100 + Ca3 x 30%) x hsns\n\nThay số vào:\n= 2 x (22 + 4/2 + 2 + 10 x 30%) x 1\n= 2 x (22 + 2 + 2 + 3) x 1\n= 2 x 29 x 1\n= 58\n\nTổng công quy đổi của người này là **58**.\n\n[QCL Điều 16]"
+   },
+   {
+    "key": "11c27d66f6ae72af",
+    "answer": "Tổng công quy đổi của người này là 110.\n\nTheo Điều 23 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, công thức tính tổng công quy đổi là: HSL x (NC1 + LT50/2 + LT100 + Ca3*30%) x hệ số năng suất.\n\nÁp dụng số liệu cụ thể:\n- HSL = 2\n- NC1 = 22\n- LT50 = 4 (chia 2 = 2)\n- LT100 = 2\n- Ca3 = 10 (nhân 30% = 3)\n- Hệ số năng suất = 1\n\nTính toán: 2 x (22 + 2 + 2 + 3) x 1 = 2 x 29 x 1 = 58.\n\n*Lưu ý: Trong câu hỏi bạn cung cấp, tổng công quy đổi được tính là 58, không phải 110. Nếu kết quả mong đợi là 110, có thể do bạn đã nhân hệ số HSL (2) với tổng công quy đổi chưa tính hệ số năng suất (29) hoặc có sự nhầm lẫn trong dữ liệu đầu vào so với công thức chính xác.*\n\nNguồn: [QCL Điều 23]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-063",
+  "question": "Nhân viên nhận lương bằng hình thức nào và xem chi tiết các khoản trong lương ở đâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "CNV nhận lương qua tài khoản ngân hàng do CNV cung cấp và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty (QCL Điều 17).",
+  "key_facts": [
+   "tài khoản ngân hàng",
+   "luong.bibica.com.vn"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 17": "Điều 17. Hình thức trả lương\n1. CNV được nhận lương qua tài khoản ngân hàng do CNV cung cấp và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty.\n2. Mọi trường hợp có thắc mắc về tiền lương phải được thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ nhận lương và Công ty phải giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Các trường hợp tranh chấp tiền lương nếu có do Hội đồng hòa giải cơ sở giải quyết nếu không hòa giải được phải chuyển cơ quan pháp luật giải quyết."
+  },
+  "answers": [
+   {
+    "key": "7ed397da1b92695d",
+    "answer": "Nhân viên nhận lương hàng tháng vào ngày **15** (hoặc ngày làm việc kế tiếp nếu trùng ngày nghỉ) theo tài khoản Công ty Cổ phần Bibica. Đối với một số bộ phận, lương được chia **2 kỳ** (ngày 20 và ngày 10 tháng sau). Chi tiết các khoản thu nhập bao gồm: Lương cơ bản, Thưởng KPI, Lương chế độ, Hỗ trợ và các khoản bổ sung, trừ các khoản phải trừ.\n\nChi tiết cấu trúc lương cụ thể theo vị trí công việc (tỉ lệ lương cơ bản và KPI) được quy định tại **Phụ lục 01** của Quy chế tiền lương.\n\n[QCL Điều 11], [QCL Điều 15], [NQLD Điều 32], [QCL Phụ lục 01]"
+   },
+   {
+    "key": "26154e6f142e7986",
+    "answer": "Nhân viên nhận lương qua tài khoản ngân hàng do nhân viên cung cấp và được thông báo chi tiết các khoản trên hệ thống **luong.bibica.com.vn** của Công ty.\n\nNếu nhân viên có thắc mắc về tiền lương, phải thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ nhận lương; Công ty sẽ giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Các trường hợp tranh chấp sẽ do Hội đồng hòa giải cơ sở giải quyết hoặc chuyển cơ quan pháp luật nếu không hòa giải được.\n\n[QCL Điều 17], [TULD Điều 13]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-065",
+  "question": "Tranh chấp về tiền lương giữa nhân viên và Công ty được giải quyết ở đâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Các trường hợp tranh chấp tiền lương do Hội đồng hòa giải cơ sở giải quyết; nếu không hòa giải được phải chuyển cơ quan pháp luật giải quyết (QCL Điều 17).",
+  "key_facts": [
+   "Hội đồng hòa giải cơ sở",
+   "cơ quan pháp luật"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 17": "Điều 17. Hình thức trả lương\n1. CNV được nhận lương qua tài khoản ngân hàng do CNV cung cấp và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty.\n2. Mọi trường hợp có thắc mắc về tiền lương phải được thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ nhận lương và Công ty phải giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Các trường hợp tranh chấp tiền lương nếu có do Hội đồng hòa giải cơ sở giải quyết nếu không hòa giải được phải chuyển cơ quan pháp luật giải quyết."
+  },
+  "answers": [
+   {
+    "key": "94da6aabd8f0372f",
+    "answer": "Tranh chấp về tiền lương giữa nhân viên và Công ty được giải quyết theo quy định của pháp luật Việt Nam, không có quy định cụ thể về địa điểm giải quyết trong các tài liệu nội bộ đã cung cấp.\n\nCác tài liệu quy định:\n- [QCL Điều 12]: Quy định về cơ cấu lương, thưởng và các khoản phụ cấp.\n- [NQLD Điều 7]: Quy định về quyền và nghĩa vụ của người lao động.\n- [TULD Điều 15]: Quy định về việc giải quyết tranh chấp lao động.\n\nTài liệu nội bộ không có thông tin chi tiết về địa điểm giải quyết tranh chấp."
+   },
+   {
+    "key": "2d23af8817144864",
+    "answer": "Tranh chấp tiền lương được giải quyết theo trình tự sau:\n\n1.  **Hòa giải cơ sở:** Các trường hợp tranh chấp tiền lương nếu có do Hội đồng hòa giải cơ sở giải quyết.\n2.  **Cơ quan pháp luật:** Nếu không hòa giải được, phải chuyển cơ quan pháp luật giải quyết.\n\n(Nguồn: [QCL Điều 17], [TULD Điều 13])"
+   },
+   {
+    "key": "861213b997d9accd",
+    "answer": "Tranh chấp tiền lương được giải quyết theo trình tự sau:\n\n1.  **Hội đồng hòa giải cơ sở:** Giải quyết các trường hợp tranh chấp tiền lương.\n2.  **Cơ quan pháp luật:** Nếu không hòa giải được, chuyển sang cơ quan pháp luật giải quyết.\n\nQuy định này được ghi nhận đồng nhất trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Điều 17] và Thỏa ước lao động tập thể 2024 [TULD Điều 13]. Nội quy lao động 2024 [NQLD Điều 32] quy định chung về khiếu nại trách nhiệm vật chất nhưng không nêu chi tiết cơ quan giải quyết tranh chấp tiền lương cụ thể như hai văn bản trên."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-066",
+  "question": "Mình vào làm chưa đủ một năm thì các khoản lương thưởng bổ sung có được nhận không, tính kiểu gì?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có, nhưng tính theo tỷ lệ. Thời gian tính thưởng bổ sung theo tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ tính lương bổ sung (QCL Điều 18). Với lương bổ sung tháng 13, lương bổ sung hiệu quả quý và hoàn thành kế hoạch, CNV phải đã ký HĐLĐ; trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc (QCL Phụ lục 3).",
+  "key_facts": [
+   "số tháng làm việc thực tế",
+   "thời gian làm việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 18": "Điều 18. Lương - thưởng bổ sung và cách tính lương bổ sung\n1. Lương - thưởng bổ sung và cách tính lương bổ sung (theo phụ lục 03 đính kèm).\n2. Thời gian tính thưởng bổ sung theo tỷ lệ số tháng làm việc thực tế (theo phụ lục số 3 quy chế tiền lương – tiền thưởng) so với số tháng trong kỳ tính lương bổ sung.",
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "2978c28bcbc46294",
+    "answer": "Nhân viên làm việc chưa đủ 01 năm không được xét nâng lương theo quy định của Công ty.\n\nVề các khoản lương thưởng bổ sung:\n- **Thưởng KPI tháng:** Được tính nếu thời gian làm việc > 50% và < 100% (tính theo tỷ lệ); nếu < 50% thì không được tính.\n- **Thưởng bổ sung (Lễ Tết, lì xì, sinh nhật):** Chỉ được xét nếu nhân viên không có đơn nghỉ việc.\n- **Thưởng hiệu quả quý/năm:** Chỉ được xét nếu nhân viên chưa nghỉ việc hoặc không có đơn xin nghỉ việc.\n\n*Lưu ý: Nhân viên làm việc chưa đủ 01 năm không thuộc đối tượng xét nâng hệ số lương theo [QCL/Điều 5]. Các điều kiện tính thưởng cụ thể được quy định tại [QCL/Điều 9].*"
+   },
+   {
+    "key": "4af2e7176b2ccedc",
+    "answer": "Theo quy định của Công ty, nhân viên làm việc chưa đủ 1 năm vẫn được nhận lương thưởng bổ sung nhưng sẽ được tính theo tỷ lệ thời gian làm việc thực tế.\n\nCụ thể:\n- **Lương thưởng bổ sung** được tính theo tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ tính lương bổ sung [QCL Phụ lục 3 Điều 18].\n- **Lương bổ sung hiệu quả quý**: Công ty đạt chỉ tiêu quý thì nhân viên dưới 1 năm được tính theo tỷ lệ thời gian làm việc [QCL Phụ lục 3 Điều 3].\n- **Lương bổ sung tháng 13, hoàn thành/vượt kế hoạch**: Công ty đạt chỉ tiêu năm thì nhân viên dưới 1 năm được tính theo tỷ lệ thời gian làm việc [QCL Phụ lục 3 Điều 3].\n- **Lương thưởng bổ sung tháng 13**: Nhân viên dưới 1 năm được tính theo tỷ lệ thời gian làm việc [QCL Phụ lục 3 Điều 4].\n\nTuy nhiên, các khoản thưởng bổ sung này chỉ được xét nếu nhân viên đã ký hợp đồng lao động [QCL Phụ lục 3 Điều 3]."
+   },
+   {
+    "key": "82983f7afb992dab",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, nhân viên làm việc chưa đủ 1 năm vẫn được nhận các khoản lương thưởng bổ sung, nhưng số tiền sẽ được tính theo tỷ lệ thời gian làm việc thực tế.\n\nCụ thể:\n- **Lương bổ sung hiệu quả quý/tháng 14 trở đi:** Được tính theo tỷ lệ thời gian làm việc nếu ký HĐLĐ dưới 1 năm [QCL Phụ lục 3].\n- **Lương bổ sung tháng 13:** Được tính theo tỷ lệ thời gian làm việc nếu ký HĐLĐ dưới 1 năm [QCL Phụ lục 3].\n- **Lương thưởng vượt kế hoạch năm:** Được tính theo tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ tính lương bổ sung [QCL Điều 18].\n- **Thưởng KPI tháng:** Chỉ được tính nếu thời gian làm việc tháng đó lớn hơn 50% và nhỏ hơn 100% (hoặc đủ 100%), nếu ít hơn 50% thì không được tính [QCL Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-067",
+  "question": "Phép năm chưa nghỉ hết thì được bảo lưu đến khi nào và có được thanh toán thành tiền không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty bảo lưu phép năm đến tháng 3 năm sau và không thanh toán ngày phép nếu chưa nghỉ hết (QCL Điều 19).",
+  "key_facts": [
+   "tháng 3 năm sau",
+   "không thanh toán"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 19": "Điều 19. Quy định nghỉ phép năm\n1. CNV nghỉ phép trong tháng phải có giấy xin nghỉ phép được Ban TGĐ theo ủy quyền/hoặc Trưởng đơn vị phê duyệt theo qui định. CNV chịu trách nhiệm giấy xin nghỉ phép; Công ty phát hiện số ngày xin nghỉ không đúng sẽ truy thu lại tiền phép nếu đã chi.\n2. CNV nghỉ phép liên tiếp từ 03 ngày trở lên phải được Ban Tổng giám đốc duyệt theo ủy quyền và đăng ký lịch nghỉ phép năm, thời gian nghỉ phép khuyến khích trong thời gian thấp điểm và theo qui định Công ty thông báo. Trưởng các đơn vị lập danh sách đăng ký nghỉ phép trong tháng và gởi cho Khối Hành chánh nhân sự/Phòng hành chánh nhân sự/Tổng hợp các Chi nhánh/Công ty thành viên chậm nhất trước ngày 28 của tháng trước.\n3. Để đảm bảo nhân sự cho sản xuất cao điểm cuối năm, Công ty khuyến khích CNV bố trí nghỉ phép vào thời gian thấp điểm.\nCông ty sẽ bảo lưu phép năm đến tháng 3 năm sau, không thanh toán ngày phép nếu chưa nghỉ hết."
+  },
+  "answers": [
+   {
+    "key": "b0f7c49246373197",
+    "answer": "Phép năm chưa nghỉ hết được bảo lưu đến **tháng 3 năm sau**.\n\nCông ty **không thanh toán** thành tiền số ngày phép còn dư nếu:\n1. Người lao động chưa nghỉ hết trước **Quý I năm sau** (trước ngày **30 tháng 3**).\n2. Người lao động không đăng ký nghỉ phép trong mùa thấp điểm theo thông báo Công ty.\n\nNgoại lệ duy nhất: Chỉ được thanh toán bằng tiền khi người lao động **thôi việc hoặc mất việc làm** mà chưa nghỉ hết phép năm.\n\n> [QCL/Điều 19], [NQLD/Điều 7]"
+   },
+   {
+    "key": "6f2a1907e600fd0f",
+    "answer": "Phép năm chưa nghỉ hết được bảo lưu đến tháng 3 năm sau. Công ty không thanh toán tiền cho số ngày phép này nếu nhân viên chưa nghỉ hết. Tuy nhiên, nếu nhân viên nghỉ việc trước tháng 3 năm sau, số ngày phép chưa nghỉ sẽ được thanh toán bằng tiền.\n\n[QCL Điều 19]"
+   },
+   {
+    "key": "2e301d10094fba15",
+    "answer": "Phép năm chưa nghỉ hết được bảo lưu đến tháng 3 năm sau. Nếu chưa nghỉ hết trước ngày 30/3, công ty không thanh toán bằng tiền và sẽ không bảo lưu thêm. Tuy nhiên, nếu nhân viên thôi việc hoặc mất việc làm mà chưa nghỉ hết phép, số ngày còn lại sẽ được thanh toán bằng tiền.\n\n[QCL Điều 19], [NQLD Điều 7]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-068",
+  "question": "Trưởng đơn vị phải gửi danh sách đăng ký nghỉ phép trong tháng cho bộ phận nhân sự chậm nhất vào ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Trưởng các đơn vị lập danh sách đăng ký nghỉ phép trong tháng và gửi cho Khối Hành chánh nhân sự/Phòng hành chánh nhân sự/Tổng hợp các Chi nhánh/Công ty thành viên chậm nhất trước ngày 28 của tháng trước (QCL Điều 19).",
+  "key_facts": [
+   "ngày 28",
+   "tháng trước"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 19": "Điều 19. Quy định nghỉ phép năm\n1. CNV nghỉ phép trong tháng phải có giấy xin nghỉ phép được Ban TGĐ theo ủy quyền/hoặc Trưởng đơn vị phê duyệt theo qui định. CNV chịu trách nhiệm giấy xin nghỉ phép; Công ty phát hiện số ngày xin nghỉ không đúng sẽ truy thu lại tiền phép nếu đã chi.\n2. CNV nghỉ phép liên tiếp từ 03 ngày trở lên phải được Ban Tổng giám đốc duyệt theo ủy quyền và đăng ký lịch nghỉ phép năm, thời gian nghỉ phép khuyến khích trong thời gian thấp điểm và theo qui định Công ty thông báo. Trưởng các đơn vị lập danh sách đăng ký nghỉ phép trong tháng và gởi cho Khối Hành chánh nhân sự/Phòng hành chánh nhân sự/Tổng hợp các Chi nhánh/Công ty thành viên chậm nhất trước ngày 28 của tháng trước.\n3. Để đảm bảo nhân sự cho sản xuất cao điểm cuối năm, Công ty khuyến khích CNV bố trí nghỉ phép vào thời gian thấp điểm.\nCông ty sẽ bảo lưu phép năm đến tháng 3 năm sau, không thanh toán ngày phép nếu chưa nghỉ hết."
+  },
+  "answers": [
+   {
+    "key": "e19b051753179115",
+    "answer": "Trưởng đơn vị phải gửi danh sách đăng ký nghỉ phép cho bộ phận nhân sự chậm nhất vào ngày **28** của tháng trước.\n\nQuy định này áp dụng cho trường hợp nghỉ phép liên tiếp từ 03 ngày trở lên hoặc đăng ký lịch nghỉ phép năm theo mùa thấp điểm.\n\n*   **Quy định cụ thể:** Trưởng các đơn vị lập danh sách đăng ký và gửi cho Khối Hành chánh nhân sự chậm nhất trước ngày 28 của tháng trước.\n*   **Nguồn:** [QCL/Điều 19], [NQLD/Điều 7]"
+   },
+   {
+    "key": "11906d6c552978ef",
+    "answer": "Trưởng đơn vị phải gửi danh sách đăng ký nghỉ phép trong tháng cho Khối Hành chính nhân sự chậm nhất vào ngày **28** của tháng trước.\n\n[QCL Điều 19]"
+   },
+   {
+    "key": "9ff671fe0317138a",
+    "answer": "Trưởng các đơn vị phải gửi danh sách đăng ký nghỉ phép trong tháng cho Khối Hành chính nhân sự chậm nhất vào ngày 28 của tháng trước.\n\n[QCL Điều 19]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-069",
+  "question": "Nếu tôi muốn nghỉ phép 4 ngày liên tiếp thì cần ai duyệt và phải làm thủ tục gì?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "CNV nghỉ phép liên tiếp từ 03 ngày trở lên phải được Ban Tổng giám đốc duyệt theo ủy quyền và đăng ký lịch nghỉ phép năm; thời gian nghỉ phép khuyến khích vào thời gian thấp điểm và theo quy định Công ty thông báo (QCL Điều 19).",
+  "key_facts": [
+   "Ban Tổng giám đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 19": "Điều 19. Quy định nghỉ phép năm\n1. CNV nghỉ phép trong tháng phải có giấy xin nghỉ phép được Ban TGĐ theo ủy quyền/hoặc Trưởng đơn vị phê duyệt theo qui định. CNV chịu trách nhiệm giấy xin nghỉ phép; Công ty phát hiện số ngày xin nghỉ không đúng sẽ truy thu lại tiền phép nếu đã chi.\n2. CNV nghỉ phép liên tiếp từ 03 ngày trở lên phải được Ban Tổng giám đốc duyệt theo ủy quyền và đăng ký lịch nghỉ phép năm, thời gian nghỉ phép khuyến khích trong thời gian thấp điểm và theo qui định Công ty thông báo. Trưởng các đơn vị lập danh sách đăng ký nghỉ phép trong tháng và gởi cho Khối Hành chánh nhân sự/Phòng hành chánh nhân sự/Tổng hợp các Chi nhánh/Công ty thành viên chậm nhất trước ngày 28 của tháng trước.\n3. Để đảm bảo nhân sự cho sản xuất cao điểm cuối năm, Công ty khuyến khích CNV bố trí nghỉ phép vào thời gian thấp điểm.\nCông ty sẽ bảo lưu phép năm đến tháng 3 năm sau, không thanh toán ngày phép nếu chưa nghỉ hết."
+  },
+  "answers": [
+   {
+    "key": "2f254930c99ae48c",
+    "answer": "Để nghỉ phép 4 ngày liên tiếp, bạn cần làm thủ tục sau:\n\n1.  **Phê duyệt:** Đơn xin nghỉ phải được **Ban Tổng Giám đốc** duyệt theo ủy quyền.\n2.  **Thời hạn nộp đơn:** Phải nộp đơn xin phép chậm nhất trước ngày **28** của tháng trước (khi đăng ký lịch nghỉ phép năm).\n3.  **Giấy tờ:** Bạn phải có **giấy xin nghỉ phép** được phê duyệt và chịu trách nhiệm về số ngày xin nghỉ.\n\n*Lưu ý: Nếu nghỉ liên tiếp từ 3 ngày trở lên, Trưởng đơn vị phải gửi danh sách đăng ký cho Khối Hành chính nhân sự trước ngày 28 của tháng trước.*\n\n[QCL/Điều 19], [NQLD/Điều 7]"
+   },
+   {
+    "key": "5fb5ef676ecab9a6",
+    "answer": "Để nghỉ phép 4 ngày liên tiếp, bạn cần làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc người được ủy quyền. Tuy nhiên, do thời gian nghỉ liên tiếp từ 03 ngày trở lên, bạn bắt buộc phải được **Ban Tổng Giám đốc duyệt theo ủy quyền**.\n\nVề thủ tục, bạn cần đăng ký lịch nghỉ phép năm và gửi danh sách đăng ký cho Khối Hành chính nhân sự chậm nhất trước ngày 28 của tháng trước. Nếu nghỉ từ 05 ngày trở lên thì phải làm đơn xin phép trước 02 tuần.\n\n[NQLD Điều 7]"
+   },
+   {
+    "key": "2bb8da8a83717e42",
+    "answer": "Để nghỉ phép 4 ngày liên tiếp, bạn cần làm đơn xin nghỉ phép và được sự đồng ý của người quản lý trực tiếp hoặc người được ủy quyền. Vì nghỉ từ 3 ngày trở lên, đơn xin phải được Ban Tổng Giám đốc duyệt. Ngoài ra, do nghỉ từ 05 ngày trở lên (theo quy định chung), bạn cần nộp đơn xin phép trước 02 tuần.\n\nCác tài liệu quy định:\n- [NQLD Điều 7]: Quy trình xin nghỉ, duyệt của cấp trên và Tổng Giám đốc cho nghỉ liên tiếp từ 3 ngày trở lên; yêu cầu nộp đơn trước 02 tuần cho nghỉ từ 05 ngày trở lên.\n- [QCL Điều 19]: Xác nhận CNV nghỉ liên tiếp từ 03 ngày trở lên phải được Ban Tổng giám đốc duyệt và đăng ký lịch nghỉ phép năm."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-070",
+  "question": "Quỹ khen thưởng phúc lợi của Công ty được hình thành từ đâu và ai quyết định việc thưởng từ quỹ này?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua; thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở (QCL Điều 20).",
+  "key_facts": [
+   "phân phối lợi nhuận",
+   "Đại hội cổ đông",
+   "Tổng giám đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 20": "Điều 20. Quỹ khen thưởng phúc lợi của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua, thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở.\nĐiều 20. Quỹ khen thưởng phúc lợi của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua, thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở."
+  },
+  "answers": [
+   {
+    "key": "1944792ee7cfc777",
+    "answer": "Quỹ khen thưởng phúc lợi được hình thành từ chế độ phân phối lợi nhuận hàng năm, được Đại hội cổ đông thống nhất thông qua. Việc xét thưởng từ quỹ này do Tổng giám đốc quyết định (có tham khảo ý kiến Công Đoàn Cơ sở) [QCL Điều 20], [TULD Điều 16].\n\nTuy nhiên, có sự khác biệt nhỏ về chi tiết quy định:\n*   **QCL Điều 20:** Nhấn mạnh nguồn gốc từ lợi nhuận và quy trình quyết định của Tổng giám đốc.\n*   **TULD Điều 16:** Bổ sung mục đích cụ thể (sáng kiến, tiết kiệm tiêu hao...) và nhấn mạnh việc Hội đồng thi đua khen thưởng Công ty công nhận giải pháp trước khi xét thưởng."
+   },
+   {
+    "key": "dd3e9d56f9629fdd",
+    "answer": "Quỹ khen thưởng phúc lợi được hình thành từ chế độ phân phối lợi nhuận hàng năm, được Đại hội cổ đông thống nhất thông qua. Việc thưởng từ quỹ này do Tổng Giám đốc quyết định, có tham khảo ý kiến Công đoàn cơ sở.\n\n[QCL Điều 20], [TULD Điều 16]"
+   },
+   {
+    "key": "3e34a67a2ed5c7f4",
+    "answer": "Quỹ khen thưởng phúc lợi được hình thành từ chế độ phân phối lợi nhuận hàng năm, được Đại hội cổ đông thống nhất thông qua. Việc thưởng từ quỹ này do Tổng giám đốc quyết định, có tham khảo ý kiến Công Đoàn Cơ sở [QCL Điều 20].\n\nTuy nhiên, Thỏa ước lao động tập thể cũng quy định quỹ khen thưởng nhằm khen thưởng các cá nhân, tập thể tích cực như sáng kiến cải tiến kỹ thuật hoặc tiết kiệm tiêu hao [TULD Điều 16]. Ngoài ra, quỹ này còn có thể được phân phối cho người lao động khi thu nhập bị giảm sút theo đề xuất của BCH Công Đoàn Cơ sở [QCL Điều 21]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-071",
+  "question": "Quỹ khen thưởng được dùng để khen thưởng, chi cho những trường hợp nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Quỹ khen thưởng được dùng cho: 1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, tốt hơn về quy trình/chất lượng sản phẩm; 2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có); 3. Phân phối cho người lao động khi thu nhập bị giảm sút, khi có đề xuất của BCH Công Đoàn Cơ Sở, áp dụng cho CNV còn đang làm việc (QCL Điều 21).",
+  "key_facts": [
+   "sáng kiến cải tiến kỹ thuật",
+   "nghỉ mát",
+   "giảm sút"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 21": "Điều 21. Quỹ khen thưởng được thực hiện khen thưởng những trường hợp sau\n1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc tất cả các giải pháp khác trong tất cả các lĩnh vực sản xuất kinh doanh và được các đề xuất, ý tưởng mang lại các hiệu quả về kinh tế, tốt hơn về qui trình/chất lượng sản phẩm so với hiện tại.\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3. Ngoài ra quỹ khen thưởng phúc lợi có thể được phân phối cho người lao động trong trường hợp thu nhập người lao động bị giảm sút khi có đề xuất của BCH Công Đoàn Cơ Sở áp dụng cho CNV còn đang làm việc."
+  },
+  "answers": [
+   {
+    "key": "37880b99fef5ce89",
+    "answer": "Quỹ khen thưởng được hình thành từ lợi nhuận hàng năm do Đại hội cổ đông thông qua và do Tổng giám đốc quyết định (có ý kiến Công đoàn).\n\n**Các trường hợp được khen thưởng bao gồm:**\n1.  **Sáng kiến cải tiến:** CNV đăng ký sáng kiến, được Hội đồng thi đua khen thưởng công nhận là giải pháp tốt, đã áp dụng và mang lại hiệu quả thiết thực về kinh tế, quy trình hoặc chất lượng [QCL/Điều 21; TULD/Điều 16].\n2.  **Nghỉ mát hàng năm:** Tổ chức nghỉ mát cho người lao động (nếu có) [TULD/Điều 16].\n3.  **Hỗ trợ thu nhập giảm sút:** Phân phối cho NLĐ có đề xuất của BCH Công đoàn cơ sở trong trường hợp thu nhập bị giảm sút [TULD/Điều 16].\n4.  **Các cá nhân/tập thể tích cực:** Mang lại ích lợi cho công ty như tiết kiệm tiêu hao vật tư, nguyên liệu [TULD/Điều 17].\n\nViệc xét thưởng chỉ dành cho những cá nhân đang làm việc tại công ty đến kỳ xét thưởng [QCL/Điều 20]."
+   },
+   {
+    "key": "5487c2f5a296f5b3",
+    "answer": "Quỹ khen thưởng được hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua. Các trường hợp được khen thưởng bao gồm:\n\n1.  CNV đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, tốt hơn về quy trình/chất lượng so với hiện tại.\n2.  Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3.  Phân phối cho người lao động trong trường hợp thu nhập bị giảm sút khi có đề xuất của BCH Công đoàn Cơ sở áp dụng cho CNV còn đang làm việc.\n\nNgoài ra, các khoản thưởng bổ sung khác (như thưởng hiệu quả quý, tháng 13, vượt kế hoạch năm) được tính dựa trên quy chế tiền lương, tiền thưởng và không thuộc quỹ khen thưởng này.\n\n[QCL Điều 20], [QCL Điều 21], [TULD Điều 16]"
+   },
+   {
+    "key": "1b814d97c1a51822",
+    "answer": "Quỹ khen thưởng được dùng để khen thưởng các trường hợp sau:\n\n1.  **Sáng kiến cải tiến:** CNV đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc giải pháp khác mang lại hiệu quả kinh tế, quy trình/chất lượng tốt hơn hiện tại [QCL Điều 21].\n2.  **Nghỉ mát:** Tổ chức nghỉ mát hàng năm cho người lao động (nếu có) [QCL Điều 21].\n3.  **Giảm thu nhập:** Phân phối cho người lao động khi thu nhập bị giảm sút, theo đề xuất của BCH Công Đoàn Cơ Sở áp dụng cho CNV còn đang làm việc [QCL Điều 21].\n4.  **Khác:** Các cá nhân/tập thể tích cực trong lao động sản xuất mang lại ích lợi cho Công ty như tiết kiệm tiêu hao vật tư, nguyên liệu... [TULD Điều 16].\n\nQuỹ này được hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua [QCL Điều 20]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-072",
+  "question": "Quy định tiền lương, tiền thưởng gồm bao nhiêu chương, bao nhiêu điều và phụ lục; ai có trách nhiệm phổ biến cho nhân viên?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quy định gồm 05 chương, 23 điều và 04 phụ lục, được áp dụng thống nhất trong toàn Công ty; các đơn vị có trách nhiệm phổ biến bản quy định cho CNV trong đơn vị mình phụ trách (QCL Điều 22).",
+  "key_facts": [
+   "05 chương",
+   "23 điều",
+   "04 phụ lục"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 22": "Điều 22. Quy định tiền lương và tiền thưởng bao gồm 05 chương, 23 điều và 04 phụ lục được áp dụng thống nhất trong toàn Công ty. Các đơn vị có trách nhiệm phổ biến bản quy định này cho CNV trong đơn vị mình phụ trách.\nTùy vào tình hình hoạt động sản xuất kinh doanh theo từng thời điểm khác nhau, Công ty sẽ điều chỉnh quy định tiền lương tiền thưởng để phù hợp với thực tế hoạt động sản xuất kinh doanh của công ty."
+  },
+  "answers": [
+   {
+    "key": "d15fdbb1b6d558a0",
+    "answer": "Quy định tiền lương, tiền thưởng gồm **05 chương, 23 điều và 04 phụ lục**.\n\nTrách nhiệm phổ biến quy định này cho Công nhân viên thuộc các đơn vị phụ trách.\n\n*   [QCL Mở đầu]\n*   [QCL Điều 22]"
+   },
+   {
+    "key": "b5a822fdd46906b5",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 bao gồm 05 chương, 23 điều và 04 phụ lục. Các đơn vị có trách nhiệm phổ biến bản quy định này cho công nhân viên trong đơn vị mình phụ trách.\n\n[QCL Điều 22]"
+   },
+   {
+    "key": "45e5ec3b49bfcd5f",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 gồm 05 chương, 23 điều và 04 phụ lục. Các đơn vị có trách nhiệm phổ biến bản quy định này cho cán bộ, công nhân viên trong đơn vị mình phụ trách. Công ty có quyền điều chỉnh quy định này tùy theo tình hình hoạt động sản xuất kinh doanh theo từng thời điểm.\n\n[QCL Điều 22]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-073",
+  "question": "Quy chế tiền lương, tiền thưởng năm 2024 có hiệu lực từ khi nào và được ký ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quy định có giá trị thực hiện kể từ ngày ký; văn bản được ký tại TP HCM ngày 26 tháng 04 năm 2024 (QCL Điều 23).",
+  "key_facts": [
+   "ngày ký",
+   "26"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[Hình ảnh QCL_image2.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 26/04/2024 21:32:24 Lần ký : 4\". Đây là một phần của văn bản nội bộ, cụ thể là thông tin về người ký và thời gian ký của một tài liệu.]"
+  },
+  "answers": [
+   {
+    "key": "680ae41835ff370d",
+    "answer": "Tài liệu nội bộ không có thông tin về thời điểm có hiệu lực và ngày ký cụ thể của Quy chế tiền lương, tiền thưởng năm 2024.\n\nCác văn bản quy định này được xây dựng và điều chỉnh định kỳ bởi Tổng Giám đốc cùng Ban Chấp hành Công đoàn, phù hợp với thực tiễn và pháp luật hiện hành."
+   },
+   {
+    "key": "3a0cc0382521cfc4",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 có giá trị thực hiện kể từ ngày ký. Văn bản được ký ngày 26 tháng 04 năm 2024 tại TP.HCM. [QCL Điều 23]"
+   },
+   {
+    "key": "d9f539cf82aa7234",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày hiệu lực hay ngày ký cụ thể của Quy chế tiền lương, tiền thưởng năm 2024.\n\nTuy nhiên, các văn bản liên quan quy định như sau:\n- Nội quy lao động 2024 có hiệu lực kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký [NQLD Điều 4].\n- Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-074",
+  "question": "Ai là người ký số ban hành quy chế tiền lương, tiền thưởng năm 2024 của Bibica?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số trên văn bản, người ký là Nguyễn Quốc Hoàng (ký ngày 26/04/2024) (QCL Điều 23).",
+  "key_facts": [
+   "Nguyễn Quốc Hoàng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[Hình ảnh QCL_image2.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 26/04/2024 21:32:24 Lần ký : 4\". Đây là một phần của văn bản nội bộ, cụ thể là thông tin về người ký và thời gian ký của một tài liệu.]"
+  },
+  "answers": [
+   {
+    "key": "4cfae958cf3b18b0",
+    "answer": "Tài liệu nội bộ không có thông tin về người ký số ban hành Quy chế tiền lương, tiền thưởng năm 2024.\n\nTài liệu chỉ ghi rõ:\n- Căn cứ ban hành là [QCL Mở đầu].\n- Trách nhiệm phổ biến quy định cho Công nhân viên trong đơn vị phụ trách.\n- Công ty có quyền điều chỉnh tùy theo tình hình hoạt động sản xuất kinh doanh.\n- Hiệu lực theo [QCL Điều 22].\n\nTuy nhiên, thông tin về người ký số của các văn bản khác như Nội quy lao động hay Thỏa ước lao động tập thể được ghi rõ trong tài liệu (ví dụ: Tổng Giám đốc Nguyễn Quốc Hoàng ký Thỏa ước lao động tập thể)."
+   },
+   {
+    "key": "345e2a4b61f4f1c5",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là **Nguyễn Quốc Hoàng** (Tổng Giám đốc).\n\n[QCL Phụ lục 1]"
+   },
+   {
+    "key": "f11ee5d56cc461e8",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là ông Nguyễn Quốc Hoàng. Tài liệu được ký ngày 26 tháng 04 năm 2024 tại TP. HCM [QCL/Điều 23]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-075",
+  "question": "Chữ ký số trên quy chế lương thưởng 2024 được thực hiện vào lúc mấy giờ, ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số, văn bản được ký lúc 21:32:24 ngày 26/04/2024 (QCL Điều 23).",
+  "key_facts": [
+   "21:32:24",
+   "26/04/2024"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[Hình ảnh QCL_image2.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 26/04/2024 21:32:24 Lần ký : 4\". Đây là một phần của văn bản nội bộ, cụ thể là thông tin về người ký và thời gian ký của một tài liệu.]"
+  },
+  "answers": [
+   {
+    "key": "ac97ad8b34f8614e",
+    "answer": "Tài liệu nội bộ không có thông tin về thời gian cụ thể (giờ, ngày) thực hiện chữ ký số trên quy chế lương thưởng 2024.\n\nCác văn bản quy định bao gồm Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL), Nội quy lao động 2024 (NQLD) và Thỏa ước lao động tập thể 2024 (TULD) có hiệu lực kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký hoặc ngày ký kết, nhưng không nêu chi tiết thời điểm thực hiện thủ tục chữ ký số."
+   },
+   {
+    "key": "033cfa1e6ec7fd87",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào ngày **26 tháng 04 năm 2024** lúc **21:32:24**.\n\n[QCL/Mở đầu]"
+   },
+   {
+    "key": "b41cf08b08486a78",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào ngày 26 tháng 04 năm 2024 lúc 21:32:24.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-077",
+  "question": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là 15% (QCL Phụ lục 2).",
+  "key_facts": [
+   "15"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "58b22a0e07068d2c",
+    "answer": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là **15%** [QCL/Phụ lục 2]."
+   },
+   {
+    "key": "176f667d5a1fc8c9",
+    "answer": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là 15% theo quy định của Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-078",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở (thuộc nhóm Ban Tổng giám đốc) có tỷ trọng thưởng KPI chuẩn tối đa là 20% (QCL Phụ lục 2).",
+  "key_facts": [
+   "20"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "1ebf5fc3d836db7c",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là **20%**.\n\n*   [QCL/Phụ lục 2]"
+   },
+   {
+    "key": "fa49c6551af1cc0e",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là **20%**.\n\nThông tin này quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 tại mục I, dòng 1.3 [QCL Phụ lục 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-079",
+  "question": "Quản đốc phân xưởng có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu phần trăm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Trưởng phòng/Quản đốc PX có tỷ trọng thưởng KPI chuẩn tối đa là 30% (QCL Phụ lục 2).",
+  "key_facts": [
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "c0019757d2c548f3",
+    "answer": "Quản đốc phân xưởng thuộc vị trí \"Trưởng phòng/Quản đốc PX\". Theo quy định trong [QCL/Phụ lục 2], tỷ trọng thưởng KPI chuẩn tối đa cho vị trí này là **30%**.\n\nNgoài ra, nếu xét theo tiêu chí phân nhóm trong [QCL/Điều 6], Quản đốc thuộc nhóm 3 (Trung cấp, cao đẳng, cử nhân, kỹ sư, trưởng ca) và có thể được xét nâng lương dựa trên kết quả đánh giá KPI hàng năm."
+   },
+   {
+    "key": "0de6e1ccdf8624c6",
+    "answer": "Quản đốc phân xưởng thuộc vị trí \"Trưởng phòng/Quản đốc PX\" trong nhóm E của Phụ lục 02. Tỷ trọng thưởng KPI chuẩn tối đa là **30%**.\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "43175db82f4c88dd",
+    "answer": "Quản đốc phân xưởng thuộc nhóm \"Quản trị viên nhóm 3\" theo Điều 15 [QCL Điều 2]. Tuy nhiên, trong các trích đoạn tài liệu được cung cấp, không có thông tin cụ thể về tỷ trọng thưởng KPI chuẩn tối đa dành riêng cho chức danh \"Quản đốc phân xưởng\".\n\nCác mức tỷ trọng KPI được quy định trong Phụ lục 02 [QCL Phụ lục 2] chỉ bao gồm: Phó giám đốc (20%), Kế toán trưởng (25%), Trưởng phòng/Quản đốc PX (30%), Phó Phòng/Phó Quản đốc PX (35%), Trưởng bộ phận/Trưởng ca (35%), Tổ trưởng (40%), Tổ phó (40%) và các nhân viên nghiệp vụ (40%). Chức danh \"Quản đốc phân xưởng\" không xuất hiện trong danh sách này.\n\nTài liệu nội bộ không có thông tin về vấn đề này."
+   }
+  ]
+ }
+]

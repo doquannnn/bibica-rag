@@ -14,9 +14,6 @@ data/docx/
 data/parsed/
 data/images/
 
-# PO extraction: customer POs, field spec and hand-checked ground truth (kept local only)
-PO Extraction/
-data/po_gt/
 
 # Benchmark run outputs (regenerable)
 results/runs/
@@ -25,3 +22,9 @@ results/po_eval/
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Caches and logs
+data/cache/
+*.log
+results/latency/
+.~lock.*

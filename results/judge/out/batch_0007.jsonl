@@ -1,0 +1,40 @@
+{"key": "aa9e7b900cdcf439", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Exact definition; extra KPI details from Điều 9,10,16 accurate."}
+{"key": "b6151d16f88baf25", "qid": "QCL-007", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Definition omits mức độ hoàn thành công việc; KPI calc cited to Điều 2/3 wrongly."}
+{"key": "70fa23ad981f0436", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition; 07% cited Điều 2 instead of Điều 3, minor slip."}
+{"key": "106824e0a23720cc", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition and supported details; one bogus NQCL citation."}
+{"key": "289462c76014098e", "qid": "QCL-009", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "QTV definition right; nhóm 1 wrongly described as trưởng bộ phận/kế toán tổng hợp."}
+{"key": "f15dfe74028d8931", "qid": "QCL-009", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "QTV definition right; nhóm 1 wrongly includes nhóm 2 titles."}
+{"key": "7fb0bde3a94626ce", "qid": "QCL-011", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ratios correct; nhóm 2 titles wrong (mixes nhóm 4/QTV definition)."}
+{"key": "d858328f1de51dfd", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios correct but nhóm 2 titles not listed (tautology)."}
+{"key": "537c4b2c2e42f60b", "qid": "QCL-012", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "LCB correct; lương cứng wrong, invented exclusion of support."}
+{"key": "fad298adeb04cf4f", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Both numbers wrong (9.328.000/9.828.000); citations Điều 6/7 wrong."}
+{"key": "861ba225a45fd677", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct, Phụ lục 01 mentioned; extra details supported."}
+{"key": "83f670472ffb3b26", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Exact match with Điều 3."}
+{"key": "412c72353d26686d", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Both elements correct; extra probation pay details accurate."}
+{"key": "495827b24ca053b7", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra citations (NQLD Điều 28) irrelevant but Điều 4 right."}
+{"key": "12e38054e55715df", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% correct; calls BHTN 'BHXH', minor imprecision."}
+{"key": "49accd18e7e310b1", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% correct; minor BHTN/BHXH wording."}
+{"key": "80ef1ce2ace5b47e", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct."}
+{"key": "ddf34620381c9c0d", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 groups correct."}
+{"key": "23542ba7bfe3207d", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct; QTV note supported by Phụ lục 4."}
+{"key": "39c1cb61aae0d027", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct with rule."}
+{"key": "03d4b50aa53e4177", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm with all conditions."}
+{"key": "40df6f5f5c8daf22", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 năm with conditions; cycle rule actually Điều 5, minor."}
+{"key": "2eca654f7e059180", "qid": "QCL-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Main point right but misstates training/thi tuyển as required conditions for promotion."}
+{"key": "cb108bdfaf197762", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Matches Điều 7."}
+{"key": "61f23f986701909d", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct; cites only Phụ lục 2 (referenced by Điều 8)."}
+{"key": "87f5a29f7a264e56", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 groups correct with details."}
+{"key": "8d6c31928df7dbf8", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100% correct; extra leave carry-over details supported."}
+{"key": "80de45e9a4790082", "qid": "QCL-025", "correctness": 0.5, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Lễ nguyên lương right; phép năm pay rate not stated, gives leave days instead."}
+{"key": "4283f0fa1fb42da6", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct basis plus accurate fund breakdown."}
+{"key": "6ac98ca4954cd726", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Basis correct; fund composition loosely/incompletely described."}
+{"key": "394bd777c58e3a67", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 funds with sub-items correct."}
+{"key": "eaefa36fdf2e864f", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Misses quỹ lương-thưởng bổ sung, misplaces KPI items, adds quỹ khen thưởng; TQCL citation."}
+{"key": "d4de923a8ca67f6f", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and recipients correct."}
+{"key": "f59db4a29fa4a3a8", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 funds and recipients correct."}
+{"key": "8d52cb42940f7c59", "qid": "QCL-030", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conclusion right; contradictory claim that resignees get no KPI that month."}
+{"key": "33297e7561fe5df1", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with 50% rule."}
+{"key": "f808a4a75ade0c1d", "qid": "QCL-031", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Conclusion right; Tết rule misattributed to NQLD Điều 11."}
+{"key": "b2bde36ab6d8d954", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, both bonuses excluded per Điều 9."}
+{"key": "ff76739a03b18c5c", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 14-day rule; TULD Điều 5 supports."}
+{"key": "d823f8ad5dc47158", "qid": "QCL-034", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core rule right but invents minimum-wage floor for days 15-20."}

@@ -1,0 +1,60 @@
+{"key": "7e1ea19799559eb8", "qid": "TULD-026", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Refuses though TULD Điều 5 answers; 30/3 non-payment claim distorted"}
+{"key": "ab4ad0e3b34b727f", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct per TULD Điều 5"}
+{"key": "81f9c7294e568dcf", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete; extra NQLD power-outage note supported"}
+{"key": "82451cffd65ac92f", "qid": "TULD-027", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims no info; misses TULD Điều 7 nhắc nhở rule"}
+{"key": "9457a18b258e7c52", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: nhắc nhở first time, then nội quy sanctions"}
+{"key": "ab2d06b7952a8e3c", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 7"}
+{"key": "fc7e88242e46fdeb", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day correct; bank caveat slightly garbled"}
+{"key": "471ba5cdb8416273", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: next working day"}
+{"key": "81aa5ccb441e4d74", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, also notes QCL ngày 15 rule"}
+{"key": "cb150eedc62c4b86", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 1% BHXH for 6 months"}
+{"key": "41c2fb7e172a95c5", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 1% BHXH for 6 months"}
+{"key": "e33081ab15f81730", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 1% BHXH for 6 months"}
+{"key": "97496cbcabfca6b1", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% học phí, cam kết 02 năm correct"}
+{"key": "3b40ab5e91612e1b", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; one irrelevant citation"}
+{"key": "5005a0436770477a", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; one irrelevant citation"}
+{"key": "edf2b16a9ead0cc3", "qid": "TULD-032", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Refuses though TULD Điều 13 answers"}
+{"key": "6920a894dac9e009", "qid": "TULD-032", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing 01-month written deadline; 15 days and hòa giải correct"}
+{"key": "1a9fac225ae470e9", "qid": "TULD-032", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Cites nonexistent TULD Điều 32; claims no deadline info"}
+{"key": "4020a23cd6163931", "qid": "TULD-033", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Gives QCL list; misses phone, loans, BHYT 4,5% from TULD"}
+{"key": "ee53776beb2f43b3", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All TULD Điều 15 items present"}
+{"key": "713a6f769acab072", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All items present; QCL note supported"}
+{"key": "9fb6aea21dc528b7", "qid": "TULD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four benefits correct"}
+{"key": "840093c0294fe35f", "qid": "TULD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four benefits; extra công đoàn time supported"}
+{"key": "45cb31b139c9d287", "qid": "TULD-034", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Missing du lịch and holiday bonus; car condition misstated as giờ làm việc"}
+{"key": "0cbf0e9ad207785c", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct bases; cited Điều 3 instead of Mở đầu"}
+{"key": "a16e04b64cbb15e0", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct all three legal bases"}
+{"key": "ddab9cec169556d2", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct all three legal bases"}
+{"key": "4584eeab0c6d354d", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 2"}
+{"key": "c60e8f66dcd6b83f", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct content; cites NQLD Điều 2 instead of TULD"}
+{"key": "0c49ad9d13a6a7c0", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with extra supported details"}
+{"key": "5a18764b89c06e02", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct"}
+{"key": "69fd4fa28298e5c8", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct"}
+{"key": "92d336ed4ee358f2", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct; NQLD Điều 17 note supported"}
+{"key": "edf63c68ecc21d41", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct factors; citation SQCL Điều 31 fabricated"}
+{"key": "9851ef52b6391d53", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Hội đồng khen thưởng detail in TULD Điều 16.3"}
+{"key": "2db1b47b76b6a1da", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; KPI note supported by QCL Điều 10"}
+{"key": "6de231bbd074429d", "qid": "TULD-040", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Answers TULD expiry instead of contract renewal"}
+{"key": "3a1fbfbebc018ff6", "qid": "TULD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States tái ký rule but opens with No and adds unsupported caveats"}
+{"key": "35a2824bcc7666ac", "qid": "TULD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cites tái ký rule but contradicts it with opening No"}
+{"key": "594eb131bdd3bd35", "qid": "TULD-041", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses though TULD Điều 17 covers car loan"}
+{"key": "2d09f4a96ebb0b96", "qid": "TULD-041", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "100km and fuel correct; condition misstated as giờ làm việc"}
+{"key": "be0e806a359b0a64", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 100km and fuel/costs"}
+{"key": "286a7cd49b7456c0", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: once a year, cost depends on results"}
+{"key": "ee6310fb7e651cae", "qid": "TULD-042", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct main; wrongly says Lễ Tết bonus set by QCL"}
+{"key": "98ebb1836b5b2faa", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, notes no specific amount"}
+{"key": "1138a03a548c15b1", "qid": "TULD-044", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Claims no policy; misattributes 500k bonus to QCL Phụ lục 2"}
+{"key": "0929ca7653795dbf", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Has TULD Điều 8 but misses maternity allowance; 03 ngày/tháng misapplied"}
+{"key": "a78b41a4633d8b75", "qid": "TULD-044", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says TULD has no specific policy; misses Điều 11 and Điều 8"}
+{"key": "a32ffd27a70b863f", "qid": "TULD-046", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Misreads NQLD as banning provision; misses TULD company commitment"}
+{"key": "7cfc39586c30bf42", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct agreement and commitment per TULD Điều 18"}
+{"key": "cd25f4af25a0ee67", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct agreement and commitment per TULD Điều 18"}
+{"key": "64fb85a416239cfd", "qid": "TULD-047", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Vague; invents per-position rates, misses actual-months ratio"}
+{"key": "a341530725612e59", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct actual months ratio; QCL Phụ lục 3 note supported"}
+{"key": "1f7b3f2dcdc80cc8", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Phụ lục 3 detail supported"}
+{"key": "0a6f4605e143b7f3", "qid": "TULD-048", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Identifies NSDLĐ/Pan but wrongly says no direct definition; wrong citations"}
+{"key": "a38c2d99c7f6ade6", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct Pan/NSDLĐ; cites Điều 1 instead of Mở đầu"}
+{"key": "ec9331130778349c", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct: Công ty CP phân phối hàng tiêu dùng Pan"}
+{"key": "851197cd2196c702", "qid": "TULD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Answers duration not scope; wrongly names Công ty CP Bibica"}
+{"key": "662e8636dae6e1e1", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct full scope per TULD Điều 1"}
+{"key": "e90b3bd1462b40bf", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct scope per TULD Điều 1"}

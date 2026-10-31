@@ -1,0 +1,56 @@
+{"key": "3dff24605e392ca9", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 points correct"}
+{"key": "3cef47e15a4f6ee7", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 points correct"}
+{"key": "f14fe42b028ac404", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 points correct"}
+{"key": "0bd7cec1170ba153", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 points correct"}
+{"key": "b49ae24465caf65e", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 points correct"}
+{"key": "3f101c8f6b9e8914", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 2 points; correct is 10"}
+{"key": "36a20f4d0bb5c4a9", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 15 points with garbled thresholds; correct is 10"}
+{"key": "6caaa16549b14b4b", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 2 points; ignores value criterion giving 10"}
+{"key": "205f6b6ca327eb46", "qid": "QCL-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points correct"}
+{"key": "91021dc32d140117", "qid": "QCL-097", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "10 correct; extra note misstates choice among KPI/seniority"}
+{"key": "a742ac35bd0d2f8e", "qid": "QCL-098", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline says 4 but concludes 6; self-contradictory"}
+{"key": "329e5df8f3301074", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct"}
+{"key": "7cc650bf855cbbef", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct"}
+{"key": "c315a21774efc047", "qid": "QCL-098", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 8 points, wrong level"}
+{"key": "0e01cc406dfb228a", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct; omits some levels"}
+{"key": "6dd18ed625c27c3f", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years"}
+{"key": "20cc694d71e05fef", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years"}
+{"key": "e326646c1234f271", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "10 points, 5 years"}
+{"key": "df0360be7785701c", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "10 points, 5 years with extra correct detail"}
+{"key": "785fc755fe556422", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "b29e55cd2fdff07e", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "22b4d6b7b8162480", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "886009070efeed01", "qid": "QCL-100", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "85 correct; extra claims on max 30/4 points and Điều 6 wrong"}
+{"key": "e5ee759205a50206", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 correct with thresholds"}
+{"key": "d5dd6e900ffdd732", "qid": "QCL-101", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Criteria correct; wrongly says choose 1 of proposals/seniority"}
+{"key": "f275007c471b7c5a", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All five criteria correct"}
+{"key": "b215b67ec5566873", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All five correct plus thresholds"}
+{"key": "26221ab609f3021f", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All five correct"}
+{"key": "53133a020f57c605", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All five correct"}
+{"key": "0ba8f889973d9bf9", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 77 but says 100/3 bậc then no raise; should be 1 bậc"}
+{"key": "48ab43146b397b2d", "qid": "QCL-102", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Final 77 and 1 bậc correct but opening says 100/3 bậc"}
+{"key": "7c066c9f4a45d258", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "75 points, misses replaceability, no result"}
+{"key": "a277e39ecf031565", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "65 points, 3 bậc claim wrong; Khó thay thế scored 6"}
+{"key": "421737e149d9cd55", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Concludes 10; correct is 20 (<200 triệu)"}
+{"key": "7dcf5f4d5f004925", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 15; correct is 20"}
+{"key": "95816ac43ab0869e", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 17 by invented summing; correct 20"}
+{"key": "8f50d9e54c6abfb9", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 5/30; correct 20"}
+{"key": "d7982ee8a1b03351", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 10; correct 20"}
+{"key": "05afc8e0c26acaea", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "2577b2bfebf33091", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "cee181614e31270a", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "04901a29e75cb5c3", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, Điều 19 has signature block"}
+{"key": "c85fbd4f80509bbc", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 years from signing"}
+{"key": "19255e79271e0957", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 years correct"}
+{"key": "f99bf01de0612099", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 years correct"}
+{"key": "a9c953a86dea2a7b", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 years correct"}
+{"key": "7f4037074f7326f7", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 years correct"}
+{"key": "07c9bfb95f92bc01", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; two of three citations irrelevant"}
+{"key": "72808dedecf471f4", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; one extra irrelevant QCL citation"}
+{"key": "7dedac2793b9defd", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d5c7975658d37ac1", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "8f327ee116b9c21e", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; one extra irrelevant QCL citation"}
+{"key": "509a74f247c6ebf2", "qid": "TULD-006", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Says validity of Thỏa ước and 90 days; wrong"}
+{"key": "d0e0ade1ccc14347", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract validity period correct"}
+{"key": "030a34d3d2becaa3", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with accurate extras"}
+{"key": "202398988a4e5fbd", "qid": "TULD-006", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says Thỏa ước validity, 90 days from signing; wrong"}

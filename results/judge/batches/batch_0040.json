@@ -1,0 +1,395 @@
+[
+ {
+  "qid": "QCL-080",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Phó Phòng/Phó Quản đốc PX có tỷ trọng thưởng KPI chuẩn tối đa là 35% (QCL Phụ lục 2).",
+  "key_facts": [
+   "35"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "35a0b8dd5425e314",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là **30%**.\n\nThông tin này được quy định trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 tại Phụ lục 02, cụ thể:\n- Phó Quản đốc PX thuộc nhóm \"Trưởng phòng/Quản đốc PX\" có tỷ trọng 30% [QCL Phụ lục 2].\n- Phó Quản đốc PX cũng được xếp vào nhóm \"Kpi Quản đốc/ Phó quản đốc\" trong Điều 16 [QCL Điều 16].\n\n*Lưu ý: Trong một số bảng phân chia khác của tài liệu, Phó Giám đốc Khối hoặc Phó Tổng giám đốc có tỷ trọng 20% hoặc 15%, nhưng Phó Quản đốc phân xưởng cụ thể là 30%.*"
+   },
+   {
+    "key": "3a00c0bf42ca34f4",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là **30%**.\n\nThông tin này được quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, cụ thể tại mục \"Tỷ trọng (%) thưởng KPI chuẩn tối đa\" cho chức danh \"Phó Quản đốc PX\" [QCL Phụ lục 2]."
+   },
+   {
+    "key": "ebfed4df1bf367ea",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là 35%.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, vị trí \"Phó Quản đốc PX\" thuộc nhóm chức danh có tỷ lệ KPI tối đa là 35% [QCL Phụ lục 2]."
+   },
+   {
+    "key": "eae6186481dd7209",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là **30%**.\n\nThông tin này được quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, cụ thể tại mục KPI nhóm 2 (03 chỉ tiêu KPI) dành cho chức danh Phó Quản đốc PX [QCL Phụ lục 2]."
+   },
+   {
+    "key": "e3bca742645032fe",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là **35%**.\n\nThông tin này được quy định cụ thể tại Phụ lục 2 của QCL:\n- Phó Phòng/Phó Quản đốc PX: 35% [QCL Phụ lục 2].\n- Phó Quản đốc PX (trong bảng phân bổ chỉ tiêu): 35% [QCL Phụ lục 2].\n\nLưu ý: Tỷ lệ này khác với Phó Giám đốc (20%) hoặc Trưởng phòng (30%)."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-082",
+  "question": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là 40% (QCL Phụ lục 2).",
+  "key_facts": [
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "3d6d199bf4895e74",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là **40%** theo Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\nThông tin này được quy định cụ thể trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng năm 2024 tại mục I, phần C, STT 1.3 cho chức danh \"Trợ lý sản phẩm / Nhãn hàng\" [QCL Phụ lục 2]."
+   },
+   {
+    "key": "c8d2a12c14020fa6",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là **40%** (theo [QCL Phụ lục 2]).\n\nTuy nhiên, trong cùng tài liệu này còn quy định mức **30%** cho vị trí \"Quản lý sản phẩm/Nhãn hàng\" và mức **20%** cho vị trí \"Giám đốc sản phẩm/Nhãn hàng\" (theo [QCL Phụ lục 2])."
+   },
+   {
+    "key": "e9a231fab0422dcd",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là 40% [QCL Phụ lục 2].\n\nTheo quy định tại Phụ lục 02, vị trí này thuộc nhóm C (1.3) và nhóm E (1.9-1.13), cả hai đều quy định tỷ lệ thưởng KPI tối đa là 40%."
+   },
+   {
+    "key": "ba1d3fb27d122429",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là 40% [QCL Phụ lục 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-083",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng và Quản lý sản phẩm/Nhãn hàng lần lượt là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Giám đốc sản phẩm/Nhãn hàng: 20%; Quản lý sản phẩm/Nhãn hàng: 30% (QCL Phụ lục 2).",
+  "key_facts": [
+   "20",
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "81a4c5b25051dd23",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng là 20% và của Quản lý sản phẩm/Nhãn hàng là 30%.\n\nThông tin này được quy định cụ thể trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 tại bảng chỉ tiêu theo chức danh công việc.\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "3118fa599e807faf",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n- Tỷ trọng thưởng KPI chuẩn tối đa của **Giám đốc sản phẩm/Nhãn hàng** là **20%** [QCL Phụ lục 2].\n- Tỷ trọng thưởng KPI chuẩn tối đa của **Quản lý sản phẩm/Nhãn hàng** là **30%** [QCL Phụ lục 2]."
+   },
+   {
+    "key": "9fd0ac2a7b9af210",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng là 20% và của Quản lý sản phẩm/Nhãn hàng là 30%.\n\nThông tin này quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 tại mục I, nhóm C.1.1 và C.1.2.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-084",
+  "question": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu phần trăm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Trưởng bộ phận/Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 35% (QCL Phụ lục 2).",
+  "key_facts": [
+   "35"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "306b5d3e4beb9f1d",
+    "answer": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 35% theo quy định của Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "4271204220db0b59",
+    "answer": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 35% theo quy định của Phụ lục 02 Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "34c231a407f03679",
+    "answer": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 40% theo Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-085",
+  "question": "Trong bảng phân bổ chỉ tiêu KPI, KSCN/NV tại Văn phòng Công ty có điểm KPI nhóm 2, nhóm 3 và tổng cộng là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "KSCN/NV tại VP Công ty: KPI nhóm 2 (03 chỉ tiêu KPI) là 50, KPI nhóm 3 (công việc cấp quản lý trực tiếp giao) là 10, tổng cộng 60 (QCL Phụ lục 2).",
+  "key_facts": [
+   "50",
+   "10",
+   "60"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "83cb9224c8f2d726",
+    "answer": "Tại vị trí KSCN/NV tại Văn phòng Công ty, bảng phân bổ chỉ tiêu KPI quy định như sau:\n- Chỉ tiêu KPI nhóm 2: 30%\n- Chỉ tiêu KPI nhóm 3: 10%\n- Tổng cộng: 40%\n\nThông tin này được quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Phụ lục 2]."
+   },
+   {
+    "key": "f70d6ca218e3e083",
+    "answer": "Theo [QCL Phụ lục 2], nhân viên văn phòng (KSCN/NV) có điểm KPI chuẩn tối đa là:\n- Nhóm 2: 30%\n- Nhóm 3: 10%\n- Tổng cộng: 40%\n\nCác con số này được quy định cụ thể trong bảng phân bổ chỉ tiêu KPI cho vị trí KSCN/NV tại Văn phòng Công ty."
+   },
+   {
+    "key": "ff10726b1b24da00",
+    "answer": "Tại vị trí KSCN/NV tại Văn phòng Công ty, điểm KPI được phân bổ như sau:\n- KPI nhóm 2: 50% [QCL Phụ lục 2].\n- KPI nhóm 3: 10% [QCL Phụ lục 2].\n- Tổng cộng: 60% [QCL Phụ lục 2].\n\nThông tin này nằm trong bảng phân bổ chỉ tiêu KPI và phương pháp đánh giá của Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   },
+   {
+    "key": "abc8a089e3e81ea2",
+    "answer": "Theo [QCL Phụ lục 2], nhân viên văn phòng (KSCN/NV) có cấu trúc điểm KPI như sau:\n- **Nhóm 2**: 30 điểm.\n- **Nhóm 3**: 10 điểm.\n- **Tổng cộng**: 40 điểm.\n\nThông tin này được quy định cụ thể trong bảng phân bổ chỉ tiêu KPI của Công ty."
+   },
+   {
+    "key": "14f3a3a77e0af9cf",
+    "answer": "Tại vị trí KSCN/NV tại Văn phòng Công ty, bảng phân bổ chỉ tiêu KPI quy định như sau:\n- Chỉ tiêu KPI nhóm 2: 30% [QCL Phụ lục 2].\n- Chỉ tiêu KPI nhóm 3: 10% [QCL Phụ lục 2].\n- Tổng cộng: 40% [QCL Phụ lục 2].\n\nThông tin này được chi tiết hóa trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-086",
+  "question": "Ban Tổng giám đốc được phân bổ chỉ tiêu KPI nhóm 2 và nhóm 3 như thế nào?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ban Tổng giám đốc (BTGĐ) không có KPI nhóm 2 (ký hiệu -), KPI nhóm 3 là 10, tổng cộng 10 (QCL Phụ lục 2).",
+  "key_facts": [
+   "10"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "380f75b3053f291a",
+    "answer": "Ban Tổng giám đốc được phân bổ chỉ tiêu KPI theo quy định sau:\n\n- **Nhóm 2**: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu. Đối với Phó Tổng giám đốc thuộc Ban Tổng giám đốc, tỷ trọng thưởng KPI chuẩn tối đa cho nhóm này là 15% [QCL Phụ lục 2].\n- **Nhóm 3**: Gồm các công việc cấp quản lý trực tiếp giao. Đối với Phó Tổng giám đốc, tỷ trọng thưởng KPI chuẩn tối đa cho nhóm này là 20% [QCL Phụ lục 2].\n\nTổng cộng, Phó Tổng giám đốc có tỷ trọng thưởng KPI tối đa là 35% (15% + 20%) [QCL Phụ lục 2]."
+   },
+   {
+    "key": "e3ef335a7b394c91",
+    "answer": "Ban Tổng giám đốc được phân bổ chỉ tiêu KPI theo quy định của Phụ lục 02 Quy chế tiền lương Bibica 2024:\n\n- **Nhóm 2**: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\n- **Nhóm 3**: Gồm các công việc cấp quản lý trực tiếp giao.\n\nTuy nhiên, trong các trích đoạn tài liệu đã cung cấp, không có thông tin cụ thể về việc Ban Tổng giám đốc được phân bổ bao nhiêu phần trăm cho từng nhóm KPI này.\n\n[TQCL Phụ lục 2]"
+   },
+   {
+    "key": "838948a91fe66253",
+    "answer": "Ban Tổng giám đốc được phân bổ chỉ tiêu KPI như sau:\n- **Nhóm 2**: Chỉ tiêu KPI nhóm 2 (03 chỉ tiêu) chiếm **20%** tổng chỉ tiêu.\n- **Nhóm 3**: Chỉ tiêu KPI nhóm 3 (công việc cấp quản lý trực tiếp giao) chiếm **10%** tổng chỉ tiêu.\n\nTổng cộng, Ban Tổng giám đốc được phân bổ **30%** chỉ tiêu KPI (20% nhóm 2 + 10% nhóm 3).\n\nThông tin này quy định trong Phụ lục 02 về tỷ trọng và phương pháp đánh giá KPI [QCL Phụ lục 2]."
+   },
+   {
+    "key": "86c2b6db81871cc1",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\nBan Tổng giám đốc được phân bổ chỉ tiêu KPI như sau:\n- **Nhóm 2**: Gồm 03 chỉ tiêu KPI liên quan đến công việc, với tỷ trọng thưởng KPI chuẩn tối đa là 20% (theo Phụ lục 02).\n- **Nhóm 3**: Gồm các công việc cấp quản lý trực tiếp giao, với tỷ trọng thưởng KPI chuẩn tối đa là 10% (theo Phụ lục 02).\n\nTổng cộng, Ban Tổng giám đốc có 4 chỉ tiêu KPI (3 nhóm 2 + 1 nhóm 3) với tổng tỷ trọng thưởng tối đa là 30%.\n\nNguồn: [QCL Phụ lục 2], [QCL Điều 8]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-087",
+  "question": "Quản đốc/Phó quản đốc ở các nhà máy, công ty thành viên được phân bổ KPI nhóm 2 bao nhiêu và tổng cộng bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "QĐ/PQĐ tại các NM/Cty thành viên: KPI nhóm 2 là 30, KPI nhóm 3 là 10, tổng cộng 40 (QCL Phụ lục 2).",
+  "key_facts": [
+   "30",
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "28812f18291938b0",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- **Phân bổ KPI nhóm 2**: Quản đốc/Phó quản đốc được phân bổ **30%** (theo Trích đoạn 2).\n- **Tổng cộng**: Tỷ trọng thưởng KPI chuẩn tối đa là **60%** (bao gồm KPI nhóm 2, nhóm 3 và các chỉ tiêu khác) (theo Trích đoạn 2).\n\nLưu ý: Quản đốc/Phó quản đốc thuộc nhóm chức danh có tỷ trọng thưởng KPI tối đa là 30% trong bảng phân bổ chi tiết (Trích đoạn 4), nhưng khi tính tổng cấu trúc KPI cho các vị trí quản lý trực tiếp, tổng cộng đạt 60% (Trích đoạn 2)."
+   },
+   {
+    "key": "52e29432a7888cf3",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- **Phân bổ KPI nhóm 2**: Quản đốc/Phó quản đốc ở các nhà máy, công ty thành viên được phân bổ **30%** (theo Phụ lục 2, QCL).\n- **Tổng cộng**: Tỷ trọng thưởng KPI chuẩn tối đa cho vị trí này là **30%** (bao gồm cả nhóm 2 và KPI nhóm 3).\n\nLưu ý: Trong Điều 15, QCL quy định tỷ lệ KPI cho \"Nhân viên\" là 10 ÷ 40%, nhưng vị trí Quản đốc/Phó quản đốc thuộc nhóm quản lý cấp cao hơn với tỷ lệ cụ thể 30% theo Phụ lục 2.\n\nNguồn: [QCL Phụ lục 2], [QCL Điều 15]."
+   },
+   {
+    "key": "3eb5eb3003cef340",
+    "answer": "Quản đốc/Phó quản đốc thuộc nhóm \"Quản trị viên nhóm 3\" theo [QCL Điều 2].\n\nTheo [QCL Phụ lục 2], tỷ trọng KPI nhóm 2 (03 chỉ tiêu) dành cho Quản đốc phân xưởng là **30%** và Phó Quản đốc phân xưởng là **30%**.\n\nTổng cộng, tỷ trọng KPI cho các vị trí này là **60%** (bao gồm KPI nhóm 2 chiếm 30% và KPI nhóm 3 - công việc cấp quản lý giao trực tiếp chiếm 30%)."
+   },
+   {
+    "key": "e1c9b5911f89ab25",
+    "answer": "Theo Quy chế tiền lương Bibica 2024:\n\n- **Phân bổ KPI nhóm 2**: Quản đốc/Phó quản đốc được phân bổ **30%** (từ Trích đoạn 2).\n- **Tổng cộng**: Tỷ trọng thưởng KPI tối đa là **60%** (bao gồm nhóm 2 và nhóm 3), trong đó nhóm 3 chiếm 30% (từ Trích đoạn 2).\n\n*Lưu ý: Trích đoạn 1 ghi 30% cho \"Trưởng phòng/Quản đốc PX\" nhưng Trích đoạn 2 chi tiết hơn về cấu trúc nhóm KPI cho các vị trí quản lý nhà máy.*\n\n[QCL Phụ lục 2], [QCL Phụ lục 2]"
+   },
+   {
+    "key": "8a29d3fe13e0c14d",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n1.  **Phân bổ KPI nhóm 2:** Quản đốc/Phó quản đốc thuộc nhóm chức danh có tỷ trọng thưởng KPI chuẩn tối đa là **30%** (theo Phụ lục 2).\n2.  **Tổng cộng:** Tổng tỷ trọng thưởng KPI tối đa cho vị trí này là **40%** (bao gồm 30% từ nhóm 2 và 10% từ KPI nhóm 3 do công việc cấp quản lý trực tiếp giao).\n\nCác số liệu này được quy định cụ thể trong Phụ lục 2 của Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-089",
+  "question": "Khi đánh giá Công ty hoàn thành kế hoạch năm, doanh số và lợi nhuận chiếm bao nhiêu điểm và điểm thay đổi ra sao khi vượt hoặc hụt kế hoạch?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Doanh số 60 điểm, lợi nhuận 40 điểm; doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm; một trong hai chỉ tiêu <90% là không hoàn thành kế hoạch; đạt 100 điểm (hoàn thành kế hoạch) thì CNV đạt lương tháng 14 (QCL Phụ lục 3).",
+  "key_facts": [
+   "60 điểm",
+   "40 điểm",
+   "1 điểm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "9b683df4373d43e2",
+    "answer": "Doanh số chiếm 60 điểm, lợi nhuận chiếm 40 điểm. Doanh số/lợi nhuận tăng/giảm 1% tương đương +/-1 điểm. Chỉ tiêu <90% coi là không hoàn thành kế hoạch. Khi vượt kế hoạch, điểm tăng theo quy định: từ 100-110 điểm đạt lương tháng 15, 16; từ 110-120 điểm đạt lương tháng 17, 18; trên 120 điểm đạt lương tháng 19, 20.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "dedcdecdb872cf46",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- Doanh số và lợi nhuận chiếm 60 điểm (Doanh số 60 điểm, Lợi nhuận 40 điểm).\n- Nếu doanh số hoặc lợi nhuận một trong hai chỉ tiêu dưới 90% thì không hoàn thành kế hoạch.\n- Khi vượt kế hoạch, điểm số tăng theo từng mức: từ 100-110 điểm, 110-120 điểm và trên 120 điểm tương ứng với các mức lương bổ sung khác nhau.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "9aa2efb3a624385e",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- Doanh số và lợi nhuận chiếm 60 điểm và 40 điểm tương ứng.\n- Doanh số hoặc lợi nhuận < 90%: Không hoàn thành kế hoạch.\n- Hoàn thành kế hoạch (100 điểm): Đạt lương tháng 14.\n- Vượt kế hoạch:\n  - 100 - 110 điểm: Đạt lương tháng 15, 16.\n  - 110 – 120 điểm: Đạt lương tháng 17, 18.\n  - Trên 120 điểm: Đạt lương tháng 19, 20.\n- Tăng/giảm 1% tương đương +/- 1 điểm.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "cb4195a9af9ad5bf",
+    "answer": "Doanh số chiếm 60 điểm, lợi nhuận chiếm 40 điểm. Doanh số/lợi nhuận tăng/giảm 1% tương đương +/-1 điểm. Chỉ tiêu <90% coi là không hoàn thành kế hoạch. Khi vượt kế hoạch, điểm tăng theo quy định: 100-110 điểm đạt lương tháng 15,16; 110-120 điểm đạt tháng 17,18; trên 120 điểm đạt tháng 19,20. Khi đạt 100 điểm cá nhân, nhận lương tháng 15; 120 điểm nhận tháng 16; 140 điểm nhận tháng 17; 160 điểm nhận tháng 18; 180 điểm nhận tháng 19.\n\n[QCL Phụ lục 3], [QCL Điều 8], [QCL Phụ lục 3]"
+   },
+   {
+    "key": "673f8c9ae703ec25",
+    "answer": "Doanh số chiếm 60 điểm, lợi nhuận chiếm 40 điểm. Doanh số/lợi nhuận tăng/giảm 1% tương đương +/-1 điểm. Chỉ tiêu <90% coi là không hoàn thành kế hoạch. Khi vượt kế hoạch, mức lương bổ sung tăng theo thang điểm: 100–110 điểm nhận thêm tháng 15, 16; 110–120 điểm nhận thêm tháng 17, 18; trên 120 điểm nhận thêm tháng 19, 20. [QCL Phụ lục 3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-091",
+  "question": "Điểm đánh giá cá nhân đạt 160 điểm thì được nhận lương bổ sung vượt kế hoạch đến tháng mấy?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Cá nhân đạt 160 điểm được nhận lương bổ sung vượt KH tháng 18 (QCL Phụ lục 3).",
+  "key_facts": [
+   "tháng 18"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "38d275b946fb9c1f",
+    "answer": "Đạt 160 điểm, nhân viên được nhận lương bổ sung vượt kế hoạch tháng 18.\n\n[QCL Phụ lục 3 Điều 4c]"
+   },
+   {
+    "key": "1124f6d42693fa1b",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, điểm đánh giá cá nhân đạt 160 điểm thì nhân viên được nhận lương bổ sung vượt kế hoạch đến **tháng 18**.\n\nThông tin này quy định cụ thể tại Phụ lục 03 của Quy chế tiền lương, tiền thưởng năm 2024, trong phần điều kiện lương thưởng vượt kế hoạch năm.\n\n[QCL Phụ lục 3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-093",
+  "question": "Lương bổ sung hiệu quả quý được tính theo mức nào, công thức ra sao và lương công việc bình quân quý gồm những gì?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Mức lương bổ sung hiệu quả quý là ½ tháng lương công việc. Cách tính: Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn; trong đó LCV bình quân quý = Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng, và tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng / ngày công chuẩn 3 tháng. Điều kiện: Công ty đạt chỉ tiêu quý về doanh số, lợi nhuận và CNV đã ký HĐLĐ (QCL Phụ lục 3).",
+  "key_facts": [
+   "bình quân 3 tháng",
+   "công chuẩn"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "0b6a77b67c81160a",
+    "answer": "Lương bổ sung hiệu quả quý bằng **½ tháng lương công việc** [QCL Phụ lục 3 Điều 5].\n\nCông thức tính: **LCV bình quân quý x công thực tế / công chuẩn** [QCL Phụ lục 3 Điều 6].\n\nLương công việc bình quân quý bao gồm:\n- Lương cứng chuẩn bình quân 3 tháng.\n- KPI thực tế bình quân 3 tháng.\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết hưởng nguyên lương) so với ngày công chuẩn 3 tháng [QCL Phụ lục 3 Điều 2]."
+   },
+   {
+    "key": "bc3eeeda1b46443f",
+    "answer": "Lương bổ sung hiệu quả quý bằng ½ tháng lương công việc. Công thức tính: Lương công việc bình quân quý x công thực tế / công chuẩn.\n\nLương công việc bình quân quý bao gồm: Lương cứng chuẩn bình quân 3 tháng và KPI thực tế bình quân 3 tháng.\n\n[QCL Phụ lục 3 Điều 5a], [QCL Phụ lục 3 Điều 6a], [QCL Phụ lục 3 Điều 2]"
+   },
+   {
+    "key": "972fd04ccc4bca82",
+    "answer": "Lương bổ sung hiệu quả quý bằng **½ tháng lương công việc** (QCL Phụ lục 3 Điều 5a).\n\nCông thức tính: **Lương công việc bình quân quý x công thực tế / công chuẩn** (QCL Phụ lục 3 Điều 6a).\n\nLương công việc bình quân quý bao gồm:\n- Lương cứng chuẩn bình quân 3 tháng.\n- KPI thực tế bình quân 3 tháng.\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) so với ngày công chuẩn 3 tháng (QCL Phụ lục 3 Điều 2)."
+   },
+   {
+    "key": "69cbe2abe0e536be",
+    "answer": "Lương bổ sung hiệu quả quý bằng ½ tháng lương công việc. Công thức tính: Lương công việc bình quân quý x công thực tế / công chuẩn.\n\nLương công việc bình quân quý bao gồm: Lương cứng chuẩn bình quân 3 tháng và KPI thực tế bình quân 3 tháng.\n\nNgoài ra, mức tính thưởng phụ thuộc vào thời gian làm việc thực tế so với số tháng trong kỳ tính lương bổ sung theo Thỏa ước lao động tập thể.\n\n[QCL Phụ lục 3 Điều 5a], [QCL Phụ lục 3 Điều 6a], [QCL Phụ lục 3 Điều 2], [TULD Điều 14]"
+   },
+   {
+    "key": "ec20751c680dc841",
+    "answer": "Lương bổ sung hiệu quả quý được tính bằng **½ tháng lương công việc bình quân quý** [QCL Phụ lục 3 Điều 5].\n\nCông thức tính: **Lương công việc bình quân quý x Tỷ lệ ngày công thực tế / ngày công chuẩn** [QCL Phụ lục 3 Điều 6].\n\nLương công việc bình quân quý bao gồm: **Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng** [QCL Phụ lục 3 Điều 2]. Ngoài ra, tỷ lệ ngày công thực tế còn bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương [QCL Phụ lục 3 Điều 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-094",
+  "question": "Năm nay Công ty đạt 106% kế hoạch doanh số và 102% kế hoạch lợi nhuận. Công ty đạt bao nhiêu điểm và nhân viên có thể được hưởng lương bổ sung đến tháng mấy?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Doanh số: 60 + 6 = 66 điểm; lợi nhuận: 40 + 2 = 42 điểm (doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm); tổng 108 điểm. Không chỉ tiêu nào dưới 90% và cả hai đều vượt kế hoạch, nên Công ty hoàn thành kế hoạch (100 điểm: lương tháng 14) và thuộc khung vượt kế hoạch từ 100 - 110 điểm: đạt lương tháng 15, 16; mức cụ thể tùy điểm đánh giá cá nhân (đạt 100 điểm: tháng 15; đạt 120 điểm: tháng 16) (QCL Phụ lục 3).",
+  "key_facts": [
+   "108",
+   "15",
+   "16"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "2abccffe0adbc6ef",
+    "answer": "Công ty đạt 106 điểm (doanh số 60 điểm, lợi nhuận 46 điểm). Nhân viên được hưởng lương tháng 15 và 16.\n\n[QCL Phụ lục 3 Điều 1a]\n[QCL Phụ lục 3 Điều 1c]\n[QCL Phụ lục 3 Điều 2]"
+   },
+   {
+    "key": "ee1d3500bc92a428",
+    "answer": "Công ty đạt 106 điểm (doanh số 60 điểm, lợi nhuận 46 điểm) vì chỉ tiêu lợi nhuận (40 điểm) chưa đạt 90% (18 điểm), nên không hoàn thành kế hoạch.\n\nDoanh số đạt 106% tương đương 63.6 điểm (60 + 3.6). Lợi nhuận đạt 102% tương đương 40.8 điểm. Tổng điểm: 63.6 + 40.8 = 104.4 điểm.\n\nVì chỉ tiêu lợi nhuận < 90%, công ty không hoàn thành kế hoạch năm. Theo quy định, nhân viên chỉ được hưởng lương tháng 14 (lương bổ sung hoàn thành KH). Không được hưởng lương tháng 15 trở đi dù doanh số vượt kế hoạch.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "92f9d80224e81e22",
+    "answer": "Công ty đạt 106 điểm (Doanh số 60 điểm + Lợi nhuận 46 điểm). Nhân viên đã ký HĐLĐ được hưởng lương tháng 15 và 16.\n\nNếu nhân viên đạt điểm cá nhân tối thiểu 100 điểm, họ còn được nhận thêm lương tháng 15. Nếu đạt 120 điểm, được nhận thêm lương tháng 16.\n\n*Lưu ý: Điểm doanh số và lợi nhuận được tính theo quy tắc tăng/giảm 1% tương đương +/-1 điểm. Chỉ tiêu <90% coi là không hoàn thành kế hoạch.*\n\n[QCL Phụ lục 3 Điều 1a, c]"
+   },
+   {
+    "key": "9b078d7645662e34",
+    "answer": "Công ty đạt **106 điểm** (Doanh số 106% tương đương 63,6 điểm + Lợi nhuận 102% tương đương 40,8 điểm, tổng cộng >100 điểm nhưng <110 điểm).\n\nNhân viên được hưởng lương bổ sung đến **tháng 16** (lương tháng 15, 16) khi công ty đạt từ 100 - 110 điểm.\n\n[QCL Phụ lục 3 Điều 1], [QCL Phụ lục 3 Điều 2], [QCL Phụ lục 3 Điều 3]"
+   },
+   {
+    "key": "73166964e08313c1",
+    "answer": "Công ty đạt **106 điểm** (Doanh số 60 điểm + Lợi nhuận 46 điểm). Nhân viên đã ký HĐLĐ được hưởng lương bổ sung đến **tháng 16**.\n\nTheo [QCL Phụ lục 3], doanh số và lợi nhuận tăng 1% tương đương +/-1 điểm. Doanh số 106% đạt 63 điểm, lợi nhuận 102% đạt 41 điểm, tổng cộng 104 điểm. Tuy nhiên, trích đoạn 2 ghi rõ quy định cụ thể: \"Từ 100 - 110 điểm: đạt lương tháng 15, 16\". Do tổng điểm 104 nằm trong khoảng này, nhân viên được hưởng thêm 2 tháng lương (tháng 15 và 16) so với mức cơ bản.\n\n*Lưu ý: Trích đoạn 2 cũng ghi điểm cá nhân riêng biệt (100 điểm nhận tháng 15, 120 điểm nhận tháng 16), nhưng câu hỏi đề cập đến điểm của công ty, nên áp dụng quy định về điểm công ty trong cùng tài liệu.*"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-095",
+  "question": "Nếu năm đó doanh số đạt 120% kế hoạch nhưng lợi nhuận chỉ đạt 88% kế hoạch thì Công ty có được coi là hoàn thành kế hoạch năm để chi lương tháng 14 không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. Chỉ tiêu doanh số, lợi nhuận chỉ cần một trong hai chỉ tiêu <90% là không hoàn thành kế hoạch; lợi nhuận đạt 88% (<90%) nên Công ty không hoàn thành kế hoạch năm và CNV không đạt lương tháng 14 (QCL Phụ lục 3).",
+  "key_facts": [
+   "90%"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "d928c0ab35ad80a4",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, chỉ tiêu doanh số hoặc lợi nhuận một trong hai chỉ tiêu dưới 90% thì không hoàn thành kế hoạch. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), dù doanh số đạt 120%, nên tổng thể không đạt điều kiện hoàn thành kế hoạch. Do đó, nhân viên không đủ điều kiện nhận lương tháng 14.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "9ab78a9dc38211bf",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo Quy chế tiền lương năm 2024, chỉ tiêu doanh số và lợi nhuận là hai chỉ tiêu độc lập, trong đó chỉ cần một trong hai chỉ tiêu dưới 90% thì không hoàn thành kế hoạch. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), nên điều kiện hoàn thành kế hoạch không được đáp ứng, dù doanh số đạt 120%. Do đó, nhân viên không đủ điều kiện nhận lương tháng 14.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "5c3542864cdd104a",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, chỉ tiêu doanh số và lợi nhuận là hai chỉ tiêu độc lập, trong đó chỉ tiêu doanh số hoặc lợi nhuận một trong hai chỉ tiêu dưới 90% sẽ được coi là không hoàn thành kế hoạch. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), nên điều kiện hoàn thành kế hoạch năm không được đáp ứng.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "a238ccc0a2ad34ba",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo Quy chế tiền lương năm 2024, chỉ tiêu doanh số và lợi nhuận là hai chỉ tiêu độc lập, trong đó chỉ cần một trong hai chỉ tiêu dưới 90% thì không hoàn thành kế hoạch. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), nên không đủ điều kiện để nhận lương tháng 14 dù doanh số đạt 120% [QCL Phụ lục 3]."
+   },
+   {
+    "key": "81e1e93a9a116311",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo [QCL Phụ lục 03], chỉ tiêu doanh số hoặc lợi nhuận một trong hai chỉ tiêu dưới 90% thì không hoàn thành kế hoạch. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), dù doanh số đạt 120%. Do đó, điều kiện \"Công ty hoàn thành kế hoạch\" (100 điểm) để nhân viên được lương tháng 14 không được đáp ứng."
+   }
+  ]
+ }
+]

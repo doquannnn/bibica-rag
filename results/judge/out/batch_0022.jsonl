@@ -1,0 +1,60 @@
+{"key": "bd74488f865a7805", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct."}
+{"key": "44be63f229513963", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct; minor slip placing it in mục II."}
+{"key": "52263169ed8335e6", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "States 30%; correct is 35%."}
+{"key": "f03ed6a429382167", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% correct."}
+{"key": "33fa835103e17044", "qid": "QCL-082", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "40% correct but invents grouping under đại học staff."}
+{"key": "b3112de0a4217a84", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% correct."}
+{"key": "d45f8e9fbf836c6c", "qid": "QCL-083", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although Phụ lục 2 gives 20% and 30%."}
+{"key": "25e904abc55bc69c", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% and 30% correct."}
+{"key": "5219f87ea3ad19a9", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% and 30% correct."}
+{"key": "862b3cc48303e657", "qid": "QCL-084", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "35% correct; invented 40% conditional for Tổ trưởng role."}
+{"key": "73f622f6262c58da", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Claims 40%; table gives 35%; Điều 15 misapplied."}
+{"key": "b1739cc2b61d3c77", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% correct."}
+{"key": "a5528179682ed664", "qid": "QCL-085", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses; values 50/10/60 exist in Phụ lục 2."}
+{"key": "6d2ebe4d859c7fb5", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "50, 10, 60 correct."}
+{"key": "99eb24c290b37f9a", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gives 30/10/40 (wrong column); correct 50/10/60."}
+{"key": "7122d4900eee2a20", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Nhóm 2 should be none, total 10; says 10 and 20."}
+{"key": "16460bfc08a4c972", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated mapping from table I; wrong."}
+{"key": "bd7ff95035069252", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated per-group splits; BTGĐ has no nhóm 2, nhóm 3 =10."}
+{"key": "e24d28e785792a26", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "No 30/40 values; misstates Điều 6 Nhóm 3 membership."}
+{"key": "8bd22037d9c358a2", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 40 and 50; correct 30 and 40."}
+{"key": "c550d9b577e18fab", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 10%, not nhóm 2; wrong."}
+{"key": "3a278850c1eb34d8", "qid": "QCL-089", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Refuses although Phụ lục 3 gives 60/40 points and ±1 rule."}
+{"key": "d920b0b2a1ad06cf", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60/40, ±1 per 1%, <90% rule, bands all correct."}
+{"key": "ba1efcfc4d2c2cf2", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60/40, ±1 per 1%, <90% rule correct."}
+{"key": "750dfadb286b8bfd", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct with full scale."}
+{"key": "d4e2522cceb75d52", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct."}
+{"key": "2e6511005f2336c9", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct."}
+{"key": "6a0b201dd02c2e57", "qid": "QCL-093", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "½ month and components right; formula double-counts KPI; cites Phụ lục 2."}
+{"key": "21ca2614a7bd7969", "qid": "QCL-093", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Level, formula, components right; invented definitions of lương cứng/KPI."}
+{"key": "bab1cd464a42c072", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "½ month, formula and components all correct."}
+{"key": "60aca6a412db6f38", "qid": "QCL-094", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Refuses; Phụ lục 3 allows 108 points calc; citations misnumbered."}
+{"key": "12306ba422f45d6f", "qid": "QCL-094", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 100 points, no extra pay; correct 108, tháng 15-16."}
+{"key": "4fd890ee8145d189", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Band tháng 15-16 right but points miscalculated (104 not 108), contradictory."}
+{"key": "75783ff1620ff937", "qid": "QCL-095", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses; Điều 12 misattributed; <90% rule exists in Phụ lục 3."}
+{"key": "1fcc13695525eab9", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: lợi nhuận 88% <90% so not completed."}
+{"key": "a3af7c63427b1be1", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, <90% rule."}
+{"key": "be4c7ac6ba2c1cc9", "qid": "QCL-096", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Refuses; wrongly locates details in Phụ lục 02; answer is in Phụ lục 4."}
+{"key": "987cd68e71401f4e", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and max 40 correct."}
+{"key": "ecdfdfbcdaf33fe4", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and max 40 correct."}
+{"key": "b06ac5edf6cc7895", "qid": "QCL-097", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses; Phụ lục 4 gives 10 points."}
+{"key": "80ba7b1b99ad06e1", "qid": "QCL-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points correct; reasoning muddled about table rows."}
+{"key": "c248f2ad5af5e4f5", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 5 points; correct 10."}
+{"key": "b1fca3cccdbeda51", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct."}
+{"key": "39ea6900098773b7", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct."}
+{"key": "9f05790a1a981f9d", "qid": "QCL-098", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 8 points, contradicts itself, invents combining criteria."}
+{"key": "b96cb25cff444cf7", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years correct."}
+{"key": "9730e9798504f439", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years correct."}
+{"key": "51a0a76dc0032b8c", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years correct."}
+{"key": "d8c6229797999b09", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct."}
+{"key": "f16b6acb5ce4b001", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct."}
+{"key": "dd45d78de99e4b87", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points with full scale correct."}
+{"key": "c0bcd9b46376690f", "qid": "QCL-101", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong criteria; applies non-QTV seniority rule to QTV."}
+{"key": "2bd8dbc1b362aef4", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria with coefficients and max points correct."}
+{"key": "acc9af30b085eba5", "qid": "QCL-101", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Criteria correct; misapplies 'chọn 1 trong 2' rule to all criteria."}
+{"key": "2c7d29375a93ce73", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Ignores Phụ lục 4 scoring; applies 4A rule wrongly to QTV."}
+{"key": "85297dfea849bb74", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Scores 10 for Rất quan trọng/Khó thay thế; 100 points, 3 bậc wrong."}
+{"key": "893f7b5cbfa90fed", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 77 but headline 100, then 15; no nâng 1 bậc result."}
+{"key": "18720ee01ee9c6a9", "qid": "QCL-104", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses; Phụ lục 4 gives 20 points."}
+{"key": "fea4f7976295f455", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20 points with choose-higher reasoning correct."}
+{"key": "101e5b3baf3abfbd", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20 points correct."}

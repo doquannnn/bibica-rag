@@ -1,0 +1,16 @@
+{"key": "62145b962e791433", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD parties right; QCL/NQLD issuers not identified, mischaracterised as covering cases outside TULD"}
+{"key": "e556151e726a4670", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD and QCL right; NQLD wrongly dated 26/04/2024 (actually 22/03/2024), wrong cite"}
+{"key": "07acadbeec81895a", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD parties correct; QCL/NQLD issuer (Bibica, Tổng Giám đốc) not stated"}
+{"key": "e4fd7915d5a554d7", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD roles only, no names; QCL/NQLD issuer not named"}
+{"key": "d5408139869e4f0a", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; says QCL issuer not in documents"}
+{"key": "806e34b663bbc47b", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD(22/03/2024) right; wrongly says QCL signer unavailable"}
+{"key": "24bad40d413d3194", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD roles with Pan, no names; QCL/NQLD issuer missing"}
+{"key": "bb790b9b894eca31", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "No Pan/Thiện for TULD; NQLD Hoàng ok; QCL only 'Công ty'"}
+{"key": "dd816c851da34f5a", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only Thiện for TULD; no Pan/Hoàng; QCL/NQLD issuers vague"}
+{"key": "4f267b48f0831bac", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Generic; no parties, names or companies identified"}
+{"key": "a6226c2ce11d24b4", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD roles with Pan, no names; QCL/NQLD issuer missing"}
+{"key": "04076f09fe563964", "qid": "MULTI-025", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Misattributes NQLD to union committee; no parties named"}
+{"key": "b7b1a76009b986ac", "qid": "MULTI-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three issuers and names correct"}
+{"key": "c20d52c70ba810bd", "qid": "MULTI-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All correct: Pan, Hoàng, Thiện, Bibica, dates"}
+{"key": "567adf10090eec6a", "qid": "MULTI-025", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conflates 'Bibica tiêu dùng Pan'; no names; wrong parties"}
+{"key": "6166fd9c3657d383", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD roles with Pan, no names; QCL/NQLD issuer missing"}

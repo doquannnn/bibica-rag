@@ -1,0 +1,57 @@
+{"key": "212ff83d718bf875", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three groups correct"}
+{"key": "f522e2e0d82ff255", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct, no citations"}
+{"key": "b00acc81acbeca31", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "5c7411de10574088", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "4f918791686485e9", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "82d61a59058c678a", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%; extra NQLD detail supported"}
+{"key": "e2057e303cbd5c03", "qid": "QCL-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lễ 100% given; phép năm 100% not stated"}
+{"key": "1b5c787a8e730a4e", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, conditions supported"}
+{"key": "8c6405a608f9c204", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100% stated"}
+{"key": "5494510aaad0c02b", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, extra supported"}
+{"key": "45451d7e681763a7", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "1ebe420f4b3ebc7a", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with accurate extra"}
+{"key": "f3d841dbc8bb32ca", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "f26995ab97d66808", "qid": "QCL-027", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct basis; wrongly says tổng quỹ includes quỹ khen thưởng phúc lợi"}
+{"key": "07e130eda34a13d3", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Four funds correct; khen thưởng fund noted as separate"}
+{"key": "8a0c22e7a16c326e", "qid": "QCL-028", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Four funds right; QC, cơ điện misplaced under gián tiếp"}
+{"key": "6365eb8f176aaa34", "qid": "QCL-028", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Four funds right; QC misplaced under gián tiếp"}
+{"key": "c37453c042f93e7f", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Adds quỹ khen thưởng phúc lợi as fifth component of tổng quỹ"}
+{"key": "c963b6ad564e5b9d", "qid": "QCL-028", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Structure wrong: chế độ/hỗ trợ under bổ sung; adds extra fund"}
+{"key": "abc796839da56187", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "339e270b195f5d71", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "6c1855cb85fda74e", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "e5a301e133707444", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: <50% no KPI bonus"}
+{"key": "a1f81c8fe0eb6d82", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d6aa3b1abc9a3958", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "1fb2de79d1077ae4", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "575d7633b8443029", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "510b3f0b0dbe0b38", "qid": "QCL-031", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says no, then contradicts: may still get tháng 13 per Phụ lục 3"}
+{"key": "e51275e67c079afd", "qid": "QCL-031", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says may receive tháng 13; contradicts Điều 9"}
+{"key": "150c6e03cc718ae2", "qid": "QCL-031", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct conclusion; misattributes to Phụ lục 3, says docs silent on others"}
+{"key": "9fb8fe6b9b0596d7", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct and complete"}
+{"key": "e92d70a68369cb8d", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct conclusion; slight grouping looseness"}
+{"key": "a59d985daff4bea8", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 14-day rule"}
+{"key": "ec51e63f1c293c3d", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; wrongly says applies to company-fault cases"}
+{"key": "3a53c080b9685f36", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; wrongly says applies to company-fault cases"}
+{"key": "87da91dcd2271e5a", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; same company-fault error; NQLD claim unverified"}
+{"key": "6c46fcbeb2fd29c5", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; wrongly extends to company-fault cases"}
+{"key": "39859d2233e75548", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says no pay; misreads birthday-cost clause"}
+{"key": "9f97a45cfdae82f4", "qid": "QCL-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct yes, full pay; irrelevant extra"}
+{"key": "e8a83e72e4c98f99", "qid": "QCL-035", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says yes but muddled, never states full pay; unsupported claims"}
+{"key": "9b2fb145184f4a99", "qid": "QCL-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct full pay; irrelevant extras supported"}
+{"key": "45284ffdff7367cc", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses though Điều 10 answers it"}
+{"key": "b8fc0911968abf94", "qid": "QCL-036", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD and QCL ngày 15; mislabels TULD groups"}
+{"key": "6390fe63e01d6e8d", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD plus QCL ngày 15"}
+{"key": "d0d5519c167170b1", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD rule only; no QCL ngày 15"}
+{"key": "2c6dcb9ea2a19503", "qid": "QCL-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD only; garbled grouping and irrelevant birthday claim"}
+{"key": "bebc6ca3185ba9d2", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "TULD only; some irrelevant citations"}
+{"key": "38b96fa5766f55cc", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day plus bank delay"}
+{"key": "80001d34b4c83122", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct, no cites"}
+{"key": "c6df06a7bc061ade", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "f2bde94c949679f1", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; bank delay omitted but minor"}
+{"key": "106271f0061042ca", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct incl. bank delay"}
+{"key": "9342ac46672fe93a", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bibica account; extras supported"}
+{"key": "5a4c1415d68d9211", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "a9c908226b7b56d9", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "30ede8b546eb9581", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "f3f4e4d23299cfd8", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}

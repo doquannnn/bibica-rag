@@ -1,0 +1,40 @@
+{"key": "739f02e83bac06fe", "qid": "NQLD-081", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: quid-pro-quo is sexual harassment per Điều 20; penalty mapping is reasonable inference."}
+{"key": "4434cd744f1b3d9e", "qid": "NQLD-081", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correctly says harassment; claims penalties range khiển trách to sa thải, unsupported."}
+{"key": "9b1631ebb074241f", "qid": "NQLD-082", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Focuses on false-info/penalties; never states Điều 23 confidentiality rule directly."}
+{"key": "51c1847e3d8e3e9b", "qid": "NQLD-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, states Điều 23 rule."}
+{"key": "e2460ed5c724e48f", "qid": "NQLD-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Consent required plus both exceptions; QTV extra is correct."}
+{"key": "cbca4ad21dda484b", "qid": "NQLD-083", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says can't force but omits consent/exceptions; QTV nghỉ bù rule generalized to all."}
+{"key": "124844b864295887", "qid": "NQLD-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: +1 day per 5 years."}
+{"key": "7147ef88d3d406be", "qid": "NQLD-085", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly claims documents lack the rule; answer exists in NQLD Điều 7."}
+{"key": "5a8480052235f89e", "qid": "NQLD-086", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "d08a635ca83295c3", "qid": "NQLD-086", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misreads question as electricity cost; refuses although answer exists."}
+{"key": "b1ccaaec1edd4ec7", "qid": "NQLD-087", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Leads with 'Có' but mentions sick-leave prohibition; contradictory conclusion."}
+{"key": "0be5f6e6bd3212ee", "qid": "NQLD-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Generic, misses sick-leave rule; false claims about TULD/BLLĐ handling."}
+{"key": "52c629332b090553", "qid": "NQLD-088", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: after 3 years not tái phạm; 'tự động xóa' slight paraphrase."}
+{"key": "c658387b6ea9b8c2", "qid": "NQLD-088", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misreads tái phạm as tai nạn lao động; refuses."}
+{"key": "3ed4166fbf9f6df4", "qid": "NQLD-091", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Misreads question, refuses; invents criminal-termination rule."}
+{"key": "aeaec121ecb86795", "qid": "NQLD-091", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although NQLD Điều 27 answers it."}
+{"key": "c4e72b1399218b57", "qid": "NQLD-092", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách correct; 'nhiều lần → sa thải' is unsupported."}
+{"key": "674c16627748837f", "qid": "NQLD-092", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Answers about probation, refuses; misses khiển trách."}
+{"key": "f852dee6be70bcce", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition with accurate extras."}
+{"key": "f31e10003c2ed2d1", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct definition."}
+{"key": "c5164ffb9836646a", "qid": "NQLD-095", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Full list both cases; TULD Điều 5 claim is unsupported."}
+{"key": "a625df4a0bf68ff2", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "List correct; omits TGĐ approver variant for bỏ việc, minor."}
+{"key": "92edb29f695ac1b3", "qid": "NQLD-097", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong thresholds (3 or 6 months) and wrong source."}
+{"key": "025d726dd9414fb0", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "All three thresholds correct."}
+{"key": "2ec91d2e4ae084e4", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both definitions correct."}
+{"key": "fb473d5edb74f633", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both definitions correct."}
+{"key": "9239e974c8bb993a", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Definition and sa thải correct."}
+{"key": "f3baa87710cf7063", "qid": "NQLD-099", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right; adds false condition that sa thải needs serious damage."}
+{"key": "0a2baa3f05621fa7", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list; TULD Điều 18 note correct."}
+{"key": "ac0873a39685ce37", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list."}
+{"key": "8d043348d474ae0d", "qid": "QCL-001", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits 'trả lương theo công việc'; describes salary structure instead."}
+{"key": "cc75daed226f93b7", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct; cites QCL Điều 2 instead of Điều 1."}
+{"key": "cf6257bec9f35b8f", "qid": "QCL-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although QCL Điều 1 says Tổng Giám Đốc."}
+{"key": "b0ae1595f7df3b69", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "3ad210889263b2c4", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 16 formula cited as Điều 2, minor."}
+{"key": "3b5d0989c3dc6b7c", "qid": "QCL-004", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition correct; invented direct/indirect split of LCB formula."}
+{"key": "7fabe6ec5b247963", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: LCB + hỗ trợ."}
+{"key": "df9a81900b6f85cd", "qid": "QCL-005", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Core right but adds bổ sung/deductions to lương cứng; wrong article numbers."}
+{"key": "91cf0922d3c8fe9a", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition with accurate breakdown."}
+{"key": "66a3937d8c101029", "qid": "QCL-006", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Definition right but adds deductions to LCV; wrong article numbers."}

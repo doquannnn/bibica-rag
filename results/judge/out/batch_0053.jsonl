@@ -1,0 +1,147 @@
+{"key": "00c9fe982c083df9", "qid": "QCL-098", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "6 diem correct; misattributes 1-of-2 choice to experience criterion"}
+{"key": "31bbc68804d81321", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 6 points"}
+{"key": "871001c4fc06d74e", "qid": "QCL-098", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 4 points; wrong band"}
+{"key": "6dc3f656fc3fc287", "qid": "QCL-098", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Headline 4 then concludes 6; contradictory"}
+{"key": "7e2edfc0bcb038e1", "qid": "QCL-098", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 4 and misreads choice rule"}
+{"key": "10e970d821a3b400", "qid": "QCL-098", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Headline 4 then concludes 6; contradictory"}
+{"key": "a742ac35bd0d2f8e", "qid": "QCL-098", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Headline 4 then concludes 6; contradictory"}
+{"key": "6dd18ed625c27c3f", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years"}
+{"key": "720b5e1b599e3c7f", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "e513055e9f5f0ff2", "qid": "QCL-099", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct values; invents vi tri/con nguoi level split and averaging"}
+{"key": "0126e850971e9568", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "3bfa036a3a1fa2a4", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "f190f278b1b85ddc", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "335d5b762cb494ee", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "ed4aeaa6ec8fb761", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "9c428a8a3fc62358", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "57d94ec40279e2d8", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "3d60148ba9b6fc05", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "85 diem correct, no citation"}
+{"key": "785fc755fe556422", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 diem correct"}
+{"key": "c562f7a12bc14af5", "qid": "QCL-101", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria correct; wrongly says choose 1 of de xuat/tham nien"}
+{"key": "dd67f662abe6f6b7", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct list"}
+{"key": "d5dd6e900ffdd732", "qid": "QCL-101", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct list; wrong 1-of-2 claim"}
+{"key": "0c17a53e6cc35ada", "qid": "QCL-101", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct list; wrong 1-of-2 claim"}
+{"key": "367f0332317fc934", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct list"}
+{"key": "2f5ad0487348e0d6", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "77 computed but headline 100, no bac result, invents 70 threshold"}
+{"key": "99280a2a0e114091", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong total and result"}
+{"key": "364202bd6a10d061", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "77 right but denies doc gives bac luong result; headline 100"}
+{"key": "5de195796ec78111", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "77 right but claims doc lacks nang luong result"}
+{"key": "63dfac8d6e944559", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "77 then concludes 15 diem; wrong"}
+{"key": "d6ffe15d3b060f64", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "77 right, no bac result, wrong choose-1 claim"}
+{"key": "d6cb1db0b665d066", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20 diem"}
+{"key": "84d96bd9156fde3c", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20 diem"}
+{"key": "97cdedc031e32b73", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20 diem"}
+{"key": "1ef6dce572de401b", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "15 diem wrong"}
+{"key": "eeae7da0fa407dfc", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "5 diem wrong"}
+{"key": "63289d7bfaef9e15", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "5 diem wrong"}
+{"key": "421737e149d9cd55", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "10 diem wrong"}
+{"key": "05afc8e0c26acaea", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "9f47be9dd4ebb751", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "b3892db428d8c8e3", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "bd705b1f886ecf2c", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct plus worker rep"}
+{"key": "ae8e049bd0368e17", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct plus worker rep"}
+{"key": "713252d63df24055", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "e4968fd8f7cb220d", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "44177ce0350a2535", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "a954081d9d665b08", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "eee857ff1a415c86", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "5da43a9610dc615d", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "c85fbd4f80509bbc", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 nam correct"}
+{"key": "403e8432c828f9d8", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; cites QCL Dieu 12 wrongly"}
+{"key": "c5f76e29c3adef48", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "88a00b3b6ce3360d", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d7f247e4f8015a69", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "b66044bf9616ea45", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "07c9bfb95f92bc01", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; extra QCL/NQLD citations wrong"}
+{"key": "f8008eef4e0661a7", "qid": "TULD-006", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Says Thoa uoc period not hop dong; wrong 90-day claim"}
+{"key": "98ebb8e28f969d78", "qid": "TULD-006", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thoa uoc period, wrong time-span claim"}
+{"key": "a346ee6f72171fc5", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct plus ngung viec detail"}
+{"key": "8a36bf74efdbf89e", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "ad36d9c6327ddc7f", "qid": "TULD-006", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thoa uoc period; wrong 90 days from signing"}
+{"key": "509a74f247c6ebf2", "qid": "TULD-006", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Wrongly says Thoa uoc term is 90 days"}
+{"key": "37ed72dded6832e2", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "fc0858ebda721a73", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "b5b365777dd709ec", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "4a3990f88e2eb0a2", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "b768caeb48fb5100", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "68292bed868a1995", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 gio/26 cong correct"}
+{"key": "ce8e2680b9796abb", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% luong correct"}
+{"key": "25590fb783ceb9c9", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "6eab3d3131e54568", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct but cited only QCL Dieu 14"}
+{"key": "91fec479727df616", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "bea2148556c5bdb0", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; citation labels misplaced"}
+{"key": "27d6da45099efad0", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; citation labels swapped"}
+{"key": "614cd054c3fd4897", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "be1a07436194859b", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "18afcf551fa8d6e0", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "158f356112befba4", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "ec1200b721e4d69b", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "212ecfe65104e278", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "f6515c6b599c8fc8", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn correct"}
+{"key": "a6bf3b397670af31", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "It nhat mot lan correct"}
+{"key": "0918b3035be915af", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "It nhat mot lan correct"}
+{"key": "4a47307ae6070f79", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "It nhat mot lan correct"}
+{"key": "57ee98690c1019f0", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "3481347193f880c6", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "0bb412d18caae53f", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "92f8ee3a78d41f75", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "38c1fef988bc3e86", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct; extra TGD note supported"}
+{"key": "70a1ff4f1e6ae70e", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "db1149b18945c029", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "44c6760be6596bb7", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Not re-signed"}
+{"key": "1a6519381853434e", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "6a09a55b773970c7", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "70e24d8db9093ec3", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d788fe554bd397ac", "qid": "TULD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; unsupported NQLD Dieu 30 re-sign claim"}
+{"key": "57fc98f2161a964d", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d8b097fe1a4817ae", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sinh nhat Cong ty"}
+{"key": "69f96c5342417804", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives nghi phep, misses sinh nhat Cong ty"}
+{"key": "b51082a3062b9848", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "31a88a8ecb8000a7", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "448e3fc2500a0739", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "fece074dc6112625", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says nghi phep nam; wrong"}
+{"key": "f2c6bf46f16ecfaf", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "500k/200k/100k correct"}
+{"key": "fff5a480f6dd8661", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "500k/200k/100k correct"}
+{"key": "1b14220a9bc591d8", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "500k/200k/100k correct"}
+{"key": "3aa1bcb2f9a540ad", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "500k/200k/100k correct"}
+{"key": "e949019d63966707", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "d519a583ff1f8a99", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "500k/200k/100k correct"}
+{"key": "0748b3fcc1b5014b", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct"}
+{"key": "a4c625c174f198da", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "1f990a2fa1b34079", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "3fde7287a0464778", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "0b89eac7d7a92c0b", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "5c381cf2a5821073", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "602677718d07f7fe", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngay 20/10/15 correct"}
+{"key": "bf979622e7b8fb46", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "03 chuong 19 dieu, registered"}
+{"key": "ee4426aa3416a14c", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "48355aa3b8382286", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct"}
+{"key": "83d459f7196c5b21", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "3996558749f39efb", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "8a5e11c185cb1a8b", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "fd505a502038a451", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "e9eccc334b2bd1e4", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "ef0d3a1476e41fd2", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "1fc290819828217e", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "aa9140022d0cb96f", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "79f48c3c17731264", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "b263093df5844969", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 days and expiry rule correct"}
+{"key": "b683a245fdd75cce", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes and 100k"}
+{"key": "85c4b0d9fee94047", "qid": "TULD-021", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says probationers not bound; wrong"}
+{"key": "ff599a333854697a", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "c58b61ff485277b7", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "80a50d315c243aa0", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "8eeaf6768ca0affb", "qid": "TULD-021", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says not bound; wrong"}
+{"key": "177081f2a475d11a", "qid": "TULD-022", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct conditional but note wrongly limits rule to Uy vien"}
+{"key": "ea6afe8b67f424c7", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "3ebd44a382e4a0ac", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "ae553f9bcf661245", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "fb518fd25e239768", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "500c147b90d0021a", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "95923228fc4e03dc", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "bcf3d318704d2b89", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "87deaa6cb314e270", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "f650352bfc3a7b0b", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "9f2a5e56771e2fbf", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "88170d5eb7324895", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}
+{"key": "91b18afa2a88e3f9", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 trieu and 500k correct"}

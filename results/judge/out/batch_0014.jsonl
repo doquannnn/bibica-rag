@@ -1,0 +1,58 @@
+{"key": "e556151e726a4670", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD/QCL right; Bibica not named; NQLD signer/date 26/04 fabricated, cites NQLD Điều 4"}
+{"key": "c20d52c70ba810bd", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD, QCL correct; NQLD date 22/03/2024 fabricated, TGĐ/union consultation omitted"}
+{"key": "dd816c851da34f5a", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Only Thiện named; Pan, Hoàng, Bibica missing; QCL Điều 12 citation wrong"}
+{"key": "fbeae1172d277515", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "All early-return conditions and both allowance tiers correct"}
+{"key": "14b73294eb9c4ba6", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing 'at least 04 months' condition; allowance correct"}
+{"key": "965185bc151c7caa", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing 04-month condition; allowances incl. 14-day BHTN correct"}
+{"key": "7b3f472a1f64c2cd", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Deduction right; misses car-lending help; wrong NQLD Điều 28 attribution"}
+{"key": "45ddc0b240e14140", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Deduction right; invents phúng điếu support in HĐLĐ; misses car lending"}
+{"key": "a9abc79f3c6c61c6", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly denies funeral deduction; car lending 100 km correct"}
+{"key": "efcdf037f39a2418", "qid": "MULTI-029", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "48h correct; weekly rest '2 days' fabricated, wrong citations"}
+{"key": "e8e6b4ca3dfd06a2", "qid": "MULTI-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1 day/week and 48h/26 days correct; omits 4-day exception"}
+{"key": "9091b69c4e20ea57", "qid": "MULTI-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete: 1 day/week, 4 days/month, 48h/26 days"}
+{"key": "9959e01bb20412ab", "qid": "MULTI-030", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Conditions right but omits quỹ khen thưởng source; docs merged"}
+{"key": "3297d1c9816e27fb", "qid": "MULTI-030", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "QCL Đ21 ok; misframes Phụ lục 04 raise points as bonus, misattributed"}
+{"key": "632f5daee0484e06", "qid": "MULTI-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both TULD and QCL provisions correct"}
+{"key": "b74ca776bb7c7a7b", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; points to Phụ lục 01"}
+{"key": "4d2eb9d368b07812", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; Phụ lục 01 only references attachment"}
+{"key": "59b44b495c25a678", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related facts accurate"}
+{"key": "89f31fd1d13d2692", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related references accurate"}
+{"key": "4a8219bf44c0be91", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "4251f1b3a1b401b6", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related references accurate"}
+{"key": "2a4ce3b3e8b403d0", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "53596a960a20777c", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related hỗ trợ figures accurate"}
+{"key": "c34ad96d3aafca66", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; notes QCL mentions tiền ăn giữa ca"}
+{"key": "e9e1a2c6c3306d7c", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "73ddacf92290b840", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related NQLD/TULD facts accurate"}
+{"key": "f12c09dc8f20cd17", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related facts accurate"}
+{"key": "4deb19ce48424646", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "f5939e7d39d2c300", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; mentions unused-leave payout"}
+{"key": "7a43a788eae33258", "qid": "NONE-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines; misstates maternity allowance as 'tối đa 2 triệu'"}
+{"key": "5295a999459807e8", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; one citation (NQLD Điều 32) misplaced"}
+{"key": "d29af4c0538bfa05", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related facts accurate"}
+{"key": "c678ecb398e667fb", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related facts accurate"}
+{"key": "7f1e2c2bae07b3d8", "qid": "NONE-014", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": false, "note": "Invents 1% union fee, cites QCL Điều 12"}
+{"key": "7d4eb4a4b6a1879f", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; công đoàn phí listed without rate"}
+{"key": "58fcf5d774521caf", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "8f6387edf20fb66e", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "f532bee1892d7790", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; mentions giờ đưa rước reference"}
+{"key": "6aadb7767f5ec820", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "fd1d88380cd39583", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly says NQLD defers male leave to Luật BHXH"}
+{"key": "aa15427169375c0a", "qid": "NONE-017", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": false, "note": "Asserts 15 days from outside law as company policy"}
+{"key": "32eaf5a32e917d30", "qid": "NONE-017", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Declines; wrongly says NQLD Điều 9 ignores male workers"}
+{"key": "e8d403c19a8dcfca", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; bonus amounts accurate"}
+{"key": "e54ba8ab6f17de6e", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; QCL article number slip"}
+{"key": "b38396e043dab9c7", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines"}
+{"key": "d2de53ec43a214e7", "qid": "NQLD-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct decree 145/2020/NĐ-CP"}
+{"key": "ca259651b33d4b17", "qid": "NQLD-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct decree 145/2020/NĐ-CP"}
+{"key": "89d6369c96abdd7f", "qid": "NQLD-002", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Issuer given as company not TGĐ; TGĐ wrongly listed as consulted"}
+{"key": "f9464793d47f7d87", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TGĐ issues after agreeing with BCH Công đoàn"}
+{"key": "111bfcf1da16db47", "qid": "NQLD-002", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct core; wrongly adds TGĐ as consultation party"}
+{"key": "5ec4c6fc0678283d", "qid": "NQLD-004", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; 'issued 04/2024' unsupported, NQLD date blank"}
+{"key": "4ee2b0ccbe61d5fa", "qid": "NQLD-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: effective upon Sở LĐTBXH registration"}
+{"key": "392ebb7bff390c7f", "qid": "NQLD-006", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Refuses although NQLD Điều 5 gives hours"}
+{"key": "6771ddadadb48e17", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "8:00-16:30, break 12:00-13:00 correct"}
+{"key": "63a63273ed1a15fc", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "8:00-16:30, break 12:00-13:00 correct"}
+{"key": "37d8bb611dc156ad", "qid": "NQLD-007", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says paid but not 'nguyên lương'; irrelevant extras"}
+{"key": "2c009641e63b5f77", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyên lương correct; extra TULD birthday holiday accurate"}
+{"key": "59b78d12a6b1e348", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: nguyên lương per BLLĐ"}

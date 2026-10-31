@@ -1,0 +1,557 @@
+[
+ {
+  "qid": "QCL-035",
+  "question": "ngung viec do loi cua cong ty thi cnv co duoc tra luong ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Có. Nếu ngừng việc do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động (QCL Điều 10).",
+  "key_facts": [
+   "trả đủ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 10": "Điều 10. Công ty áp dụng phương pháp tính lương như sau\n1. Phương pháp tính lương CNV gián tiếp, phục vụ: Trả theo mức lương cơ bản, hỗ trợ căn cứ vào ngày công làm việc trong tháng; Thưởng KPI căn cứ kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng.\n2. Phương pháp tính lương CNV sản xuất: áp dụng cho các đối tượng trực tiếp sản xuất từ cấp Quản đốc, Phó quản đốc, Thống kê, Trưởng ca trở xuống. Lương sẽ được xác định trên cơ sở sản lượng sản xuất và đơn giá sản phẩm, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n3. Lương bốc xếp: Áp dụng cho đối tượng bốc xếp. Lương được xác định trên cơ sở khối lượng bốc dỡ và đơn giá bốc xếp, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n4. Lương ngừng việc:\na. Nếu do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động.\nb. Nếu do lỗi của CNV thì CNV đó không được trả lương; những CNV trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu.\nc. Nếu vì sự cố về điện, nước mà không do lỗi của Công ty hoặc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa, di dời địa điểm hoạt động theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc vì lý do kinh tế thì hai bên thỏa thuận về tiền lương ngừng việc như sau:\ni. Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu.\nii. Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu."
+  },
+  "answers": [
+   {
+    "key": "c1b3fb3c585a1e2f",
+    "answer": "Không, người lao động không được trả lương khi nghỉ việc do lỗi của công ty.\n\nTheo quy định về chế độ nghỉ việc, người lao động được hưởng lương và các chế độ khác tương ứng với thời gian làm việc thực tế. Tuy nhiên, nếu nghỉ việc do lỗi của công ty (ví dụ: công ty không trả lương, không cung cấp điều kiện làm việc, hoặc vi phạm các quy định trong hợp đồng lao động), người lao động có quyền yêu cầu bồi thường thiệt hại theo quy định của pháp luật và các văn bản nội bộ.\n\nTrong trường hợp này, người lao động có thể:\n- Yêu cầu bồi thường thiệt hại theo quy định về trách nhiệm vật chất hoặc bồi thường do vi phạm pháp luật.\n- Đơn khiếu nại với người sử dụng lao động hoặc cơ quan có thẩm quyền.\n- Yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động.\n\nNếu công ty đã vi phạm, người lao động có thể được bồi thường các khoản thiệt hại thực tế mà họ phải chịu do hành vi vi phạm của công ty.\n\nNguồn: [NQLD Điều 32], [QCL Điều 15], [QCL Điều 16]"
+   },
+   {
+    "key": "1a8d784ea3a36c14",
+    "answer": "Có, Công nhân viên được trả lương khi ngừng việc do lỗi của Công ty.\n\nTheo **Quy chế tiền lương, tiền thưởng Bibica năm 2024**, nếu ngừng việc do lỗi của Công ty, CNV được trả đủ tiền lương theo hợp đồng lao động [QCL Điều 10].\n\nNgoài ra, **Thỏa ước lao động tập thể 2024** cũng quy định tương tự: trường hợp ngừng việc do thiếu đơn hàng hay lý do khách quan (bao gồm lỗi của công ty), tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu; nếu trên 14 ngày thì 14 ngày đầu phải đảm bảo không thấp hơn mức lương tối thiểu [TULD Điều 5]."
+   },
+   {
+    "key": "1920254790213555",
+    "answer": "Nếu việc ngừng việc do lỗi của Công ty, Công nhân viên được trả đủ tiền lương theo hợp đồng lao động [QCL Điều 10].\n\nTuy nhiên, nếu việc ngừng việc do lỗi của Công nhân viên, họ không được trả lương; chỉ những người cùng đơn vị ngừng việc mới được trả lương theo mức thỏa thuận nhưng không thấp hơn mức lương tối thiểu [QCL Điều 10].\n\nTrong trường hợp ngừng việc do sự cố điện, nước hoặc thiên tai (không do lỗi của Công ty), tiền lương ngừng việc được hai bên thỏa thuận, đảm bảo mức lương trong 14 ngày đầu không thấp hơn mức lương tối thiểu [QCL Điều 10].\n\nNếu do thiếu đơn hàng hay lý do khách quan khác, Công ty có thể thông báo nghỉ phép năm hoặc trả lương ngừng việc theo quy định tương tự về mức lương tối thiểu [TULD Điều 5].\n\nTiền lương hàng tháng được chi trả vào ngày 15 của mỗi tháng [QCL Điều 11]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-036",
+  "question": "Tiền lương hàng tháng được Công ty chi trả vào ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của tháng (QCL Điều 11).",
+  "key_facts": [
+   "ngày 15"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "d2602d985496973c",
+    "answer": "Tiền lương hàng tháng được chi trả vào ngày **15** của tháng đối với Công ty Bibica. Nếu ngày 15 trùng ngày nghỉ, tiền lương sẽ được trả vào ngày làm việc kế tiếp (trừ khi tài khoản nhận khác ngân hàng chi trả, lúc này có thể trễ hơn).\n\nĐối với một số bộ phận, tiền lương được chi trả **2 kỳ**: Kỳ I vào ngày **20** của tháng và Kỳ II vào ngày **10** dương lịch tháng sau. Đối với Đội ngũ bán hàng, tiền lương được trả **01 kỳ** vào ngày **15** hàng tháng.\n\n[NQCL Điều 11], [TULD Điều 9]"
+   },
+   {
+    "key": "ced433f805bde37f",
+    "answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của mỗi tháng theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Điều 11].\n\nTuy nhiên, Thỏa ước lao động tập thể 2024 quy định tiền lương hàng tháng được chi trả 2 kỳ đối với Công nhân viên gián tiếp, phục vụ và sản xuất: Kỳ I vào ngày 20 của tháng và Kỳ II trả vào ngày 10 dương lịch tháng sau [TULD Điều 9]. Đối với đội ngũ bán hàng, tiền lương được trả 01 kỳ vào ngày 15 hàng tháng [TULD Điều 9].\n\nTrong trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [QCL Điều 11], [TULD Điều 9]."
+   },
+   {
+    "key": "557ef51eddcdf274",
+    "answer": "Tiền lương hàng tháng được chi trả theo 2 quy định khác nhau tùy vị trí:\n\n- Đối với CNV bán hàng: Chi trả 1 kỳ vào ngày 15 hàng tháng [QCL Điều 11].\n- Đối với CNV gián tiếp, phục vụ và sản xuất: Chi trả 2 kỳ, kỳ I vào ngày 20 của tháng và kỳ II vào ngày 10 tháng sau [TULD Điều 9].\n\nTrong cả 2 trường hợp, nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [QCL Điều 11], [TULD Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-037",
+  "question": "Nếu ngày trả lương rơi vào Chủ nhật hoặc ngày Lễ thì khi nào nhân viên nhận được lương?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Khi ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương; trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty thì CNV có thể nhận được trễ hơn ngày chi trả (QCL Điều 11).",
+  "key_facts": [
+   "kế tiếp"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "262e13ac479c07e3",
+    "answer": "Nếu ngày trả lương trùng Chủ nhật hoặc ngày Lễ, tiền lương sẽ được chi trả vào **ngày làm việc kế tiếp** (trừ khi tài khoản nhận khác ngân hàng chi trả, lúc này có thể trễ hơn).\n\n*   Quy định chung cho Công ty Bibica: Ngày làm việc kế tiếp là ngày trả lương [QCL Điều 11].\n*   Quy định cho một số bộ phận theo Thỏa ước lao động tập thể: Ngày làm việc kế tiếp là ngày trả lương (nếu trái hệ thống ngân hàng có thể trễ hơn) [TULD Điều 9]."
+   },
+   {
+    "key": "5522b2254d8c860b",
+    "answer": "Nếu ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương. Tuy nhiên, nếu tài khoản nhận lương của nhân viên khác với ngân hàng chi trả của Công ty, nhân viên có thể nhận lương trễ hơn ngày chi trả.\n\n[QCL Điều 11.1], [QCL Điều 11.2], [TULD Điều 9]"
+   },
+   {
+    "key": "1c83dd85842c2da2",
+    "answer": "Đối với Công nhân gián tiếp, Phục vụ và Sản xuất, ngày trả lương sẽ chuyển sang ngày làm việc kế tiếp nếu trùng ngày nghỉ [QCL Điều 12]. Đối với Đội ngũ bán hàng, ngày trả lương cũng chuyển sang ngày làm việc kế tiếp nếu trùng ngày nghỉ [TULD Điều 9].\n\nTuy nhiên, Quy chế tiền lương (QCL) Điều 11 quy định chung là ngày trả lương vào ngày 15 của tháng. Nếu ngày 15 này trùng ngày nghỉ, ngày làm việc kế tiếp sẽ là ngày trả lương. Trường hợp tài khoản nhận lương của nhân viên khác ngân hàng chi trả của công ty, nhân viên có thể nhận lương trễ hơn [QCL Điều 11]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-038",
+  "question": "Tiền lương, tiền thưởng và các khoản BHXH, BHYT, BHTN của người lao động được Công ty chi trả, nộp từ tài khoản nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty chịu trách nhiệm chi trả tiền lương, tiền thưởng, các khoản trợ cấp và nộp BHXH, BHYT, BHTN cho tất cả người lao động ký HĐLĐ với Công ty từ tài khoản của Công ty cổ phần Bibica (QCL Điều 11).",
+  "key_facts": [
+   "Bibica"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "bd1a629e0d05074e",
+    "answer": "Tiền lương hàng tháng được chi trả từ tài khoản Công ty cổ phần Bibica.\n\n*   Tiền lương hàng tháng được chi trả vào ngày 15 của tháng.\n*   Nếu trùng ngày nghỉ: Ngày làm việc kế tiếp là ngày trả lương (trừ khi tài khoản nhận khác ngân hàng chi trả, lúc này có thể trễ hơn).\n*   Công ty chịu trách nhiệm chi trả từ tài khoản Công ty cổ phần Bibica.\n\n[QCL/Điều 11]"
+   },
+   {
+    "key": "6abf898da7c5f805",
+    "answer": "Công ty chịu trách nhiệm chi trả tiền lương, tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả người lao động ký hợp đồng lao động từ **tài khoản của Công ty cổ phần Bibica**.\n\n[QCL Điều 11]"
+   },
+   {
+    "key": "9c2a61efad9a7f43",
+    "answer": "Tiền lương, tiền thưởng, các khoản trợ cấp và nghĩa vụ BHXH, BHYT, BHTN được Công ty chi trả và nộp từ tài khoản của Công ty Cổ phần Bibica.\n\n[QCL Điều 11.3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-039",
+  "question": "Lương làm thêm giờ được Công ty tính trên cơ sở thời gian làm việc chuẩn là bao nhiêu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) (QCL Điều 12).",
+  "key_facts": [
+   "48 giờ",
+   "26 ngày",
+   "8 giờ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "cd95a1fe15506512",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, thời gian làm việc chuẩn để tính lương làm thêm giờ là 8 giờ/ngày và 40 giờ/tuần.\n\n[QCL Điều 12]"
+   },
+   {
+    "key": "9254f5e45d1e8a38",
+    "answer": "Lương làm thêm giờ được tính trên cơ sở làm việc **48 giờ/tuần** hoặc **26 ngày/tháng** (tương đương 8 giờ/ngày) [QCL Điều 12]."
+   },
+   {
+    "key": "c7f87c1cd6a38bd6",
+    "answer": "Lương làm thêm giờ được tính trên cơ sở thời gian làm việc chuẩn là **48 giờ/tuần** hoặc **26 công/tháng** (tương đương 26 ngày/tháng với 8 giờ/ngày).\n\nThông tin này quy định cụ thể trong:\n- [TULD Điều 10]\n- [QCL Điều 12]\n\nLưu ý: Nội quy lao động (NQLD) chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 mà không nêu rõ cơ sở tính toán cụ thể như TULD và QCL."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-040",
+  "question": "Một công nhân có tiền lương giờ thực trả của ngày làm việc bình thường là 40.000 đồng, làm 3 giờ vào ban đêm (không phải làm thêm giờ). Theo công thức của quy chế, tiền lương làm việc ban đêm tối thiểu là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả + Tiền lương giờ thực trả x mức ít nhất 30%} x số giờ làm việc ban đêm = (40.000 + 40.000 x 30%) x 3 = 52.000 x 3 = 156.000 đồng (tối thiểu) (QCL Điều 12).",
+  "key_facts": [
+   "30%",
+   "156.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "0e4220ea5088e62d",
+    "answer": "Tiền lương làm việc ban đêm được tính bằng: (Tiền lương giờ bình thường) + (Tiền lương giờ bình thường x 30%) x Số giờ.\n\nÁp dụng cho công nhân:\n- Tiền lương giờ bình thường: 40.000 đồng.\n- Số giờ làm ban đêm: 3 giờ.\n- Tính toán: 40.000 + (40.000 x 30%) x 3 = 40.000 + 36.000 = 76.000 đồng.\n\nTổng tiền lương làm việc ban đêm tối thiểu là **76.000 đồng**.\n\n[QCL/Điều 12]"
+   },
+   {
+    "key": "6843f02e68c312ce",
+    "answer": "Theo quy định tại Điều 12, khoản 2, mục ii của Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL):\n\nTiền lương làm việc vào ban đêm = (Tiền lương giờ thực trả ngày bình thường + [Tiền lương giờ thực trả ngày bình thường x 30%]) x Số giờ làm việc vào ban đêm.\n\nÁp dụng số liệu:\n- Tiền lương giờ thực trả: 40.000 đồng.\n- Số giờ làm việc: 3 giờ.\n- Mức bổ sung tối thiểu: 30%.\n\nTính toán:\n1. Tiền lương giờ bình thường + Mức bổ sung = 40.000 + (40.000 x 30%) = 40.000 + 12.000 = 52.000 đồng.\n2. Tiền lương làm việc ban đêm = 52.000 x 3 = 156.000 đồng.\n\n[QCL Điều 12]"
+   },
+   {
+    "key": "641a00e2ac766e16",
+    "answer": "Tiền lương làm việc ban đêm tối thiểu là 52.000 đồng.\n\nCông thức tính theo [QCL Điều 12] là: (Tiền lương giờ bình thường + Tiền lương giờ bình thường x 30%) x Số giờ làm việc ban đêm.\nÁp dụng với số liệu: (40.000 + 40.000 x 30%) x 3 = (40.000 + 12.000) x 3 = 52.000 đồng.\n\nLưu ý: Công thức này khác với tiền lương làm thêm giờ ban đêm (cộng thêm 20% tiền lương giờ nghỉ lễ/tết) quy định tại [QCL Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-041",
+  "question": "Quản trị viên phát sinh công việc ngoài giờ hoặc vào cuối tuần, Lễ/Tết thì được giải quyết chế độ thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Đối với Quản trị viên, Công ty khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo quy định của Luật. QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt (QCL Điều 12).",
+  "key_facts": [
+   "nghỉ bù",
+   "tăng ca",
+   "Tổng Giám đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "cb7e5a8dd002869b",
+    "answer": "Quản trị viên phát sinh công việc ngoài giờ, cuối tuần hoặc Lễ/Tết được giải quyết theo quy định sau:\n\n1.  **Quy trình:** QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca để Tổng Giám đốc phê duyệt.\n2.  **Chế độ:**\n    *   **Khuyến khích:** Nghỉ bù (hưởng nguyên lương).\n    *   **Trường hợp không sắp xếp được nghỉ bù:** Được chấm tăng ca theo quy định của Luật Lao động.\n3.  **Lưu ý:** Nếu ngày Lễ/Tết trùng ngày nghỉ hằng tuần, làm thêm giờ vào ngày đó được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\n\n[Nguồn: QCL/Điều 12, NQLD/Điều 12]"
+   },
+   {
+    "key": "6f54af5a547ab392",
+    "answer": "Quản trị viên (QTV) phát sinh công việc ngoài giờ, vào ngày nghỉ cuối tuần hoặc Lễ/Tết được khuyến khích nghỉ bù (hưởng nguyên lương). Trường hợp không sắp xếp được nghỉ bù, QTV được chấm tăng ca theo quy định của Luật Lao động. QTV phải làm giấy xin nghỉ bù hoặc đăng ký tăng ca để được Tổng Giám đốc phê duyệt.\n\n[QCL Điều 12]"
+   },
+   {
+    "key": "487d776ded63c1cf",
+    "answer": "Đối với Quản trị viên, khi phát sinh công việc ngoài giờ, cuối tuần hoặc Lễ/Tết, công ty khuyến khích nghỉ bù (hưởng nguyên lương). Nếu không sắp xếp được nghỉ bù, Quản trị viên được chấm tăng ca theo quy định của Luật. Để làm tăng ca, Quản trị viên phải nộp đơn xin nghỉ bù hoặc đăng ký tăng ca để Tổng Giám đốc phê duyệt.\n\nCác quy định này nằm trong Quy chế tiền lương, tiền thưởng Bibica năm 2024, Chương III, Điều 12."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-042",
+  "question": "Nếu ngày Lễ trùng vào ngày nghỉ hằng tuần và tôi đi làm thêm vào ngày nghỉ bù thì được trả lương làm thêm giờ theo mức của ngày nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần được trả lương làm thêm giờ theo ngày nghỉ hằng tuần (QCL Điều 12).",
+  "key_facts": [
+   "ngày nghỉ hằng tuần"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "d532c20cd44c61bb",
+    "answer": "Theo quy định tại [QCL/Điều 12], nếu ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần và bạn đi làm thêm vào ngày nghỉ bù, bạn sẽ được **trả lương làm thêm giờ theo ngày nghỉ hằng tuần**.\n\nCụ thể, mức tính lương sẽ dựa trên tiền lương giờ thực trả của ngày làm việc bình thường hoặc đơn giá tiền lương sản phẩm của ngày làm việc bình thường, nhân với mức ít nhất 150%, 200% hoặc 300% tùy thuộc vào quy định của Bộ luật Lao động áp dụng cho từng nhóm công việc cụ thể (như quy định chi tiết trong [QCL/Điều 12]). Quy định này cũng được ghi nhận trong [TULD/Điều 10]."
+   },
+   {
+    "key": "04db737dd50e3f7f",
+    "answer": "Theo quy định của **Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL)**, nếu ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn đi làm thêm vào ngày nghỉ bù, bạn sẽ được trả lương làm thêm giờ theo **ngày nghỉ hằng tuần**.\n\nCụ thể:\n- Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\n- Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n- Mức lương làm thêm giờ được tính bằng: Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường x Mức ít nhất 150% hoặc 200% hoặc 300% x Số giờ làm thêm.\n\nNguồn: [QCL Điều 12]"
+   },
+   {
+    "key": "b219f5d943f5a055",
+    "answer": "Theo quy định của Công ty, khi ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn làm thêm vào ngày nghỉ bù, bạn được trả lương làm thêm giờ theo mức của **ngày nghỉ hằng tuần**.\n\nCụ thể:\n- **Quy chế tiền lương (QCL)**: Người lao động làm thêm giờ vào ngày nghỉ bù trong trường hợp này được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12].\n- **Thỏa ước lao động tập thể (TULD)**: Quy định tương tự, cũng xác nhận mức lương làm thêm giờ theo ngày nghỉ hằng tuần [TULD Điều 10].\n\nLưu ý: Việc làm thêm giờ này phải được thông báo và có sự đồng ý của người lao động theo Nội quy lao động [NQLD Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-043",
+  "question": "Nếu một nữ nhân viên có thâm niên 2 năm nghỉ thai sản 6 tháng thì ngoài chế độ BHXH, Công ty trợ cấp thêm khoản nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "CNV có thâm niên dưới 3 năm được Công ty trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản (ngoài trợ cấp thai sản do BHXH chi trả theo pháp luật) (QCL Điều 13).",
+  "key_facts": [
+   "1%",
+   "BHXH"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "a6131593dcf8b113",
+    "answer": "Công ty sẽ trợ cấp thêm **2 triệu đồng** trong vòng 6 tháng.\n\n*   **Đối tượng:** Nhân viên nữ có thâm niên từ 3 năm trở lên.\n*   **Điều kiện:** Mức trợ cấp 2 triệu đồng này đã bao gồm khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng.\n*   **Lưu ý:** Vì nhân viên của bạn chỉ có **2 năm** thâm niên (dưới 3 năm), theo quy định, mức trợ cấp sẽ là **1% tiền lương đóng BHXH** trong vòng 6 tháng nghỉ thai sản.\n\n[QCL Điều 12], [TULD Điều 11]"
+   },
+   {
+    "key": "1d8ee48b04a3001b",
+    "answer": "Theo quy định tại Điều 13 Quy chế tiền lương, tiền thưởng Bibica năm 2024 và Điều 11 Thỏa ước lao động tập thể 2024:\n\nĐối với nữ nhân viên có thâm niên **2 năm** (dưới 3 năm) nghỉ thai sản 6 tháng, ngoài chế độ BHXH, Công ty trợ cấp một khoản tiền tương đương **1% tiền lương đóng BHXH** trong vòng 6 tháng.\n\n[QCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "3c1c0142276e7e4c",
+    "answer": "Ngoài chế độ BHXH, Công ty trợ cấp thêm 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n\n[QCL Điều 13]\n[NQLD Điều 9]\n[TULD Điều 11]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-044",
+  "question": "tro cap thai san cua cty cho nv co tham nien du 3 nam la bao nhieu",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "CNV có thâm niên đủ 3 năm nghỉ thai sản 6 tháng được trợ cấp 2 triệu đồng trong vòng 6 tháng (đã bao gồm khoản tiền tương đương 1% lương đóng BHTN trong 6 tháng); trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng (QCL Điều 13).",
+  "key_facts": [
+   "2 triệu",
+   "6 tháng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "ae3c8f4aec8e9ffb",
+    "answer": "Trợ cấp đặc biệt trong thời gian nghỉ thai sản (6 tháng) đối với nhân viên có thâm niên từ 3 năm trở lên là **2 triệu đồng**.\n\nTuy nhiên, mức này có thể được điều chỉnh nếu:\n*   Số tiền tương đương **1% lương đóng BHTN** trong vòng 6 tháng **cao hơn 2 triệu đồng**: Khi đó áp dụng mức trợ cấp là **1% lương đóng BHTN**.\n*   Số tiền tương đương 1% lương đóng BHTN **không vượt quá 2 triệu đồng**: Vẫn áp dụng mức **2 triệu đồng**.\n\nSố tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng.\n\n[QCL Phụ lục 2], [TULD/Điều 11]"
+   },
+   {
+    "key": "b83c420d152a19cb",
+    "answer": "Đối với nhân viên có thâm niên đủ 3 năm trở lên trong thời gian nghỉ thai sản 6 tháng, Công ty chi trả trợ cấp **2 triệu đồng** (số tiền này đã bao gồm khoản tương đương 1% lương đóng BHTN trong vòng 6 tháng).\n\nNếu mức 1% lương đóng BHTN cao hơn 2 triệu đồng, Công ty sẽ áp dụng mức trợ cấp là **1% lương đóng BHTN** trong vòng 6 tháng.\n\n[TQCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "ea00827ab1248774",
+    "answer": "Đối với nhân viên có thâm niên đủ 3 năm trở lên trong thời gian nghỉ thai sản 6 tháng, Công ty chi trả trợ cấp **2 triệu đồng**.\n\nSố tiền này đã bao gồm một khoản tương đương 1% lương đóng Bảo hiểm Y tế (BHTN) trong vòng 6 tháng. Trường hợp 1% lương đóng BHTN cao hơn 2 triệu đồng, Công ty sẽ áp dụng mức trợ cấp bằng 1% lương đóng BHTN trong vòng 6 tháng đó.\n\n[QCL Điều 13], [TULD Điều 11]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-045",
+  "question": "Nghỉ ốm dài ngày nên tháng đó không đóng được bảo hiểm thất nghiệp thì công ty có bù khoản gì cho mình không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. CNV nghỉ ốm đau, thai sản, tai nạn lao động... từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN (QCL Điều 13).",
+  "key_facts": [
+   "14 ngày",
+   "1%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "2615424dcb7dc6f7",
+    "answer": "Tài liệu nội bộ không có thông tin về việc công ty có bù khoản gì khi người lao động nghỉ ốm dài ngày dẫn đến không đóng được bảo hiểm thất nghiệp.\n\nCác quy định hiện hành trong tài liệu chỉ nêu rõ:\n- Người lao động nghỉ bệnh được hưởng chế độ ốm đau theo quy định của BHXH.\n- Khi nghỉ việc riêng không có lý do chính đáng, công ty có thể thu hồi tiền lương đã chi.\n- Các khoản trừ thu nhập bao gồm BHXH, BHYT, BHTN và thuế.\n\nBạn vui lòng liên hệ trực tiếp với Phòng Hành chính Nhân sự để được tư vấn chi tiết về chính sách bảo hiểm thất nghiệp cụ thể."
+   },
+   {
+    "key": "f6999bac80e5f10f",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, đối với người lao động nghỉ ốm đau, thai sản, tai nạn lao động... nghỉ từ 14 ngày trở lên không tham gia Bảo hiểm thất nghiệp (BHTN), Công ty sẽ chi trả một khoản tiền tương đương **1% lương đóng BHTN** trong thời gian không tham gia BHTN. Khoản tiền này được ghi vào bảng lương cùng kỳ.\n\n[NQCL Điều 13]"
+   },
+   {
+    "key": "5fe326ec8a62a9bf",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, nếu nhân viên nghỉ ốm dài ngày (từ 14 ngày trở lên) và không tham gia Bảo hiểm thất nghiệp (BHTN), Công ty sẽ chi trả khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN. Khoản này được cộng vào bảng lương cùng kỳ [QCL Điều 13]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-046",
+  "question": "Nhân viên đi công tác, học tập theo tờ trình được Công ty duyệt thì được chấm công thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt được chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác (QCL Điều 14).",
+  "key_facts": [
+   "100%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 14": "Điều 14. Trả lương cho CNV hội họp, học tập, đi công tác\n1. CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt: chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác.\n2. Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ.\n3. Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\nNghỉ phép năm theo quy định của Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "4ad92d56eaba78e4",
+    "answer": "Nhân viên đi công tác, học tập theo tờ trình được Công ty duyệt được chấm **100% ngày công** theo thời gian thực tế và được hưởng **100% lương** theo Hợp đồng lao động.\n\n*   Chấm 100% ngày công theo thời gian thực tế đi công tác [QCL/Điều 14].\n*   Được hưởng 100% lương theo HĐLĐ [QCL/Điều 14].\n*   Quy định này cũng được ghi nhận trong Thỏa ước lao động tập thể [TULD/Điều 12]."
+   },
+   {
+    "key": "e293f7c2be4306d6",
+    "answer": "Nhân viên đi công tác, học tập theo tờ trình được Công ty duyệt được chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác.\n\n[QCL Điều 14]"
+   },
+   {
+    "key": "faa45446c0b43604",
+    "answer": "Nhân viên đi công tác, học tập theo tờ trình được Công ty duyệt được chấm 100% ngày công theo thời gian thực tế đi [QCL Điều 14].\n\nTuy nhiên, đối với nhân viên được Công ty cử đi hội họp, học tập, công tác thì được hưởng 100% lương theo Hợp đồng lao động [TULD Điều 12].\n\nVề nghỉ lễ theo quy định Bộ luật Lao động, nhân viên được thanh toán bằng 100% tiền lương theo Hợp đồng lao động [QCL Điều 14]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-047",
+  "question": "Hôm công ty tổ chức mừng sinh nhật, mình đi dự thì ngày đó có được tính công không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. Tham gia sinh nhật công ty được chấm 100% ngày công, căn cứ danh sách tham gia thực tế (QCL Điều 14).",
+  "key_facts": [
+   "100%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 14": "Điều 14. Trả lương cho CNV hội họp, học tập, đi công tác\n1. CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt: chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác.\n2. Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ.\n3. Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\nNghỉ phép năm theo quy định của Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "dee6d534b0edcf3b",
+    "answer": "Có, ngày dự sinh nhật công ty được tính công đầy đủ.\n\nTheo quy định, CNV tham gia sinh nhật công ty sẽ được chấm **100% ngày công** dựa trên danh sách tham gia thực tế. Đồng thời, nhân viên cũng được hưởng **100% lương** theo hợp đồng lao động cho ngày đó.\n\nNgoài ra, nếu nhân viên có thâm niên từ 1 năm trở lên, họ còn được hưởng khoản thưởng sinh nhật công ty là **500.000 đồng/người**.\n\n[NQLD Điều 7], [QCL Điều 14], [TULD Điều 12], [QCL Điều 9], [QCL Điều 20], [TULD Điều 16]"
+   },
+   {
+    "key": "982af0760cb884da",
+    "answer": "Theo quy định của Công ty, việc tham gia sinh nhật công ty được chấm 100% ngày công.\n\n- **Quy chế tiền lương (QCL)**: Điều 14 quy định: \"Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\"\n- **Thỏa ước lao động tập thể (TULD)**: Điều 7 cũng xác nhận nhân viên được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\nDo đó, nếu bạn đi dự sinh nhật công ty theo danh sách thực tế, ngày đó sẽ được tính là ngày làm việc đầy đủ."
+   },
+   {
+    "key": "7f53e555425684aa",
+    "answer": "Theo quy định, ngày tổ chức mừng sinh nhật của công ty được tính là ngày làm việc bình thường.\n\n- Nhân viên có đủ thâm niên 01 năm trở lên mới được hưởng chi phí sinh nhật và được chi trả vào tháng sinh nhật.\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật.\n- Nếu nhân viên nghỉ việc trước tháng sinh nhật, công ty sẽ thu hồi số tiền đã chi trả (trừ trường hợp nghỉ hưu).\n\n[QCL Điều 16]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-048",
+  "question": "Tỷ lệ cơ cấu lương công việc giữa lương cơ bản và KPI của Quản trị viên nhóm 1 là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Đối với Quản trị viên nhóm 1 (QTV1): lương cơ bản chiếm 80 ÷ 90%, KPI chiếm 10 ÷ 20% (QCL Điều 15).",
+  "key_facts": [
+   "80",
+   "90",
+   "10",
+   "20"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "f70b3eabb029caab",
+    "answer": "Tài liệu nội bộ không có thông tin về tỷ lệ cơ cấu cụ thể giữa lương cơ bản và KPI dành riêng cho Quản trị viên nhóm 1.\n\nCác quy định hiện có bao gồm:\n- Lương được tính theo vị trí công việc với thang lương và bảng lương chi tiết tại Phụ lục 01 [QCL/Điều 3].\n- KPI được đánh giá theo 3 nhóm tiêu chí (chung công ty, liên quan công việc, giao trực tiếp) với tần suất hàng tháng và cuối năm [QCL/Điều 8].\n- Cơ cấu lương bao gồm lương cơ bản, lương thử việc (85%), và các khoản thưởng bổ sung (KPI tháng, hiệu quả quý...) nhưng không nêu tỷ lệ phần trăm cố định giữa lương cơ bản và KPI cho từng nhóm cụ thể [QCL/Điều 4, Điều 9]."
+   },
+   {
+    "key": "b28eb7b1e38d10f8",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ lệ cơ cấu lương công việc (LCV) cho Quản trị viên nhóm 1 (QTV1) là:\n- Lương cơ bản chiếm từ **80% đến 90%**.\n- Thưởng KPI chiếm từ **10% đến 20%**.\n\nKhi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỷ lệ KPI nằm trong mức quy định.\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "e3ade822b54992af",
+    "answer": "Tỷ lệ cơ cấu lương giữa lương cơ bản và KPI cho Quản trị viên nhóm 1 (QTV1) là:\n- Lương cơ bản: 80% ÷ 90%.\n- Thưởng KPI: 10% ÷ 20%.\n\nKhi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định.\n\n[QCL Điều 15] [QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-049",
+  "question": "Đối với nhân viên (NV), lương cơ bản và KPI chiếm tỷ lệ bao nhiêu trong lương công việc?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Đối với Nhân viên (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40% (QCL Điều 15).",
+  "key_facts": [
+   "60%",
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "777e5c3589352f61",
+    "answer": "Tài liệu nội bộ không có thông tin về tỷ lệ cụ thể giữa lương cơ bản và KPI trong tổng lương công việc.\n\nCác văn bản quy định chi tiết cấu trúc lương và thưởng như sau:\n- **QCL/Điều 9**: Quy định về tổng quỹ lương - thưởng, bao gồm quỹ lương công việc, quỹ lương - thưởng bổ sung (thưởng KPI tháng, thưởng hiệu quả...) và quỹ lương chế độ.\n- **QCL/Điều 10**: Quy định phương pháp tính lương cho từng nhóm (gián tiếp, sản xuất, bốc xếp, ngừng việc).\n- **QCL/Điều 6**: Quy định tiêu chí và chu kỳ xét nâng hệ số lương.\n- **QCL/Điều 8**: Quy định về đánh giá KPI (3 nhóm chỉ tiêu, tần suất hàng tháng và cuối năm).\n\nTài liệu chỉ nêu nguyên tắc trả lương theo công việc và bảo đảm công bằng hợp lý, nhưng không đề cập tỷ lệ phần trăm cụ thể giữa lương cơ bản và KPI."
+   },
+   {
+    "key": "685b43b58beedcd1",
+    "answer": "Đối với nhân viên (NV), cấu trúc lương công việc (LCV) bao gồm:\n- Lương cơ bản chiếm **60%**.\n- Thưởng KPI chiếm **10% đến 40%**.\n\nKhi xét nâng lương, chỉ tăng lương cơ bản; phần thưởng KPI không được chỉnh tăng tương ứng nếu tỷ lệ KPI nằm trong mức quy định.\n\n[QCL Điều 15]"
+   },
+   {
+    "key": "f1db04dd01663063",
+    "answer": "Đối với nhân viên (NV), tỷ lệ cơ cấu lương công việc theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 là:\n- Lương cơ bản chiếm 60%.\n- Thưởng KPI chiếm từ 10% đến 40% tùy thuộc vào trình độ đào tạo và vị trí cụ thể.\n\nChi tiết cụ thể như sau:\n- Nhân viên nghiệp vụ có trình độ Đại học, Cao đẳng, Trung cấp, Lái xe hoặc chưa qua đào tạo làm công việc giản đơn: KPI chiếm 40% [QCL Điều 15].\n- Các vị trí khác trong nhóm Nhân viên (NV) có thể có tỷ lệ KPI từ 10% đến 40% [QCL Điều 15].\n\nLưu ý: Khi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỷ lệ KPI nằm trong mức quy định cho từng nhóm [QCL Điều 15]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-050",
+  "question": "Bên cạnh tỉ lệ lương cơ bản/KPI, quy chế liệt kê thêm những yếu tố nào trong phần tỉ lệ cơ cấu lương công việc?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Các yếu tố gồm: 1. Hệ số hoàn thành năng suất (nếu có); 2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV; 3. Ngày công làm việc thực tế; 4. Hệ số thành tích; 5. Kết quả đánh giá KPI; 6. Đối với trực tiếp sản xuất, căn cứ quỹ lương sản phẩm của từng PXSX/chuyền trong tháng (QCL Điều 15).",
+  "key_facts": [
+   "hoàn thành năng suất",
+   "công làm việc thực tế",
+   "thành tích",
+   "đánh giá KPI"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "1da1ba28634eb060",
+    "answer": "Theo tài liệu nội bộ, cơ cấu lương công việc bao gồm các yếu tố sau:\n\n1.  **Lương cơ bản:** Được tính dựa trên vị trí công việc, bậc lương và hệ số năng suất.\n2.  **Thưởng KPI:** Tỷ trọng phụ thuộc vào chức danh (từ 10% đến 60%) và kết quả đánh giá cá nhân/công ty.\n3.  **Hỗ trợ căn cứ ngày công:** Áp dụng cho CNV gián tiếp, phục vụ.\n4.  **Hệ số lương và hệ số năng suất:** Dùng để xác định mức lương cho CNV sản xuất, bốc xếp.\n5.  **Lương cứng chuẩn bình quân:** Dùng để tính lương bổ sung hiệu quả quý.\n6.  **Lương tháng 13, 14, 15, 16, 17, 18, 19, 20:** Thưởng bổ sung khi công ty hoàn thành hoặc vượt kế hoạch năm/quý.\n7.  **Trợ cấp:** Bao gồm BHXH, thai sản và các khoản hỗ trợ khác.\n\n*   [QCL/Điều 3, Điều 4, Điều 5, Điều 6, Điều 7, Điều 8, Điều 9, Điều 10, Phụ lục 1, Phụ lục 2]"
+   },
+   {
+    "key": "1b958d0c99e432d5",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL), ngoài tỉ lệ lương cơ bản và KPI, phần tỉ lệ cơ cấu lương công việc còn bao gồm các yếu tố sau:\n\n1.  **Hệ số hoàn thành năng suất:** Áp dụng nếu có.\n2.  **Chuẩn hóa hệ số lương:** Theo đúng trình độ chuyên môn nghiệp vụ (ví dụ: điều chỉnh bậc lương dựa trên bằng cấp).\n3.  **Ngày công làm việc thực tế.**\n4.  **Hệ số thành tích.**\n5.  **Kết quả đánh giá KPI.**\n6.  **Đối tượng trực tiếp sản xuất:** Căn cứ quỹ lương sản phẩm của từng phòng sản xuất/chuyền trong tháng.\n\nNgoài ra, đối với các khoản thu nhập bổ sung, quy định còn bao gồm: Lương chế độ, Hỗ trợ (xăng xe, đi lại), Chi phí sinh nhật, Các khoản phải trừ (công đoàn phí, BHXH, thuế, bồi thường thiệt hại) và Các khoản bổ sung (nếu có).\n\n[QCL Điều 15], [QCL Điều 16]"
+   },
+   {
+    "key": "997daf47c8e8f76f",
+    "answer": "Quy chế tiền lương Bibica 2024 chỉ liệt kê hai yếu tố cấu thành phần lương công việc: **Lương cơ bản** và **KPI**.\n\nCụ thể:\n- **Quản trị viên nhóm 1**: Lương cơ bản (80-90%), KPI (10-20%).\n- **Quản trị viên nhóm 2**: Lương cơ bản (70-85%), KPI (15-30%).\n- **Nhân viên**: Lương cơ bản (60%), KPI (10-40%).\n\nCác yếu tố như ngày công, hệ số thành tích hay hệ số hoàn thành năng suất được quy định riêng trong các điều khoản khác của Quy chế, không nằm trong phần \"Tỉ lệ cơ cấu lương công việc\" này [QCL Điều 15]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-052",
+  "question": "Được tăng lương rồi thì khoản thưởng theo hiệu quả hằng tháng có được tăng lên theo không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không. Khi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm (QCL Điều 15).",
+  "key_facts": [
+   "lương cơ bản"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "7fa77b4299794b9c",
+    "answer": "Tài liệu nội bộ không có thông tin chi tiết về việc khoản thưởng theo hiệu quả hằng tháng có được tăng lên khi nhân viên được tăng lương hay không.\n\nTuy nhiên, tài liệu quy định:\n- Thưởng KPI tháng được tính dựa trên tỷ lệ thời gian làm việc (dưới 50% không tính, trên 50% tính theo tỷ lệ, đủ 100% tính đủ) [QCL/Điều 9].\n- Thưởng hiệu quả quý, tháng 13 và hoàn thành/vượt kế hoạch năm chỉ xét cho nhân viên đang làm việc tại công ty; nhân viên nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng [QCL/Điều 9].\n- Việc xét nâng lương phụ thuộc vào điểm A, thâm niên và hoàn thành công việc theo từng nhóm cụ thể [QCL/Điều 6]."
+   },
+   {
+    "key": "b6efa4ab8b5e58af",
+    "answer": "Không, khoản thưởng theo hiệu quả (KPI) không được tăng lên khi nhân viên được tăng lương.\n\nTheo quy định tại Điều 15 của Quy chế tiền lương, tiền thưởng Bibica năm 2024: \"Khi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\"\n\nĐiều này có nghĩa là khi nhân viên được nâng bậc lương, chỉ số \"Lương cơ bản\" sẽ được điều chỉnh lên theo bậc mới, trong khi phần trăm (tỷ lệ) và mức thưởng KPI cụ thể của họ sẽ giữ nguyên theo bảng quy định hiện hành cho vị trí đó."
+   },
+   {
+    "key": "2801001168335184",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, khi xét nâng lương chỉ được tăng lương cơ bản. Thưởng hiệu quả công việc (KPI) không được chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định cho từng nhóm vị trí.\n\n[QCL Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-053",
+  "question": "Nhân viên gián tiếp có mức lương cơ bản 7.800.000 đồng/tháng, công chuẩn tháng là 26 ngày và đi làm thực tế 24 ngày thì lương cơ bản tháng đó là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "LCB = Mức lương cơ bản / công chuẩn x ngày công thực tế = 7.800.000 / 26 x 24 = 300.000 x 24 = 7.200.000 đồng (QCL Điều 16).",
+  "key_facts": [
+   "7.200.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "42c82665d5b8eb71",
+    "answer": "Lương cơ bản tháng đó là **6.240.000 đồng**.\n\nTheo quy định, lương gián tiếp được trả theo mức lương cơ bản cộng hỗ trợ căn cứ ngày công làm việc thực tế trong tháng [QCL/Điều 10]. Với công chuẩn 26 ngày và thực tế làm 24 ngày, tỷ lệ ngày công là 24/26.\n\nTính toán: 7.800.000 đồng x (24/26) = 6.240.000 đồng."
+   },
+   {
+    "key": "4954f76e649494a8",
+    "answer": "Lương cơ bản tháng đó là **6.24.000.000 đồng**.\n\nTheo [QCL Điều 16], công thức tính lương cơ bản (LCB) là: LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nTrong đó:\n- Mức lương cơ bản/công chuẩn = 7.800.000 đồng / 26 ngày = 300.000 đồng/ngày.\n- Ngày công thực tế = 24 ngày.\n- Tính toán: 300.000 x 24 = 6.240.000 đồng."
+   },
+   {
+    "key": "bf0e7fdbcbb6efd7",
+    "answer": "Lương cơ bản tháng đó là 7.200.000 đồng.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, công thức tính lương cơ bản cho nhân viên gián tiếp là: Mức lương cơ bản chia cho công chuẩn tháng nhân với số ngày công thực tế [QCL Điều 16].\n\nÁp dụng vào trường hợp của bạn:\n7.800.000đ / 26 ngày x 24 ngày = 7.200.000đ."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-054",
+  "question": "Mức hỗ trợ hàng tháng cho công nhân vận hành và nhân viên phân xưởng cơ điện là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Công nhân vận hành (CNVH) và NV PX Cơ điện được hỗ trợ 700.000đ/tháng, tính theo ngày công chuẩn trong tháng (QCL Điều 16).",
+  "key_facts": [
+   "700.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "ccfe5e668da47b7a",
+    "answer": "Tài liệu nội bộ không có thông tin về mức hỗ trợ hàng tháng cụ thể cho công nhân vận hành và nhân viên phân xưởng cơ điện.\n\nCác tài liệu chỉ quy định chung về cơ cấu trả lương:\n- **QCL/Điều 10**: CNV gián tiếp, phục vụ (bao gồm cơ điện) được trả theo mức lương cơ bản + hỗ trợ căn cứ ngày công làm việc trong tháng.\n- **QCL/Điều 9**: Quỹ lương phục vụ được phân loại riêng cho các vị trí như cơ điện, thủ kho, bốc xếp, lái xe.\n\nTài liệu không nêu con số cụ thể về mức hỗ trợ này."
+   },
+   {
+    "key": "6849a5130ae7662b",
+    "answer": "Mức hỗ trợ hàng tháng cho công nhân vận hành và nhân viên phân xưởng cơ điện là **700.000 đồng/tháng**, được tính theo ngày công chuẩn trong tháng.\n\n[QCL Điều 16]"
+   },
+   {
+    "key": "1bf8545db453b0f4",
+    "answer": "Mức hỗ trợ hàng tháng cho Công nhân vận hành (CNVH) và Nhân viên phân xưởng Cơ điện là **700.000 đồng/tháng**, tính theo ngày công chuẩn trong tháng.\n\n[QCL Điều 16]\n\nLưu ý: Mức hỗ trợ này chỉ áp dụng cho CNV trực tiếp sản xuất và Phân xưởng cơ điện. Đối với CNV gián tiếp, mức hỗ trợ được thỏa thuận riêng trong hợp đồng lao động hoặc quyết định lương.\n\n[QCL Điều 16]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-055",
+  "question": "muc ho tro hang thang cua to pho san xuat la bao nhieu",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Tổ phó (Tp) được hỗ trợ 800.000đ/tháng, tính theo ngày công chuẩn trong tháng; mức này áp dụng cho đối tượng công nhân trực tiếp sản xuất, phân xưởng cơ điện, bốc xếp (QCL Điều 16).",
+  "key_facts": [
+   "800.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 16": "Điều 16. Tổng thu nhập cho mỗi cá nhân được xác định như sau\n1. Gián tiếp và phục vụ: Thu nhập = Lương cơ bản + thưởng KPI + Lương chế độ + Hỗ trợ (không đóng BHXH theo quy định như tiền ăn giữa ca; tiền hỗ trợ xăng xe; tiền hỗ trợ điện thoại; tiền hỗ trợ đi lại; các khoản hỗ trợ và trợ cấp khác không xác định được mức tiền cụ thể cùng với tiền lượng, được ghi trong hợp đồng lao động, nếu có) + Các khoản bổ sung (nếu có) – Các khoản phải trừ.\n2. Chi tiết các khoản\na. Lương cơ bản (LCB): LCB = Mức lương cơ bản/công chuẩn x ngày công thực tế.\nb. Thưởng KPI (Kpi), CNV gián tiếp\nKpi: Tính theo doanh số thực hiện, giá vốn\nBước 1: Xác định tỷ lệ hệ số thưởng Kpi (Quỹ Kpi/DS)\n= Quỹ thưởng Kpi (Nhân sự thực tế)/Doanh số KH bình quân tháng của năm\nBước 2: Xác định quỹ thưởng Kpi theo doanh số thực hiện\n= Doanh số thực hiện * Bước 1(Tỷ lệ hệ số thưởng Kpi)* tỷ lệ giá vốn\nBước 3. Hệ số điều chỉnh: Xác định theo kết quả sản xuất kinh doanh hàng tháng và tối đa 120%. Trường hợp quỹ thưởng còn dư để dùng cho quỹ khen thưởng.\nBước 4: Phân bổ Kpi: Quỹ thưởng Kpi phân phối cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công (gồm cả ngày phép, lễ), Tỷ lệ đạt điểm Kpi cá nhân* hệ số điều chỉnh Kpi khi Tỷ lệ đạt Kpi chung của toàn Công ty >110%.\nc. Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca:\nThưởng Kpi thực tế = Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân (Kpi cá nhân xây dựng trên các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng…)* hệ số điều chỉnh nếu các tiêu chí Kpi >100%.\nd. Hỗ trợ (Hỗ trợ xăng xe, đi lại ) = Mức hỗ trợ/ công chuẩn x ngày công thực tế\n- Đối với CNV gián tiếp: Mức hỗ trợ được thoả thuận riêng trong HĐLĐ/PLHĐLD/quyết định lương….\n- Đối với CNV trực tiếp: Mức hỗ trợ theo Mục h điểm iii bên dưới.\ne. Lương sản phẩm (LSP):\n- Tổng công quy đổi= {HSL x (NC1 + LT 50/2 + LT100 + Ca3*30%)x hsns}\n- Lương SP cá nhân =Tổng lương SP chuyền/ Tổng công quy đổi chuyền x Công quy đổi cá nhân\nf. Chi phí sinh nhật CNV: Chi phí sinh nhật = 10.000 đồng x Thâm niên công tác luỹ tiến theo tháng\n- CNV có đủ thâm niên 01 năm trở lên mới tính, chi phí sinh nhật được chi trả cho CNV vào tháng sinh nhật của CNV (sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/ CNV/ năm).\n- Công ty tạm xét thâm niên đến hết tháng 12 hàng năm để làm cơ sở thanh toán vào tháng sinh nhật CNV, trường hợp CNV nghỉ việc Công ty sẽ thu hồi lại số tiền của những tháng nghỉ việc. Công ty không trả theo tỷ lệ tháng làm việc nếu nghỉ việc trước tháng sinh nhật (trừ trường hợp nghỉ hưu)\ng. Lương chế độ và phụ cấp\ni. Lương chế độ gồm: Chế độ bảo hiểm xã hội, Lương Lễ, phép, lương ngừng việc, thai sản, bổ sung lương..các chế độ phụ cấp phải tuân theo theo Bộ luật Lao động, nội quy lao động, các quy định cụ thể trong bản quy định này và quy định pháp luật liên quan.\nii. Phụ cấp: là khoản phụ cấp bù thu nhập cho người lao động, khoản phụ cấp sẽ do Công ty quyết định tại từng thời điểm cụ thể.\niii. Mức hỗ trợ:\n- Đối tượng áp dụng Công nhân trực tiếp sản xuất; Phân xưởng cơ điện; Bốc xếp:\n- Tổ trưởng (TT): 900.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Tổ phó (Tp): 800.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Công nhân vận hành (CNVH); NV PX Cơ điện: 700.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Bốc xếp, Lao động phổ thông (BX, LĐPT): 500.000đ/tháng tính theo ngày công chuẩn trong tháng\n- Điều kiện hưởng các khoản hỗ trợ:\n- Xác định số ngày việc theo KHSX tuần của đơn vị -> cuối hàng tháng Khối KH xác nhận chuyển KHCNS và các chi nhánh/Công ty thành viên theo ngày làm việc thực tế.\n- Nghỉ không phép: Hỗ trợ = 0 đồng.\n- Số ngày tối thiểu được hưởng hỗ trợ >=85% /số ngày công làm việc theo KHSX của đơn vị.\n- Mức phụ cấp được hưởng trong tháng = Mức Phụ cấp chuẩn / Số ngày sản xuất theo kế hoạch tháng x (Tổng ngày công – trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\nGhi chú: An toàn vệ sinh viên mức phụ cấp trách nhiệm đã bao gồm trong mức hỗ trợ (nếu có) và vị trí công việc.\nh. Các khoản phải trừ: Công ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\ni. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nii. Tiền đóng BHXH, BHYT, BHTN.\niii. Thuế TNCN.\niv. Chi phí bồi thường thiệt hại theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\nv. Tiền phúng điếu, hoạt động chia sẽ cộng đồng - xã hội"
+  },
+  "answers": [
+   {
+    "key": "434749e3412f13ae",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về mức tiền (số tiền) của khoản trợ cấp hàng tháng dành cho Công ty Cổ phần Xuất khẩu.\n\nTài liệu chỉ quy định:\n- **Trợ cấp BHXH** thực hiện theo pháp luật hiện hành [QCL/Điều 11].\n- **Trợ cấp thai sản** được hưởng 6 tháng [QCL/Điều 11].\n- **Trợ cấp ốm đau, tai nạn lao động** thực hiện theo pháp luật hiện hành [QCL/Điều 11].\n- **Trợ cấp nghỉ phép** được hưởng nguyên lương theo quy định [QCL/Điều 11].\n\nĐể biết mức tiền cụ thể, bạn cần tham khảo văn bản pháp luật hiện hành hoặc liên hệ trực tiếp với Khối Hành chính nhân sự."
+   },
+   {
+    "key": "83a78bd81a53b947",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về mức hỗ trợ hàng tháng của Công ty Cổ phần Bibica.\n\nTuy nhiên, tài liệu quy định các mức hỗ trợ (phụ cấp) cho các đối tượng công nhân trực tiếp sản xuất, bốc xếp và lao động phổ thông như sau:\n- Tổ trưởng: 900.000 đồng/tháng.\n- Tổ phó: 800.000 đồng/tháng.\n- Công nhân vận hành/NV PX Cơ điện: 700.000 đồng/tháng.\n- Bốc xếp/Lao động phổ thông: 500.000 đồng/tháng.\n\nCác khoản hỗ trợ này được tính theo ngày công chuẩn trong tháng và điều kiện thực tế làm việc (không được nghỉ không phép, đảm bảo >=85% ngày công). Mức hỗ trợ cụ thể cho từng cá nhân có thể được thỏa thuận riêng trong Hợp đồng lao động hoặc quyết định lương.\n\n[QCL Điều 16 điểm iii]"
+   },
+   {
+    "key": "6d1a4f7940cf85b7",
+    "answer": "Mức hỗ trợ hàng tháng cho Tổ phó (Tp) sản xuất là 800.000 đồng/tháng, tính theo ngày công chuẩn. Đối với Tổ trưởng (TT) thuộc phân xưởng cơ điện, mức hỗ trợ là 900.000 đồng/tháng, cũng tính theo ngày công chuẩn. Các vị trí khác như Công nhân vận hành, NV PX Cơ điện, Bốc xếp và Lao động phổ thông có mức hỗ trợ tương ứng là 700.000 đồng, 700.000 đồng và 500.000 đồng/tháng.\n\nMức hỗ trợ này được xác định dựa trên số ngày việc theo kế hoạch sản xuất (KHSX) của đơn vị, với điều kiện tối thiểu phải đạt 85% số ngày công làm việc thực tế để được hưởng. Mức phụ cấp thực tế trong tháng được tính bằng công thức: Mức Phụ cấp chuẩn chia cho Số ngày sản xuất theo kế hoạch tháng nhân với (Tổng ngày công trừ LT50). Mức phụ cấp tối đa bằng mức hỗ trợ chuẩn.\n\n[QCL Điều 16]"
+   }
+  ]
+ }
+]

@@ -1,0 +1,40 @@
+{"key": "c478142a0379d570", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gets 48h basis and holiday rule; misses 150/200/300% formula, wrongly says no difference."}
+{"key": "3559e4410ac795e3", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Notes QCL nghỉ bù detail (QTV-only, unstated); misses 48h basis and 150/200/300%."}
+{"key": "79a7682ff1de064f", "qid": "MULTI-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: QCL ngày 15; TULD 20 & 10, sales 15; shared holiday rule."}
+{"key": "de3f3e4324ac2e41", "qid": "MULTI-002", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Swaps QCL and TULD rules; wrong article numbers."}
+{"key": "ea957c04a7386e7b", "qid": "MULTI-003", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mostly right but says 15 ngày làm việc (doc: 15 ngày); omits hòa giải cơ sở."}
+{"key": "86a8b0e030c97975", "qid": "MULTI-003", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Complaint process right; wrongly says TULD uses bank account (ATM); cites TULD Điều 5."}
+{"key": "160d85ea326d5254", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, QCL tờ trình, từ thiện, actual days; correct."}
+{"key": "b56cb36538e6279a", "qid": "MULTI-005", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses though answer exists; misattributed citations."}
+{"key": "5dba018a6521b416", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both lists correct with similarities and differences."}
+{"key": "2aa0f2cb7dd62c86", "qid": "MULTI-007", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Treats base pay, KPI, ngừng việc as deductions; misses lists."}
+{"key": "67c7d50c1dd64d05", "qid": "MULTI-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Same 14-day rule; differences (phép năm, lỗi, causes) correct."}
+{"key": "85ccd98ad4dbfe57", "qid": "MULTI-008", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "QCL right; wrongly says TULD lacks pay levels; wrong scope claim."}
+{"key": "9d0b533db00f81b8", "qid": "MULTI-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Covers QCL tháng 3, NQLD 30/3 & payout on termination, TULD."}
+{"key": "f436e492b49570c3", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misses NQLD carry-over until 30/3; others correct; extra citations."}
+{"key": "88cf2a00122177fe", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: TULD defers; NQLD 8:00-16:30, Mon-Sat, lunch."}
+{"key": "c1b82eaee8c0bfda", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct hours; TULD Điều 4 citation slip."}
+{"key": "f05982f7d65a8079", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no bonus per QCL Điều 9; TULD article number slip."}
+{"key": "745611b3441d13b8", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct: resignation excludes bonus under QCL."}
+{"key": "6fc912f2246e2057", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both documents correctly summarized."}
+{"key": "a2f950898f7110e5", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both documents correctly summarized."}
+{"key": "c813d708aba4f4b6", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct consent, company commitment, NQLD prohibition."}
+{"key": "971c19f9fde10a61", "qid": "MULTI-015", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits TULD employee consent to provide data; rest correct."}
+{"key": "33d3e4a1ea48e7ca", "qid": "MULTI-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Source, both deciders, uses correct; KPI surplus supported."}
+{"key": "43fece2a33144293", "qid": "MULTI-016", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Misses TULD Hội đồng decider; misattributes quỹ lương bonus to quỹ khen thưởng."}
+{"key": "9975be01fee24691", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60 phút, tháng thứ 7 correct; extras supported."}
+{"key": "7d0d1f6485e9684d", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD Điều 8 and NQLD provisions."}
+{"key": "5f677fbc6c7f649b", "qid": "MULTI-018", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated requirements and citations."}
+{"key": "7f6d2436527d6e1f", "qid": "MULTI-018", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD consent right; NQLD procedure missing; lists cách chức ground under sa thải."}
+{"key": "0b1cff7a02481cf0", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct thresholds, 03 tháng cap, deduction in QCL/TULD."}
+{"key": "1362190e8cadf8a3", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misses 03-month cap; deduction basis in TULD/QCL not cited."}
+{"key": "3ea159df86ee439e", "qid": "MULTI-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct dates and NQLD registration condition."}
+{"key": "df638a84ba404b51", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD/QCL from signing ok; NQLD effectivity wrong, no dates."}
+{"key": "61369d1f0ef5b520", "qid": "MULTI-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per document; omits NQLD Chương IX reference to TULD."}
+{"key": "329d1bd6218406ae", "qid": "MULTI-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per document; omits NQLD Chương IX reference to TULD."}
+{"key": "a448b3dcd75016a4", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct condition from TULD Điều 2 with supporting details."}
+{"key": "e333887965095d52", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct condition per TULD Điều 2."}
+{"key": "140616f1724a1607", "qid": "MULTI-023", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated QCL Điều 12 content; wrongly says TULD silent."}
+{"key": "f796598fc5fe762b", "qid": "MULTI-023", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tuition and salary right; misses TULD 15 deduction; invents handling."}
+{"key": "95ae95c98d18eadf", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85%, 100%, 100.000đ, both apply; one vague citation."}
+{"key": "5078b2c540399282", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct; most article citations wrong."}

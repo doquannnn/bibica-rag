@@ -1,0 +1,56 @@
+{"key": "c16f6ae1bd18e7ba", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 căn cứ"}
+{"key": "23df44753714d394", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 căn cứ"}
+{"key": "8a14d7f7d64ffaf0", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 căn cứ"}
+{"key": "c156623aac96cbde", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 căn cứ"}
+{"key": "423fc03971c01360", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đối tượng"}
+{"key": "8e4c147cf9c3e6bf", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đối tượng"}
+{"key": "65a561874305f054", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đối tượng"}
+{"key": "c41d1f5cb5bacafa", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, thêm chi tiết Điều 2 có thật"}
+{"key": "f165214bcb1ba057", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ danh sách; NQLD 17 đúng"}
+{"key": "388f74d1040cb79c", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ danh sách"}
+{"key": "2a4c0f5ec8d41d3d", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ danh sách"}
+{"key": "5beb5ed00fdfb08c", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ danh sách"}
+{"key": "f9cc41c3f834bbde", "qid": "TULD-039", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ba căn cứ đúng nhưng liệt kê lương cơ bản, KPI như khoản thưởng quỹ lương: lẫn lộn"}
+{"key": "5245830644be7abd", "qid": "TULD-039", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu quỹ lương tăng thêm/dự phòng làm căn cứ; thêm KPI QCL"}
+{"key": "4cee7615cf0be93a", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ba căn cứ"}
+{"key": "2a8f1e264a9b6185", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ba căn cứ, thêm KPI QCL"}
+{"key": "7dbe216e001972f8", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ba căn cứ"}
+{"key": "cf02e6f0ff5a64c7", "qid": "TULD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tái ký đúng; thêm NQLD 30,31 đúng"}
+{"key": "389062f55c3e2871", "qid": "TULD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; tạm đình chỉ ghi Điều 27 thay vì 31"}
+{"key": "220f422d028fa201", "qid": "TULD-040", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Mở đầu 'Không' gây hiểu sai; bịa vi phạm bí mật không tái ký"}
+{"key": "cf40d62f99e200fb", "qid": "TULD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có tái ký đúng; phần hedge thừa"}
+{"key": "247870b4cc513498", "qid": "TULD-040", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Core đúng nhưng bịa điều kiện tái ký theo khiển trách/nâng lương"}
+{"key": "255c54ea1d85ec10", "qid": "TULD-041", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng 100km, xăng dầu; bịa quy trình báo quản lý"}
+{"key": "cf86433ff0f0f9d5", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; khấu trừ lương thừa nhưng có thật"}
+{"key": "85e32386c880eb38", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đầy đủ"}
+{"key": "9b0a422e7429f8e4", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng; không trích dẫn"}
+{"key": "cd4f0f79e645b7b6", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 100km và chi phí"}
+{"key": "3e14ae74b816a526", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, nêu không có số tiền"}
+{"key": "627ba6c90c384476", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "c95eef9060f4edd3", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "dbe645ef1462eb68", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "1915b5e0a559f47a", "qid": "TULD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ trợ cấp, quy định chung; NQLD đúng"}
+{"key": "c3b3d9816a0c7532", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Phủ nhận có chính sách riêng; sai 1% BHTN cho <3 năm"}
+{"key": "2b594b672fa601cb", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gán TULD Điều 8 sai; '1% BHXH nếu cao hơn' sai"}
+{"key": "99d2a5de0ee5672a", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 1% BHTN cho thâm niên <3 năm"}
+{"key": "f38960baf87a1eb9", "qid": "TULD-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng nội dung; gán ca đêm cho TULD Điều 8 sai"}
+{"key": "59efeca285149dd3", "qid": "TULD-046", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nói không cần đồng ý: sai/mâu thuẫn"}
+{"key": "d0803894db674aa4", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "4b4de2d0ce560e99", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm NQLD 23 lạc đề"}
+{"key": "d0b9ef89b4497d9e", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm NQLD lạc đề"}
+{"key": "476ffd2737c06ef5", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "2a9c25c831024954", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Điều 14; trích NQLD 6 sai nhẹ"}
+{"key": "33e1c28ff54f946f", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Điều 14; thêm câu chung"}
+{"key": "fda175e0c1e809e1", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "46ae39f15d0e539f", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, trích QCL Phụ lục 3"}
+{"key": "0d73cab737600e8a", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; công thực tế/chuẩn khớp Phụ lục 3, gán Phụ lục 2 sai"}
+{"key": "80d4a606fbd31503", "qid": "TULD-048", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Pan đúng nhưng gán là Bibica; thiếu vai trò NSDLĐ"}
+{"key": "70e375d0fc375056", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng Pan, đại diện Hoàng"}
+{"key": "0a1038f3cb395070", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Pan, bên NSDLĐ"}
+{"key": "6fd9601e70f9a807", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Pan"}
+{"key": "59a5100335beb6e9", "qid": "TULD-048", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gán là Bibica; giải thích Điều 2 lệch"}
+{"key": "ced88b686c85b7d0", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng phạm vi và điều khoản khác"}
+{"key": "9d23d00e71cc638a", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, có góp ý"}
+{"key": "ac33ed56bfb81595", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng"}
+{"key": "9a33cf83e2f0964b", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "d25441b35c99e521", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng"}

@@ -1,0 +1,40 @@
+{"key": "68ca5ccaa6f360a0", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% đúng, đúng Phụ lục 2 khối E."}
+{"key": "233b95d393945e7b", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Từ chối sai dù PL2 có 35%; gán số liệu cho Phụ lục 1 (không có bảng)."}
+{"key": "14be43e359c7f7d3", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "40% đúng; thêm NV 10-40% theo Điều 15 cũng đúng."}
+{"key": "0bec668cd178c2da", "qid": "QCL-082", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 10% thay vì 40%."}
+{"key": "8e3f6bfb48e7097e", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% và 30% đúng."}
+{"key": "e8f35d5d2b02c383", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% và 30% đúng."}
+{"key": "5d687029246ca1bf", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "35% đúng; thêm phân bổ 50/10/60 của Trưởng ca đúng."}
+{"key": "7fd400dc41e54f93", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 10% thay vì 35%."}
+{"key": "290e7a5c72d31516", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "50/10/60 đúng."}
+{"key": "02e4781ff69956f7", "qid": "QCL-085", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2, 3 đúng nhưng tổng ghi 10% (đúng là 60) và ghi chú sai."}
+{"key": "194a65332fb6269d", "qid": "QCL-086", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng không có nhóm 2; không nêu rõ nhóm 3 = 10, tổng 10 cho BTGĐ."}
+{"key": "e274af3b749b5d64", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 20%/30%; BTGĐ không có nhóm 2, nhóm 3 = 10."}
+{"key": "04b9ac753ac951f2", "qid": "QCL-087", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/10/40 đúng."}
+{"key": "365a2f38c13163b8", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 20/10/30 thay vì 30/10/40."}
+{"key": "d5ff02f446272ea0", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60/40 điểm, ±1 điểm mỗi 1%, <90% không hoàn thành: đủ."}
+{"key": "3424719a77ae88fb", "qid": "QCL-089", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có 60/40 và <90% nhưng thiếu quy tắc ±1 điểm mỗi 1%."}
+{"key": "34152d9f55d4a2ee", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 đúng."}
+{"key": "a0447654819f01ee", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 đúng."}
+{"key": "e409cc8a5dfd2c47", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "½ tháng, công thức, thành phần LCV đúng; xếp tỉ lệ ngày công vào LCV hơi lệch."}
+{"key": "4ce713b2f920fafd", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "½ tháng, công thức, LCV và điều kiện đều đúng."}
+{"key": "28f9bd99fa990a31", "qid": "QCL-094", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tính sai 106 điểm (đúng 108); chỉ nêu tháng 15, thiếu tháng 16."}
+{"key": "37e6b17ce3759294", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tháng 15, 16 đúng nhưng điểm 106 sai (đúng 108: 66+42)."}
+{"key": "3b8cf8f8d179409a", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không hoàn thành do lợi nhuận <90%: đúng."}
+{"key": "291696899e4b9402", "qid": "QCL-095", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng nhưng phát biểu quy tắc sai (chỉ cần một chỉ tiêu >90%)."}
+{"key": "acf1b7c1b354ca92", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Công thức KPI*40/chuẩn, tối đa 40 điểm đúng."}
+{"key": "8f1d78c4488f6642", "qid": "QCL-096", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Nhầm sang tiêu chí giá trị làm lợi, 20 điểm: sai."}
+{"key": "ff674983e869f7a0", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận 2 điểm sai (đúng 10 điểm); lập luận rối, bị cắt."}
+{"key": "b9ff643db3124d21", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận 2 điểm sai (đúng 10 điểm); lập luận mâu thuẫn, bị cắt."}
+{"key": "4f0aad288368ee52", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 điểm, mức Trung bình đúng."}
+{"key": "77bdbe05d2da1cb5", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 điểm, mức Trung bình đúng."}
+{"key": "aa6f963baed3f350", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 điểm, kinh nghiệm từ 5 năm đúng."}
+{"key": "532a89870f4013ff", "qid": "QCL-099", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "10 điểm, 5 năm đúng; lưu ý 'chọn 1 trong 2 tiêu chí' áp dụng sai."}
+{"key": "7318988c23a89090", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 điểm đúng; thông tin thêm về 5 tiêu chí đúng."}
+{"key": "a706c5f8f162be44", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 điểm đúng, kèm các mức 65/100."}
+{"key": "0585b4e275fbf212", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 tiêu chí, hệ số và điểm tối đa đúng."}
+{"key": "0712106edd0275da", "qid": "QCL-101", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Không liệt kê đúng các tiêu chí và hệ số; trộn lẫn chi tiết."}
+{"key": "6b6bcde3c14903c5", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: Rất quan trọng=10 (đúng 8), cộng sai thành 98, 2 bậc; đúng là 77, 1 bậc."}
+{"key": "846ed094c5723671", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 100 điểm, 2 bậc; lập luận bịa từ Điều 15, Điều 6."}
+{"key": "09009ba2fae8d3cb", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 10 điểm (đúng 20); trích dẫn NQLD Chương IX không liên quan."}
+{"key": "56deba5fcbb724b5", "qid": "QCL-104", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có ra 20 điểm theo giá trị nhưng lập luận rối, sai mức, bị cắt."}

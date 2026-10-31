@@ -1,0 +1,56 @@
+{"key": "b1e7ab1665c7663c", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 ngày/tháng đúng"}
+{"key": "a926f254349aba4f", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 ngày/tháng đúng"}
+{"key": "a1011a7878255535", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 ngày/tháng đúng"}
+{"key": "96238ffb524d465c", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 ngày/tháng đúng"}
+{"key": "71232c89c8683df0", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 ngày/tháng đúng"}
+{"key": "0628b465807a6e56", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mở đầu 144.000, tự mâu thuẫn, bị cắt dở"}
+{"key": "cf0e1c4eb3684ead", "qid": "QCL-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đầu 14.000 sai, tính ra 156.000"}
+{"key": "e04fbc816b357fd6", "qid": "QCL-040", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đầu 52.000/giờ, tính đúng 156.000"}
+{"key": "b4df2a1337889ee4", "qid": "QCL-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đầu 132.000 sai, cuối 156.000"}
+{"key": "6a639fc95adef130", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 đúng"}
+{"key": "4bb937ae172ffa57", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "nghỉ bù, tăng ca, TGĐ phê duyệt đúng"}
+{"key": "257b65eebcd5c9a5", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "nghỉ bù, tăng ca, TGĐ phê duyệt đúng"}
+{"key": "0bbb7f8d8bdfc35b", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "nghỉ bù, tăng ca, TGĐ phê duyệt đúng"}
+{"key": "9953c5e78adb4d01", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "nghỉ bù, tăng ca, TGĐ phê duyệt đúng"}
+{"key": "5394f72562eaad52", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "nghỉ bù, tăng ca, TGĐ phê duyệt đúng"}
+{"key": "d4b8d4844e49e109", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "theo ngày nghỉ hằng tuần đúng"}
+{"key": "b9e6b0ea52a876d6", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "theo ngày nghỉ hằng tuần đúng"}
+{"key": "26a94a832d235d60", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "theo ngày nghỉ hằng tuần đúng"}
+{"key": "c2929402b1e2581e", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "theo ngày nghỉ hằng tuần đúng"}
+{"key": "9d20da741855f54a", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương đóng BHXH đúng"}
+{"key": "e061b4c014bbdf37", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương đóng BHXH đúng"}
+{"key": "c0a34614d788a682", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương đóng BHXH đúng"}
+{"key": "ac089b66c8cbdfe0", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu, ngoại lệ 1% BHTN đúng"}
+{"key": "926d649f1e05a948", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu, ngoại lệ 1% BHTN đúng"}
+{"key": "aacae146453c4d03", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu, ngoại lệ 1% BHTN đúng"}
+{"key": "2b88aed852c882c5", "qid": "QCL-044", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Từ chối sai, thông tin lạc đề, nêu 25 năm sai"}
+{"key": "c7e2b1b7cbc77c4a", "qid": "QCL-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng 2 triệu nhưng gọi BHTN là BHXH, nói NQLD quy định"}
+{"key": "a3209c4c560e5c50", "qid": "QCL-045", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng; nói TULD Điều 11 quy định tương tự là không có"}
+{"key": "b42688b2c53e9294", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương BHTN, từ 14 ngày đúng"}
+{"key": "4d077df8c632e0da", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương BHTN, từ 14 ngày đúng"}
+{"key": "ca862ae321262ac9", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương BHTN, từ 14 ngày đúng"}
+{"key": "f60ed91ee180cb98", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương BHTN, từ 14 ngày đúng"}
+{"key": "329e9d515ed90968", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công đúng"}
+{"key": "2d9b9fb933134b9d", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công đúng"}
+{"key": "d0f00f0267b892af", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công đúng"}
+{"key": "9bb44a11a90dcaac", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công đúng"}
+{"key": "1008b66d328ba534", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công đúng"}
+{"key": "fa36ab2cb437fcaf", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có, 100% ngày công theo danh sách"}
+{"key": "602cad154f34d792", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có, 100% ngày công theo danh sách"}
+{"key": "759fe909680c06b0", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có, 100% ngày công theo danh sách"}
+{"key": "f7d7be539f36edb3", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có, 100% ngày công theo danh sách"}
+{"key": "486fbad2816bb5dd", "qid": "QCL-047", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có 100% nhưng mâu thuẫn, thêm khẳng định NQLD không có cơ sở"}
+{"key": "00cef0390aeca7e7", "qid": "QCL-048", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gán 80-90% cho Tổng giám đốc, bịa phân bổ theo chức danh"}
+{"key": "c8095b055c1137d1", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90%, 10-20% đúng"}
+{"key": "c279fceb9422c7f8", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90%, 10-20% đúng"}
+{"key": "e24eeffdcdb4a611", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90%, 10-20% đúng"}
+{"key": "c0d889d46aa65424", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90%, 10-20% đúng"}
+{"key": "9f1844acf18a4946", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60%, KPI 10-40% đúng"}
+{"key": "f500b67ca99346e2", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60%, KPI 10-40% đúng"}
+{"key": "f85988c99162fd97", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60%, KPI 10-40% đúng"}
+{"key": "2a5f09ba8e1490e6", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60%, KPI 10-40% đúng"}
+{"key": "673253dbe10c9daa", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60%, KPI 10-40% đúng"}
+{"key": "b94b574f6a4a31a3", "qid": "QCL-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Không liệt kê đúng các yếu tố, thêm doanh số/giá vốn"}
+{"key": "fa03c41627a4c4f9", "qid": "QCL-050", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Lặp tỉ lệ, không nêu danh sách yếu tố"}
+{"key": "86cc27377b562edc", "qid": "QCL-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 yếu tố"}
+{"key": "20fcdb365134b724", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu kết quả đánh giá KPI"}
