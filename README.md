@@ -13,10 +13,10 @@ using a local Qwen3.5 VLM served by llama.cpp.
 Models (`models/`) and llama.cpp binaries (`tools/`) are downloaded locally and not tracked.
 
 ## Web UI
-`uv run python app.py` (http://127.0.0.1:7860) — tabs **Hỏi đáp** (RAG pipelines from the benchmark),
-**Trích xuất PO** and **Đọc ảnh (VLM)**. The local VLM is started with `scripts/serve.sh 4B` (:8080); start
-`scripts/serve.sh 9B 8082` as well to switch to Qwen3.5-9B with the **Model** dropdown at the top (used by all three tabs;
-PO only with provider `local`). Other endpoints: `LLM_ENDPOINTS="name=url,..."`.
+`uv run python app.py` (http://127.0.0.1:7860) — tabs **Hỏi đáp** (RAG pipelines from the benchmark, chosen under
+**Cấu hình**) and **Trích xuất PO**. The local VLM is started with `scripts/serve.sh 4B` (:8080); start
+`scripts/serve.sh 9B 8082` as well to switch to Qwen3.5-9B with the **Model** dropdown at the top (used by both tabs;
+PO only with provider `local`, set under **Cấu hình**). Other endpoints: `LLM_ENDPOINTS="name=url,..."`.
 
 ## PO extraction (`bibica_rag/po/`)
 Retailer purchase order PDF → exactly the fields Bibica needs for that retailer (from the Excel in `PO Extraction/`),
