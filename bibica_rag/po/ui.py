@@ -23,7 +23,7 @@ PROVIDERS = ["local", "gemini"]
 def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
     path = Path(spec_file) if spec_file else default_spec_path()
     if not path:
-        return {}, "⚠️ Chưa có file cấu hình trường: `config/po_customers.yaml`."
+        return {}, "⚠️ Chưa có file danh sách trường: `config/po_customers.yaml`."
     try:
         specs = load_specs(path)
     except Exception as e:  # noqa: BLE001
@@ -34,7 +34,7 @@ def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
 def _load_dms(dms_file) -> tuple[dict | None, str]:
     path = Path(dms_file) if dms_file else find_dms_file()
     if not path:
-        return None, "⚠️ Chưa có file mã DMS — sẽ không tra mã DMS."
+        return None, "⚠️ Chưa có bảng mã DMS — kết quả sẽ không có mã DMS."
     try:
         mapping = load_dms_mapping(path)
     except Exception as e:  # noqa: BLE001
@@ -53,12 +53,12 @@ def output_view(r: dict) -> dict:
 
 def run_extraction(pdf_files, specs, dms, customer, provider, use_text, progress=gr.Progress()):
     if not pdf_files:
-        raise gr.Error("Chưa chọn file PDF")
+        raise gr.Error("Vui lòng chọn ít nhất một file PDF.")
     if not specs:
-        raise gr.Error("Chưa có cấu hình khách hàng")
+        raise gr.Error("Chưa có danh sách trường theo khách hàng (YAML).")
     backend = backend_from_env(provider)
     results = []
-    for path in progress.tqdm(pdf_files, desc="Đang trích xuất"):
+    for path in progress.tqdm(pdf_files, desc="Đang đọc PO"):
         r = extract_po(path, specs, customer=None if customer in (None, AUTO) else customer, max_pages=30,
                        use_text_layer=use_text, dms_mapping=dms, backend=backend)
         r.file = Path(path).name
@@ -85,7 +85,7 @@ def show_result(name, results, pdf_files):
     head = [[k, v] for k, v in output_view(r).items() if not isinstance(v, list)]
     items = next((v for v in r["fields"].values() if isinstance(v, list)), [])
     lines = [list(row.values()) for row in items]
-    warn = "\n".join(f"- ⚠️ {w}" for w in r.get("warnings", [])) or "✅ Không có cảnh báo tự kiểm tra."
+    warn = "\n".join(f"- ⚠️ {w}" for w in r.get("warnings", [])) or "✅ Không phát hiện điểm bất thường."
     if r["error"]:
         warn = f"❌ {r['error']}\n\n" + warn
     images = []
@@ -148,32 +148,33 @@ def build_po_tab():
         with gr.Column(scale=1):
             pdfs = gr.File(label="File PO (PDF)", file_count="multiple", file_types=[".pdf"], type="filepath")
             customer = gr.Dropdown([AUTO, *specs0], value=AUTO, label="Khách hàng")
-            provider = gr.Dropdown(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
-                                   label="VLM (local: Qwen3.5-4B — scripts/serve.sh 4B · gemini: cần GEMINI_API_KEY)")
-            btn = gr.Button("Trích xuất PO", variant="primary")
-            with gr.Accordion("Cấu hình", open=False):
-                use_text = gr.Checkbox(True, label="Gửi kèm lớp chữ của PDF (nếu đọc được)")
-                spec_file = gr.File(label="Trường cần trích xuất (YAML) — trống: config/po_customers.yaml",
+            btn = gr.Button("Trích xuất PO", variant="primary", size="lg")
+            files_out = gr.File(label="Tải kết quả (Excel / JSON)", file_count="multiple")
+            with gr.Accordion("Cài đặt", open=False):
+                provider = gr.Dropdown(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
+                                       label="Mô hình đọc PDF",
+                                       info="local: Qwen3.5-4B (scripts/serve.sh 4B) · gemini: cần GEMINI_API_KEY")
+                use_text = gr.Checkbox(True, label="Gửi kèm phần chữ có sẵn trong PDF (nếu có)")
+                spec_file = gr.File(label="Danh sách trường cần lấy (YAML) — để trống: dùng config/po_customers.yaml",
                                     file_types=[".yaml", ".yml", ".json"], type="filepath")
-                dms_file = gr.File(label="Mã siêu thị → mã DMS (Excel) — trống: file trong 'PO Extraction/'",
+                dms_file = gr.File(label="Bảng mã siêu thị → mã DMS (Excel) — để trống: dùng file trong 'PO Extraction/'",
                                    file_types=[".xlsx", ".xlsm"], type="filepath")
                 spec_msg, dms_msg = gr.Markdown(msg0), gr.Markdown(dms_msg0)
                 spec_view = gr.Code(dump_specs(specs0) if specs0 else "", language="yaml",
                                     label="Các trường theo khách hàng")
         with gr.Column(scale=2):
             summary = gr.Dataframe(headers=["File", "Khách hàng", "Số dòng", "Mã DMS", "Cảnh báo", "Giây", "Lỗi"],
-                                   label="Kết quả", interactive=False, wrap=True)
-            pick = gr.Dropdown([], label="Xem chi tiết file")
+                                   label="Tổng hợp", interactive=False, wrap=True)
+            pick = gr.Dropdown([], label="Chọn file để xem chi tiết")
             warn = gr.Markdown()
             with gr.Row():
                 with gr.Column():
                     head = gr.Dataframe(headers=["Trường", "Giá trị"], label="Thông tin đơn hàng",
                                         interactive=False, wrap=True)
                     lines = gr.Dataframe(label="Chi tiết hàng", interactive=False, wrap=True)
-                gallery = gr.Gallery(label="PDF", columns=1, height=600, object_fit="contain")
-            with gr.Accordion("JSON", open=False):
+                gallery = gr.Gallery(label="Trang PDF gốc", columns=1, height=600, object_fit="contain")
+            with gr.Accordion("Dữ liệu JSON", open=False):
                 js = gr.JSON()
-            files_out = gr.File(label="Tải kết quả (Excel / JSON)", file_count="multiple")
 
     def on_spec(f):
         s, m = _load_specs(f)
