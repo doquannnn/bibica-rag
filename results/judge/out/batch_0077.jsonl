@@ -1,0 +1,40 @@
+{"key": "232dd7f904a9e503", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: first time reminder, then sanctions."}
+{"key": "86917dff5ea29a27", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 7."}
+{"key": "b9fbdf2c9b198017", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 7."}
+{"key": "3add6c88c12bb08c", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 7."}
+{"key": "fb439f46991c6735", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day; QCL 11.2 and TULD 9 both correct."}
+{"key": "0df8e1b54309be1e", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: next working day."}
+{"key": "63ff62a260d15193", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: next working day, citations valid."}
+{"key": "8e3abd56d3509975", "qid": "TULD-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says TULD gives no replacement day for kỳ I; contradictory."}
+{"key": "79f7d9bb1778e571", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 1% BHXH; NQLD Điều 9 citation slip."}
+{"key": "af7a70fbfb8b12fe", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 1% BHXH over 6 months."}
+{"key": "b651ddb27d868bdb", "qid": "TULD-030", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly applies ≥3-year BHTN/2 triệu clauses to <3-year case."}
+{"key": "0065ba2aa4a19ca1", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "de2c1bbd4d4ac582", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% tuition, 02-year commitment."}
+{"key": "6e72d6a666cdbdac", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "249e886c374a37b7", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "2bfcb7407ad0bcbf", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ad41c4a5500490fb", "qid": "TULD-032", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Written, 01 month, 15 days; omits Hội đồng hòa giải name."}
+{"key": "0aff491d527a696f", "qid": "TULD-032", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "3212225c153094dd", "qid": "TULD-032", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly claims no complaint deadline; TULD Điều 13 has it."}
+{"key": "db86c2fbbb8d8c03", "qid": "TULD-032", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "eddad363d803683b", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All TULD Điều 15 items."}
+{"key": "b6f4b8cb6c24dff3", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All items; QCL extras correctly attributed."}
+{"key": "2ad459ae8047b89d", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All items."}
+{"key": "ce35343129d945b4", "qid": "TULD-033", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Adds QCL phúng điếu item under TULD list, misattributed."}
+{"key": "0d0540bfa19297c0", "qid": "TULD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four welfare items plus correct extras."}
+{"key": "5459d7e27bf4f5ad", "qid": "TULD-034", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing car borrowing item."}
+{"key": "67320250ba9abcad", "qid": "TULD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four items; union time cited Điều 3 instead of 4."}
+{"key": "d37be8f6b8869dbb", "qid": "TULD-034", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing car borrowing item."}
+{"key": "101fb3e488e571a7", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases."}
+{"key": "441c93b9e517176a", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases."}
+{"key": "bb13eed2e6ebef80", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases."}
+{"key": "e822cd756ca800b7", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases."}
+{"key": "1d5b27f4d667ca37", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 2."}
+{"key": "dadf447b00909259", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per TULD Điều 2."}
+{"key": "a89580247fee548c", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "82535f7eb2125cd0", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "a45d3fd00cb20974", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Full list correct; no bracket citation."}
+{"key": "feb06c8b04806f68", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct."}
+{"key": "0b5ee9cd5ec95aca", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list; NQLD Điều 17 addition supported."}
+{"key": "03de27c0726ffe86", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct."}

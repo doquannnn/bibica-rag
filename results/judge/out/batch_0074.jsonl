@@ -1,0 +1,40 @@
+{"key": "8744b1c4704d853c", "qid": "QCL-095", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Misreads <90% rule; wrongly says plan completed"}
+{"key": "ecafaf16508989a1", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: not completed, lợi nhuận 88% <90%"}
+{"key": "2560b74b4aff383b", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: not completed"}
+{"key": "61e66a4f9cf3c294", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra note slightly misleading but grounded"}
+{"key": "1d0584373b57c5c4", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Formula and 40 max correct; cites NQLD Phụ lục 4"}
+{"key": "973d97ca12535722", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 max correct"}
+{"key": "6cea2bd27d73a07c", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 max correct"}
+{"key": "0727acdfd2c3fa9f", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Formula and 40 max correct"}
+{"key": "bef4220f2e0ae53e", "qid": "QCL-097", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "10 points correct; citation labelled NQLD"}
+{"key": "fa92290676cfdbb8", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 2 points; value <20tr gives 10"}
+{"key": "3a1f70fe49ffc372", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 5 points with invented ranges; correct 10"}
+{"key": "886b75c500ded34d", "qid": "QCL-097", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Final 10 correct; wrongly says số đề xuất gives 5"}
+{"key": "5a0930bc8e641800", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct; one stray NQLD citation"}
+{"key": "1a6251170e8ac79a", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct"}
+{"key": "4e58b525e74d13d2", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "6 points correct"}
+{"key": "a4b9b0bf8058be27", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "6 points correct; cites NQLD Điều 7"}
+{"key": "55442cf8115fe99b", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "10 points, 5 years correct; cites NQLD"}
+{"key": "1e4fc851872aa882", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "10 points, 5 years correct"}
+{"key": "c0cd701861743b82", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "10 points, 5 years correct; cites TULD"}
+{"key": "8f0cd5409cf4ee89", "qid": "QCL-099", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "10 points, 5 years correct; cites NQLD Điều 7"}
+{"key": "0fda6d5810fa0232", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "85 points correct; cites NQLD Điều 27"}
+{"key": "8a19b89365e138ae", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "f4818ed5ed642730", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "98588d09255948d0", "qid": "QCL-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85 points correct"}
+{"key": "3cdc5b0b54c8bad4", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria, coefficients, max correct"}
+{"key": "6d8a797a40856031", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria, coefficients, max correct"}
+{"key": "2936130669d2da62", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria correct, order differs"}
+{"key": "166c2a58d11cf6f2", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 criteria, coefficients, max correct"}
+{"key": "6b0e7811c24942eb", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Assumes 30 points for proposals; 98 total, 2 bậc wrong"}
+{"key": "d3282b177d5f7a06", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 77 but headlines 90; omits 1 bậc result"}
+{"key": "b63273fd6b7f7780", "qid": "QCL-102", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sum miscomputed as 98, 2 bậc; correct 77, 1 bậc"}
+{"key": "bf2b69e0b9c53a12", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 77 but states 98; claims no result rule exists"}
+{"key": "c754bd88b7675d98", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 15 points; 150tr <200tr gives 20"}
+{"key": "2747f8b25055bb86", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20 points via giá trị làm lợi"}
+{"key": "4f5af3d67b7cdd21", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Confused, misreads table, no final answer"}
+{"key": "dd09ab5e9570fc2a", "qid": "QCL-104", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "20 points correct; cites NQLD Điều 7"}
+{"key": "0130ca3a7d47bbab", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, Tổng giám đốc correct"}
+{"key": "73be3b9b11370030", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, Tổng giám đốc correct"}
+{"key": "a44dcdf6db9e214a", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, Tổng giám đốc correct"}
+{"key": "e07a2a3c5672fb7c", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, Tổng giám đốc correct"}

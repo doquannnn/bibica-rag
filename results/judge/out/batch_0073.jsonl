@@ -1,0 +1,38 @@
+{"key": "c375863898974bff", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "40% correct; cites NQLD Điều 2 instead of QCL Phụ lục 2"}
+{"key": "b205149eebdae792", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 40%"}
+{"key": "835c8bca51b5c11a", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 40%"}
+{"key": "90d6e54ce5c6e681", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20% and 30%"}
+{"key": "5266cc003110695e", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20% and 30%"}
+{"key": "e2ce1da4dc743c2f", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20% and 30%"}
+{"key": "c21462bea08a29a3", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 35%"}
+{"key": "b761fbbd7a57a00a", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 40%; table gives Trưởng ca 35%"}
+{"key": "a930d2aeb2b27f54", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 35%, extra KPI allocation correct"}
+{"key": "196da9e00fe0dc35", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 40%; correct is 35%"}
+{"key": "a7750eeacb13d8c6", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Values 50/10/60 correct; cites NQLD Phụ lục"}
+{"key": "1992e8354d54327c", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Values 50/10/60 correct"}
+{"key": "a8c52039e5be6556", "qid": "QCL-085", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Values right but places VP column under NM section; cites NQLD"}
+{"key": "b266ded767fa7cfd", "qid": "QCL-085", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Values correct; cites NQLD Điều 7"}
+{"key": "eaac2a03e9c95039", "qid": "QCL-086", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2 none, nhóm 3 10 correct"}
+{"key": "3b8da462d3dc1b5f", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated nhóm 2 values per title; BTGĐ has none"}
+{"key": "fd509fdbc410ee92", "qid": "QCL-086", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Nhóm 3 10 right; invents nhóm 2 20% for PTGĐ, Bí thư"}
+{"key": "14d93528996b7887", "qid": "QCL-086", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims allocation not specified; misses nhóm 2 none, nhóm 3 10"}
+{"key": "270d126644968f24", "qid": "QCL-087", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/40 correct; unsupported claim of 30% at Văn phòng"}
+{"key": "dd49ce06c0cb42de", "qid": "QCL-087", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 and 40 correct"}
+{"key": "08ff351de55dfdda", "qid": "QCL-087", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30/40 correct; wrongly says total includes chỉ tiêu chung"}
+{"key": "05cfc477d0270034", "qid": "QCL-087", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Final 30/40 right; wrong column GĐ/PGĐK/TP reasoning"}
+{"key": "c33a37c9a07228bd", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "60/40, ±1 correct; cites TULD Điều 15"}
+{"key": "5bc787bf2c41b82f", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete incl. <90% rule"}
+{"key": "531959677cbe3426", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete incl. <90% rule"}
+{"key": "d4c3b3698d3e18b0", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete plus correct over-plan tiers"}
+{"key": "e666759e5e8892fd", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct"}
+{"key": "4847b558c9a69595", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct"}
+{"key": "ec1e056ac9e0d385", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct"}
+{"key": "1180d34dcfca3f94", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tháng 18 correct"}
+{"key": "9fc6b7889b050f02", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Level, formula, LCV composition correct"}
+{"key": "bd32f54245cfc96b", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Level, formula, LCV composition correct"}
+{"key": "dd9e67afa4196474", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Level, formula, LCV composition correct"}
+{"key": "24ad47c6e6b47a60", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Level, formula, LCV composition correct"}
+{"key": "ad1a2159b17a9791", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Score 106 (lợi nhuận 46) wrong; months 15,16 right"}
+{"key": "54eed916ad4cdf0a", "qid": "QCL-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "108 points, tier 100-110, up to tháng 16"}
+{"key": "d0cba0eaeb3d6982", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Scores 106/100 wrong; months 15/16 right"}
+{"key": "d7364ba5b2251515", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Contradicts itself: 106 then 108; months correct"}

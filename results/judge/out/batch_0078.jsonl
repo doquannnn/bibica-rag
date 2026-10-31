@@ -1,0 +1,36 @@
+{"key": "3740c6cea068710f", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three factors."}
+{"key": "80c83f8c6f9d295e", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three factors."}
+{"key": "128241975f16c156", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three factors."}
+{"key": "36f0ab9b9cf03b3f", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three factors; QCL KPI extra roughly supported."}
+{"key": "4715aa5555b0ab15", "qid": "TULD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Opens with wrong \"Không, không giữ lại\" though re-sign rule correct."}
+{"key": "c5258c6de6f0a6f0", "qid": "TULD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Re-sign rule correct but says \"không giữ lại\", contradictory."}
+{"key": "479aa36f7b918114", "qid": "TULD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: re-signed."}
+{"key": "031dfd54754742f9", "qid": "TULD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says company won't keep you; \"chỉ\" overstates strike exception."}
+{"key": "e90730712edb300f", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100 km, fuel and costs; correct."}
+{"key": "96a8aab2f0c9249b", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "9fd9906214e98cb4", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "e6418d07dcccd77e", "qid": "TULD-041", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; adds unsupported prior-approval requirement from NQLD."}
+{"key": "577a7274828eeb2c", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Once yearly, cost depends on results."}
+{"key": "f4ce48e34773f883", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, notes no fixed amount."}
+{"key": "9284a076c03a0146", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct plus valid holiday bonus extra."}
+{"key": "0dbccc55d95b77bc", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ad1c2f5bca5b1317", "qid": "TULD-044", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "NQLD policies correct but misses TULD 2 triệu maternity subsidy."}
+{"key": "3595abd4d53cf981", "qid": "TULD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Subsidy correct; NQLD rules cited to TULD Điều 8 (via reference)."}
+{"key": "b336508edd51ecb6", "qid": "TULD-044", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misses maternity subsidy; NQLD rules correct."}
+{"key": "55ba76d0e588685e", "qid": "TULD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Subsidy and NQLD rules correct."}
+{"key": "33f25d2b9b302b32", "qid": "TULD-046", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; adds unsupported company non-disclosure commitment."}
+{"key": "916abc4f40604f1b", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with supported NQLD extras."}
+{"key": "db4d2bcbaffd5326", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD extras supported."}
+{"key": "4ba13e79b53d92ed", "qid": "TULD-046", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; misattributes NQLD 23 employee duty to Company."}
+{"key": "b493ed23a4374e43", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct ratio rule; Phụ lục 3 details supported."}
+{"key": "69b591783469a672", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "c196e88f20ec0326", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "506fa2a4c65b64b3", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported."}
+{"key": "c7ff9359a3e96e17", "qid": "TULD-048", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricates that Công ty also means Bibica in TULD."}
+{"key": "355bbc075db09718", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct entity named."}
+{"key": "04b1596d5601d977", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with representative."}
+{"key": "7441feed04a41fc4", "qid": "TULD-048", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct entity; unsupported equation with Bibica."}
+{"key": "9a2ad5dae856a383", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "3ea1972e533ef1f1", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "7774e54caa45ff38", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "59ac70f570b0b137", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
