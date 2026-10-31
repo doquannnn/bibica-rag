@@ -1,0 +1,33 @@
+{
+  "file": "COOP_synth_1",
+  "customer": "COOP",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "86626526-00",
+    "Ngày đề nghị giao hàng": "2024-03-11",
+    "Mã KH": "801",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "3765987-4",
+        "SL đặt": 43
+      },
+      {
+        "Mã SP": "3525858-1",
+        "SL đặt": 71
+      },
+      {
+        "Mã SP": "3853922-7",
+        "SL đặt": 34
+      },
+      {
+        "Mã SP": "3663659-9",
+        "SL đặt": 17
+      },
+      {
+        "Mã SP": "3250160-7",
+        "SL đặt": 89
+      }
+    ]
+  }
+}

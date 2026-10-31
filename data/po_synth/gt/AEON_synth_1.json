@@ -1,0 +1,29 @@
+{
+  "file": "AEON_synth_1",
+  "customer": "AEON",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "10054328309108",
+    "Ngày đề nghị giao hàng": "2024-03-05",
+    "Mã KH": "1005",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609102143",
+        "SL đặt": 1
+      },
+      {
+        "Mã SP": "8934609602506",
+        "SL đặt": 1
+      },
+      {
+        "Mã SP": "8934609103881",
+        "SL đặt": 1
+      },
+      {
+        "Mã SP": "8934609602377",
+        "SL đặt": 6
+      }
+    ]
+  }
+}

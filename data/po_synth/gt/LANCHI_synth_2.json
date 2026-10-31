@@ -1,0 +1,53 @@
+{
+  "file": "LANCHI_synth_2",
+  "customer": "LANCHI",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Ngày đề nghị giao hàng": "2024-09-18",
+    "Mã KH": "THE CITY",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609602377",
+        "SL đặt": 30
+      },
+      {
+        "Mã SP": "8934609203116",
+        "SL đặt": 156
+      },
+      {
+        "Mã SP": "8934609101900",
+        "SL đặt": 114
+      },
+      {
+        "Mã SP": "8934609418336",
+        "SL đặt": 30
+      },
+      {
+        "Mã SP": "8934609602407",
+        "SL đặt": 84
+      },
+      {
+        "Mã SP": "8934609602506",
+        "SL đặt": 42
+      },
+      {
+        "Mã SP": "8934609602551",
+        "SL đặt": 84
+      },
+      {
+        "Mã SP": "8934609106332",
+        "SL đặt": 102
+      },
+      {
+        "Mã SP": "8934609471355",
+        "SL đặt": 84
+      },
+      {
+        "Mã SP": "8934609105434",
+        "SL đặt": 138
+      }
+    ]
+  },
+  "note": "Ngày đặt + 5 ngày (quy tắc Excel); bố cục theo ảnh trong Excel, chưa có PDF thật"
+}

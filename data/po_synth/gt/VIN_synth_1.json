@@ -1,0 +1,17 @@
+{
+  "file": "VIN_synth_1",
+  "customer": "VIN",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "4119776823",
+    "Ngày đề nghị giao hàng": "2024-03-17",
+    "Mã KH": "1324",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609418336",
+        "SL đặt": 1314
+      }
+    ]
+  }
+}

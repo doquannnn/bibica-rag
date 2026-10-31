@@ -1,0 +1,22 @@
+{
+  "file": "SATRA_synth_1",
+  "customer": "SATRA",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "P-004771052",
+    "Ngày đề nghị giao hàng": "2024-04-08",
+    "Mã KH": "VD-00001986",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "408934609106301",
+        "SL đặt": 2
+      },
+      {
+        "Mã SP": "408934609602506",
+        "SL đặt": 4
+      }
+    ]
+  },
+  "note": "'Ngày' (tháng/ngày/năm) + 5 ngày (quy tắc Excel)"
+}

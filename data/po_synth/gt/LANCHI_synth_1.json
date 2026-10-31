@@ -1,0 +1,29 @@
+{
+  "file": "LANCHI_synth_1",
+  "customer": "LANCHI",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Ngày đề nghị giao hàng": "2024-02-12",
+    "Mã KH": "THE CITY",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609602452",
+        "SL đặt": 120
+      },
+      {
+        "Mã SP": "8934609412136",
+        "SL đặt": 114
+      },
+      {
+        "Mã SP": "8934609602704",
+        "SL đặt": 162
+      },
+      {
+        "Mã SP": "8934609103706",
+        "SL đặt": 60
+      }
+    ]
+  },
+  "note": "Ngày đặt + 5 ngày (quy tắc Excel); bố cục theo ảnh trong Excel, chưa có PDF thật"
+}

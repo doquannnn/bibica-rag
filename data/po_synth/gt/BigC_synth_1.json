@@ -1,0 +1,38 @@
+{
+  "file": "BigC_synth_1",
+  "customer": "BigC",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "2354778446266",
+    "Ngày đề nghị giao hàng": "2024-02-03",
+    "Mã KH": "M1500806",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609205837",
+        "SL đặt": 10
+      },
+      {
+        "Mã SP": "8934609109012",
+        "SL đặt": 19
+      },
+      {
+        "Mã SP": "8934609413133",
+        "SL đặt": 15
+      },
+      {
+        "Mã SP": "8934609202492",
+        "SL đặt": 18
+      },
+      {
+        "Mã SP": "8934609103188",
+        "SL đặt": 9
+      },
+      {
+        "Mã SP": "8934609106332",
+        "SL đặt": 15
+      }
+    ]
+  },
+  "note": "Order Date + 5 ngày (quy tắc Excel)"
+}
