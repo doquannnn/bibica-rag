@@ -2,7 +2,7 @@
 that retailer needs, see bibica_rag/po), or extract information from an image with the Qwen VLM.
 
     scripts/serve.sh 4B            # llama-server on :8080 (or 9B)
-    export GEMINI_API_KEY=...      # optional: PO extraction with Gemini instead of the local VLM
+    # PO extraction uses the same local Qwen3.5-4B VLM; optional: BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
     uv run python app.py           # http://127.0.0.1:7860
 """
 import json

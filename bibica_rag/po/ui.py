@@ -17,7 +17,7 @@ from bibica_rag.po.spec import CustomerSpec, default_spec_path, dump_specs, find
 from bibica_rag.po.vlm import backend_from_env
 
 AUTO = "(Tự động nhận diện)"
-PROVIDERS = ["gemini", "local"]
+PROVIDERS = ["local", "gemini"]
 
 
 def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
@@ -149,7 +149,7 @@ def build_po_tab():
             pdfs = gr.File(label="File PO (PDF)", file_count="multiple", file_types=[".pdf"], type="filepath")
             customer = gr.Dropdown([AUTO, *specs0], value=AUTO, label="Khách hàng")
             provider = gr.Dropdown(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
-                                   label="VLM (gemini: cần GEMINI_API_KEY · local: scripts/serve.sh)")
+                                   label="VLM (local: Qwen3.5-4B — scripts/serve.sh 4B · gemini: cần GEMINI_API_KEY)")
             btn = gr.Button("Trích xuất PO", variant="primary")
             with gr.Accordion("Cấu hình", open=False):
                 use_text = gr.Checkbox(True, label="Gửi kèm lớp chữ của PDF (nếu đọc được)")

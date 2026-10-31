@@ -21,7 +21,7 @@ Retailer purchase order PDF → exactly the fields Bibica needs for that retaile
 plus the DMS customer code. Details, evaluation method and current results: `docs/PO_EXTRACTION.md`.
 
 ```bash
-export GEMINI_API_KEY=...        # free key: https://aistudio.google.com/apikey  (or run the local VLM: scripts/serve.sh 4B)
+scripts/serve.sh 4B              # local Qwen3.5-4B VLM on :8080 (default); or BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
 uv run python -m bibica_rag.po.extract "PO Extraction/" --out results/po
 uv run python -m bibica_rag.po.evaluate score --pred results/po --gt data/po_gt     # -> results/po_eval/report.md
 uv run pytest tests/                                     # unit tests + model-free checks on the real samples

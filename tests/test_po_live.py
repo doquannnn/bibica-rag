@@ -1,7 +1,7 @@
 """Checks on the real POs in 'PO Extraction/' against the hand-checked GT in data/po_gt/.
 
 - test_real_po_preprocessing / test_gt_is_grounded / test_dms_codes: no model needed
-- test_real_po_accuracy: calls the VLM (Gemini with GEMINI_API_KEY, or the local server — see bibica_rag/po/vlm.py):
+- test_real_po_accuracy: calls the VLM (default: local Qwen3.5-4B, `scripts/serve.sh 4B`; see bibica_rag/po/vlm.py):
       BIBICA_LIVE=1 uv run pytest tests/test_po_live.py -s
   Gates: customer detection 100%, exactly the customer's fields, header accuracy and line F1 >=
   BIBICA_PO_MIN_ACC (default 0.9).

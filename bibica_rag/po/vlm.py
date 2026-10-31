@@ -1,11 +1,11 @@
 """VLM backend for PO extraction: any OpenAI-compatible chat endpoint that accepts images.
 
-Presets (env `BIBICA_PO_PROVIDER`, default: `gemini` when GEMINI_API_KEY is set, else `local`):
+Presets (env `BIBICA_PO_PROVIDER`, default `local`: the Qwen3.5-4B VLM served by `scripts/serve.sh 4B`):
 
 | provider | endpoint | model (default) | key |
 |---|---|---|---|
+| local    | LLM_BASE_URL (scripts/serve.sh 4B, default http://127.0.0.1:8080/v1) | LLM_MODEL (qwen3.5-4B) | none |
 | gemini   | https://generativelanguage.googleapis.com/v1beta/openai/ | gemini-3.5-flash | GEMINI_API_KEY (free tier at aistudio.google.com/apikey) |
-| local    | LLM_BASE_URL (scripts/serve.sh, default http://127.0.0.1:8080/v1) | LLM_MODEL (qwen3.5-4B) | none |
 | openai   | BIBICA_PO_BASE_URL | BIBICA_PO_MODEL | BIBICA_PO_API_KEY |
 
 `BIBICA_PO_MODEL` / `BIBICA_PO_BASE_URL` / `BIBICA_PO_API_KEY` override any preset.
@@ -35,8 +35,7 @@ class Backend:
 
 def backend_from_env(provider: str | None = None) -> Backend:
     env = os.environ
-    provider = (provider or env.get("BIBICA_PO_PROVIDER") or
-                ("gemini" if env.get("GEMINI_API_KEY") or env.get("GOOGLE_API_KEY") else "local")).lower()
+    provider = (provider or env.get("BIBICA_PO_PROVIDER") or "local").lower()
     if provider == "gemini":
         base, model = GEMINI_BASE_URL, "gemini-3.5-flash"
         key = env.get("GEMINI_API_KEY") or env.get("GOOGLE_API_KEY") or ""

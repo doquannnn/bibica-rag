@@ -51,8 +51,11 @@ def test_backend_selection(monkeypatch):
     for k in ("BIBICA_PO_PROVIDER", "GEMINI_API_KEY", "GOOGLE_API_KEY", "BIBICA_PO_MODEL", "BIBICA_PO_BASE_URL",
               "BIBICA_PO_API_KEY", "LLM_BASE_URL", "LLM_MODEL"):
         monkeypatch.delenv(k, raising=False)
-    assert backend_from_env().provider == "local"
+    b = backend_from_env()
+    assert (b.provider, b.base_url, b.model, b.local) == ("local", "http://127.0.0.1:8080/v1", "qwen3.5-4B", True)
     monkeypatch.setenv("GEMINI_API_KEY", "k")
+    assert backend_from_env().provider == "local"  # a key alone does not switch away from the local model
+    monkeypatch.setenv("BIBICA_PO_PROVIDER", "gemini")
     b = backend_from_env()
     assert (b.provider, b.base_url, b.model, b.api_key, b.local) == ("gemini", GEMINI_BASE_URL, "gemini-3.5-flash",
                                                                      "k", False)
