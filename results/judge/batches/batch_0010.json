@@ -1,0 +1,476 @@
+[
+ {
+  "qid": "QCL-080",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Phó Phòng/Phó Quản đốc PX có tỷ trọng thưởng KPI chuẩn tối đa là 35% (QCL Phụ lục 2).",
+  "key_facts": [
+   "35"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "68ca5ccaa6f360a0",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là **35%**.\n\nDữ liệu này được quy định cụ thể trong bảng \"Phụ lục 02 – I. Tỷ trọng (%) thưởng KPI chuẩn tối đa theo chức danh\" tại [QCL Phụ lục 2]. Theo đó, chức danh \"Phó Phòng/Phó Quản đốc PX\" thuộc khối E có tỷ trọng tối đa là 35%."
+   },
+   {
+    "key": "233b95d393945e7b",
+    "answer": "Tài liệu nội bộ không có thông tin về tỷ trọng thưởng KPI chuẩn tối đa cụ thể cho vị trí Phó Quản đốc phân xưởng.\n\nCác trích đoạn cung cấp tỷ lệ KPI cho các vị trí khác như:\n- Phó Tổng giám đốc: 15% [QCL Phụ lục 1].\n- Phó Giám đốc Khối: 20% [QCL Phụ lục 1].\n- Quản trị viên nhóm 1-2: 10-20% và 15-30% [QCL Điều 15].\n- Nhân viên: 10-40% [QCL Điều 15].\n\nVị trí \"Phó Quản đốc phân xưởng\" không được liệt kê trong bảng quy định tỷ trọng KPI của Phụ lục 1 hay trong bảng cơ cấu lương của Điều 15."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-082",
+  "question": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là 40% (QCL Phụ lục 2).",
+  "key_facts": [
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "14be43e359c7f7d3",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng có tỷ trọng thưởng KPI chuẩn tối đa là **40%** [QCL Phụ lục 2].\n\nTheo bảng Phụ lục 02, chức danh này thuộc khối C, nhóm 1.3, với mức tối đa 40%. Tuy nhiên, khi xét cơ cấu lương công việc (LCV) chung cho Nhân viên (NV), tỷ lệ KPI nằm trong khoảng 10% - 40% [QCL Điều 15]."
+   },
+   {
+    "key": "0bec668cd178c2da",
+    "answer": "Trợ lý sản phẩm/Nhãn hàng thuộc nhóm **Nhân viên (NV)** theo quy định của QCL. Tỷ trọng thưởng KPI chuẩn tối đa cho nhóm này là **10%**.\n\n[QCL Phụ lục 1, QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-083",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng và Quản lý sản phẩm/Nhãn hàng lần lượt là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Giám đốc sản phẩm/Nhãn hàng: 20%; Quản lý sản phẩm/Nhãn hàng: 30% (QCL Phụ lục 2).",
+  "key_facts": [
+   "20",
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "8e3f6bfb48e7097e",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng là 20% và của Quản lý sản phẩm/Nhãn hàng là 30%.\n\nThông tin này quy định trong [QCL Phụ lục 2]."
+   },
+   {
+    "key": "e8f35d5d2b02c383",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Giám đốc sản phẩm/Nhãn hàng là 20% và Quản lý sản phẩm/Nhãn hàng là 30%.\n\nThông tin này được quy định trong Bảng lương hiện hành tại Phụ lục 2 của Quy chế tiền lương, tiền thưởng Bibica năm 2024.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-084",
+  "question": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu phần trăm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Trưởng bộ phận/Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 35% (QCL Phụ lục 2).",
+  "key_facts": [
+   "35"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "5d687029246ca1bf",
+    "answer": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là **35%** (theo Phụ lục 02, khối E).\n\nNgoài ra, theo Phân bổ chỉ tiêu KPI theo cấp, Trưởng ca thuộc nhóm có 50% chỉ tiêu cho KPI nhóm 2 và 10% cho KPI nhóm 3 (việc cấp quản lý trực tiếp giao), tổng cộng là **60%** chỉ tiêu KPI.\n\n[QCL Phụ lục 2] [QCL Phụ lục 2]"
+   },
+   {
+    "key": "7fd400dc41e54f93",
+    "answer": "Trưởng ca có tỷ trọng thưởng KPI chuẩn tối đa là 10% theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Phụ lục 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-085",
+  "question": "Trong bảng phân bổ chỉ tiêu KPI, KSCN/NV tại Văn phòng Công ty có điểm KPI nhóm 2, nhóm 3 và tổng cộng là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "KSCN/NV tại VP Công ty: KPI nhóm 2 (03 chỉ tiêu KPI) là 50, KPI nhóm 3 (công việc cấp quản lý trực tiếp giao) là 10, tổng cộng 60 (QCL Phụ lục 2).",
+  "key_facts": [
+   "50",
+   "10",
+   "60"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "290e7a5c72d31516",
+    "answer": "Theo bảng \"Phân bổ chỉ tiêu KPI theo cấp\" trong Phụ lục 02 Quy chế tiền lương (QCL), đối với vị trí KSCN/NV tại Văn phòng Công ty:\n\n- Điểm KPI nhóm 2 (03 chỉ tiêu): **50%** [QCL Phụ lục 2].\n- Điểm KPI nhóm 3 (công việc cấp quản lý trực tiếp giao): **10%** [QCL Phụ lục 2].\n- Tổng cộng: **60%** [QCL Phụ lục 2].\n\nLưu ý: Nhóm 3 luôn chiếm 10% ở mọi cấp theo quy định."
+   },
+   {
+    "key": "02e4781ff69956f7",
+    "answer": "Theo bảng phân bổ chỉ tiêu KPI trong Phụ lục 2 của Quy chế tiền lương năm 2024, đối với vị trí KSCN/NV tại Văn phòng Công ty:\n\n- Điểm KPI nhóm 2: 50% [QCL Phụ lục 2].\n- Điểm KPI nhóm 3: 10% [QCL Phụ lục 2].\n- Tổng cộng: 10% [QCL Phụ lục 2].\n\nLưu ý: Tổng điểm KPI cho từng vị trí trong bảng phụ lục này chỉ bằng 10%, không phải 100% như thông lệ đánh giá KPI thông thường."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-086",
+  "question": "Ban Tổng giám đốc được phân bổ chỉ tiêu KPI nhóm 2 và nhóm 3 như thế nào?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ban Tổng giám đốc (BTGĐ) không có KPI nhóm 2 (ký hiệu -), KPI nhóm 3 là 10, tổng cộng 10 (QCL Phụ lục 2).",
+  "key_facts": [
+   "10"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "194a65332fb6269d",
+    "answer": "Ban Tổng giám đốc **không được phân bổ chỉ tiêu KPI nhóm 2**.\n\nTheo quy định, chỉ tiêu KPI nhóm 2 (gồm 03 chỉ tiêu) chỉ áp dụng cho các khối B, C, D, E. Đối với Ban Tổng giám đốc, toàn bộ chỉ tiêu KPI hàng tháng được phân bổ hoàn toàn vào **nhóm 3** (công việc trực tiếp do trưởng đơn vị giao), với tỷ trọng tối đa là 10% đối với Tổng giám đốc [QCL Phụ lục 2]."
+   },
+   {
+    "key": "e274af3b749b5d64",
+    "answer": "Ban Tổng giám đốc được phân bổ 20% cho KPI nhóm 2 và 30% cho KPI nhóm 3.\n\n[QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-087",
+  "question": "Quản đốc/Phó quản đốc ở các nhà máy, công ty thành viên được phân bổ KPI nhóm 2 bao nhiêu và tổng cộng bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "QĐ/PQĐ tại các NM/Cty thành viên: KPI nhóm 2 là 30, KPI nhóm 3 là 10, tổng cộng 40 (QCL Phụ lục 2).",
+  "key_facts": [
+   "30",
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "04b9ac753ac951f2",
+    "answer": "Quản đốc/Phó quản đốc được phân bổ **30%** cho KPI nhóm 2 và **10%** cho KPI nhóm 3 (công việc cấp quản lý trực tiếp giao), tổng cộng **40%** [QCL Phụ lục 2].\n\nCụ thể:\n- KPI nhóm 2: 30% [QCL Phụ lục 2].\n- KPI nhóm 3: 10% [QCL Phụ lục 2].\n- Tổng cộng: 40% [QCL Phụ lục 2].\n\nLưu ý: KPI nhóm 3 luôn chiếm 10% ở mọi cấp quản lý theo quy định [QCL Phụ lục 2]."
+   },
+   {
+    "key": "365a2f38c13163b8",
+    "answer": "Quản đốc/Phó quản đốc được phân bổ **20%** cho KPI nhóm 2 và **10%** cho KPI nhóm 3, tổng cộng **30%** [QCL Phụ lục 2].\n\nTuy nhiên, cần lưu ý:\n- Đối với Quản đốc/Phó quản đốc, công thức tính thưởng Kpi thực tế bao gồm: Thưởng kpi chuẩn * tỷ lệ đạt Kpi cá nhân * hệ số điều chỉnh (nếu các tiêu chí Kpi >100%) [QCL Điều 16].\n- Đối với Trưởng ca, công thức cũng tương tự nhưng với tỷ lệ phân bổ khác (50% nhóm 2, 10% nhóm 3, tổng 60%) [QCL Phụ lục 2].\n- Việc phân bổ này áp dụng cho các chỉ tiêu liên quan đến sản lượng, chi phí, chất lượng [QCL Điều 8]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-089",
+  "question": "Khi đánh giá Công ty hoàn thành kế hoạch năm, doanh số và lợi nhuận chiếm bao nhiêu điểm và điểm thay đổi ra sao khi vượt hoặc hụt kế hoạch?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Doanh số 60 điểm, lợi nhuận 40 điểm; doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm; một trong hai chỉ tiêu <90% là không hoàn thành kế hoạch; đạt 100 điểm (hoàn thành kế hoạch) thì CNV đạt lương tháng 14 (QCL Phụ lục 3).",
+  "key_facts": [
+   "60 điểm",
+   "40 điểm",
+   "1 điểm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "d5ff02f446272ea0",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- **Hoàn thành kế hoạch năm**: Doanh số chiếm **60 điểm**, Lợi nhuận chiếm **40 điểm** (tổng 100 điểm).\n- **Vượt kế hoạch năm**: Doanh số và Lợi nhuận tăng giảm **1%** tương đương **+/- 1 điểm**.\n- **Hụt kế hoạch**: Nếu một trong hai chỉ tiêu dưới **90%** thì coi là không hoàn thành kế hoạch.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "3424719a77ae88fb",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n\n- Doanh số chiếm 60 điểm, Lợi nhuận chiếm 40 điểm [QCL Phụ lục 3].\n- Nếu chỉ tiêu dưới 90% thì không hoàn thành kế hoạch [QCL Phụ lục 3].\n- Khi vượt kế hoạch, điểm số tăng theo từng mức:\n  - 100–110 điểm: đạt lương tháng 15, 16 [QCL Phụ lục 3].\n  - 110–120 điểm: đạt lương tháng 17, 18 [QCL Phụ lục 3].\n  - Trên 120 điểm: đạt lương tháng 19, 20 [QCL Phụ lục 3].\n- Ngoài ra, điểm đánh giá cá nhân cũng có quy định riêng về mức lương bổ sung tùy theo số điểm đạt được [QCL Phụ lục 3]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-091",
+  "question": "Điểm đánh giá cá nhân đạt 160 điểm thì được nhận lương bổ sung vượt kế hoạch đến tháng mấy?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Cá nhân đạt 160 điểm được nhận lương bổ sung vượt KH tháng 18 (QCL Phụ lục 3).",
+  "key_facts": [
+   "tháng 18"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "34152d9f55d4a2ee",
+    "answer": "Điểm đánh giá cá nhân đạt 160 điểm, nhân viên được nhận lương bổ sung vượt kế hoạch năm đến **tháng 18**.\n\nTheo quy định tại [QCL Phụ lục 3], mức lương bổ sung này được tính dựa trên tổng điểm của công ty và điểm đánh giá cá nhân. Cụ thể:\n- Công ty phải đạt mức từ 110 – 120 điểm để mở ra các tháng 17, 18.\n- Khi điểm cá nhân đạt 160 điểm, mức lương bổ sung tương ứng là **tháng 18**.\n\nNếu điểm cá nhân thấp hơn (ví dụ 100 điểm) dù công ty vượt kế hoạch, mức lương sẽ chỉ dừng lại ở tháng 15."
+   },
+   {
+    "key": "a0447654819f01ee",
+    "answer": "Đạt 160 điểm, nhân viên được nhận lương bổ sung vượt KH tháng 18.\n\n[QCL Phụ lục 3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-093",
+  "question": "Lương bổ sung hiệu quả quý được tính theo mức nào, công thức ra sao và lương công việc bình quân quý gồm những gì?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Mức lương bổ sung hiệu quả quý là ½ tháng lương công việc. Cách tính: Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn; trong đó LCV bình quân quý = Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng, và tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng / ngày công chuẩn 3 tháng. Điều kiện: Công ty đạt chỉ tiêu quý về doanh số, lợi nhuận và CNV đã ký HĐLĐ (QCL Phụ lục 3).",
+  "key_facts": [
+   "bình quân 3 tháng",
+   "công chuẩn"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "e409cc8a5dfd2c47",
+    "answer": "Lương bổ sung hiệu quả quý bằng **½ tháng lương công việc** [QCL Phụ lục 3].\n\nCông thức tính: **Lương bổ sung hiệu quả quý = Lương công việc bình quân quý x Tỷ lệ ngày công thực tế / ngày công chuẩn** [QCL Phụ lục 3].\n\nLương công việc bình quân quý bao gồm:\n1. Lương cứng chuẩn bình quân của 3 tháng.\n2. KPI thực tế bình quân của 3 tháng.\n3. Tỷ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) so với ngày công chuẩn của 3 tháng [QCL Phụ lục 3]."
+   },
+   {
+    "key": "4ce713b2f920fafd",
+    "answer": "Lương bổ sung hiệu quả quý bằng ½ tháng lương công việc. Công thức tính: Lương công việc bình quân quý x công thực tế / công chuẩn.\n\nLương công việc bình quân quý bao gồm: Lương cứng chuẩn bình quân 3 tháng cộng với KPI thực tế bình quân 3 tháng.\n\nLưu ý: Việc tính lương này phụ thuộc vào việc công ty đạt chỉ tiêu quý/năm về doanh số và lợi nhuận, đồng thời nhân viên phải đã ký hợp đồng lao động.\n\n[QCL Phụ lục 3 Điều 5], [QCL Phụ lục 3 Điều 6], [QCL Phụ lục 3 Điều 2], [QCL Phụ lục 3 Điều 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-094",
+  "question": "Năm nay Công ty đạt 106% kế hoạch doanh số và 102% kế hoạch lợi nhuận. Công ty đạt bao nhiêu điểm và nhân viên có thể được hưởng lương bổ sung đến tháng mấy?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Doanh số: 60 + 6 = 66 điểm; lợi nhuận: 40 + 2 = 42 điểm (doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm); tổng 108 điểm. Không chỉ tiêu nào dưới 90% và cả hai đều vượt kế hoạch, nên Công ty hoàn thành kế hoạch (100 điểm: lương tháng 14) và thuộc khung vượt kế hoạch từ 100 - 110 điểm: đạt lương tháng 15, 16; mức cụ thể tùy điểm đánh giá cá nhân (đạt 100 điểm: tháng 15; đạt 120 điểm: tháng 16) (QCL Phụ lục 3).",
+  "key_facts": [
+   "108",
+   "15",
+   "16"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "28f9bd99fa990a31",
+    "answer": "Công ty đạt **106 điểm** (Doanh số 60 điểm + Lợi nhuận 46 điểm, vì tăng 6% tương đương 6 điểm).\n\nNhân viên được hưởng **Lương tháng 15** (vì công ty đạt từ 100–110 điểm).\n\nMức lương bổ sung này được tính dựa trên Lương công việc bình quân năm nhân với tỷ lệ ngày công thực tế/công chuẩn. Tuy nhiên, nếu nhân viên có đơn xin nghỉ việc hoặc đã nghỉ việc tại thời điểm chi thưởng, họ sẽ **không được hưởng** khoản này.\n\n[QCL Phụ lục 3]"
+   },
+   {
+    "key": "37e6b17ce3759294",
+    "answer": "Công ty đạt 106 điểm (doanh số 60 điểm + lợi nhuận 40 điểm).\n\nNhân viên được hưởng lương bổ sung đến tháng 16. Cụ thể:\n- Theo chỉ tiêu doanh số/lợi nhuận: Đạt 106 điểm thuộc nhóm 100-110 điểm, được lương tháng 15, 16 [QCL Phụ lục 3].\n- Theo điểm đánh giá cá nhân: Đạt 100 điểm được lương tháng 15; đạt 120 điểm mới được tháng 16. Do chỉ đạt 106 điểm, mức cao nhất là tháng 15, 16 [QCL Phụ lục 3]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-095",
+  "question": "Nếu năm đó doanh số đạt 120% kế hoạch nhưng lợi nhuận chỉ đạt 88% kế hoạch thì Công ty có được coi là hoàn thành kế hoạch năm để chi lương tháng 14 không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. Chỉ tiêu doanh số, lợi nhuận chỉ cần một trong hai chỉ tiêu <90% là không hoàn thành kế hoạch; lợi nhuận đạt 88% (<90%) nên Công ty không hoàn thành kế hoạch năm và CNV không đạt lương tháng 14 (QCL Phụ lục 3).",
+  "key_facts": [
+   "90%"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 3": "Phụ lục 03. CHÍNH SÁCH LƯƠNG, THƯỞNG BỔ SUNG HÀNG NĂM\n1. Tiêu chí đánh giá hoàn thành kế hoạch, vượt kế hoạch năm của Công ty:\na. Phương pháp tính điểm Công ty đạt, vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Điểm doanh số và lợi nhuận: Doanh số 60 điểm, Lợi nhuận 40 điểm\n- Cách tính: Doanh số, lợi nhuận tăng giảm 1% tương đương +/-1 điểm,\n- Chỉ tiêu doanh số, lợi nhuận một trong hai chỉ tiêu <90% không hoàn thành kế hoạch.\nb. Công ty hoàn thành kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận: 100 điểm CNV đạt lương tháng 14\nc. Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n2. Tiêu chí đánh giá lương bổ sung hiệu quả quý:\n- Tiêu chí hoàn thành kế hoạch quý: 100 điểm\n- Lương công việc bình quân của quý (Lương cứng chuẩn bình quân 3 tháng + KPI thực tế bình quân 3 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) 3 tháng/ ngày công chuẩn 3 tháng\n3. Tiêu chi đánh giá lương bổ sung tháng 13; lương bổ sung hoàn thành kế hoạch và lương vượt kế hoạch năm:\n- CNV đã ký HĐLĐ\n- Lương công việc bình quân 12 tháng (Lương cứng chuẩn bình quân 12 tháng + KPI thực tế bình quân 12 tháng).\n- Tỉ lệ ngày công thực tế (bao gồm phép và Lễ/Tết theo Luật được hưởng nguyên lương) / ngày công chuẩn.\n4. Điều kiện:\na. Lương bổ sung hiệu quả quý; Lương bổ sung hoàn thành KH (tháng 14 trở đi):\n- Công ty đạt các chỉ tiêu quý/hoặc năm về doanh số, lợi nhuận\n- CNV đã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nb. Lương bổ sung tháng 13:\nĐã ký HĐLĐ, trường hợp dưới 1 năm tính theo tỉ lệ thời gian làm việc.\nc. Lương thưởng vượt kế hoạch năm:\n- Công ty vượt kế hoạch các chỉ tiêu năm về doanh số, lợi nhuận:\n- Từ 100 - 110 điểm: đạt lương tháng 15, 16\n- Từ 110 – 120 điểm: đạt lương tháng 17, 18\n- Trên 120 điểm: đạt lương tháng 19, 20\n- Điểm đánh giá cá nhân:\n- Đạt 100 điểm, được nhận lương bổ sung vượt KH tháng 15\n- Đạt 120 điểm, được nhận lương bổ sung vượt KH tháng 16\n- Đạt 140 điểm, được nhận lương bổ sung vượt KH tháng 17\n- Đạt 160 điểm, được nhận lương bổ sung vượt KH tháng 18\n- Đạt 180 điểm, được nhận lương bổ sung vượt KH tháng 19\n- Đạt 200 điểm, được nhận lương bổ sung vượt KH tháng 20\n5. Mức lương bổ sung (LBS):\na) Lương bổ sung hiệu quả quý: ½ tháng lương công việc\nb) Lương bổ sung tháng 13, hoàn thành kế hoạch, vượt kế hoạch: 01 tháng lương công việc\n6. Cách tính:\na) Lương bổ sung hiệu quả quý = LCV bình quân quý x công thực tế / công chuẩn\nb) Lương bổ sung tháng 13; Lương bổ sung hoàn thành kế hoạch, vượt kế hoạch = LCV bình quân năm x công thực tế / công chuẩn.\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "3b8cf8f8d179409a",
+    "answer": "Không, Công ty **không** được coi là hoàn thành kế hoạch năm.\n\nTheo [QCL Phụ lục 3], để đạt điểm hoàn thành kế hoạch (100 điểm), doanh số và lợi nhuận phải đạt ngưỡng tối thiểu. Cụ thể:\n- Doanh số đạt 60 điểm, Lợi nhuận đạt 40 điểm.\n- Tăng giảm 1% tương đương +/-1 điểm.\n- **Điều kiện bắt buộc:** Một trong hai chỉ tiêu (doanh số hoặc lợi nhuận) **< 90%** sẽ bị coi là **không hoàn thành kế hoạch** [QCL Phụ lục 3].\n\nTrong trường hợp của bạn:\n- Doanh số 120% (Đạt điểm).\n- Lợi nhuận 88% (< 90%) -> **Không đạt điều kiện**.\n\nDo đó, dù doanh số vượt mức, nhưng do lợi nhuận dưới 90%, Công ty không đạt tiêu chí hoàn thành kế hoạch năm, nên nhân viên không đủ điều kiện để nhận lương tháng 14 [QCL Phụ lục 3]."
+   },
+   {
+    "key": "291696899e4b9402",
+    "answer": "Không, Công ty không được coi là hoàn thành kế hoạch năm để chi lương tháng 14. Theo Quy chế tiền lương năm 2024, điều kiện hoàn thành kế hoạch yêu cầu ít nhất một trong hai chỉ tiêu (doanh số hoặc lợi nhuận) phải đạt trên 90%. Trong trường hợp này, lợi nhuận chỉ đạt 88% (dưới 90%), dẫn đến việc không hoàn thành kế hoạch. Do đó, nhân viên không đủ điều kiện để nhận lương tháng 14.\n\n[QCL Phụ lục 3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-096",
+  "question": "Khi xét nâng lương QTV, tiêu chí mức độ hoàn thành công việc được tính điểm thế nào và tối đa bao nhiêu điểm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Tiêu chí mức độ hoàn thành công việc (theo điểm KPI) có thang điểm 10, hệ số 4, tổng tối đa 40 điểm. Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn; điểm KPI do Khối HCNS/Phòng HCNS/TH cung cấp (QCL Phụ lục 4).",
+  "key_facts": [
+   "40"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "acf1b7c1b354ca92",
+    "answer": "Tiêu chí \"Mức độ hoàn thành công việc\" khi xét nâng lương QTV được tính bằng công thức: Điểm KPI thực tế nhân với 40 chia cho Điểm chuẩn KPI cá nhân. Điểm này chiếm 40 điểm trong tổng 100 điểm đánh giá.\n\nTối đa điểm cho tiêu chí này là 40 điểm.\n\n[QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4]"
+   },
+   {
+    "key": "8f1d78c4488f6642",
+    "answer": "Tiêu chí mức độ hoàn thành công việc (Giá trị làm lợi) được tính điểm dựa trên quy định: 100 triệu đồng tương ứng 20 điểm. QTV được phép chọn tiêu chí có mức điểm cao hơn trong số các tiêu chí đã chọn. Điểm tối đa cho tiêu chí này là 20 điểm.\n\n[QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-097",
+  "question": "Một QTV có 1 đề xuất cải tiến trong năm mang lại giá trị làm lợi 15 triệu đồng thì tiêu chí đề xuất cải tiến được bao nhiêu điểm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "QTV chọn 1 trong 2 tiêu chí, tiêu chí nào cao điểm hơn thì chọn: theo số đề xuất (01 đề xuất) được 2 điểm; theo giá trị làm lợi 15 triệu (mức < 20 triệu) được 10 điểm. Vậy được 10 điểm (QCL Phụ lục 4).",
+  "key_facts": [
+   "10"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "ff674983e869f7a0",
+    "answer": "Tiêu chí đề xuất cải tiến cho QTV mang lại giá trị làm lợi 15 triệu đồng được chấm **2 điểm**.\n\nTheo quy định tại [QCL Phụ lục 4], QTV được chọn tiêu chí mang điểm cao nhất trong 2 phương án (điểm KPI hoặc đề xuất cải tiến). Đối với tiêu chí đề xuất cải tiến, mức thưởng được tính theo bảng điểm:\n- 01 đề xuất với giá trị làm lợi dưới 5 triệu: 2 điểm.\n- 02 đề xuất với giá trị làm lợi dưới 10 triệu: 5 điểm.\n- 03 đề xuất với giá trị làm lợi dưới 20 triệu: 10 điểm.\n\nVì đề xuất của bạn có giá trị 15 triệu (vượt 5 triệu nhưng chưa đủ điều kiện cho 2 đề xuất dưới 10 triệu hoặc 3 đề xuất dưới 20 triệu theo cách đọc bảng), cần xem xét kỹ:\nBảng cho thấy:\n- 01 đề xuất < 5 triệu = 2 điểm.\n- 02 đề xuất < 10 triệu = 5 điểm.\n- 03 đề xuất < 20 triệu = 10 điểm.\n\nNếu QTV chỉ có **01** đề xuất với giá trị 15 triệu, thì đề xuất này không thuộc nhóm \"01 đề xuất < 5 triệu\". Tuy nhiên, theo logic \"chọn 1 trong 2 tiêu chí, tiêu chí nào điểm cao hơn thì chọn\", nếu chỉ có 1 đề xuất 15 triệu, QTV sẽ không đạt đủ điều kiện của các档次 (02, 03, 04...) vì số lượng đề xuất không khớp.\n\nNhưng nếu hiểu theo cách QTV chọn mức điểm tương ứng với giá trị 15 triệu trong các档次:\n- 15 triệu nằm trong"
+   },
+   {
+    "key": "b9ff643db3124d21",
+    "answer": "Theo tiêu chí 2 \"Đề xuất cải tiến\" trong [QCL Phụ lục 4], QTV có 1 đề xuất mang lại giá trị làm lợi 15 triệu đồng sẽ được đánh giá **2 điểm**.\n\nLý do: Mức giá trị làm lợi 15 triệu đồng nằm trong ngưỡng \"< 5 triệu\" (điểm 2) và \"< 10 triệu\" (điểm 5). Theo quy tắc chọn tiêu chí có mức điểm cao hơn, QTV sẽ chọn mức 5 điểm. Tuy nhiên, dữ liệu trong trích đoạn cho thấy các mức điểm tương ứng với các ngưỡng cụ thể: 1 đề xuất <5 triệu = 2 điểm; 2 đề xuất <10 triệu = 5 điểm. Với 1 đề xuất và giá trị 15 triệu, nếu áp dụng đúng logic \"chọn tiêu chí có điểm cao hơn\", cần xem xét lại bảng. Nhưng dựa trên bảng trực tiếp: 1 đề xuất <5 triệu = 2 điểm. Nếu giá trị >5 triệu nhưng vẫn 1 đề xuất, bảng không ghi rõ điểm cho trường hợp này. Tuy nhiên, ví dụ trong tài liệu cho thấy: 1 đề xuất 100 triệu được chọn tiêu chí \"giá trị làm lợi 20 điểm\" (tương ứng với dòng 5 hoặc 6).\n\nSửa lại: Bảng cho thấy:\n- 1 đề xuất < 5 triệu: 2 điểm.\n- 2 đề xuất < 10 triệu: 5 điểm.\n- ...\n- 5 đề xuất < 200 triệu: 20 điểm.\n- 6 đề xuất > 200 triệu: 30 điểm.\n\nQuy tắc: \"QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn\".\nVới 1 đề xuất, giá trị 15 triệu"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-098",
+  "question": "QTV có thâm niên 6 năm được bao nhiêu điểm ở tiêu chí kinh nghiệm làm việc (thâm niên) khi xét nâng lương?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Thâm niên 6 năm thuộc mức Trung bình (Thâm niên >=5 năm), được 6 điểm (QCL Phụ lục 4).",
+  "key_facts": [
+   "6"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "4f0aad288368ee52",
+    "answer": "QTV có thâm niên 6 năm được **6 điểm** ở tiêu chí kinh nghiệm làm việc (thâm niên).\n\nTheo quy định tại Phụ lục 04 của Quy chế tiền lương, tiêu chí \"Kinh nghiệm làm việc\" chia điểm dựa trên thâm niên như sau:\n- Thâm niên >= 5 năm và < 8 năm: 6 điểm.\n- Thâm niên >= 8 năm: 8 điểm.\n- Thâm niên >= 10 năm: 10 điểm.\n\nVì QTV có thâm niên 6 năm, nên thuộc nhóm \"Trung bình\" và nhận 6 điểm.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "77bdbe05d2da1cb5",
+    "answer": "QTV có thâm niên 6 năm được **6 điểm** ở tiêu chí kinh nghiệm làm việc.\n\nTheo [QCL Phụ lục 4], mức độ \"Trung bình\" tương ứng với thâm niên từ 5 năm trở lên và được chấm 6 điểm."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-099",
+  "question": "Ở tiêu chí khả năng thay thế khi xét nâng lương QTV, mức Rất khó thay thế được bao nhiêu điểm và yêu cầu kinh nghiệm bao nhiêu năm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Mức Rất khó thay thế được 10 điểm: yêu cầu công việc đòi hỏi năng lực và chuyên môn cao, phải được huấn luyện khi tiếp nhận, yêu cầu kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó (QCL Phụ lục 4).",
+  "key_facts": [
+   "10",
+   "5 năm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "aa6f963baed3f350",
+    "answer": "Tiêu chí \"Rất khó thay thế\" trong quy trình đánh giá QTV được chấm **10 điểm**.\n\nYêu cầu kinh nghiệm để đạt mức này là:\n- Năng lực và chuyên môn cao, phải được huấn luyện.\n- Có kinh nghiệm từ **5 năm trở lên**.\n- Tìm người thay thế rất khó.\n\nThông tin này quy định chi tiết trong [QCL Phụ lục 4]."
+   },
+   {
+    "key": "532a89870f4013ff",
+    "answer": "Tiêu chí \"Rất khó thay thế\" khi xét nâng lương QTV được **10 điểm** và yêu cầu kinh nghiệm từ **5 năm trở lên** [QCL Phụ lục 4].\n\nLưu ý: QTV chỉ chọn 1 trong 2 tiêu chí có mức điểm cao hơn để tính tổng [QCL Phụ lục 4]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-100",
+  "question": "QTV cần đạt bao nhiêu điểm để được nâng 2 bậc lương?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "QTV đạt từ 85 điểm được nâng 2 bậc lương (đạt 65 điểm: nâng 1 bậc; đạt từ 100 điểm: nâng 3 bậc) (QCL Phụ lục 4).",
+  "key_facts": [
+   "85 điểm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "7318988c23a89090",
+    "answer": "QTV cần đạt từ 85 điểm trở lên để được nâng 2 bậc lương trong một kỳ [QCL Phụ lục 4].\n\nQuy trình đánh giá QTV dựa trên thang điểm 100 với 5 tiêu chí: mức độ hoàn thành công việc (40 điểm), đề xuất cải tiến (30 điểm), tầm quan trọng (10 điểm), khả năng thay thế (10 điểm) và thâm niên (10 điểm) [QCL Phụ lục 4].\n\nCần lưu ý:\n- QTV được chấm theo thang 100 điểm và có thể được nâng tới 3 bậc lương trong một kỳ, khác với CNV nhóm 1-3 chỉ được nâng tối đa 1 bậc/kỳ [QCL Phụ lục 4].\n- Nâng lương theo thâm niên (>=25 năm) không áp dụng cho QTV [QCL Điều 6]."
+   },
+   {
+    "key": "a706c5f8f162be44",
+    "answer": "QTV cần đạt từ 85 điểm trở lên để được nâng 2 bậc lương.\n\n- Nếu đạt 65 điểm: nâng 1 bậc.\n- Nếu đạt từ 85 điểm: nâng 2 bậc.\n- Nếu đạt từ 100 điểm: nâng 3 bậc.\n\nThông tin này quy định trong Phụ lục 4 của Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-101",
+  "question": "Khi xét nâng lương cho QTV, có những tiêu chí đánh giá nào và hệ số, điểm tối đa của từng tiêu chí là bao nhiêu?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Gồm 5 tiêu chí (thang điểm 10): 1. Mức độ hoàn thành công việc (theo điểm KPI) – hệ số 4, 40 điểm; 2. Đề xuất cải tiến – hệ số 3, 30 điểm; 3. Tầm quan trọng – hệ số 1, 10 điểm; 4. Khả năng thay thế – hệ số 1, 10 điểm; 5. Thâm niên – hệ số 1, 10 điểm; tổng điểm 100 (QCL Phụ lục 4).",
+  "key_facts": [
+   "hoàn thành công việc",
+   "Đề xuất cải tiến",
+   "Tầm quan trọng",
+   "Khả năng thay thế"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "0585b4e275fbf212",
+    "answer": "Khi xét nâng lương cho Quản trị viên (QTV), quy trình đánh giá dựa trên thang điểm 100 với 5 tiêu chí cụ thể như sau:\n\n1.  **Mức độ hoàn thành công việc (theo KPI):** Điểm thực tế quy về 40 điểm (Hệ số 4).\n2.  **Đề xuất cải tiến:** Điểm tối đa 30 điểm (Hệ số 3), tính theo số đề xuất và giá trị làm lợi (ví dụ: 6 đề xuất >200 triệu = 30 điểm).\n3.  **Tầm quan trọng:** Điểm tối đa 10 điểm (Hệ số 1), dựa trên mức độ ảnh hưởng đến các đơn vị liên quan.\n4.  **Khả năng thay thế:** Điểm tối đa 10 điểm (Hệ số 1), dựa trên chuyên môn và kinh nghiệm cần thiết để thay thế.\n5.  **Thâm niên:** Điểm tối đa 10 điểm (Hệ số 1), từ 2 điểm (dưới 3 năm) đến 10 điểm (trên 10 năm).\n\nTổng điểm đạt từ 65 điểm trở lên sẽ được xét nâng bậc lương. [QCL Phụ lục 4]"
+   },
+   {
+    "key": "0712106edd0275da",
+    "answer": "Khi xét nâng lương cho QTV, các tiêu chí và điểm số như sau:\n\n1.  **Giá trị làm lợi:** QTV chọn tiêu chí này nếu có đề xuất làm lợi. Ví dụ: đề xuất giá trị 100 triệu được tính là **20 điểm**.\n2.  **Kinh nghiệm làm việc:** Có thang điểm từ **10 điểm** (chi tiết bảng thang điểm chưa đầy đủ trong tài liệu).\n3.  **Kết quả tổng hợp:**\n    *   Đạt **65 điểm**: Nâng 1 bậc lương.\n    *   Đạt từ **85 điểm**: Nâng 2 bậc lương.\n    *   Đạt từ **100 điểm**: Nâng 3 bậc lương.\n\nQTV chỉ được chọn 1 trong 2 tiêu chí trên, chọn tiêu chí có mức điểm cao hơn. Các đề xuất chưa được tính sẽ được cộng dồn cho kỳ tiếp theo.\n\n[QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-102",
+  "question": "Một QTV có điểm KPI thực tế 90 trên điểm chuẩn 100, có 4 đề xuất cải tiến trong năm, thâm niên 10 năm, vị trí được đánh giá ở mức Rất quan trọng và Khó thay thế. Tổng điểm và kết quả xét nâng lương của người này là gì?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Mức độ hoàn thành công việc = 90 x 40 / 100 = 36 điểm; đề xuất cải tiến 04 đề xuất/năm = 15 điểm; thâm niên >=10 năm (Rất cao) = 10 điểm; tầm quan trọng Rất quan trọng = 8 điểm; khả năng thay thế Khó thay thế = 8 điểm. Tổng = 77 điểm, đạt mức 65 điểm nhưng chưa đến 85 điểm nên được nâng 1 bậc lương (QCL Phụ lục 4).",
+  "key_facts": [
+   "77",
+   "1 bậc"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "6b6bcde3c14903c5",
+    "answer": "Tổng điểm đánh giá là 98 điểm, kết quả xét nâng lương là nâng 2 bậc lương.\n\nChi tiết tính toán:\n- **Tiêu chí 1 (KPI):** 90 điểm thực tế / 100 điểm chuẩn * 40 = 36 điểm.\n- **Tiêu chí 2 (Đề xuất cải tiến):** 4 đề xuất đạt mức < 100 triệu (theo bảng 4) = 15 điểm.\n- **Tiêu chí 3 (Thâm niên):** >= 10 năm = 10 điểm.\n- **Tiêu chí 4 (Tầm quan trọng):** Rất quan trọng = 10 điểm.\n- **Tiêu chí 5 (Khả năng thay thế):** Khó thay thế = 8 điểm.\n- **Tổng điểm:** 36 + 15 + 10 + 10 + 8 = 98 điểm.\n\nTheo quy định, đạt từ 85 điểm trở lên được nâng 2 bậc lương.\n\n[TQCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4], [QCL Phụ lục 4],"
+   },
+   {
+    "key": "846ed094c5723671",
+    "answer": "Tổng điểm xét nâng lương của QTV này là **100 điểm** (90 điểm KPI + 10 điểm từ đề xuất cải tiến).\n\nChi tiết tính toán:\n- **Điểm KPI:** Đạt 90/100. Theo [QCL Phụ lục 4], QTV đạt từ 85 điểm trở lên được nâng **2 bậc**.\n- **Điểm đề xuất cải tiến:** Có 4 đề xuất. Theo [QCL Phụ lục 4], mức 04 đề xuất với giá trị làm lợi < 100 triệu được đánh giá **15 điểm**. Tuy nhiên, theo [QCL Điều 15], khi xét nâng lương chỉ tăng lương cơ bản và thưởng KPI không chỉnh tăng tương ứng nếu tỉ lệ KPI nằm trong mức quy định. Do điểm KPI (90%) nằm trong khoảng 85-100% (mức cao nhất), phần thưởng KPI không được điều chỉnh thêm.\n- **Các yếu tố khác:** Thâm niên 10 năm không đủ điều kiện nâng bậc theo [QCL Điều 6] (cần >=25 năm). Vị trí \"Rất khó thay thế\" và hệ số chuyên môn không thay đổi điểm tổng kết trong trường hợp này.\n\nKết quả: QTV được xét nâng **2 bậc lương** dựa trên điểm KPI."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-104",
+  "question": "Nếu một QTV có 2 đề xuất cải tiến trong năm với giá trị làm lợi khoảng 150 triệu đồng thì tiêu chí đề xuất cải tiến được tính bao nhiêu điểm?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn: theo số đề xuất (02) được 5 điểm; theo giá trị làm lợi 150 triệu (mức < 200 triệu) được 20 điểm. Vậy chọn tiêu chí giá trị làm lợi, được 20 điểm (QCL Phụ lục 4).",
+  "key_facts": [
+   "20"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "09009ba2fae8d3cb",
+    "answer": "Với 2 đề xuất cải tiến mang lại lợi nhuận khoảng 150 triệu đồng, QTV được tính điểm theo **tiêu chí giá trị làm lợi** (vì tiêu chí số lượng chỉ cho tối đa 5 điểm cho 2 đề xuất).\n\nCụ thể:\n- **Tiêu chí số lượng:** 2 đề xuất = **5 điểm** (theo bảng trong QCL Phụ lục 4).\n- **Tiêu chí giá trị:** 2 đề xuất với tổng giá trị < 200 triệu = **10 điểm** (theo bảng trong QCL Phụ lục 4).\n\nQTV sẽ chọn tiêu chí có điểm cao hơn, tức là **10 điểm**.\n\n[NQLD Chương IX], [QCL Phụ lục 4]"
+   },
+   {
+    "key": "56deba5fcbb724b5",
+    "answer": "Theo tiêu chí 2 (Đề xuất cải tiến) trong [QCL Phụ lục 4], QTV chọn tiêu chí có mức điểm cao hơn. Với 2 đề xuất và tổng giá trị làm lợi 150 triệu:\n- Nếu chọn theo số lượng: Đạt 02 đề xuất, giá trị < 10 triệu (điểm 5) hoặc < 20 triệu (điểm 10) tùy cách cộng, nhưng bảng quy định điểm dựa trên từng mức giá trị riêng lẻ.\n- Nếu chọn theo giá trị: 150 triệu nằm trong mức \"03 đề xuất, < 20 triệu\" (điểm 10) hoặc \"04 đề xuất, < 100 triệu\" (điểm 15). Tuy nhiên, với tổng 150 triệu, nếu coi là 1 đề xuất duy nhất thì thuộc mức \"04 đề xuất, < 100 triệu\" không đúng vì 150 > 100. Nếu coi là 1 đề xuất > 200 triệu thì không đúng.\n- Cách tính đúng: QTV chọn tiêu chí giá trị. Với 150 triệu, nếu chọn tiêu chí \"Giá trị làm lợi\", mức 150 triệu thuộc nhóm \"04 đề xuất, < 100 triệu\" (không đúng vì 150 > 100) hoặc nhóm \"05 đề xuất, < 200 triệu\" (điểm 20). Vì 150 triệu < 200 triệu, nên nếu chọn tiêu chí giá trị, điểm là 20.\n- Nếu chọn tiêu chí số lượng: 2 đề xuất thuộc mức \"02 đề xuất\" (điểm 5 hoặc 10 tùy giá trị từng đề xuất).\n- Theo ghi chú: \"chọn tiêu chí nào có mức điểm cao"
+   }
+  ]
+ }
+]

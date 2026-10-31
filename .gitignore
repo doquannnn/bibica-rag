@@ -19,3 +19,8 @@ results/runs/
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Caches and logs
+data/cache/
+*.log
+results/latency/

@@ -1,0 +1,40 @@
+{"key": "0c4a5bad88b3d481", "qid": "NQLD-055", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng kết luận; nhưng gán điều kiện 'áp dụng mọi biện pháp' cho NLĐ thay vì NSDLĐ"}
+{"key": "9795cebc876e0bfd", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, trích Điều 32 chính xác"}
+{"key": "46a3f9153670ffc5", "qid": "NQLD-056", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng Điều 8+28; thêm suy đoán nâng lên cách chức/sa thải không có căn cứ"}
+{"key": "c155a68181a8091a", "qid": "NQLD-056", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng là nghỉ không lý do chính đáng nhưng thiếu hình thức kéo dài nâng lương"}
+{"key": "98504400f9e2eb0a", "qid": "NQLD-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng nhưng không nêu quy định cấm phạt tiền, cắt lương thay kỷ luật"}
+{"key": "71cdedcea863dbf7", "qid": "NQLD-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng, thiếu điều cấm phạt tiền/cắt lương; trích TULD 16,17 không liên quan"}
+{"key": "0b908cd0426bb077", "qid": "NQLD-061", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thủ tục, lương đúng; trợ cấp 2 triệu bỏ điều kiện thâm niên, 'kể cả đi làm sớm' bịa"}
+{"key": "211b73df44f48437", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ thủ tục 07 ngày, giấy xác nhận, đủ lương"}
+{"key": "f53ff0a6f4ee8bdb", "qid": "NQLD-062", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: tái phạm khi chưa xóa kỷ luật nên sa thải"}
+{"key": "b1eee12252fe6772", "qid": "NQLD-062", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: kết luận tiếp tục kéo dài nâng lương thay vì sa thải"}
+{"key": "5b736737ba7cff37", "qid": "NQLD-063", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng; nhưng khẳng định quyền rời bỏ không áp dụng khi hỏa hoạn là không có căn cứ"}
+{"key": "fbea4d964eec326f", "qid": "NQLD-063", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Kết luận đúng nhưng dẫn nhầm khoản quốc phòng, suy luận; trích Điều 4 sai"}
+{"key": "3fd102b67243d3ca", "qid": "NQLD-064", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 4 hình thức kỷ luật"}
+{"key": "fe8bf6de10f1daa3", "qid": "NQLD-064", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Danh sách hình thức kỷ luật bịa đặt, sai hoàn toàn"}
+{"key": "4819c1157540fe99", "qid": "NQLD-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 bước, chi tiết chính xác"}
+{"key": "408f3a4e6851fceb", "qid": "NQLD-065", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu 3 bước, thiếu thông báo họp và họp xử lý"}
+{"key": "ec76a7c69e72954d", "qid": "NQLD-066", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Danh sách bịa, lặp lại vô nghĩa, không đúng Điều 27"}
+{"key": "2ff65636b4f4fa99", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ các trường hợp kể cả bệnh tâm thần"}
+{"key": "2c718296472b8494", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi theo Điều 20"}
+{"key": "844ed7d8f64eacca", "qid": "NQLD-068", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 hành vi; sai khi nói Điều 17 liệt kê quấy rối là hành vi dẫn đến sa thải"}
+{"key": "caf2c3ac86491eaa", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 trách nhiệm Điều 18; thêm ý TULD Điều 4 chính xác"}
+{"key": "30d669c9d21ec823", "qid": "NQLD-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 ý nhưng gán nhầm trách nhiệm cấp cứu (của NLĐ, Điều 19) cho Công ty"}
+{"key": "bb793707ffb0cd02", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 13 hành vi bị cấm"}
+{"key": "d7025bfddfa1b7c7", "qid": "NQLD-071", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Chỉ có điểm a-f, thiếu ma túy, đánh bạc, dữ liệu; lẫn Điều 13, Điều 27 sai"}
+{"key": "649b095cc2853dfc", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 6 vi phạm bị cách chức"}
+{"key": "5bf3c1c12c4a8511", "qid": "NQLD-072", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Lẫn vi phạm nhóm nâng lương (PCCC, quy trình) vào cách chức; thiếu điểm e,f Điều 17"}
+{"key": "92ea184724063c4d", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp, đúng Điều 32"}
+{"key": "49962c8dc5aa5ff9", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 trường hợp, đúng Điều 32"}
+{"key": "f14af28d8f979ac8", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi, mức dưới 500.000 đồng"}
+{"key": "c73373e60a7b0ce3", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 5 hành vi, đúng Điều 28"}
+{"key": "8290874edb3893b2", "qid": "NQLD-076", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: không được ngủ trong giờ làm việc"}
+{"key": "eebaf4f8e5dce9a5", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng; thêm 'xem là nghỉ không lý do chính đáng' không có căn cứ"}
+{"key": "4edbcd8170185928", "qid": "NQLD-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng điều kiện tình tiết phức tạp, tham khảo ý kiến; 15/90 ngày, 50% đúng"}
+{"key": "b0bb10b163d37be2", "qid": "NQLD-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng điều kiện và chi tiết thời hạn, tạm ứng 50%"}
+{"key": "267588f008530c4e", "qid": "NQLD-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: không dùng tài sản cho lợi ích cá nhân"}
+{"key": "bf766a722342f33e", "qid": "NQLD-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, nêu cả mang tài sản ra ngoài cần đồng ý"}
+{"key": "4e685fae1e2bfc6a", "qid": "NQLD-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 60 phút/ngày; chi tiết thêm chính xác"}
+{"key": "5f19ba35e38b2fc2", "qid": "NQLD-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 60 phút/ngày"}
+{"key": "dad09255f2b31e0e", "qid": "NQLD-080", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng; nhưng nói vi phạm PCCC bị sa thải là sai (là kéo dài nâng lương)"}
+{"key": "60ab23f5ca451ff1", "qid": "NQLD-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng quyền từ chối, rời bỏ nơi làm việc theo Điều 19"}

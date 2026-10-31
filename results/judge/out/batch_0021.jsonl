@@ -1,0 +1,57 @@
+{"key": "75a7d88bf1947ae7", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "No amount; uses base salary formula, irrelevant pay-day citations; wrongly says no amount specified."}
+{"key": "d64613bea91fb4cf", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 1.760.000 fabricated; uses 26 days instead of 25, gives 796.154 not 828.000."}
+{"key": "2e256434e4838ce1", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Applies Tổ phó rate 800.000 to Tổ trưởng; result 736.000 instead of 828.000."}
+{"key": "aefaddfec5705736", "qid": "QCL-058", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Correct 0 đồng and 85% rule, but attributes it to NQLD Điều 32 instead of QCL."}
+{"key": "ba0ae549407b415f", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: nghỉ không phép hỗ trợ = 0; QCL Điều 16; NQCL minor slip."}
+{"key": "2a2042045550ef89", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Opening misreads question but states nghỉ không phép → 0 đồng correctly."}
+{"key": "a304dfdf8f352aa9", "qid": "QCL-059", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Answers company-birthday bonus 500.000 (TULD 17), not CNV birthday cost 600.000."}
+{"key": "00298bab626c2510", "qid": "QCL-059", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 600.000, paid in birthday month, ≥1 year condition."}
+{"key": "e9ebfd433796256f", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Uses 50 months (500.000) and wrongly says not eligible; contradicts documents."}
+{"key": "df01577506a42b3d", "qid": "QCL-060", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Says no, but conflates with company-birthday bonus; misses retirement exception; citations wrong."}
+{"key": "16d37f91c7e929ed", "qid": "QCL-060", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct no + retirement exception; misstates recovery as months worked instead of months not worked."}
+{"key": "8e2e3102c9035fca", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: not prorated, recovery, retirement exception, QCL Điều 16."}
+{"key": "ee9379ac3de59964", "qid": "QCL-061", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses; fabricates formula; answer 58 exists in QCL Điều 16."}
+{"key": "dbd8012e8cf1a839", "qid": "QCL-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct formula and result 58."}
+{"key": "11c27d66f6ae72af", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Headline says 110, then computes 58; contradictory; cites wrong Điều 23."}
+{"key": "7ed397da1b92695d", "qid": "QCL-063", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gives pay dates, omits bank account and luong.bibica.com.vn; Phụ lục 01 misattributed."}
+{"key": "26154e6f142e7986", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: bank account, luong.bibica.com.vn; extra correct details."}
+{"key": "94da6aabd8f0372f", "qid": "QCL-065", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly claims no info; answer is in QCL Điều 17; TULD Điều 15 misdescribed."}
+{"key": "2d23af8817144864", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Hội đồng hòa giải cơ sở then cơ quan pháp luật."}
+{"key": "861213b997d9accd", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, consistent with QCL Điều 17 and TULD Điều 13."}
+{"key": "2978c28bcbc46294", "qid": "QCL-066", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Does not mention proration; misapplies resignation KPI rules to new employees."}
+{"key": "4af2e7176b2ccedc", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct proration by working time, HĐLĐ condition; minor citation numbering slips."}
+{"key": "82983f7afb992dab", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Proration correct; misapplies resignation KPI-month rule to new employees."}
+{"key": "b0f7c49246373197", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: reserved until March, not paid; NQLD details accurate."}
+{"key": "6f2a1907e600fd0f", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; adds payout on termination (supported by NQLD Điều 7)."}
+{"key": "2e301d10094fba15", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with NQLD 30/3 and termination payout details."}
+{"key": "e19b051753179115", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: before day 28 of previous month."}
+{"key": "11906d6c552978ef", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: day 28 of previous month."}
+{"key": "9ff671fe0317138a", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: day 28 of previous month."}
+{"key": "2f254930c99ae48c", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ban TGĐ approval, leave form, annual leave registration; correct."}
+{"key": "5fb5ef676ecab9a6", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct Ban TGĐ approval and registration; extra NQLD details accurate."}
+{"key": "2bb8da8a83717e42", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ban TGĐ correct, but wrongly applies 5-day/2-week notice rule to 4 days."}
+{"key": "1944792ee7cfc777", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct source and decision maker; TULD details accurate."}
+{"key": "dd3e9d56f9629fdd", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: profit distribution, ĐHCĐ, TGĐ with Công đoàn input."}
+{"key": "3e34a67a2ed5c7f4", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra TULD/QCL Điều 21 details accurate."}
+{"key": "37880b99fef5ce89", "qid": "QCL-071", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "All three items present, but attributes nghỉ mát/giảm sút to TULD; citations mostly wrong."}
+{"key": "5487c2f5a296f5b3", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three cases correct per QCL Điều 21."}
+{"key": "1b814d97c1a51822", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three cases correct; extra TULD item accurate."}
+{"key": "d15fdbb1b6d558a0", "qid": "QCL-072", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Counts correct; responsible party garbled, does not clearly say the units disseminate."}
+{"key": "b5a822fdd46906b5", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct counts and the units' responsibility."}
+{"key": "45e5ec3b49bfcd5f", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; adjustment note supported by Điều 22."}
+{"key": "680ae41835ff370d", "qid": "QCL-073", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; effective on signing, signed 26/04/2024."}
+{"key": "3a0cc0382521cfc4", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: effective upon signing, signed 26/04/2024."}
+{"key": "d9f539cf82aa7234", "qid": "QCL-073", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says no info for QCL; only gives NQLD/TULD effectiveness."}
+{"key": "4cfae958cf3b18b0", "qid": "QCL-074", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says QCL signer unknown; wrong; also misattributes effectiveness to Điều 22."}
+{"key": "345e2a4b61f4f1c5", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct name; cites Phụ lục 1 instead of Điều 23."}
+{"key": "f11ee5d56cc461e8", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Nguyễn Quốc Hoàng, 26/04/2024."}
+{"key": "ac97ad8b34f8614e", "qid": "QCL-075", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; timestamp 21:32:24 26/04/2024 exists."}
+{"key": "033cfa1e6ec7fd87", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct time and date; cites Mở đầu instead of Điều 23."}
+{"key": "b41cf08b08486a78", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct time and date; cites Phụ lục 2 instead of Điều 23."}
+{"key": "58b22a0e07068d2c", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15%."}
+{"key": "176f667d5a1fc8c9", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15%."}
+{"key": "1ebf5fc3d836db7c", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20%."}
+{"key": "fa49c6551af1cc0e", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20%, row 1.3."}
+{"key": "c0019757d2c548f3", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30% correct; wrongly places Quản đốc in Điều 6 nhóm 3 with trung cấp."}
+{"key": "0de6e1ccdf8624c6", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30%, nhóm E."}
+{"key": "43175db82f4c88dd", "qid": "QCL-079", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Lists 30% for Quản đốc PX yet concludes no info; false refusal."}

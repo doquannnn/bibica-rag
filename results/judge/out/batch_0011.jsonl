@@ -1,0 +1,40 @@
+{"key": "a3137e151ee419cb", "qid": "TULD-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses though TULD preamble names Nguyễn Quốc Hoàng."}
+{"key": "a4d579264391495c", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct name and title; cites Điều 1 instead of Mở đầu."}
+{"key": "5fc8d67747297670", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 năm kể từ ngày ký, correct with extra correct detail."}
+{"key": "83ce8e5ed5c2373d", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 3 years from signing; extra details accurate."}
+{"key": "ed572883e2133dd2", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Quỹ công đoàn correct; extra NQCL Phụ lục 2 citation bogus."}
+{"key": "352b0cac9874c3a0", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; QCL Điều 16, 17 citations irrelevant."}
+{"key": "145efed5d403971c", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: suốt thời gian hiệu lực của hợp đồng."}
+{"key": "23d4a3728f9156ac", "qid": "TULD-006", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says hiệu lực của Thỏa ước, document says hợp đồng."}
+{"key": "9364ecb7d17ea0d7", "qid": "TULD-007", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "48h/26 công correct; NQLD Điều 5 does not state OT basis."}
+{"key": "afe8ad1c38217e0a", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ/tuần, 26 công/tháng correct; minor Điều 9 citation slip."}
+{"key": "bac04043c4cfc661", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% lương theo HĐLĐ; QCL Điều 14 note accurate."}
+{"key": "bd1e93a241624655", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct 100%; cites NQLD Điều 7 (annual leave) wrongly."}
+{"key": "cc66922f596f7407", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and luong.bibica.com.vn; QCL comparison accurate."}
+{"key": "c52c9f406dd7d354", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM and salary portal correct; QCL comparison accurate."}
+{"key": "4a8b640f1f07935a", "qid": "TULD-010", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Refuses though TULD Điều 17 says ít nhất một lần."}
+{"key": "b786944fd234f1b7", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ít nhất một lần/năm, correct."}
+{"key": "07a74f2e6ba5f1a8", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD rule correct; QCL Điều 20/21 contrast accurate."}
+{"key": "f5b43e0a5a30a679", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hội đồng khen thưởng kỷ luật; cá nhân đến kỳ xét thưởng."}
+{"key": "dfe0e21184ed5562", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không được tái ký; QCL Điều 10 citation irrelevant."}
+{"key": "afc758d20b7cc48b", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct answer; cites TULD Điều 6 instead of Điều 5."}
+{"key": "81c561811b2e1d09", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Answers about annual leave; misses company birthday day off."}
+{"key": "9b86ecbfa9282e71", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày kỷ niệm sinh nhật Công ty, correct."}
+{"key": "7d16a50595d96297", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three amounts correct; QCL Điều 9 note accurate."}
+{"key": "ad44c40f82dda099", "qid": "TULD-015", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Amounts right but applies employee birthday formula to company birthday."}
+{"key": "1cd03c2759ed7965", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 20, ngày 10 tháng sau, ngày 15 bán hàng correct."}
+{"key": "b52dcb4af75bb1e4", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All pay dates correct per TULD Điều 9."}
+{"key": "83320dcd7367fa09", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 chương, 19 điều, cơ quan quản lý NN về lao động."}
+{"key": "6657e87f70119f5c", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct chapters, articles, registration; cites only excerpt labels."}
+{"key": "f19b0c9d118c52b8", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "90 ngày trước, 90 ngày sau, đương nhiên hết hiệu lực."}
+{"key": "0ff8343bf9d98a8a", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements correct per TULD Điều 3."}
+{"key": "0882dc74d728e4cb", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes, and 100.000đ; bonus cited to Điều 7 instead of 17."}
+{"key": "ad1a4fe203941a5f", "qid": "TULD-021", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly says probationers exempt from TULD; 100.000đ correct."}
+{"key": "1a2dbd79ce709a64", "qid": "TULD-022", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Role correct; wrongly says no union agreement needed."}
+{"key": "6ba701640be044af", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct role and Công đoàn cấp trên; cites Điều 1/5 not Mở đầu/4."}
+{"key": "6478d9123d377377", "qid": "TULD-023", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "2 triệu, 500.000đ correct; bonus cited Điều 7; QCL bonus claim unsupported."}
+{"key": "b58d9ccdcd72c160", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu with 1% BHTN rule and 500.000đ, correct."}
+{"key": "7bbae1352d7c87e6", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both parts correct per TULD Điều 1 and 2."}
+{"key": "2ef734013912705c", "qid": "TULD-024", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "First part correct; omits which nội quy count as part of TULD."}
+{"key": "c7a46ccf0e2bf5fd", "qid": "TULD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Paid day off and 500.000đ correct; extra QCL notes."}
+{"key": "21cd0a6724f8b83b", "qid": "TULD-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "500.000đ right; misses paid day off; invents 200-500k personal birthday bonus."}

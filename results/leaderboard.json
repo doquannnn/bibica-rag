@@ -1,0 +1,1570 @@
+[
+ {
+  "run": "cag-full-context@qwen3.5-4B",
+  "name": "cag[full-corpus]",
+  "framework": "python",
+  "technique": "full-context (CAG)",
+  "chunking": "none",
+  "retriever": "none",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 175,
+  "pass_rate": 0.7291666666666666,
+  "correctness": 0.8958333333333334,
+  "faithfulness": 0.7833333333333333,
+  "citation_ok": 0.9156118143459916,
+  "keyfact_all": 0.8782608695652174,
+  "refusal_acc": 0.9,
+  "answerable_correct": 0.8956521739130435,
+  "recall@5": null,
+  "mrr@10": null,
+  "latency_src": "sequential",
+  "latency_p50_s": 7.886593341827393,
+  "latency_p95_s": 16.60348001718521,
+  "ttft_p50_s": 0.3930938243865967,
+  "llm_calls": 1,
+  "build_s": 0.4,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    61,
+    80
+   ],
+   "doc:QCL": [
+    67,
+    85
+   ],
+   "doc:TULD": [
+    31,
+    40
+   ],
+   "type:conditional": [
+    23,
+    30
+   ],
+   "type:cross_doc": [
+    7,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    44,
+    53
+   ],
+   "type:list": [
+    22,
+    22
+   ],
+   "type:multi_hop": [
+    12,
+    23
+   ],
+   "type:no_diacritics": [
+    9,
+    15
+   ],
+   "type:numeric_table": [
+    28,
+    32
+   ],
+   "type:paraphrase": [
+    10,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 1
+ },
+ {
+  "run": "dspy@qwen3.5-4B",
+  "name": "dspy[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "dspy",
+  "technique": "naive (DSPy)",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 172,
+  "pass_rate": 0.7166666666666667,
+  "correctness": 0.8458333333333333,
+  "faithfulness": 0.7833333333333333,
+  "citation_ok": 0.9790794979079498,
+  "keyfact_all": 0.8739130434782608,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8391304347826087,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 7.8113720417022705,
+  "latency_p95_s": 15.039081799983975,
+  "ttft_p50_s": 7.8113720417022705,
+  "llm_calls": 1,
+  "build_s": 0.4,
+  "breakdown": {
+   "doc:MULTI": [
+    12,
+    25
+   ],
+   "doc:NONE": [
+    6,
+    10
+   ],
+   "doc:NQLD": [
+    62,
+    80
+   ],
+   "doc:QCL": [
+    58,
+    85
+   ],
+   "doc:TULD": [
+    34,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    12,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    48,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    11,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    23,
+    32
+   ],
+   "type:paraphrase": [
+    16,
+    19
+   ],
+   "type:unanswerable": [
+    6,
+    10
+   ]
+  },
+  "rank": 2
+ },
+ {
+  "run": "naive-best-s2b@qwen3.5-4B",
+  "name": "naive[clause_parent|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_parent",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 171,
+  "pass_rate": 0.7125,
+  "correctness": 0.8604166666666667,
+  "faithfulness": 0.8333333333333334,
+  "citation_ok": 0.9482758620689655,
+  "keyfact_all": 0.8521739130434782,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8543478260869565,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 9.447950959205627,
+  "latency_p95_s": 15.474769818782804,
+  "ttft_p50_s": 3.6707926988601685,
+  "llm_calls": 1,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    10,
+    10
+   ],
+   "doc:NQLD": [
+    58,
+    80
+   ],
+   "doc:QCL": [
+    60,
+    85
+   ],
+   "doc:TULD": [
+    36,
+    40
+   ],
+   "type:conditional": [
+    17,
+    30
+   ],
+   "type:cross_doc": [
+    7,
+    22
+   ],
+   "type:definition": [
+    14,
+    14
+   ],
+   "type:fact": [
+    51,
+    53
+   ],
+   "type:list": [
+    20,
+    22
+   ],
+   "type:multi_hop": [
+    9,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    27,
+    32
+   ],
+   "type:paraphrase": [
+    8,
+    19
+   ],
+   "type:unanswerable": [
+    10,
+    10
+   ]
+  },
+  "rank": 3
+ },
+ {
+  "run": "naive-best@qwen3.5-4B",
+  "name": "naive[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 165,
+  "pass_rate": 0.6875,
+  "correctness": 0.81875,
+  "faithfulness": 0.7833333333333333,
+  "citation_ok": 0.956140350877193,
+  "keyfact_all": 0.8217391304347826,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8108695652173913,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 7.818031549453735,
+  "latency_p95_s": 11.519499683380127,
+  "ttft_p50_s": 2.1900601387023926,
+  "llm_calls": 1,
+  "build_s": 1.2,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    59,
+    80
+   ],
+   "doc:QCL": [
+    57,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    12,
+    14
+   ],
+   "type:fact": [
+    50,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    9,
+    23
+   ],
+   "type:no_diacritics": [
+    7,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    9,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 4
+ },
+ {
+  "run": "llm-wiki-claude@qwen3.5-4B",
+  "name": "llm-wiki[claude|k3]",
+  "framework": "python",
+  "technique": "LLM-Wiki (claude)",
+  "chunking": "wiki pages (claude)",
+  "retriever": "LLM index navigation",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 164,
+  "pass_rate": 0.6833333333333333,
+  "correctness": 0.8354166666666667,
+  "faithfulness": 0.7666666666666667,
+  "citation_ok": 0.9347826086956522,
+  "keyfact_all": 0.8304347826086956,
+  "refusal_acc": 0.9,
+  "answerable_correct": 0.8326086956521739,
+  "recall@5": 0.7897260273972603,
+  "mrr@10": 0.5604805392476625,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 100.36122739315033,
+  "latency_p95_s": 165.41248413324354,
+  "ttft_p50_s": 54.54881489276886,
+  "llm_calls": 2,
+  "build_s": 0.3,
+  "breakdown": {
+   "doc:MULTI": [
+    16,
+    25
+   ],
+   "doc:NONE": [
+    7,
+    10
+   ],
+   "doc:NQLD": [
+    55,
+    80
+   ],
+   "doc:QCL": [
+    57,
+    85
+   ],
+   "doc:TULD": [
+    29,
+    40
+   ],
+   "type:conditional": [
+    15,
+    30
+   ],
+   "type:cross_doc": [
+    15,
+    22
+   ],
+   "type:definition": [
+    10,
+    14
+   ],
+   "type:fact": [
+    34,
+    53
+   ],
+   "type:list": [
+    20,
+    22
+   ],
+   "type:multi_hop": [
+    11,
+    23
+   ],
+   "type:no_diacritics": [
+    9,
+    15
+   ],
+   "type:numeric_table": [
+    30,
+    32
+   ],
+   "type:paraphrase": [
+    13,
+    19
+   ],
+   "type:unanswerable": [
+    7,
+    10
+   ]
+  },
+  "rank": 5
+ },
+ {
+  "run": "langgraph-crag@qwen3.5-4B",
+  "name": "langgraph-crag[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "langgraph",
+  "technique": "agentic corrective RAG (grade + rewrite)",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 164,
+  "pass_rate": 0.6833333333333333,
+  "correctness": 0.81875,
+  "faithfulness": 0.7791666666666667,
+  "citation_ok": 0.9559471365638766,
+  "keyfact_all": 0.8260869565217391,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8108695652173913,
+  "recall@5": 0.9660144927536232,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 30.410987973213196,
+  "latency_p95_s": 41.17531518936157,
+  "ttft_p50_s": 40.727789759635925,
+  "llm_calls": 2.05,
+  "build_s": 2.5,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    59,
+    80
+   ],
+   "doc:QCL": [
+    56,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    12,
+    14
+   ],
+   "type:fact": [
+    50,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    8,
+    23
+   ],
+   "type:no_diacritics": [
+    7,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    9,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 6
+ },
+ {
+  "run": "hyde-best@qwen3.5-4B",
+  "name": "hyde[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "hyde",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 163,
+  "pass_rate": 0.6791666666666667,
+  "correctness": 0.86875,
+  "faithfulness": 0.7666666666666667,
+  "citation_ok": 0.9655172413793104,
+  "keyfact_all": 0.8391304347826087,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8630434782608696,
+  "recall@5": 0.9814492753623189,
+  "mrr@10": 0.9166666666666666,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 65.63778042793274,
+  "latency_p95_s": 102.86098467111587,
+  "ttft_p50_s": 40.22653889656067,
+  "llm_calls": 2,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    9,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    56,
+    80
+   ],
+   "doc:QCL": [
+    58,
+    85
+   ],
+   "doc:TULD": [
+    31,
+    40
+   ],
+   "type:conditional": [
+    18,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    45,
+    53
+   ],
+   "type:list": [
+    14,
+    22
+   ],
+   "type:multi_hop": [
+    9,
+    23
+   ],
+   "type:no_diacritics": [
+    11,
+    15
+   ],
+   "type:numeric_table": [
+    25,
+    32
+   ],
+   "type:paraphrase": [
+    13,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 7
+ },
+ {
+  "run": "langchain@qwen3.5-4B",
+  "name": "langchain[clause_header|hybrid:qwen3-emb-0.6b+bm25|k5]",
+  "framework": "langchain",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:qwen3-emb-0.6b+bm25",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 163,
+  "pass_rate": 0.6791666666666667,
+  "correctness": 0.8416666666666667,
+  "faithfulness": 0.7791666666666667,
+  "citation_ok": 0.9655172413793104,
+  "keyfact_all": 0.8347826086956521,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8347826086956521,
+  "recall@5": 0.9616666666666667,
+  "mrr@10": 0.9061594202898551,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 53.655104875564575,
+  "latency_p95_s": 100.25160537958145,
+  "ttft_p50_s": 53.655104875564575,
+  "llm_calls": 1,
+  "build_s": 1.7,
+  "breakdown": {
+   "doc:MULTI": [
+    6,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    58,
+    80
+   ],
+   "doc:QCL": [
+    56,
+    85
+   ],
+   "doc:TULD": [
+    35,
+    40
+   ],
+   "type:conditional": [
+    18,
+    30
+   ],
+   "type:cross_doc": [
+    6,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    50,
+    53
+   ],
+   "type:list": [
+    16,
+    22
+   ],
+   "type:multi_hop": [
+    10,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    12,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 8
+ },
+ {
+  "run": "multiquery-best@qwen3.5-4B",
+  "name": "multiquery[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "multiquery",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 160,
+  "pass_rate": 0.6666666666666666,
+  "correctness": 0.8166666666666667,
+  "faithfulness": 0.7583333333333333,
+  "citation_ok": 0.9521739130434783,
+  "keyfact_all": 0.8173913043478261,
+  "refusal_acc": 1,
+  "answerable_correct": 0.808695652173913,
+  "recall@5": 0.966231884057971,
+  "mrr@10": 0.8565700483091787,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 58.72616183757782,
+  "latency_p95_s": 92.81564763784407,
+  "ttft_p50_s": 31.07280957698822,
+  "llm_calls": 2,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    55,
+    80
+   ],
+   "doc:QCL": [
+    55,
+    85
+   ],
+   "doc:TULD": [
+    35,
+    40
+   ],
+   "type:conditional": [
+    16,
+    30
+   ],
+   "type:cross_doc": [
+    7,
+    22
+   ],
+   "type:definition": [
+    12,
+    14
+   ],
+   "type:fact": [
+    48,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    10,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    23,
+    32
+   ],
+   "type:paraphrase": [
+    13,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 9
+ },
+ {
+  "run": "raptor-best@qwen3.5-4B",
+  "name": "raptor[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "RAPTOR (collapsed tree)",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 159,
+  "pass_rate": 0.6625,
+  "correctness": 0.85,
+  "faithfulness": 0.75,
+  "citation_ok": 0.9473684210526315,
+  "keyfact_all": 0.8565217391304348,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8434782608695652,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9112801932367149,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 35.81365418434143,
+  "latency_p95_s": 58.97357141971588,
+  "ttft_p50_s": 6.947616219520569,
+  "llm_calls": 1,
+  "build_s": 1219.9,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    10,
+    10
+   ],
+   "doc:NQLD": [
+    54,
+    80
+   ],
+   "doc:QCL": [
+    56,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    20,
+    30
+   ],
+   "type:cross_doc": [
+    7,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    44,
+    53
+   ],
+   "type:list": [
+    14,
+    22
+   ],
+   "type:multi_hop": [
+    11,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    25,
+    32
+   ],
+   "type:paraphrase": [
+    9,
+    19
+   ],
+   "type:unanswerable": [
+    10,
+    10
+   ]
+  },
+  "rank": 10
+ },
+ {
+  "run": "llamaindex@qwen3.5-4B",
+  "name": "llamaindex[clause_header|hybrid:qwen3-emb-0.6b+bm25|k5]",
+  "framework": "llamaindex",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:qwen3-emb-0.6b+bm25",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 159,
+  "pass_rate": 0.6625,
+  "correctness": 0.8229166666666666,
+  "faithfulness": 0.7666666666666667,
+  "citation_ok": 0.972972972972973,
+  "keyfact_all": 0.8260869565217391,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8152173913043478,
+  "recall@5": 0.9558695652173913,
+  "mrr@10": 0.9055797101449276,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 47.75656807422638,
+  "latency_p95_s": 101.74290577173231,
+  "ttft_p50_s": 47.75656807422638,
+  "llm_calls": 1,
+  "build_s": 65.1,
+  "breakdown": {
+   "doc:MULTI": [
+    12,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    53,
+    80
+   ],
+   "doc:QCL": [
+    52,
+    85
+   ],
+   "doc:TULD": [
+    34,
+    40
+   ],
+   "type:conditional": [
+    20,
+    30
+   ],
+   "type:cross_doc": [
+    12,
+    22
+   ],
+   "type:definition": [
+    10,
+    14
+   ],
+   "type:fact": [
+    45,
+    53
+   ],
+   "type:list": [
+    14,
+    22
+   ],
+   "type:multi_hop": [
+    8,
+    23
+   ],
+   "type:no_diacritics": [
+    7,
+    15
+   ],
+   "type:numeric_table": [
+    21,
+    32
+   ],
+   "type:paraphrase": [
+    14,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 11
+ },
+ {
+  "run": "naive-best-rerank@qwen3.5-4B",
+  "name": "naive[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|rerank:bge-reranker-v2-m3|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|rerank:bge-reranker-v2-m3",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 154,
+  "pass_rate": 0.6416666666666667,
+  "correctness": 0.8333333333333334,
+  "faithfulness": 0.7708333333333334,
+  "citation_ok": 0.9658119658119658,
+  "keyfact_all": 0.8130434782608695,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8260869565217391,
+  "recall@5": 0.9768840579710145,
+  "mrr@10": 0.9457971014492753,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 43.004618763923645,
+  "latency_p95_s": 73.98227527141572,
+  "ttft_p50_s": 11.799959182739258,
+  "llm_calls": 1,
+  "build_s": 18.1,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    50,
+    80
+   ],
+   "doc:QCL": [
+    56,
+    85
+   ],
+   "doc:TULD": [
+    33,
+    40
+   ],
+   "type:conditional": [
+    17,
+    30
+   ],
+   "type:cross_doc": [
+    6,
+    22
+   ],
+   "type:definition": [
+    9,
+    14
+   ],
+   "type:fact": [
+    45,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    9,
+    23
+   ],
+   "type:no_diacritics": [
+    9,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    12,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 12
+ },
+ {
+  "run": "naive-qwen3hyb@qwen3.5-4B",
+  "name": "naive[clause_header|hybrid:dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 154,
+  "pass_rate": 0.6416666666666667,
+  "correctness": 0.8166666666666667,
+  "faithfulness": 0.7583333333333333,
+  "citation_ok": 0.9656652360515021,
+  "keyfact_all": 0.8043478260869565,
+  "refusal_acc": 1,
+  "answerable_correct": 0.808695652173913,
+  "recall@5": 0.9605797101449275,
+  "mrr@10": 0.9070151828847481,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 40.23801136016846,
+  "latency_p95_s": 79.50188851356506,
+  "ttft_p50_s": 6.436588168144226,
+  "llm_calls": 1,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    6,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    54,
+    80
+   ],
+   "doc:QCL": [
+    54,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    15,
+    30
+   ],
+   "type:cross_doc": [
+    6,
+    22
+   ],
+   "type:definition": [
+    10,
+    14
+   ],
+   "type:fact": [
+    49,
+    53
+   ],
+   "type:list": [
+    14,
+    22
+   ],
+   "type:multi_hop": [
+    10,
+    23
+   ],
+   "type:no_diacritics": [
+    7,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    11,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 13
+ },
+ {
+  "run": "haystack@qwen3.5-4B",
+  "name": "haystack[clause_header|hybrid:qwen3-emb-0.6b+bm25|k5]",
+  "framework": "haystack",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:qwen3-emb-0.6b+bm25",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 153,
+  "pass_rate": 0.6375,
+  "correctness": 0.8104166666666667,
+  "faithfulness": 0.7458333333333333,
+  "citation_ok": 0.9653679653679653,
+  "keyfact_all": 0.8173913043478261,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8021739130434783,
+  "recall@5": 0.9594927536231884,
+  "mrr@10": 0.9121014492753623,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 30.760003924369812,
+  "latency_p95_s": 72.40203334093091,
+  "ttft_p50_s": 30.760003924369812,
+  "llm_calls": 1,
+  "build_s": 1.2,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    52,
+    80
+   ],
+   "doc:QCL": [
+    51,
+    85
+   ],
+   "doc:TULD": [
+    33,
+    40
+   ],
+   "type:conditional": [
+    15,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    12,
+    14
+   ],
+   "type:fact": [
+    47,
+    53
+   ],
+   "type:list": [
+    14,
+    22
+   ],
+   "type:multi_hop": [
+    7,
+    23
+   ],
+   "type:no_diacritics": [
+    5,
+    15
+   ],
+   "type:numeric_table": [
+    24,
+    32
+   ],
+   "type:paraphrase": [
+    12,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 14
+ },
+ {
+  "run": "naive-clause-bm25@qwen3.5-4B",
+  "name": "naive[clause_header|bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "bm25:foldplus",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 148,
+  "pass_rate": 0.6166666666666667,
+  "correctness": 0.8,
+  "faithfulness": 0.7375,
+  "citation_ok": 0.9401709401709402,
+  "keyfact_all": 0.7869565217391304,
+  "refusal_acc": 1,
+  "answerable_correct": 0.7913043478260869,
+  "recall@5": 0.941231884057971,
+  "mrr@10": 0.8707108350586611,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 37.502108097076416,
+  "latency_p95_s": 85.5904037952423,
+  "ttft_p50_s": 8.124707579612732,
+  "llm_calls": 1,
+  "build_s": 0.5,
+  "breakdown": {
+   "doc:MULTI": [
+    6,
+    25
+   ],
+   "doc:NONE": [
+    8,
+    10
+   ],
+   "doc:NQLD": [
+    49,
+    80
+   ],
+   "doc:QCL": [
+    53,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    16,
+    30
+   ],
+   "type:cross_doc": [
+    4,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    44,
+    53
+   ],
+   "type:list": [
+    13,
+    22
+   ],
+   "type:multi_hop": [
+    9,
+    23
+   ],
+   "type:no_diacritics": [
+    12,
+    15
+   ],
+   "type:numeric_table": [
+    23,
+    32
+   ],
+   "type:paraphrase": [
+    8,
+    19
+   ],
+   "type:unanswerable": [
+    8,
+    10
+   ]
+  },
+  "rank": 15
+ },
+ {
+  "run": "naive-fixed500-bge@qwen3.5-4B",
+  "name": "naive[fixed500|dense:bge-m3|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "fixed500",
+  "retriever": "dense:bge-m3",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 126,
+  "pass_rate": 0.525,
+  "correctness": 0.7145833333333333,
+  "faithfulness": 0.7,
+  "citation_ok": 0.8063063063063063,
+  "keyfact_all": 0.7130434782608696,
+  "refusal_acc": 0.9,
+  "answerable_correct": 0.7065217391304348,
+  "recall@5": 0.8526086956521739,
+  "mrr@10": 0.6680365769496204,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 71.52016735076904,
+  "latency_p95_s": 153.7373512625694,
+  "ttft_p50_s": 17.420867204666138,
+  "llm_calls": 1,
+  "build_s": 2.2,
+  "breakdown": {
+   "doc:MULTI": [
+    7,
+    25
+   ],
+   "doc:NONE": [
+    7,
+    10
+   ],
+   "doc:NQLD": [
+    40,
+    80
+   ],
+   "doc:QCL": [
+    44,
+    85
+   ],
+   "doc:TULD": [
+    28,
+    40
+   ],
+   "type:conditional": [
+    14,
+    30
+   ],
+   "type:cross_doc": [
+    7,
+    22
+   ],
+   "type:definition": [
+    8,
+    14
+   ],
+   "type:fact": [
+    43,
+    53
+   ],
+   "type:list": [
+    10,
+    22
+   ],
+   "type:multi_hop": [
+    7,
+    23
+   ],
+   "type:no_diacritics": [
+    1,
+    15
+   ],
+   "type:numeric_table": [
+    19,
+    32
+   ],
+   "type:paraphrase": [
+    10,
+    19
+   ],
+   "type:unanswerable": [
+    7,
+    10
+   ]
+  },
+  "rank": 16
+ },
+ {
+  "run": "llm-wiki-qwen@qwen3.5-4B",
+  "name": "llm-wiki[qwen|k3]",
+  "framework": "python",
+  "technique": "LLM-Wiki (qwen)",
+  "chunking": "wiki pages (qwen)",
+  "retriever": "LLM index navigation",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 89,
+  "pass_rate": 0.37083333333333335,
+  "correctness": 0.5479166666666667,
+  "faithfulness": 0.5791666666666667,
+  "citation_ok": 0.7370892018779343,
+  "keyfact_all": 0.5652173913043478,
+  "refusal_acc": 0.9,
+  "answerable_correct": 0.532608695652174,
+  "recall@5": 0.37857142857142856,
+  "mrr@10": 0.2811937678297125,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 104.60750985145569,
+  "latency_p95_s": 226.18409211635588,
+  "ttft_p50_s": 45.62468945980072,
+  "llm_calls": 2,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    2,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    30,
+    80
+   ],
+   "doc:QCL": [
+    33,
+    85
+   ],
+   "doc:TULD": [
+    15,
+    40
+   ],
+   "type:conditional": [
+    15,
+    30
+   ],
+   "type:cross_doc": [
+    2,
+    22
+   ],
+   "type:definition": [
+    1,
+    14
+   ],
+   "type:fact": [
+    25,
+    53
+   ],
+   "type:list": [
+    15,
+    22
+   ],
+   "type:multi_hop": [
+    2,
+    23
+   ],
+   "type:no_diacritics": [
+    4,
+    15
+   ],
+   "type:numeric_table": [
+    13,
+    32
+   ],
+   "type:paraphrase": [
+    3,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 17
+ },
+ {
+  "run": "lightrag-mix@qwen3.5-4B",
+  "name": "lightrag[vn-embedding|mix|k5]",
+  "framework": "lightrag",
+  "technique": "graph RAG (LightRAG)",
+  "chunking": "per-node (LightRAG chunker)",
+  "retriever": "LightRAG mix (KG + dense:vn-embedding)",
+  "model": "qwen3.5-4B",
+  "n": 240,
+  "n_judged": 1,
+  "pass": 1,
+  "pass_rate": 1.0,
+  "correctness": 1,
+  "faithfulness": 1,
+  "citation_ok": 1,
+  "keyfact_all": 0.40869565217391307,
+  "refusal_acc": null,
+  "answerable_correct": 1,
+  "recall@5": 0.7,
+  "mrr@10": 0.7,
+  "latency_src": "concurrent(4)",
+  "latency_p50_s": 74.79472029209137,
+  "latency_p95_s": 130.25471295118328,
+  "ttft_p50_s": 38.67072629928589,
+  "llm_calls": 2,
+  "build_s": 1.4,
+  "breakdown": {
+   "doc:QCL": [
+    1,
+    1
+   ],
+   "type:fact": [
+    1,
+    1
+   ]
+  },
+  "rank": 18
+ }
+]

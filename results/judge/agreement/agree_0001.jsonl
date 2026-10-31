@@ -1,0 +1,40 @@
+{"key": "c50b6203eddf4403", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Mặc theo quy định, sạch sẽ gọn gàng lịch sự; thêm Điều 15 đúng."}
+{"key": "9410646d394f1a1a", "qid": "MULTI-022", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Đúng điều kiện; nhưng trích sai Điều 4 (đúng là Điều 2), thứ bậc ưu tiên tự suy."}
+{"key": "edf2b16a9ead0cc3", "qid": "TULD-032", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Từ chối dù TULD Điều 13 có câu trả lời."}
+{"key": "2abe8829e9293752", "qid": "TULD-032", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ: văn bản, 01 tháng, 15 ngày, Hội đồng hòa giải cơ sở."}
+{"key": "9b58458508808b21", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 12 tháng do liên quan tài sản."}
+{"key": "851197cd2196c702", "qid": "TULD-050", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nói về thời hạn/sửa đổi, không trả lời phạm vi điều chỉnh Điều 1."}
+{"key": "b06ac5edf6cc7895", "qid": "QCL-097", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối dù Phụ lục 4 cho 10 điểm."}
+{"key": "df01577506a42b3d", "qid": "QCL-060", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Kết luận không đúng hướng nhưng nhầm thưởng sinh nhật công ty; thiếu ngoại lệ nghỉ hưu."}
+{"key": "1d8ee48b04a3001b", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 1% lương đóng BHXH trong 6 tháng."}
+{"key": "70fa23ad981f0436", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Định nghĩa đúng; 07% thuộc Điều 3 chứ không phải Điều 2."}
+{"key": "69f3addb03eb5db6", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Định nghĩa đúng; chi tiết bổ sung chính xác."}
+{"key": "1362190e8cadf8a3", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu mức tối đa 03 tháng lương và căn cứ TULD/QCL khấu trừ."}
+{"key": "f53ff0a6f4ee8bdb", "qid": "NQLD-062", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng sa thải do tái phạm khi chưa xóa kỷ luật."}
+{"key": "b41cf08b08486a78", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Đúng giờ ngày ký; trích Phụ lục 2 sai (sau Điều 23)."}
+{"key": "ac97ad8b34f8614e", "qid": "QCL-075", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Từ chối dù chữ ký số ghi 21:32:24 26/04/2024."}
+{"key": "39c1cb61aae0d027", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng bậc 4 theo thâm niên >=30 năm."}
+{"key": "20ec36eb027a2812", "qid": "NONE-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": true, "note": "Từ chối đúng; nhưng dẫn Nghị định 12/2024 không có trong tài liệu, sai."}
+{"key": "e3ade822b54992af", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 80-90% và 10-20%."}
+{"key": "207651ff178c10de", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Trưởng ca trở lên; QTV1 là Ban TGĐ."}
+{"key": "0b227b10da1eed24", "qid": "NONE-011", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": false, "note": "Bịa thời hạn báo trước 30 ngày, gán sai cho NQLD Điều 28."}
+{"key": "2b7a7a59312f8bb8", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Tổng Giám đốc và BCH Công đoàn."}
+{"key": "cf6257bec9f35b8f", "qid": "QCL-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối dù QCL Điều 1 khoản 4 nêu Tổng Giám đốc."}
+{"key": "2615424dcb7dc6f7", "qid": "QCL-045", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Từ chối dù QCL Điều 13 có 1% BHTN; claim thu hồi lương không có."}
+{"key": "3a6f7bf029a63e89", "qid": "NQLD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách; tái phạm trong 3 tháng kéo dài nâng lương ≤6 tháng."}
+{"key": "4434cd744f1b3d9e", "qid": "NQLD-081", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng là quấy rối tình dục; mức xử lý khiển trách-sa thải không được hỗ trợ."}
+{"key": "2aa0f2cb7dd62c86", "qid": "MULTI-007", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Liệt kê khoản thu nhập như khoản trừ; sai so sánh."}
+{"key": "b0f7c49246373197", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tháng 3, không thanh toán; chi tiết thêm từ NQLD Điều 7."}
+{"key": "399bd14cb27add2d", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tài khoản ngân hàng/ATM và luong.bibica.com.vn."}
+{"key": "c1b3fb3c585a1e2f", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: QCL Điều 10 nói được trả đủ lương."}
+{"key": "9407677378cab2e7", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng trả đủ lương; gán sai TULD Điều 5 cho trường hợp lỗi công ty."}
+{"key": "aa4dbe4895ad0e83", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo Bộ luật lao động."}
+{"key": "afe8ad1c38217e0a", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 48 giờ/tuần hoặc 26 công/tháng; Điều 9 trích thừa."}
+{"key": "18720ee01ee9c6a9", "qid": "QCL-104", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối dù Phụ lục 4 cho 20 điểm."}
+{"key": "c0bcd9b46376690f", "qid": "QCL-101", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Không nêu 5 tiêu chí/hệ số; áp sai thâm niên cho QTV."}
+{"key": "18c7bd55e10b077d", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: 2 lần/tháng là kéo dài nâng lương, không phải khiển trách."}
+{"key": "89f31fd1d13d2692", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Từ chối đúng, nêu khái niệm liên quan chính xác."}
+{"key": "bd1e93a241624655", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Đúng 100% lương; trích NQLD Điều 7 sai."}
+{"key": "66a3937d8c101029", "qid": "QCL-006", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Định nghĩa đúng; nhiều trích dẫn sai điều, gộp khoản trừ vào LCV."}
+{"key": "e0755696a44f4fde", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Từ chối đúng; chi tiết TULD Điều 17 chính xác."}
+{"key": "9774699d523c432b", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tính sai: 52.000 thay vì 156.000 đồng."}

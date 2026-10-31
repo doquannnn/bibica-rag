@@ -1,0 +1,40 @@
+{"key": "9407677378cab2e7", "qid": "QCL-035", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Trả đủ lương đúng; nhưng gán sai TULD Điều 5 (thiếu đơn hàng) cho trường hợp lỗi Công ty."}
+{"key": "9241fd69afcc1990", "qid": "QCL-035", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối sai; QCL Điều 10 có quy định trả đủ lương."}
+{"key": "9bdf9308cf675e97", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu ngày 15 (QCL) và giải thích khác biệt TULD Điều 9."}
+{"key": "3e904ef11cd6d612", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu lịch TULD (ngày 20/10, bán hàng 15), thiếu quy định ngày 15 của QCL."}
+{"key": "aff49bf08e354adf", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ngày làm việc kế tiếp, khác ngân hàng nhận trễ đúng; lưu ý 'ngày nghỉ khác' bịa đặt."}
+{"key": "ecbe97f6d0b547d3", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng ngày làm việc kế tiếp và khả năng nhận trễ khi khác ngân hàng."}
+{"key": "fdeba76b69475d00", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tài khoản Công ty cổ phần Bibica; thêm TULD ATM đúng."}
+{"key": "54ea0720c8865360", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tài khoản Công ty cổ phần Bibica."}
+{"key": "3763e9b311a93f25", "qid": "QCL-039", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Số liệu đúng; sai khi nói NQLD Điều 5 cũng quy định 48 giờ/26 ngày."}
+{"key": "61193f50af755c81", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 48 giờ/tuần, 26 ngày/tháng, 8 giờ/ngày."}
+{"key": "39f7cb35a2a73cfe", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết quả 52.000 sai; bỏ qua 3 giờ, đúng phải 156.000 đồng."}
+{"key": "9774699d523c432b", "qid": "QCL-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tính sai: (52.000)x3 ghi thành 52.000; đúng là 156.000 đồng."}
+{"key": "aa0f8fc2499dc50f", "qid": "QCL-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ba ý chính đúng; khẳng định không áp dụng mức 150/200/300% là không có căn cứ."}
+{"key": "d8033fbe88a05551", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ nghỉ bù, tăng ca, TGĐ duyệt; trích dẫn TQCL/Điều 13 lệch nhẹ."}
+{"key": "8590f64fa0cf6d66", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo ngày nghỉ hằng tuần; TULD Điều 10 dẫn chiếu đúng."}
+{"key": "aae739e108331102", "qid": "QCL-042", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng; nhưng gán sai nội dung nghỉ bù/tăng ca QTV cho NQLD Điều 12."}
+{"key": "59e40f1a0a2469d5", "qid": "QCL-043", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "1% lương BHXH đúng; sai khi nói khoản này đã bao gồm 1% BHTN."}
+{"key": "f9e2c3575bcaa32f", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 1% lương đóng BHXH trong 6 tháng; trích QCL Điều 12 thừa."}
+{"key": "09be16e38bc74ffd", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 2 triệu/6 tháng, gồm 1% BHTN, ngoại lệ 1% cao hơn."}
+{"key": "5902894c3684fb79", "qid": "QCL-044", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "2 triệu/6 tháng đúng; điều kiện ngoại lệ sai (BHXH thay vì BHTN)."}
+{"key": "b54dd3eaa0c686fc", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: từ 14 ngày, 1% lương BHTN, trả cùng kỳ."}
+{"key": "145aa783006ff764", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 1% lương BHTN, nghỉ từ 14 ngày trở lên."}
+{"key": "59cde4c6c8dc0c65", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng chấm 100% ngày công; thêm TULD Điều 12 đúng."}
+{"key": "a5ca7dc5f3a4408d", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng chấm 100% ngày công theo thời gian thực tế."}
+{"key": "553e54101adcc558", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 100% ngày công; thêm TULD Điều 7 nghỉ hưởng lương đúng."}
+{"key": "c7a724952f873a15", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng chấm 100% ngày công theo danh sách thực tế."}
+{"key": "d539d08c5d9bee9c", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng LCB 80-90%, KPI 10-20%."}
+{"key": "4527ec6132e2c12c", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tỷ lệ; trích Điều 14 thừa nhưng Điều 15 đúng."}
+{"key": "8767a2732c5f528d", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 60% và 10-40%; tổng 70-100% là suy luận số học."}
+{"key": "7550c8dc4fb16fb5", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 60% và 10-40%; trích dẫn có lỗi gõ nhẹ."}
+{"key": "ba4cb8ec509cf834", "qid": "QCL-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Liệt kê đủ 6 yếu tố."}
+{"key": "f132c64acbf79146", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ nêu 2/6 yếu tố, thiếu ngày công, thành tích, KPI, quỹ lương SP."}
+{"key": "e066459c7372cd81", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng: chỉ tăng lương cơ bản, KPI không chỉnh tăng."}
+{"key": "08967b08b59b7f68", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bỏ qua quy định Điều 15 về KPI; trả lời về lương bổ sung, hàm ý ngược lại."}
+{"key": "3f8091fc4fbace6d", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết quả 7.440.000 sai; đúng là 7.200.000 đồng."}
+{"key": "984cdb50de572ae2", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết quả 6.240.000 sai; đúng là 7.200.000 đồng."}
+{"key": "869b3cdb92ab3ecb", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 700.000đ/tháng kèm điều kiện hưởng chính xác."}
+{"key": "205428182696f90f", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 700.000đ/tháng theo ngày công chuẩn."}
+{"key": "4a9bc0efd8b96dda", "qid": "QCL-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng Tổ phó 800.000đ/tháng, kèm các mức khác chính xác."}
+{"key": "46664e1a8a890dea", "qid": "QCL-055", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Từ chối sai; QCL Điều 16 nêu Tổ phó 800.000đ/tháng."}

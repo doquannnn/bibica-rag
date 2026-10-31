@@ -1,0 +1,60 @@
+{"key": "d8b269f5d1bf9f82", "qid": "NQLD-055", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Correct conclusion but cites QCL Điều 15 (LCV ratio) instead of NQLD Điều 32."}
+{"key": "0e80a94594300782", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, cites NQLD Điều 32 khoản 1.4."}
+{"key": "b97ab17e02ef5682", "qid": "NQLD-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct core, but wrongly claims liability contract still applies despite natural disaster."}
+{"key": "9fb315476ad1b8fd", "qid": "NQLD-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Unexcused absence correct; misses discipline form; 'no sickness benefit' unsupported."}
+{"key": "94e54d126f10fe10", "qid": "NQLD-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Unexcused correct but says khiển trách; should be kéo dài nâng lương (28.2.b.ix)."}
+{"key": "3726bae3c49e84f3", "qid": "NQLD-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Unexcused correct; speculates cách chức; kéo dài nâng lương only hedged."}
+{"key": "fec29a86f28238b4", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: fines/pay cuts banned instead of discipline (Điều 27)."}
+{"key": "8ef05f3212821422", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with Điều 27; forms listed correctly."}
+{"key": "c4557240e9f4345d", "qid": "NQLD-058", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conclusion correct but lists fabricated discipline forms (cảnh cáo, giảm lương...)."}
+{"key": "91eee08d25a95bd6", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All conditions and pay correct."}
+{"key": "62e95e5aff571d1b", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL/TULD citations irrelevant but NQLD 9.1.3 right."}
+{"key": "fac6917c2c949c29", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct procedure and full pay."}
+{"key": "9c500e4286bd0748", "qid": "NQLD-062", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says sa thải but reasoning wrong (3-month window misapplied), hedges cách chức."}
+{"key": "7b2b126573606eb9", "qid": "NQLD-062", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sa thải per 28.4.b, within uncleared period; some irrelevant citations."}
+{"key": "2d0ace9346f6bffb", "qid": "NQLD-062", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải right but claims clearance after 03 months (doc: 06), undermining conclusion."}
+{"key": "0f89f393b3d40304", "qid": "NQLD-063", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Correct conclusion but cites QCL Điều 12, NQLD Điều 7, wrong sources."}
+{"key": "1e7e8a1a98b96623", "qid": "NQLD-063", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct per NQLD Điều 12; TULD Điều 10 claim fabricated."}
+{"key": "72e201a30d0475c6", "qid": "NQLD-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 19 right to refuse caveat accurate."}
+{"key": "c8450e62b52f804a", "qid": "NQLD-064", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 forms with accurate details."}
+{"key": "47f6e6ed428a7a14", "qid": "NQLD-064", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 4 forms listed."}
+{"key": "a4940774ebc6c8ea", "qid": "NQLD-064", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Omits sa thải, lists xóa kỷ luật as a form."}
+{"key": "66d34a19f106345d", "qid": "NQLD-065", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "6 steps correct but cites NQLD Điều 21 instead of Điều 27."}
+{"key": "41c12c4d672f0a93", "qid": "NQLD-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 6 steps correct."}
+{"key": "b1fe2be8a3b27552", "qid": "NQLD-065", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only 5 steps; missing ban hành quyết định."}
+{"key": "2aca79c9c16d5e84", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list."}
+{"key": "d2277cf761084cd8", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list."}
+{"key": "9a7977a58facb6b4", "qid": "NQLD-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list; extra principle correct."}
+{"key": "438b96105905ef93", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three behaviours correct."}
+{"key": "37cdbd9102301935", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three items correct; extra items from Điều 28 attributed to Điều 20."}
+{"key": "322c1ed2a26ebe99", "qid": "NQLD-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Điều 20 items plus related Điều 17/28 content, accurate."}
+{"key": "aacf73574729eedd", "qid": "NQLD-069", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing bảng chỉ dẫn an toàn (item d)."}
+{"key": "76d233455f59ae29", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5 responsibilities."}
+{"key": "48522ea253f71159", "qid": "NQLD-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 5; adds overtime right as responsibility (misplaced but sourced)."}
+{"key": "6a33e8becbccb90b", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 13 prohibited acts."}
+{"key": "cdbb8a761d08fb72", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 13 prohibited acts."}
+{"key": "ac45d535754f8c61", "qid": "NQLD-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All items summarized; extra discipline info accurate."}
+{"key": "5fc476db4b7bb4cb", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 6 grounds."}
+{"key": "19a642977ff440d1", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 6 grounds."}
+{"key": "0b59835bca861d46", "qid": "NQLD-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 6 grounds; 3-year note correct."}
+{"key": "0b19107f26a0c791", "qid": "NQLD-073", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Content correct but attributed to QCL Điều 15, 16."}
+{"key": "b992c934bd9feba4", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 cases correct."}
+{"key": "9556f02375aadb7d", "qid": "NQLD-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All 3 cases correct."}
+{"key": "051f36504d79f971", "qid": "NQLD-074", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Five acts present; adds unsupported items (hút thuốc) and mixes categories."}
+{"key": "50038c31bb74f281", "qid": "NQLD-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Exact five acts."}
+{"key": "b071f658208c92f6", "qid": "NQLD-074", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Five acts correct; wrong sa thải repeat rule, 12-month limitation overgeneralized."}
+{"key": "129f2af1fbdd193d", "qid": "NQLD-076", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says not allowed but omits Điều 13 no-sleeping rule; irrelevant content."}
+{"key": "d34595722274afb5", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct Điều 13; 'unexcused absence' consequence unsupported."}
+{"key": "c95f4a295560a9f6", "qid": "NQLD-076", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Điều 13(f) correct; extended Điều 14/28 consequences unsupported."}
+{"key": "67320b0613ec8ae9", "qid": "NQLD-077", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Opens off-topic (Điều 27 discipline ban), then gives suspension condition."}
+{"key": "02c9f35587376072", "qid": "NQLD-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct conditions plus accurate Điều 31 details."}
+{"key": "3e675bc0052c7dd8", "qid": "NQLD-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct conditions per Điều 31."}
+{"key": "071bda9798e46c4a", "qid": "NQLD-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "b57e5b8ed0871fa0", "qid": "NQLD-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "eccb3a15b85cf407", "qid": "NQLD-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "c9a4d665fb3324c6", "qid": "NQLD-079", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says docs lack info; NQLD Điều 5 gives 60 phút."}
+{"key": "8dcf5506e49c7493", "qid": "NQLD-079", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says NQLD 30 phút for nursing, attributes 60 phút to TULD (actually NQLD)."}
+{"key": "3e737e5227e7759b", "qid": "NQLD-079", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives 30 phút general female rule; correct answer 60 phút."}
+{"key": "4172b4e481f88f8e", "qid": "NQLD-080", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Conclusion right but omits Điều 19 right to leave; confused reasoning."}
+{"key": "1d0c8839ff1531b6", "qid": "NQLD-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct Điều 19 right plus reporting duty; point letters slightly off."}
+{"key": "2296a739da960603", "qid": "NQLD-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct Điều 19; extra Điều 14 notes accurate."}

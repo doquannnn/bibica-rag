@@ -1,0 +1,59 @@
+{"key": "dfb649fc5f7a1ba9", "qid": "NQLD-008", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Invents complaint to Công đoàn, tố cáo, xem xét lại; omits labor dispute route; citations wrong."}
+{"key": "20236ba8a0cf4952", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Matches NQLD Điều 32 exactly."}
+{"key": "22ee6dacd9338908", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct core; extra Điều 31 details accurate."}
+{"key": "a9376619a24c0c96", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: chế độ ốm đau theo BHXH."}
+{"key": "10e75f725a6dcbd8", "qid": "NQLD-010", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; extra QCL 13 says BHTN, answer wrongly says BHXH."}
+{"key": "1137343fd6d3979b", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with proper citation."}
+{"key": "94b7b66e4f0e96bb", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra Điều 9/11 content accurate."}
+{"key": "3a6ef0a8d87f60ce", "qid": "NQLD-011", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Core correct but cites TULD Điều 10; invents 'đã ký HĐLĐ' condition."}
+{"key": "aa4dbe4895ad0e83", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, per BLLĐ, NQLD Điều 10."}
+{"key": "b75452fe851ac580", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: by agreement, except legal cases."}
+{"key": "66c566081689837c", "qid": "NQLD-012", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; fabricated list of exceptions attributed to TULD Điều 11."}
+{"key": "2198fdc0be376ca3", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra Điều 12 content loosely relevant but accurate."}
+{"key": "101de4bc8d747557", "qid": "NQLD-013", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly says QCL Phụ lục 2 (KPI) governs; omits Bộ luật Lao động."}
+{"key": "0ada5766216378ce", "qid": "NQLD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States BLLĐ; night-overtime formula misstated (omits 20%, wrong base)."}
+{"key": "39016139578f5466", "qid": "NQLD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States BLLĐ via NQLD 12; wrongly says company consent required instead of employee."}
+{"key": "ed948aab76a15bb6", "qid": "NQLD-014", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Answers maternity/leave approvals; misses Tổng Giám đốc/quản lý trực tiếp rule."}
+{"key": "c2425ae3bd19055c", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, NQLD Điều 14."}
+{"key": "6677873178e4182d", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, NQLD Điều 14."}
+{"key": "593f551024f4bb96", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: văn minh lịch sự, không khiếm nhã."}
+{"key": "6b02409e330cbc70", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct and complete."}
+{"key": "52f7e2a4c63fcf27", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra Điều 13 items accurate."}
+{"key": "c50b6203eddf4403", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements present; Điều 15 extra accurate."}
+{"key": "8227e8a91913ebbf", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "65433a944f6b65d6", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete; extra communication item accurate."}
+{"key": "fe29eab7edfe230b", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All required actions present."}
+{"key": "4c74129f2019ad12", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All required actions present."}
+{"key": "5b764911b3fd276e", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Required items present; extras from Điều 13/19 supported."}
+{"key": "899db779e324547e", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: not without manager/Giám đốc consent."}
+{"key": "00f6a913eeac13df", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; generic discipline remark acceptable."}
+{"key": "c9ab9ab796fe2fdb", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL 7 cases plus BLLĐ reference; slight mislabeling of promotion case."}
+{"key": "5f3a8b396994e91c", "qid": "NQLD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives only QCL Điều 7 cases; omits NQLD rule referring to BLLĐ."}
+{"key": "e6a02365245f38c3", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL 7 details plus NQLD 24 BLLĐ reference."}
+{"key": "71375f44236f568c", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correctly says no specific term; per BLLĐ."}
+{"key": "58bad93a538ce5ef", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLĐ, NQLD Điều 25."}
+{"key": "0f83d3d096a0c7a8", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLĐ, no specific number."}
+{"key": "01c64d7387a7fa0b", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct but cites NQLD Điều 21 instead of 27."}
+{"key": "d98b6c6121af2719", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, NQLD Điều 27."}
+{"key": "0cff820c2d10b4f8", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, NQLD Điều 27."}
+{"key": "845475a2db7da40c", "qid": "NQLD-024", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 29 names Điều 124."}
+{"key": "f180d59e4eee0ff8", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Điều 124 BLLĐ."}
+{"key": "f91b052bbea7184b", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Điều 124 BLLĐ."}
+{"key": "6953372aa9973306", "qid": "NQLD-025", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Name correct; attaches QCL signing date/lần ký 4 to NQLD, cites QCL."}
+{"key": "f3acf371ce44f19e", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Name and title correct; wrongly locates signature in Điều 32."}
+{"key": "ab7c62b56a3b3761", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct name and date."}
+{"key": "f1954d0826292388", "qid": "NQLD-026", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gives QCL signing time 26/04/2024 21:32:24, not NQLD's."}
+{"key": "7c6d3304b5f34474", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: 22/03/2024 22:45:07."}
+{"key": "3742f73acf788563", "qid": "NQLD-026", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; info exists."}
+{"key": "feefdda06b57b9f6", "qid": "NQLD-028", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 5 has shifts."}
+{"key": "7007ddc4c74b9533", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct two shifts and times."}
+{"key": "f70aa5dc0eb4e443", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct two shifts and times."}
+{"key": "0715c658eb3b10f0", "qid": "NQLD-029", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 5 gives 30/45 minutes."}
+{"key": "665dcb037a4f7edd", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30 and 45 minutes."}
+{"key": "c59693b6ebf9ad0c", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30 and 45 minutes."}
+{"key": "995ad3da0d8354f8", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 12/14/16 days."}
+{"key": "7d09586c4bd533ac", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 12/14/16 days plus accurate extras."}
+{"key": "755a85d32e8a6357", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; citation prefix typo only."}
+{"key": "6c27e1a21b74dee3", "qid": "NQLD-031", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says no max; misses 15/90 days."}
+{"key": "7e864d35e2ca6a3a", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15 and 90 days."}
+{"key": "3f737117125c0b33", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15/90 days; extras accurate."}

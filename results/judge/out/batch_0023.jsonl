@@ -1,0 +1,60 @@
+{"key": "6d3e7f9f6fdcb3fe", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng tên, chức vụ, trích dẫn đúng Mở đầu."}
+{"key": "053beae3486b523d", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Đúng; nhưng trích dẫn QCL Phụ lục 2, TULD Điều 1 không chứa nội dung."}
+{"key": "f622a506861fba4a", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng và đầy đủ."}
+{"key": "05831b9d84cd0e1a", "qid": "TULD-003", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "3 năm đúng; diễn giải sai điều kiện hết hiệu lực (90 ngày)."}
+{"key": "f263fc1b0f40e0e8", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 3 năm kể từ ngày ký; chi tiết bổ sung chính xác."}
+{"key": "238023a61f6b20cd", "qid": "TULD-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; chi tiết Điều 3 chính xác."}
+{"key": "820b2c0070dede98", "qid": "TULD-005", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai; QCL Điều 12 không nói về lương công đoàn, bỏ sót quỹ công đoàn."}
+{"key": "edb438cc520bc8bb", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng quỹ công đoàn."}
+{"key": "c070f37b435ed5f8", "qid": "TULD-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng quỹ công đoàn."}
+{"key": "d781c3eb2bc6eb19", "qid": "TULD-006", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối sai; TULD Điều 5 có quy định."}
+{"key": "df92deac719a8b88", "qid": "TULD-006", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: nói thời gian hiệu lực thỏa ước thay vì hợp đồng."}
+{"key": "92fee35abe1bbb82", "qid": "TULD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, kèm chi tiết ngừng việc chính xác."}
+{"key": "be422e984015467f", "qid": "TULD-007", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 40 giờ/tuần; tài liệu là 48 giờ/tuần, 26 công."}
+{"key": "3231967e04e53aa5", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 48 giờ/tuần, 26 công/tháng."}
+{"key": "a582519c0d069bf1", "qid": "TULD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; đối chiếu QCL Điều 12, NQLD chính xác."}
+{"key": "c51d0d4ccb4568b1", "qid": "TULD-008", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "100% lương đúng; nội dung chấm công/sinh nhật từ QCL Điều 14 gán sai cho TULD."}
+{"key": "f64f12548800e0e4", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 100% lương theo HĐLĐ."}
+{"key": "74a23b81eab3ce4b", "qid": "TULD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; TULD Điều 12 trích đúng."}
+{"key": "23e0d117f247938e", "qid": "TULD-009", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Trả lời lịch trả lương, không nêu thẻ ATM và luong.bibica.com.vn."}
+{"key": "1af4d1080b7fed61", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng thẻ ATM và luong.bibica.com.vn."}
+{"key": "cf848b2894efa27c", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm tài khoản ngân hàng theo QCL Điều 17, có trích."}
+{"key": "5aa65d3e85da7f51", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng ít nhất một lần; trích dẫn 'Trích đoạn' không xác minh được."}
+{"key": "a8c5c819aa1cbffe", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; NQLD Điều 18 có quy định khám định kỳ hàng năm."}
+{"key": "83f43393a3feb04f", "qid": "TULD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, trích TULD Điều 17 và NQLD Điều 18 chính xác."}
+{"key": "79fd48d5102be6f8", "qid": "TULD-011", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Ý chính đúng nhưng liệt kê đối tượng sai, gán QCL Điều 20-21 cho TULD."}
+{"key": "d74903106ab9a23a", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "1406084a73f7f8d5", "qid": "TULD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "952b7fd61a448bd7", "qid": "TULD-013", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Từ chối sai; TULD Điều 5 khoản 4 có quy định."}
+{"key": "7dcddd6aa70cffab", "qid": "TULD-013", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng, trích nguyên văn Điều 5 khoản 4."}
+{"key": "98047a1b4dbeab72", "qid": "TULD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng; diễn giải sai 'vi phạm pháp luật về gia đình'."}
+{"key": "8c238c049cdc0cb5", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sai: nêu phép năm, bỏ sót ngày sinh nhật Công ty."}
+{"key": "703a9713508d9b20", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng ngày kỷ niệm sinh nhật Công ty."}
+{"key": "a2634bcb7f5d4242", "qid": "TULD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; chi tiết QCL Điều 12, NQLD Điều 12 chính xác."}
+{"key": "80c665896bcb33b0", "qid": "TULD-015", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Số tiền đúng; thêm điều kiện 'đang làm việc tại thời điểm chi thưởng' không có."}
+{"key": "43ad2638751cfd34", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ ba mức."}
+{"key": "2e683aced04e3b68", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ ba mức."}
+{"key": "47238763658aed11", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng ngày 20, 10, 15; NQLD Điều 13 trích thừa."}
+{"key": "dcbf742cd7b1bdda", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng và đầy đủ."}
+{"key": "d211fe9d15615fb3", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng và đầy đủ."}
+{"key": "cbf039e478c8b317", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 03 chương, 19 điều, cơ quan quản lý NN về lao động."}
+{"key": "95c315750030167d", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; Sở LĐTBXH có trong TULD Điều 3."}
+{"key": "9ad247a413264e1a", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng; trích dẫn 'Trích đoạn 1' không xác minh được."}
+{"key": "7758851bb0f238ca", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 90 ngày trước/sau và hệ quả."}
+{"key": "5db80013181d242e", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng và đầy đủ."}
+{"key": "30487a8db1cb9820", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng và đầy đủ."}
+{"key": "75949dc42a13d746", "qid": "TULD-021", "correctness": 0.5, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Ý 1 đúng; từ chối sai mức thưởng 100.000 đồng."}
+{"key": "bf5917c8e09b3858", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "29e918f079f86898", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "64f09cf65e812723", "qid": "TULD-022", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Vai trò đúng; từ chối ý chấm dứt HĐLĐ; trích Điều 2 sai."}
+{"key": "6a342d07a753185f", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng vai trò và Công đoàn cấp trên trực tiếp."}
+{"key": "20992fd0449b3e7f", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "2db93b1e1891d965", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 2 triệu và 500.000; trích QCL Điều 9 cho mức thưởng sai."}
+{"key": "e4c9242ba6ca645f", "qid": "TULD-023", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng hai ý; ghi chú sai: QCL Điều 9 thưởng KPI tính tỷ lệ, không loại trừ."}
+{"key": "6c1bfcf27dc2c8cb", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "65b98fbc16cf97d6", "qid": "TULD-024", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Thiếu BLLĐ/Nội quy, từ chối ý 2; trích Điều 3 sai."}
+{"key": "4a32ec1ca4034be0", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "a8fccd97a217e30e", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "e1f32543831c5214", "qid": "TULD-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có 500.000; thiếu nghỉ hưởng nguyên lương; 'hỗ trợ xăng xe' bịa."}
+{"key": "f45ade024c826057", "qid": "TULD-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có 500.000; thiếu nghỉ nguyên lương; chi phí sinh nhật CNV áp sai."}
+{"key": "a8b6705ccce672e1", "qid": "TULD-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ hai ý chính nhưng thêm chi phí sinh nhật CNV áp sai, tính sai."}

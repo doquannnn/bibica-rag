@@ -1,0 +1,55 @@
+{"key": "32d00bff9ac34a8f", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 phút, 03 ngày/tháng đúng."}
+{"key": "3fe887e622dd4c0d", "qid": "NQLD-033", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: 60 phút thay vì 30 phút."}
+{"key": "b2bb0cc6dbf03ad9", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; phần nuôi con 60 phút diễn đạt hơi lệch (là nghỉ thêm riêng)."}
+{"key": "51ef3466227e7a57", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ và 04 ngày đúng."}
+{"key": "72265a70add14fe1", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ và 04 ngày đúng."}
+{"key": "b7fb7d22aef20f99", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ và 04 ngày đúng."}
+{"key": "c579430d5d189550", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ và 04 ngày đúng."}
+{"key": "5f327752815d3666", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ và 04 ngày đúng."}
+{"key": "7bae5d68976369c2", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc đúng."}
+{"key": "21daeba05db253bd", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc đúng, thêm người nhận đúng."}
+{"key": "338d26059a367c9d", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc đúng."}
+{"key": "4c08f8002ad9f920", "qid": "NQLD-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách 03 tháng đúng; nâng lương sai điều kiện, thiếu 06 tháng từ ngày xử lý."}
+{"key": "a983a14d394de8e1", "qid": "NQLD-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách đúng; nâng lương sai điều kiện; diễn giải cách chức sai."}
+{"key": "7780cdb75b126257", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 tháng và 06 tháng đúng."}
+{"key": "257d48afcc194106", "qid": "NQLD-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách đúng; nâng lương diễn giải sai, không nêu 06 tháng kể từ ngày xử lý."}
+{"key": "5a6192535ff33a04", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 tháng và 06 tháng đúng."}
+{"key": "1b5b063cb8370e05", "qid": "NQLD-037", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Câu mở đầu nói 12 ngày, mâu thuẫn với kết quả tính 14 ngày."}
+{"key": "588f43737f546aff", "qid": "NQLD-037", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tính sai: 13 ngày thay vì 14."}
+{"key": "d6780c7e7827e493", "qid": "NQLD-037", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tính sai: 13 ngày thay vì 14."}
+{"key": "88710f7a1744efda", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "14 ngày đúng; trích QCL Điều 12 không liên quan."}
+{"key": "674103ff09f4529c", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16/12x9 = 12 ngày đúng."}
+{"key": "bc5c8b80cf3b7527", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 ngày đúng."}
+{"key": "337779e3c7b6a592", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 ngày đúng."}
+{"key": "9c6de6e0d715b845", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kết quả 12 ngày đúng."}
+{"key": "2ba73468c9ef9e10", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 ngày đúng."}
+{"key": "c3ae246860836955", "qid": "NQLD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách đúng; tái phạm diễn giải sai thành xóa kỷ luật."}
+{"key": "be0ed64e2271d0f6", "qid": "NQLD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách, tái phạm trong 3 tháng kéo dài nâng lương ≤6 tháng đúng."}
+{"key": "b874ec1de231b743", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Không nêu khiển trách hay kéo dài nâng lương; nói nội quy không quy định."}
+{"key": "381734861963f710", "qid": "NQLD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách đúng; thiếu kéo dài nâng lương; viện dẫn Điều 4 sai."}
+{"key": "a0acda83d91d3218", "qid": "NQLD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách và kéo dài nâng lương tối đa 6 tháng đúng."}
+{"key": "ca7d7eaa29ee5dd0", "qid": "NQLD-041", "correctness": 1, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Cách chức đúng; thêm quy tắc tái phạm áp dụng sai; trích đoạn không rõ nguồn."}
+{"key": "0e9af97235cf138c", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khách hàng: cách chức đúng; đồng nghiệp sai (khiển trách thay vì cách chức)."}
+{"key": "a44f48486595d065", "qid": "NQLD-041", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nói không có hình thức cụ thể; thực tế là cách chức."}
+{"key": "16a6f6599e3d4e24", "qid": "NQLD-041", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: khiển trách/nâng lương/sa thải, bỏ sót cách chức."}
+{"key": "5edd8b555188db82", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có cách chức cho khách hàng nhưng tự mâu thuẫn, bỏ sót đồng nghiệp."}
+{"key": "ff0b241c75e3d067", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, Công đoàn cơ sở và NLĐ đúng."}
+{"key": "07d74e74be700428", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, Công đoàn cơ sở và NLĐ đúng."}
+{"key": "8fc7ffd1d77cdac9", "qid": "NQLD-042", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Từ chối sai; Điều 32 dẫn sang thủ tục Điều 27."}
+{"key": "d677f4d700ad28c3", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, Công đoàn cơ sở và NLĐ đúng."}
+{"key": "80bdc1046de22758", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, người nhận và nội dung đúng."}
+{"key": "8048ac336c0c5fa5", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 đúng; chi tiết QCL Điều 12 đúng."}
+{"key": "fec0cbe0fdc93a33", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 đúng."}
+{"key": "a1148af7586459ed", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 đúng; chi tiết QCL Điều 12 đúng."}
+{"key": "99d9ce1b00ffddd2", "qid": "NQLD-043", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: nói từ 18:30, giờ bình thường 18 giờ."}
+{"key": "39d930cb2f3241a1", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 đúng; chi tiết QCL đúng."}
+{"key": "6421fae868731dd9", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng đúng."}
+{"key": "a04df6bedf4a5539", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng cho tài sản đúng."}
+{"key": "8933f4b5bf7c1570", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng cho tài sản đúng."}
+{"key": "0afd7168c4f48284", "qid": "NQLD-044", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không đưa ra thời hiệu 12 tháng."}
+{"key": "7159af42279c56ed", "qid": "NQLD-044", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Không đưa ra 12 tháng; gán sai Điều 28."}
+{"key": "8d0a9355fc20865b", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải kèm điều kiện sai; thời hiệu 06 tháng sai (đúng 12)."}
+{"key": "e4d75c9fd898e371", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải kèm điều kiện sai; 06 tháng sai; thêm nâng lương không có căn cứ."}
+{"key": "6de3b2faaf60ee78", "qid": "NQLD-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sa thải và 12 tháng đúng."}
+{"key": "4c67a7ad9793681c", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải kèm điều kiện sai; thời hiệu 06 tháng sai."}
+{"key": "1794e40ed02469ef", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "12 tháng đúng; sa thải gắn điều kiện thiệt hại sai, thêm khiển trách sai."}

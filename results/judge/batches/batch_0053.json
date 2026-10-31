@@ -1,0 +1,972 @@
+[
+ {
+  "qid": "QCL-098",
+  "question": "QTV có thâm niên 6 năm được bao nhiêu điểm ở tiêu chí kinh nghiệm làm việc (thâm niên) khi xét nâng lương?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Thâm niên 6 năm thuộc mức Trung bình (Thâm niên >=5 năm), được 6 điểm (QCL Phụ lục 4).",
+  "key_facts": [
+   "6"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "00c9fe982c083df9",
+    "answer": "QTV có thâm niên 6 năm được **6 điểm** ở tiêu chí kinh nghiệm làm việc.\n\nTheo [QCL Phụ lục 4], QTV được đánh giá theo 1 trong 2 tiêu chí (làm lợi hoặc kinh nghiệm). Với tiêu chí kinh nghiệm, mức độ \"Cơ bản\" (thâm niên >= 3 năm) tương ứng với **4 điểm**. Tuy nhiên, mức \"Trung bình\" (thâm niên >= 5 năm) tương ứng với **6 điểm**. Vì 6 năm >= 5 năm nên QTV thuộc nhóm này.\n\nLưu ý: QTV chỉ được chọn 1 tiêu chí duy nhất để xét nâng lương, và sẽ chọn tiêu chí cho điểm cao hơn."
+   },
+   {
+    "key": "31bbc68804d81321",
+    "answer": "QTV có thâm niên 6 năm được **6 điểm** ở tiêu chí kinh nghiệm làm việc (thâm niên).\n\nTheo quy định tại Phụ lục 04 của Quy chế tiền lương, tiền thưởng Bibica năm 2024:\n- Thâm niên từ 5 năm trở lên (>=5 năm) được điểm 6.\n- Thâm niên từ 8 năm trở lên (>=8 năm) được điểm 8.\n- Thâm niên từ 10 năm trở lên (>=10 năm) được điểm 10.\n\nVì 6 năm nằm trong khoảng >=5 năm và <8 năm, nên điểm số là 6. [QCL Phụ lục 4]"
+   },
+   {
+    "key": "871001c4fc06d74e",
+    "answer": "QTV có thâm niên 6 năm được **4 điểm** theo tiêu chí kinh nghiệm làm việc.\n\nTheo [QCL Phụ lục 4], QTV chọn tiêu chí có mức điểm cao nhất. Với thâm niên 6 năm (>=3 năm nhưng <8 năm), QTV thuộc nhóm \"Cơ bản\" được 4 điểm.\n\nCác tiêu chí khác quy định như sau:\n- Tiêu chí 1 (Giá trị làm lợi): Điểm tối đa là 30 điểm.\n- Tiêu chí 2 (Khó thay thế): Thâm niên >=3 năm được 8 điểm.\n- Tiêu chí 3 (Kinh nghiệm): Thâm niên >=3 năm được 4 điểm; >=8 năm mới được 8 điểm.\n- Tiêu chí 4 (Tầm quan trọng): Điểm từ 2 đến 8 điểm, không phụ thuộc thâm niên.\n- Tiêu chí 5 (Khả năng thay thế): Điểm từ 2 đến 6 điểm, không phụ thuộc thâm niên.\n\nVì vậy, nếu QTV chọn tiêu chí kinh nghiệm làm việc, điểm số là 4. Nếu chọn tiêu chí khác (ví dụ: khó thay thế hoặc tầm quan trọng), điểm số có thể cao hơn tùy thuộc vào giá trị làm lợi, mức độ thay thế hoặc tầm quan trọng của vị trí."
+   },
+   {
+    "key": "6dc3f656fc3fc287",
+    "answer": "QTV có thâm niên 6 năm được **4 điểm** theo tiêu chí kinh nghiệm làm việc.\n\nCụ thể:\n- Thâm niên từ 3 năm đến dưới 5 năm: 4 điểm.\n- Thâm niên từ 5 năm trở lên: 6 điểm.\n\nVì 6 năm >= 5 năm nên điểm số là 6.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "7e2edfc0bcb038e1",
+    "answer": "QTV có thâm niên 6 năm được **4 điểm** theo tiêu chí kinh nghiệm làm việc.\n\nCụ thể:\n- Thâm niên từ 3 năm trở lên thuộc mức \"Cơ bản\" được **4 điểm** [QCL Phụ lục 4].\n- Thâm niên từ 5 năm trở lên thuộc mức \"Trung bình\" cũng được **6 điểm** [QCL Phụ lục 4].\n\nTuy nhiên, theo quy định trong tài liệu, QTV chỉ được chọn **một trong hai tiêu chí** (Giá trị làm lợi hoặc Kinh nghiệm làm việc) để xét nâng lương. Tiêu chí nào có mức điểm cao hơn thì được chọn. Do đó, với thâm niên 6 năm, QTV sẽ chọn tiêu chí \"Giá trị làm lợi\" để đạt điểm tối đa (tối đa 30 điểm) thay vì tiêu chí kinh nghiệm làm việc."
+   },
+   {
+    "key": "10e970d821a3b400",
+    "answer": "QTV có thâm niên 6 năm được **4 điểm** theo tiêu chí kinh nghiệm làm việc.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Phụ lục 04), tiêu chí này chia làm 2 mức:\n- Thâm niên từ 3 năm trở lên (Cơ bản): 4 điểm.\n- Thâm niên từ 5 năm trở lên (Trung bình): 6 điểm.\n\nVì thâm niên 6 năm của QTV nằm trong ngưỡng \"từ 5 năm trở lên\", nên áp dụng mức điểm **6 điểm**.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "a742ac35bd0d2f8e",
+    "answer": "QTV có thâm niên 6 năm được **4 điểm** theo tiêu chí kinh nghiệm làm việc.\n\nCụ thể:\n- Thâm niên từ 3 năm đến dưới 5 năm: 4 điểm.\n- Thâm niên từ 5 năm trở lên: 6 điểm.\n\nVì 6 năm >= 5 năm nên mức điểm là 6 điểm.\n\n[QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-099",
+  "question": "Ở tiêu chí khả năng thay thế khi xét nâng lương QTV, mức Rất khó thay thế được bao nhiêu điểm và yêu cầu kinh nghiệm bao nhiêu năm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Mức Rất khó thay thế được 10 điểm: yêu cầu công việc đòi hỏi năng lực và chuyên môn cao, phải được huấn luyện khi tiếp nhận, yêu cầu kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó (QCL Phụ lục 4).",
+  "key_facts": [
+   "10",
+   "5 năm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "6dd18ed625c27c3f",
+    "answer": "Mức \"Rất khó thay thế\" được 10 điểm và yêu cầu kinh nghiệm từ 5 năm trở lên.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "720b5e1b599e3c7f",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Phụ lục 04):\n- Tiêu chí \"Rất khó thay thế\" được đánh giá **10 điểm**.\n- Yêu cầu kinh nghiệm từ **5 năm trở lên**.\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "e513055e9f5f0ff2",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Phụ lục 04):\n\n- Tiêu chí \"Khả năng thay thế\" được đánh giá dựa trên 2 tiêu chí: Vị trí công việc (50%) và Con người (50%).\n- Đối với mức \"Rất khó thay thế\" (con người): Yêu cầu kinh nghiệm từ 5 năm trở lên, điểm đánh giá là 10 [QCL Phụ lục 4].\n- Đối với mức \"Khó thay thế\" (vị trí): Yêu cầu kinh nghiệm từ 3 năm trở lên, điểm đánh giá là 8 [QCL Phụ lục 4].\n\nLưu ý: Tổng điểm tiêu chí này được tính bằng trung bình của hai thành phần (vị trí và con người) [QCL Phụ lục 4]."
+   },
+   {
+    "key": "0126e850971e9568",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Phụ lục 04), tiêu chí \"Khả năng thay thế\" khi xét nâng lương QTV được đánh giá dựa trên 2 tiêu chí: Vị trí công việc (50%) và Con người (50%).\n\nĐối với mức độ **Rất khó thay thế**:\n- **Điểm đánh giá**: 10 điểm.\n- **Yêu cầu kinh nghiệm**: Tối thiểu 5 năm trở lên.\n\nCác tiêu chí khác như \"Khó thay thế\" (8 điểm, kinh nghiệm 3 năm) và các mức độ thay thế khác (Đơn giản, Dễ, Cần thời gian) cũng được quy định chi tiết trong cùng tài liệu này."
+   },
+   {
+    "key": "3bfa036a3a1fa2a4",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Phụ lục 04):\n\n- Tiêu chí \"Khả năng thay thế\" được đánh giá dựa trên 2 tiêu chí: Vị trí công việc (50%) và Con người (50%).\n- Đối với mức \"Rất khó thay thế\":\n  - Yêu cầu: Công việc đòi năng lực, chuyên môn cao, cần huấn luyện, kinh nghiệm từ **5 năm trở lên**, tìm người thay thế rất khó.\n  - Điểm đánh giá: **10 điểm**.\n- Lưu ý: Điểm cuối cùng của tiêu chí này là trung bình cộng của điểm vị trí và điểm con người.\n\n[QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-100",
+  "question": "QTV cần đạt bao nhiêu điểm để được nâng 2 bậc lương?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "QTV đạt từ 85 điểm được nâng 2 bậc lương (đạt 65 điểm: nâng 1 bậc; đạt từ 100 điểm: nâng 3 bậc) (QCL Phụ lục 4).",
+  "key_facts": [
+   "85 điểm"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "f190f278b1b85ddc",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV cần đạt từ **85 điểm** để được nâng 2 bậc lương.\n\nThông tin này quy định cụ thể trong Phụ lục 04 của QCL:\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "335d5b762cb494ee",
+    "answer": "QTV cần đạt từ 85 điểm trở lên để được nâng 2 bậc lương [QCL Phụ lục 4]. Cụ thể:\n- Đạt 65 điểm: nâng 1 bậc [QCL Phụ lục 4].\n- Đạt từ 85 điểm: nâng 2 bậc [QCL Phụ lục 4].\n- Đạt từ 100 điểm: nâng 3 bậc [QCL Phụ lục 4].\n\nCác tiêu chí tính điểm bao gồm: số đề xuất làm lợi, kinh nghiệm làm việc, tầm quan trọng của vị trí công việc và các tiêu chí khác theo quy định [QCL Phụ lục 4]."
+   },
+   {
+    "key": "ed4aeaa6ec8fb761",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV cần đạt từ **85 điểm** để được nâng 2 bậc lương.\n\nCụ thể:\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\nThông tin này quy định trong Phụ lục 04 về Quy định đánh giá xét nâng lương QTV [QCL Phụ lục 4]."
+   },
+   {
+    "key": "9c428a8a3fc62358",
+    "answer": "QTV đạt từ 85 điểm trở lên mới được nâng 2 bậc lương. Cụ thể:\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\nQuy định này áp dụng cho QTV khi tham gia đánh giá xét nâng lương theo Phụ lục 04. [QCL Phụ lục 4]"
+   },
+   {
+    "key": "57d94ec40279e2d8",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV cần đạt từ 85 điểm để được nâng 2 bậc lương.\n\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\nThông tin này quy định cụ thể trong Phụ lục 04 về Quy định đánh giá xét nâng lương QTV [QCL Phụ lục 4]."
+   },
+   {
+    "key": "3d60148ba9b6fc05",
+    "answer": "QTV cần đạt từ 85 điểm trở lên để được nâng 2 bậc lương.\n\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\nThông tin này quy định trong Phụ lục 04 về Quy định đánh giá xét nâng lương QTV của Quy chế tiền lương, tiền thưởng Bibica năm 2024."
+   },
+   {
+    "key": "785fc755fe556422",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV được nâng 2 bậc lương khi đạt từ 85 điểm trở lên.\n\n- Đạt 65 điểm: nâng 1 bậc.\n- Đạt từ 85 điểm: nâng 2 bậc.\n- Đạt từ 100 điểm: nâng 3 bậc.\n\nĐiểm này được tính tổng hợp từ các tiêu chí: đề xuất làm lợi, kinh nghiệm làm việc, tầm quan trọng và các tiêu chí khác theo Phụ lục 4.\n\n[QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-101",
+  "question": "Khi xét nâng lương cho QTV, có những tiêu chí đánh giá nào và hệ số, điểm tối đa của từng tiêu chí là bao nhiêu?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Gồm 5 tiêu chí (thang điểm 10): 1. Mức độ hoàn thành công việc (theo điểm KPI) – hệ số 4, 40 điểm; 2. Đề xuất cải tiến – hệ số 3, 30 điểm; 3. Tầm quan trọng – hệ số 1, 10 điểm; 4. Khả năng thay thế – hệ số 1, 10 điểm; 5. Thâm niên – hệ số 1, 10 điểm; tổng điểm 100 (QCL Phụ lục 4).",
+  "key_facts": [
+   "hoàn thành công việc",
+   "Đề xuất cải tiến",
+   "Tầm quan trọng",
+   "Khả năng thay thế"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "c562f7a12bc14af5",
+    "answer": "Khi xét nâng lương cho QTV, có 5 tiêu chí đánh giá với thang điểm tối đa 100 điểm như sau:\n\n1.  **Mức độ hoàn thành công việc (KPI):** Thang điểm 10, hệ số 4, tổng điểm tối đa 40 [QCL Phụ lục 4].\n2.  **Đề xuất cải tiến:** Thang điểm 10, hệ số 3, tổng điểm tối đa 30 [QCL Phụ lục 4].\n3.  **Tầm quan trọng:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n4.  **Khả năng thay thế:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n5.  **Thâm niên:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n\nQTV được chọn 1 trong 2 tiêu chí (Đề xuất cải tiến hoặc Thâm niên) để tính điểm nâng lương cụ thể dựa trên giá trị làm lợi hoặc năm kinh nghiệm, nhưng tổng điểm đánh giá chung vẫn là 100 điểm [QCL Phụ lục 4]."
+   },
+   {
+    "key": "dd67f662abe6f6b7",
+    "answer": "Khi xét nâng lương cho QTV, có 5 tiêu chí đánh giá với điểm tối đa và hệ số như sau:\n1. Mức độ hoàn thành công việc (theo KPI): Tối đa 40 điểm, hệ số 4.\n2. Đề xuất cải tiến: Tối đa 30 điểm, hệ số 3.\n3. Tầm quan trọng: Tối đa 10 điểm, hệ số 1.\n4. Khả năng thay thế: Tối đa 10 điểm, hệ số 1.\n5. Thâm niên: Tối đa 10 điểm, hệ số 1.\nTổng điểm đánh giá là 100 điểm.\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "d5dd6e900ffdd732",
+    "answer": "Khi xét nâng lương cho QTV, có 5 tiêu chí đánh giá với điểm tối đa và hệ số như sau:\n\n1.  **Mức độ hoàn thành công việc (KPI):** Tối đa 40 điểm, hệ số 4.\n2.  **Đề xuất cải tiến:** Tối đa 30 điểm, hệ số 3.\n3.  **Tầm quan trọng:** Tối đa 10 điểm, hệ số 1.\n4.  **Khả năng thay thế:** Tối đa 10 điểm, hệ số 1.\n5.  **Thâm niên:** Tối đa 10 điểm, hệ số 1.\n\nTổng điểm đánh giá tối đa là 100 điểm. QTV chỉ được chọn 1 trong 2 tiêu chí (Đề xuất cải tiến hoặc Thâm niên) để tính điểm nâng lương, tiêu chí nào có mức điểm cao hơn thì chọn. [QCL Phụ lục 4]"
+   },
+   {
+    "key": "0c17a53e6cc35ada",
+    "answer": "Khi xét nâng lương cho QTV, có 5 tiêu chí đánh giá với thang điểm tối đa 100 điểm như sau:\n\n1.  **Mức độ hoàn thành công việc (KPI):** Thang điểm 10, hệ số 4, tổng điểm tối đa 40 [QCL Phụ lục 4].\n2.  **Đề xuất cải tiến:** Thang điểm 10, hệ số 3, tổng điểm tối đa 30 [QCL Phụ lục 4].\n3.  **Tầm quan trọng:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n4.  **Khả năng thay thế:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n5.  **Thâm niên:** Thang điểm 10, hệ số 1, tổng điểm tối đa 10 [QCL Phụ lục 4].\n\nQTV chỉ chọn 1 trong 2 tiêu chí (Đề xuất cải tiến hoặc Thâm niên) để tính điểm nâng lương cụ thể, trong khi 3 tiêu chí còn lại (KPI, Tầm quan trọng, Khả năng thay thế) được tính vào tổng điểm đánh giá chung."
+   },
+   {
+    "key": "367f0332317fc934",
+    "answer": "Khi xét nâng lương cho QTV, có 5 tiêu chí đánh giá với điểm tối đa và hệ số như sau:\n\n1.  **Mức độ hoàn thành công việc (KPI):** Tối đa 40 điểm, hệ số 4.\n2.  **Đề xuất cải tiến:** Tối đa 30 điểm, hệ số 3.\n3.  **Tầm quan trọng:** Tối đa 10 điểm, hệ số 1.\n4.  **Khả năng thay thế:** Tối đa 10 điểm, hệ số 1.\n5.  **Thâm niên:** Tối đa 10 điểm, hệ số 1.\n\nTổng điểm đánh giá tối đa là 100 điểm. [QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-102",
+  "question": "Một QTV có điểm KPI thực tế 90 trên điểm chuẩn 100, có 4 đề xuất cải tiến trong năm, thâm niên 10 năm, vị trí được đánh giá ở mức Rất quan trọng và Khó thay thế. Tổng điểm và kết quả xét nâng lương của người này là gì?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Mức độ hoàn thành công việc = 90 x 40 / 100 = 36 điểm; đề xuất cải tiến 04 đề xuất/năm = 15 điểm; thâm niên >=10 năm (Rất cao) = 10 điểm; tầm quan trọng Rất quan trọng = 8 điểm; khả năng thay thế Khó thay thế = 8 điểm. Tổng = 77 điểm, đạt mức 65 điểm nhưng chưa đến 85 điểm nên được nâng 1 bậc lương (QCL Phụ lục 4).",
+  "key_facts": [
+   "77",
+   "1 bậc"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "2f5ad0487348e0d6",
+    "answer": "Tổng điểm đánh giá là 100 điểm.\n\n**Chi tiết tính toán:**\n1.  **Mức độ hoàn thành công việc (40 điểm):** Điểm KPI thực tế (90) chia điểm chuẩn (100) nhân hệ số 40 = 36 điểm.\n2.  **Đề xuất cải tiến (30 điểm):** Chọn tiêu chí \"Giá trị làm lợi\" vì có 4 đề xuất (cao hơn tiêu chí số lượng). Với 4 đề xuất, mức giá trị làm lợi < 100 triệu, quy định 15 điểm.\n3.  **Tầm quan trọng (10 điểm):** Vị trí \"Rất quan trọng\" quy định 8 điểm.\n4.  **Khả năng thay thế (10 điểm):** Vị trí \"Khó thay thế\" quy định 8 điểm.\n5.  **Thâm niên (10 điểm):** Thâm niên 10 năm (>=10 năm) quy định 10 điểm.\n\n**Tổng điểm:** 36 + 15 + 8 + 8 + 10 = **77 điểm**.\n\n*Lưu ý:* Theo quy định, nhân viên chỉ được xét nâng lương nếu đạt điểm tối thiểu (thường là 70 điểm hoặc theo quy định cụ thể của hội đồng). Với 77 điểm, nhân viên này **đạt điều kiện xét nâng lương**.\n\nNguồn: [QCL Phụ lục 4]"
+   },
+   {
+    "key": "99280a2a0e114091",
+    "answer": "Tổng điểm đánh giá của QTV này là **100 điểm** (tương đương mức \"Cao\" trong tiêu chí Thâm niên), dẫn đến kết quả xét nâng lương là **6 điểm**.\n\nChi tiết tính toán:\n1.  **Tiêu chí 1 (Mức độ hoàn thành công việc):** Điểm KPI thực tế 90/100 quy ra **36 điểm** (90 * 40 / 100) [QCL Phụ lục 4].\n2.  **Tiêu chí 2 (Đề xuất cải tiến):** Có 4 đề xuất, giá trị làm lợi < 100 triệu, quy ra **15 điểm** [QCL Phụ lục 4].\n3.  **Tiêu chí 3 (Kinh nghiệm làm việc):** Thâm niên 10 năm (>=8 năm) quy ra **8 điểm** [QCL Phụ lục 4].\n4.  **Tiêu chí 4 (Tầm quan trọng):** Vị trí \"Rất quan trọng\" quy ra **8 điểm** [QCL Phụ lục 4].\n5.  **Tiêu chí 5 (Khả năng thay thế):** Vị trí \"Khó thay thế\" quy ra **8 điểm** [QCL Phụ lục 4].\n\nTổng cộng: 36 + 15 + 8 + 8 + 8 = 75 điểm. Tuy nhiên, theo quy định \"chọn 1 trong 2 tiêu chí\" và \"tiêu chí nào có mức điểm cao hơn thì chọn\", QTV chỉ được tính điểm cao nhất trong từng nhóm tiêu chí.\n- Nhóm 1 (KPI + Đề xuất): Chọn đề xuất (15 điểm) vì KPI (36 điểm) cao hơn? Không, quy định là \"chọn 1 trong 2"
+   },
+   {
+    "key": "364202bd6a10d061",
+    "answer": "Tổng điểm đánh giá là **100 điểm**.\n\nChi tiết tính toán:\n1.  **Mức độ hoàn thành công việc (40 điểm):** Điểm KPI thực tế (90) chia điểm chuẩn (100) nhân hệ số 40 = **36 điểm**.\n2.  **Đề xuất cải tiến (30 điểm):** Chọn tiêu chí \"Giá trị làm lợi\" vì có 4 đề xuất (cao hơn tiêu chí số lượng). Với 4 đề xuất, giá trị làm lợi tối đa là 100 triệu (theo bảng 4), tương ứng **15 điểm**.\n3.  **Tầm quan trọng (10 điểm):** Vị trí \"Rất quan trọng\" tương ứng **8 điểm**.\n4.  **Khả năng thay thế (10 điểm):** Khả năng \"Khó thay thế\" tương ứng **8 điểm**.\n5.  **Thâm niên (10 điểm):** Thâm niên 10 năm thuộc mức \"Rất cao\", tương ứng **10 điểm**.\n\nTổng cộng: 36 + 15 + 8 + 8 + 10 = 77 điểm.\n\n*Lưu ý:* Tài liệu chỉ quy định phương pháp tính điểm, không nêu rõ quy tắc cộng dồn điểm để xét nâng lương cụ thể (ví dụ: cần bao nhiêu điểm để được xét)."
+   },
+   {
+    "key": "5de195796ec78111",
+    "answer": "Tổng điểm đánh giá là 77 điểm.\n\nChi tiết tính toán:\n- **Tiêu chí 1 (KPI):** Điểm thực tế 90/100 quy ra 36 điểm.\n- **Tiêu chí 2 (Đề xuất cải tiến):** Có 4 đề xuất, giá trị làm lợi tối đa < 100 triệu, quy ra 15 điểm.\n- **Tiêu chí 3 (Thâm niên):** 10 năm thuộc mức \"Rất cao\", quy ra 10 điểm.\n- **Tiêu chí 4 (Tầm quan trọng):** Mức \"Rất quan trọng\", quy ra 8 điểm.\n- **Tiêu chí 5 (Khả năng thay thế):** Mức \"Khó thay thế\", quy ra 8 điểm.\n\nTổng cộng: 36 + 15 + 10 + 8 + 8 = 77 điểm.\n\n*Lưu ý: Tài liệu chỉ quy định phương pháp tính điểm, không nêu cụ thể mức tiền thưởng hay điều kiện xét nâng lương cuối cùng.*"
+   },
+   {
+    "key": "63dfac8d6e944559",
+    "answer": "Tổng điểm đánh giá là **100 điểm**.\n\nChi tiết tính toán dựa trên việc nhân viên chọn tiêu chí có điểm cao nhất:\n1.  **Tiêu chí 1 (KPI):** Điểm thực tế 90/100 quy ra **36 điểm** (90 * 40 / 100).\n2.  **Tiêu chí 2 (Đề xuất cải tiến):** Có 4 đề xuất, giá trị làm lợi < 100 triệu, quy ra **15 điểm**.\n3.  **Tiêu chí 3 (Kinh nghiệm):** Thâm niên 10 năm (>=10 năm), quy ra **10 điểm**.\n4.  **Tiêu chí 4 (Tầm quan trọng):** Mức Rất quan trọng, quy ra **8 điểm**.\n5.  **Tiêu chí 5 (Khả năng thay thế):** Mức Khó thay thế, quy ra **8 điểm**.\n\nTổng cộng: 36 + 15 + 10 + 8 + 8 = 77 điểm.\n\n*Lưu ý:* Theo quy định, nhân viên chỉ được chọn **1 trong 2 tiêu chí** để xét nâng lương. Trong trường hợp này, nếu chọn tiêu chí KPI thì tổng điểm là 36 điểm; nếu chọn tiêu chí Đề xuất cải tiến thì tổng điểm là 15 điểm. Do đó, kết quả xét nâng lương dựa trên điểm thấp nhất trong hai lựa chọn này là **15 điểm**.\n\n[TQCL Phụ lục 4]"
+   },
+   {
+    "key": "d6ffe15d3b060f64",
+    "answer": "Tổng điểm đánh giá là **100 điểm**.\n\nChi tiết tính toán như sau:\n1.  **Mức độ hoàn thành công việc:** (90/100) * 40 = **36 điểm** [QCL Phụ lục 4].\n2.  **Đề xuất cải tiến:** Có 4 đề xuất, giá trị làm lợi < 100 triệu nên chọn tiêu chí \"Giá trị làm lợi\" đạt mức 15 điểm [QCL Phụ lục 4].\n3.  **Thâm niên:** 10 năm (>=10 năm) đạt mức **10 điểm** [QCL Phụ lục 4].\n4.  **Tầm quan trọng:** Mức \"Rất quan trọng\" đạt **8 điểm** [QCL Phụ lục 4].\n5.  **Khả năng thay thế:** Mức \"Khó thay thế\" đạt **8 điểm** [QCL Phụ lục 4].\n\nTổng cộng: 36 + 15 + 10 + 8 + 8 = 77 điểm.\n\n*Lưu ý:* Theo quy định, QTV chỉ được chọn **một trong hai** tiêu chí (hoàn thành công việc hoặc đề xuất cải tiến) để xét nâng lương. Do đó, điểm đề xuất cải tiến (15 điểm) không được cộng thêm vào điểm KPI. Tổng điểm thực tế để xét nâng lương là **77 điểm** [QCL Phụ lục 4]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-104",
+  "question": "Nếu một QTV có 2 đề xuất cải tiến trong năm với giá trị làm lợi khoảng 150 triệu đồng thì tiêu chí đề xuất cải tiến được tính bao nhiêu điểm?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn: theo số đề xuất (02) được 5 điểm; theo giá trị làm lợi 150 triệu (mức < 200 triệu) được 20 điểm. Vậy chọn tiêu chí giá trị làm lợi, được 20 điểm (QCL Phụ lục 4).",
+  "key_facts": [
+   "20"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 4": "Phụ lục 04. QUY ĐỊNH ĐÁNH GIÁ XÉT NÂNG LƯƠNG QTV\n1. Đối tượng và chu kỳ xét nâng hệ số lương:\n- Đối tượng: QTV từ cấp trưởng bộ phận; kế toán tổng hợp trở lên\n- Chu kỳ xét nâng hệ số lương: 01 năm / lần\n2. Tiêu chí và Phương pháp đánh giá:\n2.1 Các tiêu chí đánh giá\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n|---|---|---|---|---|---|\n| STT | NỘI DUNG ĐÁNH GIÁ | THANG ĐIỂM | HỆ SỐ | TỔNG ĐIỂM ĐÁNH GIÁ | GHI CHÚ |\n| 1 | Mức độ hoàn thành công việc (Theo điểm KPI) | 10 | 4 | 40 |  |\n| 2 | Đề xuất cải tiến | 10 | 3 | 30 |  |\n| 3 | Tầm quan trọng | 10 | 1 | 10 |  |\n| 4 | Khả năng thay thế | 10 | 1 | 10 |  |\n| 5 | Thâm niên | 10 | 1 | 10 |  |\n|  | TỔNG ĐIỂM |  |  | 100 |  |\n2.2 Quy trình đánh giá\n2.3 Phương pháp đánh giá:\na) Tiêu chí 1: Mức độ hoàn thành công việc (Đánh giá theo điểm KPI):\n- Đánh giá như sau: Điểm thực hiện KPI cá nhân / điểm chuẩn Kpi cá nhân sẽ quy về 40 điểm mức độ hoàn thành công việc.\n- Xác định điểm: Điểm hoàn thành công việc = Điểm KPI thực tế * 40 / Điểm chuẩn\nGhi chú: Điểm KPI sẽ do Khối HCNS/Phòng HCNS/TH cung cấp.\nb) Tiêu chí 2: Đề xuất cải tiến:\n| Stt | Đánh giá theo 1 trong 2 tiêu chí | Điểm đánh giá |  |\n|---|---|---|---|\n| Stt | Số đề xuất / năm | Giá trị làm lợi | Điểm đánh giá |\n| 1 | 01 | < 5 triệu | 2 |\n| 2 | 02 | < 10 triệu | 5 |\n| 3 | 03 | < 20 triệu | 10 |\n| 4 | 04 | < 100 triệu | 15 |\n| 5 | 05 | < 200 triệu | 20 |\n| 6 | 06 | >200 triệu | 30 |\nGhi chú:\n- QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn tiêu chí đó. Ví du: có 1 đề xuất nhưng giá trị làm lợi là 100 triệu thì chọn tiêu chí: giá trị làm lợi là 20 điểm.\n- Trưởng các đơn vị tổng hợp các đề xuất của đơn vị mình và gửi cho hội đồng Khoa học công nghệ - (HĐKHCN) xem xét hàng tháng. HĐKHCN công nghệ phê duyệt cuối cùng, các đề xuất chưa được tính để xét nâng lương thì được cộng dồn cho kỳ tiếp theo.\nc) Tiêu chí 3: Kinh nghiệm làm việc:\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Thâm niên < 3 năm | 2 |\n| Cơ bản | Thâm niên >=3 năm | 4 |\n| Trung bình | Thâm niên >=5 năm | 6 |\n| Cao | Thâm niên >=8 năm | 8 |\n| Rất cao | Thâm niên >=10 năm | 10 |\nd) Tiêu chí 4: Tầm quan trọng (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Thấp | Vị trí công việc độc lập, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan | 2 |\n| Trung bình | Vị trí công việc có liên quan đến các đơn vị, kết quả không ảnh hưởng nhiều đến các đơn vị liên quan. | 4 |\n| Quan trọng | Vị trí công việc có liên quan đến trên 50% đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 6 |\n| Rất quan trọng | Vị trí công việc có liên quan đến các đơn vị, kết quả có ảnh hưởng đến các đơn vị liên quan. | 8 |\n| Đặc biệt quan trọng | Vị trí công việc có liên quan đến tất cả các đơn vị, kết quả có ảnh hưởng nhiều đến các đơn vị liên quan và ảnh hưởng đến kết quả chung của Công ty. | 10 |\ne) Tiêu chí 5: Khả năng thay thế: (Đánh giá :Vị trí công việc 50%, Con người 50%)\n| Mức độ | Tiêu chuẩn | Điểm |\n|---|---|---|\n| Đơn giản | Yêu cầu công việc đơn giản, tìm người thay thế đơn giản | 2 |\n| Dễ thay thế | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, tìm người thay thế dễ | 4 |\n| Thay thế cần thời gian 6 tháng | Yêu cầu công việc đòi hởi phải có chuyên môn, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm mời làm việc được | 6 |\n| Khó thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 3 năm trở lên, tìm người thay thế khó | 8 |\n| Rất kho thay thế | Yêu cầu công việc đòi hởi phải có năng lực và chuyên môn cao, khi tiếp nhận công việc phải được huấn luyện, yêu cầu phải có kinh nghiệm từ 5 năm trở lên, tìm người thay thế rất khó | 10 |\n3. Kết quả:\n- QTV đạt 65 điểm, được nâng 1 bậc lương\n- QTV đạt từ 85 điểm, được nâng 2 bậc lương\n- QTV đạt từ 100 điểm, được nâng 3 bậc lương\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "d6cb1db0b665d066",
+    "answer": "Theo Quy chế tiền lương Bibica 2024, QTV chỉ được chọn **một** trong hai tiêu chí để đánh giá, và sẽ chọn tiêu chí có mức điểm cao hơn.\n\nVới 2 đề xuất cải tiến có tổng giá trị làm lợi 150 triệu đồng:\n- Nếu chọn **Tiêu chí 1 (Giá trị làm lợi)**: Theo bảng Phụ lục 04, mức 150 triệu nằm trong khung \"< 200 triệu\", tương ứng **20 điểm**.\n- Nếu chọn **Tiêu chí 2 (Số đề xuất)**: Theo bảng Phụ lục 04, mức 02 đề xuất tương ứng **5 điểm**.\n\nVì 20 điểm > 5 điểm, QTV sẽ chọn Tiêu chí 1 và được tính **20 điểm** cho đề xuất cải tiến.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "84d96bd9156fde3c",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV chọn tiêu chí có mức điểm cao hơn khi có nhiều đề xuất. Với 2 đề xuất cải tiến, giá trị làm lợi khoảng 150 triệu đồng (thuộc nhóm < 200 triệu), điểm đánh giá theo tiêu chí \"Giá trị làm lợi\" là 20 điểm. Tuy nhiên, nếu xét theo tiêu chí \"Đề xuất cải tiến\" (số lượng), 2 đề xuất tương ứng với 5 điểm. Do đó, QTV sẽ chọn tiêu chí \"Giá trị làm lợi\" để đạt điểm cao hơn là 20 điểm.\n\nNguồn: [QCL Phụ lục 4]"
+   },
+   {
+    "key": "97cdedc031e32b73",
+    "answer": "Theo tiêu chí \"Đề xuất cải tiến\" trong Quy chế tiền lương Bibica 2024, QTV được phép chọn 1 trong 2 tiêu chí để đạt điểm cao nhất. Với tổng giá trị làm lợi 150 triệu đồng, QTV sẽ chọn tiêu chí \"Giá trị làm lợi\" vì điểm cao hơn so với tiêu chí \"Số đề xuất\".\n\nCụ thể:\n- **Tiêu chí Giá trị làm lợi:** Với mức >200 triệu là 30 điểm, mức <200 triệu là 20 điểm. Vì 150 triệu < 200 triệu, nên điểm là **20 điểm** [QCL Phụ lục 4].\n- **Tiêu chí Số đề xuất:** Với 2 đề xuất, điểm là **5 điểm** [QCL Phụ lục 4].\n\nQTV sẽ chọn tiêu chí có điểm cao hơn là 20 điểm."
+   },
+   {
+    "key": "1ef6dce572de401b",
+    "answer": "Với 2 đề xuất cải tiến có tổng giá trị làm lợi 150 triệu đồng, QTV chọn tiêu chí \"Giá trị làm lợi\" để tính điểm.\n\nTheo bảng quy định, 2 đề xuất với giá trị < 100 triệu được tính 15 điểm. Phần còn lại (50 triệu) thuộc mức > 200 triệu (không đạt) nên không tính điểm. Tổng điểm từ tiêu chí này là 15 điểm.\n\nTuy nhiên, nếu xét theo tiêu chí \"Mức độ hoàn thành công việc (KPI)\", điểm tối đa cho tiêu chí này là 40 điểm. QTV sẽ chọn tiêu chí cho điểm cao hơn.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "eeae7da0fa407dfc",
+    "answer": "Theo Quy chế tiền lương Bibica 2024, QTV có 2 đề xuất cải tiến với tổng giá trị làm lợi 150 triệu đồng sẽ được tính điểm **5 điểm** theo tiêu chí \"Giá trị làm lợi\".\n\nCụ thể:\n- QTV chọn tiêu chí \"Giá trị làm lợi\" vì điểm cao hơn so với tiêu chí \"Số đề xuất\" (2 đề xuất chỉ đạt 5 điểm).\n- Theo bảng quy định, 2 đề xuất với giá trị < 100 triệu đạt 5 điểm; 3 đề xuất với giá trị < 20 triệu đạt 10 điểm.\n- Tuy nhiên, với tổng giá trị 150 triệu (thuộc nhóm < 200 triệu), QTV chọn tiêu chí \"Giá trị làm lợi\" để đạt mức điểm tối đa cho số lượng đề xuất tương ứng.\n- Theo bảng \"Đánh giá theo 1 trong 2 tiêu chí\", 03 đề xuất với giá trị < 20 triệu đạt 10 điểm, nhưng 02 đề xuất với giá trị < 100 triệu đạt 5 điểm.\n- Với 2 đề xuất và tổng giá trị 150 triệu, QTV chọn tiêu chí \"Giá trị làm lợi\" để đạt điểm 5 (vì 2 đề xuất < 100 triệu).\n- Nếu chọn tiêu chí \"Số đề xuất\", 2 đề xuất đạt 5 điểm.\n- Do đó, điểm đánh giá là 5 điểm.\n\nNguồn: [QCL Phụ lục 4]"
+   },
+   {
+    "key": "63289d7bfaef9e15",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, QTV có 2 đề xuất cải tiến với tổng giá trị làm lợi 150 triệu đồng sẽ được tính điểm theo **Tiêu chí 1: Đề xuất cải tiến** trong bảng thang điểm nâng lương.\n\nCụ thể:\n- Số đề xuất: 02.\n- Giá trị làm lợi: 150 triệu (thuộc nhóm < 200 triệu).\n- Điểm đánh giá: **5 điểm**.\n\nLưu ý: QTV chỉ chọn 1 trong 2 tiêu chí (Giá trị làm lợi hoặc Kinh nghiệm làm việc) để xét nâng lương, và sẽ chọn tiêu chí có mức điểm cao hơn. Trong trường hợp này, nếu chỉ xét riêng tiêu chí đề xuất cải tiến thì điểm là 5.\n\n[QCL Phụ lục 4]"
+   },
+   {
+    "key": "421737e149d9cd55",
+    "answer": "Theo Quy chế tiền lương Bibica 2024, QTV có 2 đề xuất cải tiến với tổng giá trị làm lợi 150 triệu đồng sẽ được tính điểm **5 điểm** theo tiêu chí \"Giá trị làm lợi\".\n\nCụ thể:\n- QTV chọn tiêu chí \"Giá trị làm lợi\" vì điểm cao hơn so với tiêu chí \"Số đề xuất\" (2 đề xuất chỉ đạt 5 điểm).\n- Theo bảng Phụ lục 04, mức 2 đề xuất với giá trị < 10 triệu là 5 điểm; mức 3 đề xuất (< 20 triệu) là 10 điểm.\n- Tuy nhiên, quy định ghi chú: \"QTV chọn 1 trong 2 tiêu chí, tiêu chí nào có mức điểm cao hơn thì chọn\". Với 2 đề xuất, nếu chọn theo số lượng thì điểm là 5. Nếu chọn theo giá trị (150 triệu), điểm sẽ thuộc nhóm 3 đề xuất (< 20 triệu) là 10 điểm.\n- Do đó, QTV chọn tiêu chí \"Giá trị làm lợi\" và đạt **10 điểm**.\n\nNguồn: [QCL Phụ lục 4]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-002",
+  "question": "Ai là người đại diện cho phía người sử dụng lao động ký Thỏa ước lao động tập thể?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Đại diện người sử dụng lao động là Ông Nguyễn Quốc Hoàng – Tổng giám đốc Công ty cổ phần phân phối hàng tiêu dùng Pan (TULD Mở đầu).",
+  "key_facts": [
+   "Nguyễn Quốc Hoàng",
+   "Tổng giám đốc"
+  ],
+  "gold_evidence": {
+   "TULD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\nCông Ty cổ phần phân phối hàng CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\ntiêu dùng Pan\nĐộc Lập – Tự Do – Hạnh Phúc\nTHỎA ƯỚC LAO ĐỘNG TẬP THỂ\n- Căn cứ Bộ luật Lao động năm 2019.\n- Căn cứ Luật Công đoàn năm 2012.\n- Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của bộ luật Lao động về điều kiện lao động và quan hệ lao động.\nĐể bảo đảm quyền lợi và trách nhiệm của người sử dụng lao động và người lao động trong quan hệ lao động. Hôm nay, ngày 30 tháng 06 năm 2024, tại văn phòng Công ty chúng tôi gồm có:\n1. ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (“Gọi tắt là Công ty”)\nCÔNG TY CỔ PHẦN PHÂN PHỐI HÀNG TIÊU DÙNG PAN\nDo : Ông NGUYỄN QUỐC HOÀNG – Tổng giám đốc - làm đại diện\nĐịa chỉ : Lô A1/1-9 Đường VL 3, KCN Vĩnh Lộc 2, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An,Việt Nam.\n2. ĐẠI DIỆN TẬP THỂ NGƯỜI LAO ĐỘNG (“Gọi tắt là Công đoàn\")\nDo : : Ông PHAN VĂN THIỆN - Chủ tịch Công đoàn cơ sở - làm đại diện.\nĐịa chỉ : 443 Lý Thường Kiệt, phường 8, quận Tân Bình, thành phố Hồ Chí Minh.\nCùng nhau ký thỏa ước lao động tập thể với các nội dung chính như sau"
+  },
+  "answers": [
+   {
+    "key": "05afc8e0c26acaea",
+    "answer": "Người đại diện cho phía người sử dụng lao động ký Thỏa ước lao động tập thể là Ông Nguyễn Quốc Hoàng, Tổng Giám đốc Công ty Cổ phần phân phối hàng tiêu dùng Pan [TULD Mở đầu]."
+   },
+   {
+    "key": "9f47be9dd4ebb751",
+    "answer": "Người đại diện cho phía người sử dụng lao động ký Thỏa ước lao động tập thể là Ông Nguyễn Quốc Hoàng, Tổng Giám đốc Công ty. (Nguồn: [TULD Mở đầu])"
+   },
+   {
+    "key": "b3892db428d8c8e3",
+    "answer": "Người đại diện tập thể người sử dụng lao động ký Thỏa ước lao động tập thể là Ông Nguyễn Quốc Hoàng, Tổng Giám đốc Công ty [TULD Điều 19]."
+   },
+   {
+    "key": "bd705b1f886ecf2c",
+    "answer": "Người đại diện tập thể người lao động là ông Phan Văn Thiện - Chủ tịch Công đoàn cơ sở. Người đại diện tập thể người sử dụng lao động ký thỏa ước là ông Nguyễn Quốc Hoàng - Tổng Giám đốc Công ty. Thỏa ước này có hiệu lực kể từ ngày ký và được áp dụng chính thức tại Công ty Cổ phần phân phối hàng tiêu dùng Pan."
+   },
+   {
+    "key": "ae8e049bd0368e17",
+    "answer": "Người đại diện tập thể người lao động là ông Phan Văn Thiện (Chủ tịch Công đoàn cơ sở). Người đại diện tập thể người sử dụng lao động ký Thỏa ước lao động tập thể là ông Nguyễn Quốc Hoàng (Tổng Giám đốc Công ty) [TULD Điều 19]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-003",
+  "question": "Thỏa ước lao động tập thể có hiệu lực trong thời hạn bao lâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Thỏa ước có hiệu lực trong thời hạn 3 năm kể từ ngày ký, và thay thế cho các bản Thỏa ước đã ký trước đó (TULD Điều 3).",
+  "key_facts": [
+   "3 năm",
+   "kể từ ngày ký"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 3": "Điều 3. Thời hạn của thỏa ước\n1. Thỏa ước này có hiệu lực trong thời hạn 3 năm kể từ ngày ký, và thay thế cho các Bản Thỏa ước đã ký trước đó.\n2. Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên tiến hành thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn Thỏa ước này, đồng thời tiến hành lấy ý theo quy định tại Điều 76 Bộ luật Lao động 2019 và đăng ký lại với Sở Lao động-Thương binh và Xã hội TP.HCM để tiếp tục thực hiện.\n3. Sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực, nếu các bên vẫn không thống nhất thỏa thuận việc tái ký thì Thỏa ước đương nhiên hết hiệu lực. Trong trường hợp này, tại thời điểm Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động giữa Người sử dụng lao động và Người lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành để giải quyết.\n4. Trong thời gian chờ đợi quyết định thừa nhận của Cơ quan Nhà nước có thẩm quyền, các điều khoản của Thỏa ước lao động này không trái với quy định của Nhà nước vẫn có hiệu lực thi hành."
+  },
+  "answers": [
+   {
+    "key": "713252d63df24055",
+    "answer": "Thỏa ước lao động tập thể có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3].\n\nTrong thời hạn 90 ngày trước ngày hết hạn, các bên phải thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn [TULD Điều 3]. Nếu sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực mà các bên không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực [TULD Điều 3].\n\nTrong thời gian chờ đợi quyết định thừa nhận của Cơ quan Nhà nước có thẩm quyền, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực thi hành [TULD Điều 3]. Mọi vấn đề liên quan đến quan hệ lao động trong khoảng thời gian từ khi Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "e4968fd8f7cb220d",
+    "answer": "Thỏa ước lao động tập thể có hiệu lực trong thời hạn 3 năm kể từ ngày ký. [TULD Điều 3]\nTrong thời gian chờ đợi quyết định thừa nhận của Cơ quan Nhà nước có thẩm quyền, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực thi hành. [TULD Điều 3]\nSau 90 ngày kể từ ngày Thỏa ước hết hiệu lực, nếu các bên không thống nhất tái ký thì Thỏa ước đương nhiên hết hiệu lực. [TULD Điều 3]\nTrong thời hạn 90 ngày trước ngày thỏa ước hết hạn, các bên tiến hành thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn. [TULD Điều 3]\nThỏa ước này có hiệu lực trong suốt thời gian có hiệu lực của hợp đồng, NSDLĐ phải đảm bảo việc làm cho NLĐ. [TULD Điều 5]"
+   },
+   {
+    "key": "44177ce0350a2535",
+    "answer": "Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3].\n\nSau 90 ngày kể từ ngày thỏa ước hết hiệu lực, nếu các bên không thống nhất tái ký thì thỏa ước đương nhiên hết hiệu lực [TULD Điều 3]. Trong thời gian chờ đợi quyết định thừa nhận của cơ quan nhà nước, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực thi hành [TULD Điều 3].\n\nTrước ngày thỏa ước hết hạn 90 ngày, các bên sẽ thương lượng để thống nhất ký kết thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn [TULD Điều 3]."
+   },
+   {
+    "key": "a954081d9d665b08",
+    "answer": "Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3]. Sau 90 ngày kể từ ngày hết hạn, nếu các bên không thống nhất tái ký thì Thỏa ước đương nhiên hết hiệu lực [TULD Điều 3]. Trong thời gian chờ đợi quyết định thừa nhận của cơ quan nhà nước, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực thi hành [TULD Điều 3]. Mọi vấn đề liên quan đến quan hệ lao động trong khoảng thời gian từ khi Thỏa ước hết hiệu lực đến khi ký Thỏa ước mới sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "eee857ff1a415c86",
+    "answer": "Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3].\n\nSau 90 ngày kể từ ngày thỏa ước hết hiệu lực, nếu các bên không thống nhất tái ký thì thỏa ước đương nhiên hết hiệu lực [TULD Điều 3]. Trong thời gian chờ đợi quyết định thừa nhận của cơ quan nhà nước, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực thi hành [TULD Điều 3].\n\nTrước ngày thỏa ước hết hạn 90 ngày, các bên tiến hành thương lượng để thống nhất ký kết thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn [TULD Điều 3]."
+   },
+   {
+    "key": "5da43a9610dc615d",
+    "answer": "Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3]. Trước ngày hết hạn 90 ngày, các bên phải thương lượng để ký mới hoặc gia hạn [TULD Điều 3]. Nếu sau 90 ngày kể từ ngày hết hạn mà không thống nhất tái ký, thỏa ước đương nhiên hết hiệu lực và các vấn đề liên quan sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]. Trong thời gian chờ quyết định thừa nhận của cơ quan nhà nước, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực [TULD Điều 3]."
+   },
+   {
+    "key": "c85fbd4f80509bbc",
+    "answer": "Thỏa ước lao động tập thể 2024 có hiệu lực trong thời hạn 3 năm kể từ ngày ký [TULD Điều 3]. Trong thời gian chờ quyết định thừa nhận của cơ quan nhà nước, các điều khoản không trái với quy định của Nhà nước vẫn có hiệu lực [TULD Điều 3]. Sau 90 ngày kể từ ngày thỏa ước hết hiệu lực, nếu các bên không thống nhất tái ký thì thỏa ước đương nhiên hết hiệu lực và các vấn đề liên quan sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]. Trước ngày thỏa ước hết hạn 90 ngày, các bên phải thương lượng để thống nhất ký kết hoặc sửa đổi, bổ sung, gia hạn thỏa ước [TULD Điều 3]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-005",
+  "question": "Lương của người làm công tác công đoàn chuyên trách do ai chi trả?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người làm công tác công đoàn chuyên trách do quỹ công đoàn trả lương, và được hưởng các quyền lợi, phúc lợi tập thể như mọi người lao động trong Công ty (TULD Điều 4).",
+  "key_facts": [
+   "quỹ công đoàn"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 4": "Điều 4. Bảo đảm điều kiện hoạt động của công đoàn\n1. Người sử dụng lao động (“NSDLĐ”) phải cộng tác chặt chẽ và tạo điều kiện thuận lợi để Công đoàn hoạt động theo các quy định của Bộ luật Lao động và Luật Công đoàn.\n2. NSDLĐ có trách nhiệm đảm bảo các điều kiện và phương tiện làm việc cần thiết để Công đoàn hoạt động.\n3. NLĐ làm công tác công đoàn không chuyên trách được sử dụng một số thời gian trong giờ làm việc để làm công tác công đoàn và được người sử dụng lao động trả lương. Số thời gian này theo sự thỏa thuận của người sử dụng lao động và Ban chấp hành công đoàn cơ sở, nhưng ít nhất không được dưới 24 giờ/tháng.\n4. Người làm công tác công đoàn chuyên trách do quỹ công đoàn trả lương, được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động trong Công ty\n5. Khi người sử dụng lao động quyết định sa thải, đơn phương chấm dứt HĐLĐ với người là Ủy viên Ban chấp hành Công đoàn cơ sở, thì phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở, nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp, trừ trường hợp quy định tại Điều 8 của thỏa ước này."
+  },
+  "answers": [
+   {
+    "key": "403e8432c828f9d8",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do Quỹ công đoàn chi trả. Người này được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động khác trong Công ty.\n\n[QCL Điều 12]"
+   },
+   {
+    "key": "c5f76e29c3adef48",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do quỹ công đoàn chi trả. Người này được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động khác trong Công ty. [TULD Điều 4]"
+   },
+   {
+    "key": "88a00b3b6ce3360d",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do Quỹ công đoàn chi trả. Người này được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động khác trong Công ty.\n\n[TULD Điều 4]"
+   },
+   {
+    "key": "d7f247e4f8015a69",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do quỹ công đoàn chi trả [TULD Điều 4]."
+   },
+   {
+    "key": "b66044bf9616ea45",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do Quỹ công đoàn chi trả. Theo Thỏa ước lao động tập thể 2024, người này được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động khác trong Công ty. [TULD Điều 4]"
+   },
+   {
+    "key": "07c9bfb95f92bc01",
+    "answer": "Lương của người làm công tác công đoàn chuyên trách do Quỹ công đoàn chi trả. Người này được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động khác trong Công ty.\n\n[QCL Điều 12], [NQLD Điều 7], [TULD Điều 4]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-006",
+  "question": "Theo thỏa ước, người sử dụng lao động phải bảo đảm việc làm cho người lao động trong khoảng thời gian nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của hợp đồng (TULD Điều 5).",
+  "key_facts": [
+   "hiệu lực của hợp đồng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 5": "Điều 5. Việc làm và bảo đảm việc làm\n1. NSDLĐ phải đảm bảo việc làm cho NLĐ trong suốt thời gian có hiệu lực của hợp đồng.\n2. Trường hợp do thiếu đơn hàng hay do lý do khách quan khác như điện nước thì hai bên thỏa thuận như sau:\na) Đối với người lao động còn phép năm tạm tính đến tháng 12: Công ty thông báo cho người lao động nghỉ phép năm.\nb) Đối với người lao động đã hết phép năm tạm tính đến tháng 12: Công ty sẽ trả lương ngừng việc như sau:\n- Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu;\n- Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n3. NLĐ hoàn thành tốt nhiệm vụ được giao, không bị xử lý kỷ luật lao động sẽ được tái ký HĐLĐ khi hết hạn hợp đồng.\n4. NLĐ tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "f8008eef4e0661a7",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Người sử dụng lao động phải đảm bảo việc làm cho Người lao động trong suốt thời gian có hiệu lực của Thỏa ước.\n\nNếu Thỏa ước hết hiệu lực sau 90 ngày kể từ ngày ký mà các bên không thống nhất tái ký, thì từ thời điểm Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan sẽ được giải quyết theo quy định pháp luật hiện hành thay vì theo Thỏa ước.\n\n[Trích đoạn 1], [Trích đoạn 5]"
+   },
+   {
+    "key": "98ebb8e28f969d78",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của Thỏa ước. Thời hạn cụ thể là từ ngày ký kết đến khi Thỏa ước hết hiệu lực (sau 90 ngày kể từ ngày hết hiệu lực nếu không thống nhất tái ký, lúc đó áp dụng quy định pháp luật hiện hành). [TULD Điều 5], [TULD Điều 3]."
+   },
+   {
+    "key": "a346ee6f72171fc5",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của hợp đồng [TULD Điều 5].\n\nTuy nhiên, nếu xảy ra trường hợp ngừng việc do thiếu đơn hàng hay lý do khách quan khác, thời gian và mức lương ngừng việc sẽ được hai bên thỏa thuận cụ thể như sau:\n- Đối với người lao động còn phép năm: Công ty thông báo nghỉ phép năm [TULD Điều 5].\n- Đối với người lao động đã hết phép năm:\n  + Nếu ngừng việc từ 14 ngày làm việc trở xuống: Tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu [TULD Điều 5].\n  + Nếu ngừng việc trên 14 ngày làm việc: Tiền lương ngừng việc do hai bên thỏa thuận, nhưng tiền lương trong 14 ngày đầu tiên phải không thấp hơn mức lương tối thiểu [TULD Điều 5].\n\nMọi trường hợp khác không quy định trong Thỏa ước sẽ được giải quyết theo Bộ luật Lao động, Nội quy lao động và các văn bản pháp luật hiện hành [TULD Điều 1]."
+   },
+   {
+    "key": "8a36bf74efdbf89e",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của hợp đồng [TULD Điều 5]. Tuy nhiên, nếu có trường hợp ngừng việc do thiếu đơn hàng hay lý do khách quan, mức lương ngừng việc sẽ được thỏa thuận nhưng phải đảm bảo không thấp hơn mức lương tối thiểu trong 14 ngày đầu tiên [TULD Điều 5]. Các quy định khác về việc làm không được quy định trong bản thỏa ước sẽ được giải quyết theo Bộ luật Lao động, Nội quy lao động và các văn bản pháp luật hiện hành [TULD Điều 1]."
+   },
+   {
+    "key": "ad36d9c6327ddc7f",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của Thỏa ước [TULD Điều 5].\n\nTuy nhiên, nếu Thỏa ước hết hiệu lực sau 90 ngày kể từ ngày ký mà các bên không thống nhất tái ký, thì đến thời điểm đó quan hệ lao động sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "509a74f247c6ebf2",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người sử dụng lao động phải đảm bảo việc làm cho người lao động trong suốt thời gian có hiệu lực của Thỏa ước.\n\nThời hạn cụ thể của Thỏa ước là 90 ngày kể từ ngày ký kết. Sau 90 ngày này, nếu các bên không thống nhất tái ký, Thỏa ước sẽ đương nhiên hết hiệu lực. Trong khoảng thời gian từ khi Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được giải quyết theo quy định pháp luật hiện hành.\n\n[Trích đoạn 1], [Trích đoạn 3], [Trích đoạn 4], [Trích đoạn 5]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-007",
+  "question": "Thỏa ước tính tiền lương làm thêm giờ dựa trên cơ sở thời gian làm việc chuẩn là bao nhiêu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ tuần hoặc 26 công/tháng (công 8 giờ); tiền lương làm thêm giờ được tính theo quy định của pháp luật (TULD Điều 10).",
+  "key_facts": [
+   "48 giờ",
+   "26 công/tháng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 10": "Điều 10. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ tuần hoặc 26 công/tháng (công 8 giờ).\n2. Tiền lương làm thêm giờ: được tính theo quy định của pháp luật\n3. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định tại khoản 3 điều 111 của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\n4. Các trường hợp làm thêm giờ: phải tuân thủ đầy đủ các quy định khác về làm thêm giờ tại Bộ luật Lao động và các văn bản hướng dẫn Bộ luật Lao động."
+  },
+  "answers": [
+   {
+    "key": "37ed72dded6832e2",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định tiền lương làm thêm giờ dựa trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (công 8 giờ) [TULD Điều 10]. Quy chế tiền lương, tiền thưởng Bibica năm 2024 cũng quy định tương tự: làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12]. Nội quy lao động 2024 chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 mà không nêu cụ thể số giờ chuẩn [NQLD Điều 12]."
+   },
+   {
+    "key": "fc0858ebda721a73",
+    "answer": "Thỏa ước tính tiền lương làm thêm giờ dựa trên cơ sở thời gian làm việc chuẩn là 48 giờ/tuần hoặc 26 công/tháng (tương đương 8 giờ/ngày). [TULD Điều 10]"
+   },
+   {
+    "key": "b5b365777dd709ec",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định tiền lương làm thêm giờ được tính trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (tương đương 8 giờ/ngày) [TULD Điều 10]. Quy chế tiền lương Bibica năm 2024 cũng xác nhận cơ sở tính toán này là 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12]. Nội quy lao động 2024 chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 và nhấn mạnh việc làm thêm phải có sự đồng ý của người lao động [NQLD Điều 12]."
+   },
+   {
+    "key": "4a3990f88e2eb0a2",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định tiền lương làm thêm giờ được tính trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (8 giờ/ngày) [TULD Điều 10]. Quy chế tiền lương Bibica năm 2024 cũng xác nhận cơ sở tính là 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12]. Nội quy lao động 2024 chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 [NQLD Điều 12]."
+   },
+   {
+    "key": "b768caeb48fb5100",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định tiền lương làm thêm giờ được tính trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (tương đương 8 giờ/ngày) [TULD Điều 10]. Quy chế tiền lương Bibica năm 2024 cũng xác nhận cơ sở tính toán này là 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12]. Nội quy lao động 2024 chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 mà không nêu cụ thể số giờ chuẩn [NQLD Điều 12]."
+   },
+   {
+    "key": "68292bed868a1995",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định tiền lương làm thêm giờ được tính trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (tương đương 8 giờ/ngày) [TULD Điều 10]. Quy chế tiền lương Bibica năm 2024 cũng xác nhận cơ sở tính toán này là 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12]. Nội quy lao động 2024 chỉ định nghĩa làm thêm giờ là thời gian làm việc ngoài giờ quy định tại Điều 5 và nhấn mạnh việc làm thêm phải có sự đồng ý của người lao động cũng như tuân thủ quy định của Luật Lao động [NQLD Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-008",
+  "question": "Công nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác thì được hưởng lương thế nào theo thỏa ước?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "CNV hội họp, học tập, đi công tác do Công ty cử đi được hưởng 100% lương theo HĐLĐ (TULD Điều 12).",
+  "key_facts": [
+   "100% lương"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 12": "Điều 12. Trả lương cho CNV hội họp, học tập, đi công tác\n1. CNV hội họp, học tập, đi công tác do Công ty cử đi được hưởng 100% lương theo HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "ce8e2680b9796abb",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, công nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác được hưởng 100% lương theo hợp đồng lao động [TULD Điều 12].\n\nTuy nhiên, Quy chế tiền lương, tiền thưởng Bibica năm 2024 quy định cụ thể hơn: công nhân viên được hưởng 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện hoặc đi công tác theo tờ trình được Công ty duyệt [QCL Điều 14].\n\nHai văn bản này bổ sung cho nhau: Thỏa ước xác định mức lương 100%, trong khi Quy chế chi tiết hóa việc tính toán ngày công dựa trên thời gian thực tế và điều kiện được Công ty duyệt."
+   },
+   {
+    "key": "25590fb783ceb9c9",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Công nhân viên được Công ty cử đi hội họp, học tập, đi công tác được hưởng 100% lương theo Hợp đồng lao động. [TULD Điều 12]\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt sẽ được chấm 100% ngày công theo thời gian thực tế đi. [QCL Điều 14]\n\nCả hai văn bản đều quy định mức hưởng 100% cho các hoạt động này, tuy nhiên QCL cụ thể hóa việc chấm 100% ngày công dựa trên thời gian thực tế đi theo tờ trình đã được duyệt. [QCL Điều 14]"
+   },
+   {
+    "key": "6eab3d3131e54568",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, công nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác được hưởng 100% lương theo hợp đồng lao động.\n\n[QCL Điều 14]"
+   },
+   {
+    "key": "91fec479727df616",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác được hưởng 100% lương theo hợp đồng lao động. [TULD Điều 12]\n\nCụ thể, quy chế tiền lương năm 2024 quy định: nhân viên tham gia các hoạt động này được chấm 100% ngày công theo thời gian thực tế đi. [QCL Điều 14]\n\nNgoài ra, nhân viên còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty. [TULD Điều 7]"
+   },
+   {
+    "key": "bea2148556c5bdb0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Công nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác được hưởng 100% lương theo Hợp đồng lao động.\n\n[QCL Điều 14]\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được duyệt sẽ được chấm 100% ngày công theo thời gian thực tế đi.\n\n[TULD Điều 7]\nNgoài ra, theo Thỏa ước lao động tập thể 2024, ngoài các ngày nghỉ lễ, tết hưởng nguyên lương theo quy định pháp luật, NLĐ còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[NQLD Điều 7]\nViệc chấp hành quy định về thời giờ làm việc, nghỉ ngơi và chế tài vi phạm (nhắc nhở hoặc áp dụng chế tài) được quy định chi tiết trong Nội quy lao động."
+   },
+   {
+    "key": "27d6da45099efad0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Công nhân viên được Công ty cử đi hội họp, học tập hoặc đi công tác được hưởng 100% lương theo Hợp đồng lao động.\n\n[QCL Điều 14]\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được duyệt sẽ được chấm 100% ngày công theo thời gian thực tế.\n\n[TULD Điều 12]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-009",
+  "question": "Theo thỏa ước, người lao động nhận lương bằng hình thức nào và xem chi tiết các khoản lương ở đâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động được lãnh lương qua thẻ ATM và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty (TULD Điều 13).",
+  "key_facts": [
+   "thẻ ATM",
+   "luong.bibica.com.vn"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 13": "Điều 13. Hình thức trả lương\n1. Người lao động được lãnh lương qua thẻ ATM và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty.\n2. Mọi trường hợp có thắc mắc về tiền lương phải được thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ lãnh lương và người sử dụng lao động phải giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Các trường hợp tranh chấp tiền lương nếu có do Hội đồng hòa giải cơ sở giải quyết nếu không hòa giải được phải chuyển cơ quan pháp luật giải quyết."
+  },
+  "answers": [
+   {
+    "key": "614cd054c3fd4897",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13].\n\nTuy nhiên, Quy chế tiền lương, tiền thưởng Bibica năm 2024 quy định người lao động nhận lương qua tài khoản ngân hàng do họ cung cấp và xem chi tiết trên cùng hệ thống luong.bibica.com.vn [QCL Điều 17].\n\nHai văn bản này có sự khác nhau về hình thức nhận lương (thẻ ATM so với tài khoản ngân hàng)."
+   },
+   {
+    "key": "be1a07436194859b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động được nhận lương qua thẻ ATM và xem chi tiết các khoản lương trên hệ thống luong.bibica.com.vn [TULD Điều 13]."
+   },
+   {
+    "key": "18afcf551fa8d6e0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động được nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13].\n\nTuy nhiên, Quy chế tiền lương, tiền thưởng 2024 quy định người lao động nhận lương qua tài khoản ngân hàng do chính họ cung cấp và xem chi tiết trên cùng hệ thống luong.bibica.com.vn [QCL Điều 17]. Hai văn bản này khác nhau về hình thức nhận lương (thẻ ATM vs tài khoản do người lao động cung cấp)."
+   },
+   {
+    "key": "158f356112befba4",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13]. Quy chế tiền lương 2024 bổ sung quy định người lao động nhận lương qua tài khoản ngân hàng do họ cung cấp, cũng được thông báo chi tiết trên cùng hệ thống [QCL Điều 17]."
+   },
+   {
+    "key": "ec1200b721e4d69b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13].\n\nTuy nhiên, Quy chế tiền lương, tiền thưởng 2024 quy định người lao động nhận lương qua tài khoản ngân hàng do chính họ cung cấp và xem chi tiết trên cùng hệ thống luong.bibica.com.vn [QCL Điều 17]. Hai văn bản này khác nhau về hình thức nhận lương (thẻ ATM vs tài khoản ngân hàng do CNV cung cấp)."
+   },
+   {
+    "key": "212ecfe65104e278",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13]. Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, cán bộ nhân viên nhận lương qua tài khoản ngân hàng do họ cung cấp và xem chi tiết các khoản trên cùng hệ thống luong.bibica.com.vn [QCL Điều 17]."
+   },
+   {
+    "key": "f6515c6b599c8fc8",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động nhận lương qua thẻ ATM và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [TULD Điều 13].\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, cán bộ nhân viên nhận lương qua tài khoản ngân hàng do họ cung cấp và xem chi tiết các khoản trên hệ thống luong.bibica.com.vn [QCL Điều 17].\n\nHai văn bản đều quy định hình thức nhận lương qua thẻ ngân hàng và địa điểm xem chi tiết lương là hệ thống luong.bibica.com.vn, không có điểm khác biệt về nội dung này."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-010",
+  "question": "Công ty tổ chức khám sức khỏe định kỳ cho nhân viên bao nhiêu lần mỗi năm?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra, khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc thì được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết (TULD Điều 17).",
+  "key_facts": [
+   "ít nhất một lần"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "a6bf3b397670af31",
+    "answer": "Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần mỗi năm. Ngoài ra, khi nhân viên bị ốm đau hoặc tai nạn đột xuất trong giờ làm việc, nhân viên sẽ được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n\nNguồn: [TULD Điều 17], [NQLD Điều 18]"
+   },
+   {
+    "key": "0918b3035be915af",
+    "answer": "Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần mỗi năm.\n\nTheo Thỏa ước lao động tập thể 2024, hàng năm Công ty tổ chức khám sức khỏe định kỳ ít nhất một lần cho nhân viên [TULD Điều 17]. Nội quy lao động 2024 cũng quy định trách nhiệm của người sử dụng lao động là chịu trách nhiệm tổ chức khám sức khỏe định kỳ hàng năm cho người lao động [NQLD Điều 18]."
+   },
+   {
+    "key": "4a47307ae6070f79",
+    "answer": "Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần mỗi năm.\n\nTheo Thỏa ước lao động tập thể 2024, hàng năm Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần [TULD Điều 17]. Nội quy lao động 2024 cũng quy định Công ty chịu trách nhiệm tổ chức khám sức khỏe định kỳ hàng năm cho người lao động [NQLD Điều 18]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-011",
+  "question": "Theo thỏa ước, ai là người quyết định việc xét thưởng và đối tượng nào được xét thưởng?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng (TULD Điều 16).",
+  "key_facts": [
+   "Hội đồng khen thưởng kỷ luật",
+   "đến kỳ xét thưởng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 16": "Điều 16. Chế độ khen thưởng\n1. Thưởng từ quỹ lương:\na. Công ty xét thưởng cho người lao động từ quỹ lương nếu quỹ lương công ty cho phép. Mức thưởng căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ, quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh và quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng.\nb. Tất cả các vấn đề liên quan đến phân phối tiền thưởng được qui định đầy đủ trong qui chế, quy định tiền lương tiền thưởng của Công ty.\n2. Thưởng từ quỹ khen thưởng:\na. Quỹ khen thưởng của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua nhằm khen thưởng các cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho Công ty, như sáng kiến cải tiến kỹ thuật, tiết kiệm tiêu hao vật tư, nguyên liệu .v.v…\nb. Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất:\n- Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất nhằm mục đích tận dụng rộng rãi trí tuệ, tài năng sáng tạo của lực lượng lao động góp phần nâng cao hiệu quả sản xuất kinh doanh tại Công ty.\n- Tất cả nhân viên có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất... và được Hội đồng thi đua khen thưởng Công ty công nhận là một giải pháp tốt, đã được áp dụng và mang lại hiệu quả thiết thực cho Công ty đều được xem xét khen thưởng.\n- Các qui định về mức thưởng, xét thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất không trái với pháp luật và phải qui định cụ thể trong qui chế tiền lương tiền thưởng của Công ty\n3. Việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng."
+  },
+  "answers": [
+   {
+    "key": "57ee98690c1019f0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty [TULD Điều 16]. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng [TULD Điều 16].\n\nCụ thể, Công ty xét thưởng từ quỹ lương nếu quỹ cho phép, căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh [TULD Điều 16]. Ngoài ra, các sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất được Hội đồng thi đua khen thưởng Công ty công nhận là giải pháp tốt, đã áp dụng và mang lại hiệu quả thiết thực đều được xem xét khen thưởng [TULD Điều 16]."
+   },
+   {
+    "key": "3481347193f880c6",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty [TULD Điều 16]. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng [TULD Điều 16]."
+   },
+   {
+    "key": "0bb412d18caae53f",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty [TULD Điều 16]. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng [TULD Điều 16]. Các vấn đề phân phối tiền thưởng được qui định chi tiết trong Quy chế tiền lương, tiền thưởng của Công ty [TULD Điều 16]."
+   },
+   {
+    "key": "92f8ee3a78d41f75",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty [TULD Điều 16]. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng [TULD Điều 16]. Các vấn đề phân phối tiền thưởng từ quỹ lương và mức thưởng sáng kiến cải tiến kỹ thuật đều được qui định chi tiết trong Quy chế tiền lương, tiền thưởng của Công ty [TULD Điều 16]."
+   },
+   {
+    "key": "38c1fef988bc3e86",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng.\n\nTuy nhiên, đối với các đối tượng ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng, tiền lương và tiền thưởng do Tổng Giám Đốc Công ty quyết định, phù hợp với pháp luật hiện hành.\n\n[Trích đoạn 1], [Trích đoạn 2], [Trích đoạn 3], [Trích đoạn 4]"
+   },
+   {
+    "key": "70a1ff4f1e6ae70e",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng. Các vấn đề chi tiết về mức thưởng và phân phối tiền thưởng được quy định đầy đủ trong Quy chế tiền lương, tiền thưởng của Công ty.\n\n[TULD Điều 16]"
+   },
+   {
+    "key": "db1149b18945c029",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty [TULD Điều 16]. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng [TULD Điều 16].\n\nLưu ý: Đối với các đối tượng ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng, tiền lương và tiền thưởng do Tổng Giám Đốc quyết định [QCL Điều 1]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-013",
+  "question": "Người lao động tham gia đình công trái pháp luật thì khi hết hạn hợp đồng có được tái ký không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Không. Người lao động tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn HĐLĐ (TULD Điều 5).",
+  "key_facts": [
+   "không được tái ký"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 5": "Điều 5. Việc làm và bảo đảm việc làm\n1. NSDLĐ phải đảm bảo việc làm cho NLĐ trong suốt thời gian có hiệu lực của hợp đồng.\n2. Trường hợp do thiếu đơn hàng hay do lý do khách quan khác như điện nước thì hai bên thỏa thuận như sau:\na) Đối với người lao động còn phép năm tạm tính đến tháng 12: Công ty thông báo cho người lao động nghỉ phép năm.\nb) Đối với người lao động đã hết phép năm tạm tính đến tháng 12: Công ty sẽ trả lương ngừng việc như sau:\n- Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu;\n- Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n3. NLĐ hoàn thành tốt nhiệm vụ được giao, không bị xử lý kỷ luật lao động sẽ được tái ký HĐLĐ khi hết hạn hợp đồng.\n4. NLĐ tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "44c6760be6596bb7",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ **không được tái ký** hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động vi phạm pháp luật trong thời gian làm việc sẽ bị loại khỏi danh sách tái ký khi hợp đồng hết hạn [TULD Điều 5]. Ngược lại, chỉ những người hoàn thành tốt nhiệm vụ và không bị xử lý kỷ luật mới được tái ký [TULD Điều 5]."
+   },
+   {
+    "key": "1a6519381853434e",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ **không được tái ký** hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn hợp đồng lao động [TULD Điều 5]. Ngược lại, người lao động hoàn thành tốt nhiệm vụ và không bị xử lý kỷ luật lao động mới được tái ký [TULD Điều 5]."
+   },
+   {
+    "key": "6a09a55b773970c7",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ **không được tái ký** hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động tham gia đình công trái pháp luật sẽ bị loại khỏi danh sách tái ký khi hợp đồng hết hạn [TULD Điều 5]. Ngược lại, chỉ những người hoàn thành tốt nhiệm vụ, không bị xử lý kỷ luật mới được tái ký [TULD Điều 5].\n\nTrong trường hợp không thống nhất tái ký Thỏa ước lao động tập thể sau 90 ngày, các vấn đề quan hệ lao động sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "70e24d8db9093ec3",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ không được tái ký hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, nhân viên vi phạm pháp luật sẽ bị loại khỏi danh sách tái ký [TULD Điều 5]."
+   },
+   {
+    "key": "d788fe554bd397ac",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ **không được tái ký** hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động tham gia đình công trái pháp luật sẽ bị loại khỏi danh sách tái ký khi hợp đồng hết hạn [TULD Điều 5]. Ngược lại, chỉ những người hoàn thành tốt nhiệm vụ, không bị xử lý kỷ luật mới được tái ký [TULD Điều 5].\n\nTrong trường hợp người lao động đã bị xoá kỷ luật sau 03 tháng kể từ khi bị khiển trách hoặc xử lý kỷ luật kéo dài, họ sẽ được xem xét lại và có thể được tái ký nếu không tái phạm [NQLD Điều 30]."
+   },
+   {
+    "key": "57fc98f2161a964d",
+    "answer": "Người lao động tham gia đình công trái pháp luật sẽ **không được tái ký** hợp đồng lao động khi hết hạn.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn hợp đồng [TULD Điều 5]. Ngược lại, chỉ những người lao động hoàn thành tốt nhiệm vụ và không bị xử lý kỷ luật mới được tái ký [TULD Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-014",
+  "question": "Ngoài các ngày nghỉ lễ, tết theo luật, người lao động còn được nghỉ hưởng nguyên lương vào ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Ngoài các ngày nghỉ lễ, tết hưởng nguyên lương theo pháp luật lao động hiện hành, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty (TULD Điều 7).",
+  "key_facts": [
+   "sinh nhật Công ty"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 7": "Điều 7. Thời giờ làm việc, thời giờ nghỉ ngơi\n- Tất cả người lao động làm việc tại Công ty đều phải chấp hành qui định về thời giờ làm việc, thời giờ nghỉ ngơi trong Nội qui lao động. Trường hợp có sự thay đổi về thời giờ làm việc, Công ty phải thông báo trước cho người lao động.\n- NLĐ vi phạm quy định về thời giờ làm việc, thời giờ nghỉ ngơi (như đến công ty muộn, về sớm trước khi hết giờ làm việc): vi phạm lần đầu thì bị nhắc nhở, từ lần thứ 2 trở đi sẽ áp dụng chế tài theo nội qui; quy định của công ty.\n- Ngoài các ngày nghỉ lễ, tết hưởng nguyên lương theo quy định của pháp luật lao động hiện hành, NLĐ còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.."
+  },
+  "answers": [
+   {
+    "key": "d8b097fe1a4817ae",
+    "answer": "Ngoài ngày lễ, tết hưởng nguyên lương theo luật, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[Trích đoạn 3 | nguồn: TULD/Điều 7]"
+   },
+   {
+    "key": "69f96c5342417804",
+    "answer": "Ngoài ngày lễ, tết, người lao động còn được nghỉ phép năm hưởng nguyên lương sau:\n- 12 ngày làm việc đối với người làm công việc bình thường;\n- 14 ngày làm việc đối với người chưa thành niên, người khuyết tật, lao động nặng nhọc, độc hại, nguy hiểm;\n- 16 ngày làm việc đối với lao động đặc biệt nặng nhọc, độc hại, nguy hiểm.\n(Nguồn: [NQLD Điều 7])\n\nNgoài ra, người lao động được nghỉ bù ngày lễ, tết khi ngày này trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động.\n(Nguồn: [NQLD Điều 6])\n\nNgười lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\n(Nguồn: [QCL Điều 12], [TULD Điều 10])"
+   },
+   {
+    "key": "b51082a3062b9848",
+    "answer": "Ngoài ngày lễ, Tết hưởng nguyên lương theo luật, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[Trích đoạn 3 | nguồn: TULD/Điều 7]"
+   },
+   {
+    "key": "31a88a8ecb8000a7",
+    "answer": "Ngoài ngày lễ, tết hưởng nguyên lương theo luật, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty [TULD Điều 7]."
+   },
+   {
+    "key": "448e3fc2500a0739",
+    "answer": "Ngoài ngày lễ, Tết, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[Trích đoạn 4 | nguồn: TULD/Điều 7]"
+   },
+   {
+    "key": "fece074dc6112625",
+    "answer": "Ngoài ngày lễ, tết, người lao động còn được nghỉ hưởng nguyên lương vào các ngày nghỉ phép hằng năm.\n\nTheo Nội quy lao động 2024, người lao động làm việc đủ 12 tháng được nghỉ phép với số ngày như sau: 12 ngày đối với công việc bình thường; 14 ngày đối với người chưa thành niên, người khuyết tật hoặc công việc nặng nhọc, độc hại, nguy hiểm; và 16 ngày đối với công việc đặc biệt nặng nhọc, độc hại, nguy hiểm. Tất cả đều hưởng nguyên lương theo hợp đồng lao động [NQLD Điều 7].\n\nTài liệu nội bộ không quy định cụ thể ngày nghỉ bù nào khác ngoài các trường hợp trùng ngày lễ, tết được trả lương theo ngày nghỉ hằng tuần [QCL Điều 12; TULD Điều 10]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-015",
+  "question": "Mức thưởng cho người lao động vào dịp sinh nhật Công ty và các ngày Lễ, Tết theo thỏa ước là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Vào dịp sinh nhật Công ty, các ngày Lễ, Tết, NLĐ được thưởng: đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người; đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người; NLĐ đang trong thời gian thử việc: 100.000 đồng/người (TULD Điều 17).",
+  "key_facts": [
+   "500.000 đồng/người",
+   "200.000 đồng/người",
+   "100.000 đồng/người"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "f2c6bf46f16ecfaf",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng sinh nhật và ngày Lễ, Tết được quy định cụ thể như sau:\n\n- Thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n- Thâm niên dưới 1 năm: 200.000 đồng/người.\n- Đang trong thời gian thử việc: 100.000 đồng/người.\n\n[Trích đoạn 1 | nguồn: TULD/Điều 17]\n\nNgoài ra, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty. [Trích đoạn 5 | nguồn: TULD/Điều 7]\n\nQuy chế tiền lương, tiền thưởng 2024 xác định cơ sở thanh toán vào tháng sinh nhật dựa trên thâm niên tính đến hết tháng 12 hàng năm và quy định về lương chế độ, phụ cấp. [Trích đoạn 2 | nguồn: QCL/Điều 16]"
+   },
+   {
+    "key": "fff5a480f6dd8661",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng vào dịp sinh nhật Công ty và các ngày Lễ, Tết NLĐ được quy định như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người.\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người.\n(CNV có đơn nghỉ việc không được xét thưởng).\n[Nguồn: TULD Điều 17]\n\nNgoài ra, theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, chi phí sinh nhật CNV được tính bằng 10.000 đồng x Thâm niên công tác lũy tiến theo tháng, nhưng chỉ chi trả cho CNV đủ thâm niên 01 năm trở lên và sau khi trừ đi số tiền vượt theo định mức quà 100.000 đồng/CNV/năm.\n[Nguồn: QCL Điều 16]"
+   },
+   {
+    "key": "1b14220a9bc591d8",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng sinh nhật và ngày Lễ, Tết được quy định như sau:\n\n- Thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n- Thâm niên dưới 1 năm: 200.000 đồng/người.\n- Đang thử việc: 100.000 đồng/người.\n\nCác đối tượng đã ký hợp đồng lao động mới được hưởng; người có đơn xin nghỉ việc không được xét thưởng. Ngoài ra, nhân viên còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[QCL Điều 12], [TULD Điều 17], [TULD Điều 7], [QCL Điều 9]"
+   },
+   {
+    "key": "3aa1bcb2f9a540ad",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng sinh nhật và ngày Lễ, Tết được quy định như sau:\n\n- **Tham niên từ 1 năm trở lên:** 500.000 đồng/người.\n- **Tham niên dưới 1 năm:** 200.000 đồng/người.\n- **Trong thời gian thử việc:** 100.000 đồng/người.\n\nCác khoản thưởng này thuộc phúc lợi khác, không áp dụng cho người đã ký đơn nghỉ việc. Ngoài ra, người lao động được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\n[QCL Điều 16], [TULD Điều 17], [TULD Điều 7]"
+   },
+   {
+    "key": "e949019d63966707",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng sinh nhật và ngày Lễ, Tết được quy định cụ thể như sau:\n\n- **Tham niên từ 1 năm trở lên:** 500.000 đồng/người.\n- **Tham niên dưới 1 năm:** 200.000 đồng/người.\n- **Trong thời gian thử việc:** 100.000 đồng/người.\n\nCác khoản thưởng này thuộc phúc lợi khác theo Điều 17 TULD. Tuy nhiên, theo Điều 9 QCL, nếu nhân viên có đơn nghỉ việc thì không được xét thưởng. Ngoài ra, nhân viên nghỉ việc trước tháng sinh nhật sẽ không nhận được tiền thưởng cho các tháng đó (trừ nghỉ hưu) theo Điều 16 QCL."
+   },
+   {
+    "key": "d519a583ff1f8a99",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng sinh nhật và ngày Lễ, Tết được quy định cụ thể như sau:\n\n- **Tham niên từ 1 năm trở lên:** 500.000 đồng/người.\n- **Tham niên dưới 1 năm:** 200.000 đồng/người.\n- **Trong thời gian thử việc:** 100.000 đồng/người.\n\nCác khoản thưởng này thuộc phúc lợi khác theo Điều 17 TULD. Tuy nhiên, theo Điều 9 QCL, nhân viên có đơn nghỉ việc không được xét thưởng. Ngoài ra, nhân viên vi phạm quy định thời giờ làm việc sẽ bị áp dụng chế tài theo Nội quy lao động.\n\nNguồn: [TULD Điều 17], [QCL Điều 9], [NQLD Điều 7]."
+   },
+   {
+    "key": "0748b3fcc1b5014b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, mức thưởng vào dịp sinh nhật Công ty và các ngày Lễ, Tết được quy định như sau:\n- Thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n- Thâm niên dưới 1 năm: 200.000 đồng/người.\n- Đang trong thời gian thử việc: 100.000 đồng/người.\n\nTuy nhiên, theo Quy chế tiền lương, tiền thưởng 2024, CNV có đơn nghỉ việc không được xét thưởng. Ngoài ra, chi phí sinh nhật còn bao gồm khoản hỗ trợ 10.000 đồng/tháng tính theo thâm niên, nhưng chỉ chi trả cho CNV đủ 1 năm trở lên và sẽ bị trừ đi số tiền vượt mức quà 100.000 đồng/CNV/năm."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-016",
+  "question": "Theo thỏa ước, lịch trả lương hàng tháng cho từng nhóm lao động (gián tiếp, phục vụ, sản xuất và đội ngũ bán hàng) cụ thể là những ngày nào?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Đối với CN gián tiếp, phục vụ và sản xuất, tiền lương hàng tháng được chi trả 2 kỳ: kỳ I vào ngày 20 của tháng, kỳ II vào ngày 10 dương lịch tháng sau. Đối với đội ngũ bán hàng, lương trả 01 kỳ vào ngày 15 hàng tháng (TULD Điều 9).",
+  "key_facts": [
+   "ngày 20",
+   "ngày 10",
+   "ngày 15"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 9": "Điều 9. Định kỳ chi trả lương\nTiền lương hàng tháng được chi trả 2 kỳ đối với CN Gián tiếp, Phục vụ và Sản xuất:\n- Kỳ I vào ngày 20 của tháng\n- Kỳ II trả vào ngày 10 dương lịch tháng sau.\nĐối với Đội ngũ bán hàng trả 01 kỳ vào ngày 15 hàng tháng.\nTrong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (nếu trái hệ thống ngân hàng CNV có thể nhận trễ hơn)."
+  },
+  "answers": [
+   {
+    "key": "a4c625c174f198da",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, lịch trả lương được quy định như sau:\n- Đối với Công nhân gián tiếp, Phục vụ và Sản xuất: Tiền lương được chia 2 kỳ. Kỳ I trả vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau [TULD Điều 9].\n- Đối với Đội ngũ bán hàng: Tiền lương trả 01 kỳ duy nhất vào ngày 15 hàng tháng [TULD Điều 9].\n\nLưu ý: Nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [TULD Điều 9]. Quy chế tiền lương năm 2024 cũng xác nhận việc trả lương vào ngày 15 của tháng nhưng ưu tiên theo quy định của Thỏa ước lao động tập thể cho từng nhóm [QCL Điều 11]."
+   },
+   {
+    "key": "1f990a2fa1b34079",
+    "answer": "Theo Thỏa ước lao động tập thể 2024 (Điều 9), lịch trả lương hàng tháng được quy định như sau:\n- Đối với Công nhân gián tiếp, Phục vụ và Sản xuất: Tiền lương được chi trả 2 kỳ. Kỳ I vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau.\n- Đối với Đội ngũ bán hàng: Tiền lương được chi trả 1 kỳ vào ngày 15 hàng tháng.\nTrong trường hợp ngày trả lương trùng với ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương.\n\n*Lưu ý: Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Điều 11) quy định chung tiền lương hàng tháng được chi trả vào ngày 15 của tháng, nhưng Thỏa ước lao động tập thể 2024 có quy định chi tiết và cụ thể hơn cho từng nhóm lao động.*"
+   },
+   {
+    "key": "3fde7287a0464778",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, lịch trả lương hàng tháng được quy định như sau:\n\n- Đối với Công nhân gián tiếp, Phục vụ và Sản xuất: Tiền lương được chia 2 kỳ. Kỳ I trả vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau [TULD Điều 9].\n- Đối với Đội ngũ bán hàng: Tiền lương trả 1 kỳ duy nhất vào ngày 15 hàng tháng [TULD Điều 9].\n\nLưu ý: Nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [TULD Điều 9].\n\n*Lưu ý bổ sung: Quy chế tiền lương 2024 cũng quy định ngày trả lương là ngày 15 của tháng cho tất cả nhân viên, nhưng Thỏa ước lao động tập thể 2024 có quy định chi tiết và khác biệt cụ thể cho từng nhóm lao động như trên [QCL Điều 11].*"
+   },
+   {
+    "key": "0b89eac7d7a92c0b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, lịch trả lương được quy định như sau:\n- Đối với Công nhân gián tiếp, Phục vụ và Sản xuất: Tiền lương được chia 2 kỳ. Kỳ I vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau [TULD Điều 9].\n- Đối với Đội ngũ bán hàng: Trả 01 kỳ vào ngày 15 hàng tháng [TULD Điều 9].\n\nLưu ý: Nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [TULD Điều 9]. Quy chế tiền lương 2024 cũng xác nhận việc chi trả tiền lương hàng tháng vào ngày 15 của tháng [QCL Điều 11]."
+   },
+   {
+    "key": "5c381cf2a5821073",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, lịch trả lương được quy định như sau:\n- Đối với Công nhân gián tiếp, phục vụ và sản xuất: Tiền lương được chia 2 kỳ. Kỳ I trả vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau [TULD Điều 9].\n- Đối với Đội ngũ bán hàng: Tiền lương trả 1 kỳ duy nhất vào ngày 15 hàng tháng [TULD Điều 9].\n\nLưu ý: Nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [TULD Điều 9]."
+   },
+   {
+    "key": "602677718d07f7fe",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, lịch trả lương hàng tháng được quy định như sau:\n\n- Đối với Công nhân gián tiếp, Phục vụ và Sản xuất: Tiền lương được chia 2 kỳ. Kỳ I trả vào ngày 20 của tháng; Kỳ II trả vào ngày 10 của tháng sau [TULD Điều 9].\n- Đối với Đội ngũ bán hàng: Tiền lương trả 01 kỳ duy nhất vào ngày 15 hàng tháng [TULD Điều 9].\n\nLưu ý: Nếu ngày trả lương trùng ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương [TULD Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-018",
+  "question": "Bản Thỏa ước lao động tập thể gồm bao nhiêu chương, bao nhiêu điều và được đăng ký ở đâu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Thỏa ước lao động tập thể bao gồm 03 Chương và 19 điều, được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan, đăng ký tại Cơ quan quản lý Nhà nước về lao động và được áp dụng chính thức (TULD Điều 19).",
+  "key_facts": [
+   "03 Chương",
+   "19 điều"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 19": "Điều 19. Thỏa ước lao động tập thể chỉ được sửa đổi, bổ sung theo thỏa thuận tự nguyện của các bên, thông qua thương lượng tập thể. Việc sửa đổi bổ sung được tiến hành theo trình tự như ký kết thoả ước tập thể.\nThỏa ước lao động tập thể bao gồm 03 Chương và 19 điều được ký tại Công ty Cổ Phần phân phối hàng tiêu dùng Pan, đăng ký tại Cơ quan quản lý Nhà nước về lao động và được áp dụng chính thức.\nBản thoả ước lao động tập thể này có hiệu lực kể từ ngày ký.\nĐẠI DIỆN TẬP THỂ NGƯỜI LĐ ĐẠI DIỆN NGƯỜI SỬ DỤNG LĐ\nChủ tịch Công đoàn cơ sở Tổng Giám đốc Công ty\nPhan Văn Thiện Nguyễn Quốc Hoàng"
+  },
+  "answers": [
+   {
+    "key": "bf979622e7b8fb46",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động.\n\n[Trích đoạn 2]"
+   },
+   {
+    "key": "ee4426aa3416a14c",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động. [TULD Điều 19]"
+   },
+   {
+    "key": "48355aa3b8382286",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động."
+   },
+   {
+    "key": "83d459f7196c5b21",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động. Thỏa ước có hiệu lực kể từ ngày ký. [TULD Điều 19]"
+   },
+   {
+    "key": "3996558749f39efb",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động. Thỏa ước có hiệu lực kể từ ngày ký và được áp dụng chính thức. [TULD Điều 19]"
+   },
+   {
+    "key": "8a5e11c185cb1a8b",
+    "answer": "Bản Thỏa ước lao động tập thể gồm 03 Chương và 19 Điều. Thỏa ước được ký tại Công ty Cổ phần phân phối hàng tiêu dùng Pan và đăng ký tại Cơ quan quản lý Nhà nước về lao động [TULD Điều 19]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-019",
+  "question": "Trước và sau khi thỏa ước hết hạn bao nhiêu ngày thì các bên phải thương lượng, và nếu không thống nhất tái ký thì sao?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Trong thời hạn 90 ngày trước ngày thỏa ước hết hạn, các bên tiến hành thương lượng để ký Thỏa ước mới hoặc sửa đổi, bổ sung, gia hạn Thỏa ước, đồng thời lấy ý kiến theo Điều 76 Bộ luật Lao động 2019 và đăng ký lại với Sở Lao động-Thương binh và Xã hội TP.HCM. Sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực, nếu các bên vẫn không thống nhất việc tái ký thì Thỏa ước đương nhiên hết hiệu lực; từ đó cho đến khi ký Thỏa ước mới, quan hệ lao động được giải quyết theo quy định pháp luật về lao động hiện hành (TULD Điều 3).",
+  "key_facts": [
+   "90 ngày",
+   "đương nhiên hết hiệu lực"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 3": "Điều 3. Thời hạn của thỏa ước\n1. Thỏa ước này có hiệu lực trong thời hạn 3 năm kể từ ngày ký, và thay thế cho các Bản Thỏa ước đã ký trước đó.\n2. Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên tiến hành thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn Thỏa ước này, đồng thời tiến hành lấy ý theo quy định tại Điều 76 Bộ luật Lao động 2019 và đăng ký lại với Sở Lao động-Thương binh và Xã hội TP.HCM để tiếp tục thực hiện.\n3. Sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực, nếu các bên vẫn không thống nhất thỏa thuận việc tái ký thì Thỏa ước đương nhiên hết hiệu lực. Trong trường hợp này, tại thời điểm Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động giữa Người sử dụng lao động và Người lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành để giải quyết.\n4. Trong thời gian chờ đợi quyết định thừa nhận của Cơ quan Nhà nước có thẩm quyền, các điều khoản của Thỏa ước lao động này không trái với quy định của Nhà nước vẫn có hiệu lực thi hành."
+  },
+  "answers": [
+   {
+    "key": "fd505a502038a451",
+    "answer": "Trong 90 ngày trước ngày thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký mới, sửa đổi, bổ sung hoặc gia hạn [TULD Điều 3]. Nếu sau 90 ngày kể từ khi thỏa ước hết hiệu lực mà các bên vẫn không thống nhất tái ký, thỏa ước đương nhiên hết hiệu lực. Trong khoảng thời gian từ khi hết hiệu lực đến khi ký thỏa ước mới, mọi vấn đề quan hệ lao động sẽ được giải quyết theo quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "e9eccc334b2bd1e4",
+    "answer": "Trong thời hạn 90 ngày trước ngày thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn. Nếu sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực mà các bên vẫn không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực. Tại thời điểm Thỏa ước hết hiệu lực cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành để giải quyết.\n\n[Trích đoạn 2 | nguồn: TULD Điều 3]\n[Trích đoạn 1 | nguồn: TULD Điều 3]"
+   },
+   {
+    "key": "ef0d3a1476e41fd2",
+    "answer": "Trong 90 ngày trước ngày Thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký mới, sửa đổi, bổ sung hoặc gia hạn [TULD Điều 3].\n\nNếu sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực mà các bên vẫn không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực. Từ thời điểm này cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "1fc290819828217e",
+    "answer": "Trong 90 ngày trước ngày Thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký mới, sửa đổi, bổ sung hoặc gia hạn [TULD Điều 3]. Nếu sau 90 ngày kể từ khi Thỏa ước hết hiệu lực mà các bên vẫn không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực. Tại thời điểm này cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "aa9140022d0cb96f",
+    "answer": "Các bên phải thương lượng trong thời hạn 90 ngày trước ngày Thỏa ước hết hạn [TULD Điều 3]. Nếu sau 90 ngày kể từ ngày hết hạn mà các bên vẫn không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực. Trong khoảng thời gian từ khi hết hiệu lực đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "79f48c3c17731264",
+    "answer": "Trong 90 ngày trước ngày Thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký mới, sửa đổi, bổ sung hoặc gia hạn Thỏa ước [TULD Điều 3].\n\nNếu sau 90 ngày kể từ ngày Thỏa ước hết hiệu lực mà các bên vẫn không thống nhất tái ký, Thỏa ước đương nhiên hết hiệu lực. Tại thời điểm này cho đến khi ký Thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành [TULD Điều 3]."
+   },
+   {
+    "key": "b263093df5844969",
+    "answer": "Trong 90 ngày trước ngày thỏa ước hết hạn, các bên phải thương lượng để thống nhất ký mới, sửa đổi, bổ sung hoặc gia hạn. Nếu sau 90 ngày kể từ khi thỏa ước hết hiệu lực mà các bên vẫn không thống nhất, thỏa ước đương nhiên hết hiệu lực.\n\nTrong khoảng thời gian từ khi thỏa ước hết hiệu lực cho đến khi ký thỏa ước mới, mọi vấn đề liên quan đến quan hệ lao động sẽ được áp dụng các quy định pháp luật về lao động hiện hành để giải quyết.\n\n[TULD Điều 3], [TULD Điều 3], [TULD Điều 3]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-021",
+  "question": "Người đang trong thời gian thử việc có phải thực hiện thỏa ước không, và vào dịp Tết họ được thưởng bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Có. Tất cả cán bộ công nhân viên, kể cả NLĐ trong thời gian học nghề, tập nghề, thử việc, đều có trách nhiệm thực hiện những nội dung thỏa thuận trong Thỏa ước (TULD Điều 2). Vào dịp sinh nhật Công ty, các ngày Lễ, Tết, NLĐ đang trong thời gian thử việc được thưởng 100.000 đồng/người (TULD Điều 17).",
+  "key_facts": [
+   "thử việc",
+   "100.000 đồng/người"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 2": "Điều 2. Trách nhiệm tổng quát của hai bên\n1. Tất cả cán bộ công nhân viên trong Công ty (bao gồm các Chi nhánh và Công ty thành viên) có trách nhiệm nghiêm chỉnh thi hành các điều thỏa thuận trong Thỏa ước này, kể cả NLĐ trong thời gian học nghề, tập nghề, thử việc, NLĐ vào làm việc sau ngày Thỏa ước có hiệu lực đều có trách nhiệm thực hiện những nội dung thoả thuận trong Thỏa ước này.\n2. NLĐ có trách nhiệm hoàn thành công việc được giao, chấp hành các nội qui, quy chế của Công ty và được hưởng các quyền lợi quy định trong Thỏa ước lao động tập thể và Hợp đồng lao động (\"HĐLĐ\").\n3. Công ty có trách nhiệm bảo đảm các điều kiện cần thiết để NLĐ hoàn thành tốt nhiệm vụ được giao, không ngừng nâng cao đời sống cho NLĐ và bảo đảm quyền tự do hoạt động Công đoàn của NLĐ trong Công ty theo Luật Công đoàn.\n4. Các nội qui, qui định/quy chế của Công ty liên quan NLĐ được thông qua ban chấp hành công đoàn Công ty và không trái pháp luật thì được coi như một phần của Thoả ước này.",
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "b683a245fdd75cce",
+    "answer": "Người đang trong thời gian thử việc **có thực hiện Thỏa ước lao động tập thể** (TULD) vì TULD quy định mức thưởng sinh nhật và Tết cho nhóm này.\n\nTheo TULD, vào dịp Tết, người lao động trong thời gian thử việc được thưởng **100.000 đồng/người** [TULD Điều 17].\n\nVề mức lương, QCL quy định tiền lương thử việc được tính ít nhất bằng 85% tiền lương vị trí đảm trách, cộng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản [QCL Điều 4]. Tuy nhiên, QCL không ghi rõ người lao động trong thời gian thử việc có được tham gia hưởng các khoản thưởng bổ sung khác (như thưởng hiệu quả quý hay thưởng bổ sung tháng 13) hay không, chỉ nêu nguyên tắc chung là CNV có đơn nghỉ việc hoặc xin nghỉ việc thì không được xét thưởng [QCL Điều 9]."
+   },
+   {
+    "key": "85c4b0d9fee94047",
+    "answer": "Người đang trong thời gian thử việc **không phải** thực hiện Thỏa ước lao động tập thể (TULD) vì TULD chỉ áp dụng cho người lao động đã ký hợp đồng lao động chính thức.\n\nVề phần thưởng Tết:\n- Nếu người lao động đang trong thời gian thử việc và **đã ký hợp đồng lao động chính thức** (thử việc thành công), họ được hưởng **100.000 đồng/người** theo TULD Điều 17.\n- Nếu người lao động **chưa ký hợp đồng chính thức** (vẫn đang trong thời gian thử việc), họ **không được hưởng** phần thưởng theo TULD. Tuy nhiên, theo QCL Điều 9, quỹ lương - thưởng bao gồm các khoản thưởng Tết, nhưng QCL Điều 4 quy định tiền lương thử việc được tính ít nhất 85% lương cơ bản và bao gồm 1% đóng BHTN.\n\nTóm lại, chỉ những người lao động đã ký hợp đồng chính thức mới được hưởng 100.000 đồng theo TULD; người lao động đang trong thời gian thử việc chưa ký hợp đồng chính thức thì không thuộc đối tượng hưởng theo TULD."
+   },
+   {
+    "key": "ff599a333854697a",
+    "answer": "Người lao động trong thời gian thử việc **phải thực hiện Thỏa ước lao động tập thể** vì Điều 2 quy định tất cả CNV (bao gồm NLĐ thử việc) đều có trách nhiệm thi hành các điều khoản trong Thỏa ước [TULD Điều 2].\n\nVề mức thưởng Tết:\n- Nếu đã ký HĐLĐ có thâm niên từ 1 năm trở lên: **500.000 đồng/người**.\n- Nếu đã ký HĐLĐ có thâm niên dưới 1 năm: **200.000 đồng/người**.\n- Nếu đang trong thời gian thử việc: **100.000 đồng/người**.\n\nLưu ý: Quy chế tiền lương (QCL) cũng ghi nhận việc thưởng Tết là một phần của quỹ lương, nhưng không có quy định riêng loại trừ người thử việc so với mức 100.000 đồng quy định trong Thỏa ước [TULD Điều 17], [QCL Điều 9]."
+   },
+   {
+    "key": "c58b61ff485277b7",
+    "answer": "Người lao động trong thời gian thử việc **phải thực hiện Thỏa ước lao động tập thể** vì Điều 2 quy định tất cả CNV (bao gồm thời gian thử việc) đều có trách nhiệm thi hành Thỏa ước [TULD Điều 2].\n\nVề thưởng Tết:\n- Nếu đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n- Nếu đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người.\n- Nếu đang trong thời gian thử việc: 100.000 đồng/người [TULD Điều 17].\n\nLưu ý: Theo QCL, CNV có đơn nghỉ việc không được xét thưởng bất kỳ loại nào [QCL Điều 9]."
+   },
+   {
+    "key": "80a50d315c243aa0",
+    "answer": "Người lao động trong thời gian thử việc **phải thực hiện Thỏa ước lao động tập thể** vì Điều 2 quy định tất cả CNV (bao gồm NLĐ trong thời gian thử việc) đều có trách nhiệm thi hành các điều khoản của Thỏa ước [TULD Điều 2].\n\nVề mức thưởng Tết, người lao động trong thời gian thử việc được hưởng **100.000 đồng/người** theo quy định của Thỏa ước [TULD Điều 17]. Tuy nhiên, cần lưu ý rằng theo Quy chế tiền lương, người có đơn nghỉ việc không được xét thưởng [QCL Điều 9]."
+   },
+   {
+    "key": "8eeaf6768ca0affb",
+    "answer": "Người đang trong thời gian thử việc **không phải** thực hiện Thỏa ước lao động tập thể (TULD) vì TULD chỉ áp dụng cho người lao động đã ký hợp đồng lao động chính thức.\n\nVề phần thưởng dịp Tết:\n- Nếu người lao động **đã ký HĐLĐ** (thử việc kết thúc thành công) với thâm niên dưới 1 năm: được thưởng **200.000 đồng/người** [TULD Điều 17].\n- Nếu người lao động **đang trong thời gian thử việc**: được thưởng **100.000 đồng/người** [TULD Điều 17].\n- Lưu ý: Theo QCL, người có đơn nghỉ việc không được xét thưởng [QCL Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-022",
+  "question": "Ông Phan Văn Thiện giữ vai trò gì trong thỏa ước, và nếu công ty muốn đơn phương chấm dứt hợp đồng lao động với ông thì phải có sự thỏa thuận của ai?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Ông Phan Văn Thiện là Chủ tịch Công đoàn cơ sở, làm đại diện tập thể người lao động (Công đoàn) ký thỏa ước (TULD Mở đầu). Khi người sử dụng lao động quyết định sa thải hoặc đơn phương chấm dứt HĐLĐ với Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp, trừ trường hợp quy định tại Điều 8 của thỏa ước (TULD Điều 4).",
+  "key_facts": [
+   "Chủ tịch Công đoàn cơ sở",
+   "Công đoàn cấp trên trực tiếp"
+  ],
+  "gold_evidence": {
+   "TULD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\nCông Ty cổ phần phân phối hàng CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\ntiêu dùng Pan\nĐộc Lập – Tự Do – Hạnh Phúc\nTHỎA ƯỚC LAO ĐỘNG TẬP THỂ\n- Căn cứ Bộ luật Lao động năm 2019.\n- Căn cứ Luật Công đoàn năm 2012.\n- Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của bộ luật Lao động về điều kiện lao động và quan hệ lao động.\nĐể bảo đảm quyền lợi và trách nhiệm của người sử dụng lao động và người lao động trong quan hệ lao động. Hôm nay, ngày 30 tháng 06 năm 2024, tại văn phòng Công ty chúng tôi gồm có:\n1. ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (“Gọi tắt là Công ty”)\nCÔNG TY CỔ PHẦN PHÂN PHỐI HÀNG TIÊU DÙNG PAN\nDo : Ông NGUYỄN QUỐC HOÀNG – Tổng giám đốc - làm đại diện\nĐịa chỉ : Lô A1/1-9 Đường VL 3, KCN Vĩnh Lộc 2, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An,Việt Nam.\n2. ĐẠI DIỆN TẬP THỂ NGƯỜI LAO ĐỘNG (“Gọi tắt là Công đoàn\")\nDo : : Ông PHAN VĂN THIỆN - Chủ tịch Công đoàn cơ sở - làm đại diện.\nĐịa chỉ : 443 Lý Thường Kiệt, phường 8, quận Tân Bình, thành phố Hồ Chí Minh.\nCùng nhau ký thỏa ước lao động tập thể với các nội dung chính như sau",
+   "TULD/Điều 4": "Điều 4. Bảo đảm điều kiện hoạt động của công đoàn\n1. Người sử dụng lao động (“NSDLĐ”) phải cộng tác chặt chẽ và tạo điều kiện thuận lợi để Công đoàn hoạt động theo các quy định của Bộ luật Lao động và Luật Công đoàn.\n2. NSDLĐ có trách nhiệm đảm bảo các điều kiện và phương tiện làm việc cần thiết để Công đoàn hoạt động.\n3. NLĐ làm công tác công đoàn không chuyên trách được sử dụng một số thời gian trong giờ làm việc để làm công tác công đoàn và được người sử dụng lao động trả lương. Số thời gian này theo sự thỏa thuận của người sử dụng lao động và Ban chấp hành công đoàn cơ sở, nhưng ít nhất không được dưới 24 giờ/tháng.\n4. Người làm công tác công đoàn chuyên trách do quỹ công đoàn trả lương, được hưởng các quyền lợi và phúc lợi tập thể như mọi người lao động trong Công ty\n5. Khi người sử dụng lao động quyết định sa thải, đơn phương chấm dứt HĐLĐ với người là Ủy viên Ban chấp hành Công đoàn cơ sở, thì phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở, nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp, trừ trường hợp quy định tại Điều 8 của thỏa ước này."
+  },
+  "answers": [
+   {
+    "key": "177081f2a475d11a",
+    "answer": "Ông Phan Văn Thiện giữ vai trò là Chủ tịch Công đoàn cơ sở, làm đại diện tập thể người lao động ký Thỏa ước lao động tập thể [TULD Mở đầu].\n\nNếu công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở; nếu ông là Chủ tịch, thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4].\n\nLưu ý: Quy định này chỉ áp dụng đối với người là Ủy viên Ban chấp hành Công đoàn cơ sở [TULD Điều 4]."
+   },
+   {
+    "key": "ea6afe8b67f424c7",
+    "answer": "Ông Phan Văn Thiện giữ vai trò là Chủ tịch Công đoàn cơ sở. Khi công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở; nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4]."
+   },
+   {
+    "key": "3ebd44a382e4a0ac",
+    "answer": "Ông Phan Văn Thiện giữ vai trò là Chủ tịch Công đoàn cơ sở [TULD Mở đầu].\n\nKhi Công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4]. Tuy nhiên, nếu ông là Ủy viên Ban chấp hành Công đoàn cơ sở, chỉ cần sự thỏa thuận của Ban chấp hành Công đoàn cơ sở [TULD Điều 4]."
+   },
+   {
+    "key": "ae553f9bcf661245",
+    "answer": "Ông Phan Văn Thiện giữ vai trò Chủ tịch Công đoàn cơ sở [TULD Mở đầu].\n\nKhi công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở; nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4]."
+   },
+   {
+    "key": "fb518fd25e239768",
+    "answer": "Ông Phan Văn Thiện giữ vai trò là Chủ tịch Công đoàn cơ sở [TULD Mở đầu].\n\nNếu công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở; nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4].\n\nLưu ý: Quy chế tiền lương (QCL) chỉ quy định việc chấm dứt hợp đồng thử việc khi không đạt yêu cầu, không đề cập đến thủ tục chấm dứt hợp đồng lao động với đại diện công đoàn [QCL Điều 4]."
+   },
+   {
+    "key": "500c147b90d0021a",
+    "answer": "Ông Phan Văn Thiện giữ vai trò là Chủ tịch Công đoàn cơ sở [TULD Mở đầu].\n\nNếu công ty muốn đơn phương chấm dứt hợp đồng lao động với ông, phải có sự thỏa thuận của Ban chấp hành Công đoàn cơ sở; nếu là Chủ tịch Công đoàn cơ sở thì phải có sự thỏa thuận của tổ chức Công đoàn cấp trên trực tiếp [TULD Điều 4].\n\nLưu ý: Quy định này chỉ áp dụng cho người là Ủy viên Ban chấp hành Công đoàn cơ sở hoặc Chủ tịch Công đoàn cơ sở, trừ trường hợp quy định tại Điều 8 của Thỏa ước [TULD Điều 4]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-023",
+  "question": "Một nhân viên nữ đã ký HĐLĐ, thâm niên 4 năm, chuẩn bị nghỉ thai sản 6 tháng: theo thỏa ước công ty trợ cấp thêm bao nhiêu, và mỗi dịp Lễ, Tết chị được thưởng bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Với thâm niên từ 3 năm trở lên, ngoài trợ cấp BHXH, chị được Công ty trợ cấp 2 triệu đồng trong vòng 6 tháng nghỉ thai sản (đã bao gồm khoản tương đương 1% lương đóng BHTN trong 6 tháng); nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương đóng BHTN trong 6 tháng (TULD Điều 11). Đã ký HĐLĐ có thâm niên từ 1 năm trở lên nên mỗi dịp sinh nhật Công ty, Lễ, Tết chị được thưởng 500.000 đồng/người (TULD Điều 17).",
+  "key_facts": [
+   "2 triệu đồng",
+   "500.000 đồng/người"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 11": "Điều 11. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo luật BHXH hiện hành, ngoài ra:\nĐối với NLĐ trong thời gian nghỉ thai sản 6 tháng: (theo quy chế tiền lương)\n- CNV có thâm niêm từ 3 năm trở lên: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.",
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "95923228fc4e03dc",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ nghỉ thai sản 6 tháng với thâm niên 4 năm (trên 3 năm) sẽ nhận trợ cấp 2 triệu đồng. [TULD Điều 11]\n\nVề thưởng dịp Lễ, Tết, nhân viên đã ký hợp đồng với thâm niên 4 năm (trên 1 năm) được thưởng 500.000 đồng/người. [TULD Điều 17]\n\nTổng thu nhập còn lại gồm lương chế độ và phụ cấp theo quy định khác. [QCL Điều 16]"
+   },
+   {
+    "key": "bcf3d318704d2b89",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm (trên 3 năm) được trợ cấp 2 triệu đồng trong vòng 6 tháng nghỉ thai sản [TULD Điều 11].\nVề phần thưởng dịp Lễ, Tết, nhân viên đã ký HĐLĐ có thâm niên từ 1 năm trở lên được thưởng 500.000 đồng/người [TULD Điều 17]."
+   },
+   {
+    "key": "87deaa6cb314e270",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm (trên 3 năm) được trợ cấp 2 triệu đồng trong vòng 6 tháng nghỉ thai sản [TULD Điều 11].\n\nVề phần thưởng dịp Lễ, Tết: Nhân viên đã ký HĐLĐ với thâm niên 4 năm (từ 1 năm trở lên) được thưởng 500.000 đồng/người [TULD Điều 17].\n\n*Lưu ý: Quy chế tiền lương 2024 cũng quy định mức trợ cấp 2 triệu đồng cho trường hợp này nhưng bổ sung thêm điều kiện nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương đó [QCL Điều 13].*"
+   },
+   {
+    "key": "f650352bfc3a7b0b",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm được trợ cấp thai sản 2 triệu đồng trong vòng 6 tháng (đã bao gồm 1% lương đóng BHTN nếu thấp hơn) [TULD Điều 11].\n\nVề phần thưởng dịp Lễ, Tết, nhân viên này được hưởng 500.000 đồng/người vì đã ký HĐLĐ với thâm niên từ 1 năm trở lên [TULD Điều 17]."
+   },
+   {
+    "key": "9f2a5e56771e2fbf",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm (trên 3 năm) được trợ cấp thai sản 2 triệu đồng trong vòng 6 tháng [TULD Điều 11]. Mức này đã bao gồm khoản tương đương 1% lương đóng BHTN trong kỳ nghỉ.\n\nVề phần thưởng dịp Lễ, Tết, nhân viên đã ký HĐLĐ với thâm niên 4 năm (từ 1 năm trở lên) được hưởng 500.000 đồng/người [TULD Điều 17].\n\n*Lưu ý: Quy chế tiền lương (QCL) cũng quy định mức trợ cấp thai sản tương tự cho người có thâm niên đủ 3 năm [QCL Điều 13], nhưng không có quy định riêng về mức thưởng Lễ, Tết khác với Thỏa ước lao động tập thể.*"
+   },
+   {
+    "key": "88170d5eb7324895",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm (trên 3 năm) được trợ cấp thai sản 2 triệu đồng trong vòng 6 tháng [TULD Điều 11]. Mức này đã bao gồm khoản tương đương 1% lương đóng BHTN trong kỳ nghỉ; nếu 1% lương đóng BHTN cao hơn 2 triệu đồng thì áp dụng mức 1% lương đóng BHTN [TULD Điều 11].\n\nVề phần thưởng dịp Lễ, Tết, nhân viên đã ký HĐLĐ với thâm niên 4 năm (từ 1 năm trở lên) được thưởng 500.000 đồng/người [TULD Điều 17]."
+   },
+   {
+    "key": "91b18afa2a88e3f9",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên nữ có thâm niên 4 năm (trên 3 năm) được trợ cấp thai sản 2 triệu đồng trong vòng 6 tháng. [TULD Điều 11]\n\nVề phần thưởng dịp Lễ, Tết, nhân viên này được hưởng 500.000 đồng/người. [TULD Điều 17]\n\nLưu ý: Theo Quy chế tiền lương 2024, mức trợ cấp thai sản cho người có thâm niên đủ 3 năm cũng là 2 triệu đồng (nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương). [QCL Điều 13]"
+   }
+  ]
+ }
+]

@@ -1,0 +1,484 @@
+[
+ {
+  "qid": "QCL-007",
+  "question": "Thưởng hiệu quả công việc (thưởng KPI) được định nghĩa như thế nào?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng (QCL Điều 2).",
+  "key_facts": [
+   "kết quả sản xuất kinh doanh",
+   "mức độ hoàn thành công việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "aa9e7b900cdcf439",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng [QCL Điều 2].\n\nThưởng KPI được tính dựa trên kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng đối với CNV gián tiếp, phục vụ [QCL Điều 10]. Đối với CNV sản xuất, thưởng KPI thực tế được tính bằng: Thưởng KPI chuẩn * tỷ lệ đạt KPI cá nhân * hệ số điều chỉnh (nếu các tiêu chí KPI >100%) [QCL Điều 16].\n\nThưởng KPI tháng thuộc \"Quỹ lương - thưởng bổ sung\" trong tổng quỹ lương - thưởng hàng năm [QCL Điều 9]."
+   },
+   {
+    "key": "b6151d16f88baf25",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền người sử dụng lao động thưởng cho người lao động dựa trên vị trí công việc và kết quả sản xuất kinh doanh.\n\nTheo [QCL Điều 2], KPI được tính cụ thể như sau:\n- **CNV gián tiếp:** Tính theo doanh số thực hiện và giá vốn, dựa trên tỷ lệ hệ số thưởng, quỹ thưởng theo doanh số thực hiện và hệ số điều chỉnh theo kết quả sản xuất kinh doanh (tối đa 120%).\n- **Quản đốc/Phó quản đốc, Thống kê, Trưởng ca:** Thưởng thực tế = Thưởng chuẩn * Tỷ lệ đạt Kpi cá nhân * Hệ số điều chỉnh (nếu tỷ lệ đạt Kpi chung >100%).\n\nNgoài ra, [QCL Điều 3] quy định CNV nghỉ việc không được tính thưởng KPI nếu thời gian làm việc dưới 50% hoặc không được xét thưởng các khoản bổ sung như Lễ Tết, sinh nhật."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-008",
+  "question": "Theo quy chế lương, nâng lương nghĩa là gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Nâng lương là việc nâng hệ số lương của một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương (QCL Điều 2).",
+  "key_facts": [
+   "hệ số lương",
+   "ngạch lương"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "70fa23ad981f0436",
+    "answer": "Theo Quy chế tiền lương (QCL), \"Nâng lương\" là việc nâng hệ số lương của cá nhân từ bậc thấp lên bậc cao hơn trong cùng một ngạch lương. Mức chênh lệch giữa các bậc trong một ngạch từ 07% [QCL Điều 2].\n\nQuy định cụ thể bao gồm:\n- Đối tượng: Công nhân viên (CNV) làm việc đủ 01 năm trở lên, xét hàng năm vào tháng 12 [QCL Điều 5].\n- Phân nhóm:\n  + Nhóm 1, 2, 3: Nâng bậc theo điểm đánh giá (4A cho bậc 1 lên 2, mỗi bậc sau cộng 1A) hoặc theo thâm niên (>=25, 30, 35 năm tương ứng nâng từ bậc 2-3, 3-4, 4-5) [QCL Điều 6].\n  + Nhóm 4 (Quản trị viên): Đánh giá theo thang điểm 100, có thể nâng tối đa 3 bậc trong một kỳ [QCL Phụ lục 4].\n- Lưu ý: Chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng nếu tỉ lệ KPI không đạt [QCL Điều 15]."
+   },
+   {
+    "key": "106824e0a23720cc",
+    "answer": "Theo Quy chế tiền lương Bibica 2024, \"Nâng lương\" là việc nâng hệ số lương của cá nhân từ bậc thấp lên bậc cao hơn trong cùng một ngạch lương.\n\nQuy định cụ thể bao gồm:\n- Điều kiện nâng bậc: Nhóm 1, 2, 3 từ bậc 1 lên bậc 2 cần có 4A và cộng dồn; các bậc tiếp theo mỗi bậc cộng thêm 1A.\n- Đối với người lao động (trừ QTV) có thâm niên từ 25 năm trở lên: Điều chỉnh từ bậc 2 lên 3 (25 năm), bậc 3 lên 4 (30 năm), bậc 4 lên 5 (35 năm).\n- Chu kỳ xét nâng: 01 năm/lần, thời điểm tháng 12 dương lịch.\n- Khi xét nâng, chỉ tăng lương cơ bản; phần thưởng KPI không chỉnh tăng tương ứng nếu tỉ lệ KPI nằm trong mức quy định.\n\n[NQCL Điều 10], [QCL Điều 6], [QCL Điều 5], [QCL Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-009",
+  "question": "Quản trị viên được hiểu là cấp nào, và Quản trị viên nhóm 1 gồm những ai?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên; Quản trị viên nhóm 1 là cấp quản lý gồm Ban Tổng Giám Đốc (QCL Điều 2).",
+  "key_facts": [
+   "Trưởng ca",
+   "Ban Tổng Giám Đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "289462c76014098e",
+    "answer": "Quản trị viên (QTV) là cấp quản lý từ cấp Trưởng ca trở lên [QCL Điều 2].\n\nQuản trị viên nhóm 1 bao gồm:\n- Quản trị viên từ cấp trưởng bộ phận trở lên.\n- Kế toán tổng hợp trở lên.\n\nĐây là phân nhóm xét nâng lương theo quy định của Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Điều 6]."
+   },
+   {
+    "key": "f15dfe74028d8931",
+    "answer": "Theo tài liệu nội bộ, \"Quản trị viên\" được định nghĩa là cấp quản lý từ cấp Trưởng ca trở lên [QCL Điều 2].\n\n\"Công ty\" quy định cụ thể các cấp quản lý bao gồm: Ban Tổng Giám Đốc; Giám Đốc Khối/Phó Giám đốc Khối, Kế toán trưởng/Phó trưởng phòng Kế toán, Giám Đốc & Phó Giám đốc Chi nhánh/Công ty thành viên; Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc/phó Quản đốc phân xưởng, Chuyên viên các Khối; Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp [QCL Điều 2, Phụ lục 2].\n\n\"Công ty\" quy định \"Quản trị viên nhóm 1\" gồm: Ban Tổng Giám Đốc, Giám Đốc Khối/Phó Giám đốc Khối, Kế toán trưởng/Phó trưởng phòng Kế toán, Giám Đốc & Phó Giám đốc Chi nhánh/Công ty thành viên [QCL Điều 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-011",
+  "question": "Quản trị viên nhóm 2 gồm những chức danh nào và lương công việc của nhóm này được phân bổ giữa lương cơ bản và KPI theo tỷ lệ bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Quản trị viên nhóm 2 gồm: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc và Phó giám đốc Chi nhánh/Công ty thành viên (QCL Điều 2). Tỉ lệ cơ cấu LCV của QTV nhóm 2: lương cơ bản chiếm 70 ÷ 85%, KPI chiếm 15 ÷ 30% (QCL Điều 15).",
+  "key_facts": [
+   "Giám Đốc Khối",
+   "70",
+   "85",
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp.",
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "7fb0bde3a94626ce",
+    "answer": "Quản trị viên nhóm 2 (QTV2) bao gồm các chức danh từ cấp Trưởng bộ phận trở lên, Kế toán tổng hợp trở lên và các cấp quản lý từ cấp Trưởng ca trở lên [QCL Phụ lục 4, Điều 2].\n\nLương công việc (LCV) của QTV2 được phân bổ theo tỷ lệ:\n- Lương cơ bản: 70% – 85%\n- Thưởng KPI: 15% – 30%\n\nLưu ý: Khi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng nếu tỷ lệ KPI nằm trong mức quy định cho nhóm [QCL Điều 15]."
+   },
+   {
+    "key": "d858328f1de51dfd",
+    "answer": "Quản trị viên nhóm 2 (QTV2) bao gồm các chức danh: Quản trị viên nhóm 2.\n\nTỷ lệ phân bổ lương cho QTV2 là:\n- Lương cơ bản: 70% ÷ 85%.\n- Thưởng KPI: 15% ÷ 30%.\n\nKhi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng nếu tỉ lệ KPI nằm trong mức quy định.\n\n[QCL Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-012",
+  "question": "Một nhân viên có hệ số lương 1,8, lương tối thiểu vùng là 4.960.000 đồng và được hỗ trợ 500.000 đồng/tháng. Lương cơ bản và lương cứng của người này là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Lương cơ bản = hệ số lương x Lương tối thiểu vùng = 1,8 x 4.960.000 = 8.928.000 đồng. Lương cứng = Lương cơ bản + hỗ trợ = 8.928.000 + 500.000 = 9.428.000 đồng (QCL Điều 2).",
+  "key_facts": [
+   "8.928.000",
+   "9.428.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "537c4b2c2e42f60b",
+    "answer": "Lương cơ bản (LCB) là 8.928.000 đồng (tính theo công thức: Hệ số 1,8 x Lương tối thiểu vùng 4.960.000đ) [QCL Điều 2].\n\nLương cứng bằng 8.928.000 đồng vì nhân viên này không có hỗ trợ ghi trong hợp đồng lao động (hỗ trợ 500.000đ/tháng thuộc loại hỗ trợ đi lại, không được tính vào lương cứng) [QCL Điều 2]."
+   },
+   {
+    "key": "fad298adeb04cf4f",
+    "answer": "Lương cơ bản của nhân viên này là **9.328.000 đồng/tháng** (tính bằng hệ số 1,8 x lương tối thiểu vùng 4.960.000 đồng) [QCL Điều 6].\n\nLương cứng là **9.828.000 đồng/tháng** (tổng gồm Lương cơ bản 9.328.000 đồng + Hỗ trợ 500.000 đồng) [QCL Điều 7].\n\n*Lưu ý: Tài liệu chỉ quy định cách tính Lương cơ bản và Lương cứng dựa trên hệ số và lương tối thiểu vùng, không có thông tin về mức lương cụ thể cho vị trí nào cả.*"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-013",
+  "question": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là bao nhiêu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Mức chênh lệch giữa bậc lương trong 1 ngạch là từ 07% theo từng nhóm cụ thể trong thang lương; Thang lương Bảng lương được quy định chi tiết theo Phụ lục 01 (QCL Điều 3).",
+  "key_facts": [
+   "07%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 3": "Điều 3. Công ty quy định Thang lương, Bảng lương\n1. Thang lương Bảng lương được quy định chi tiết theo Phụ lục 01 đính kèm.\n2. Mức lương tối thiểu chung theo quy định của Nhà nước.\n3. Mức chênh lệch giữa bậc lương trong 1 ngạch: Từ 07% theo từng nhóm cụ thể trong thang lương."
+  },
+  "answers": [
+   {
+    "key": "861ba225a45fd677",
+    "answer": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là 07%.\n\n- Đối với tất cả các ngạch (bao gồm nhóm 1, 2, 3 và QTV), mức chênh lệch này được quy định chi tiết trong Thang lương Bảng lương theo Phụ lục 01.\n- Đối với QTV, việc nâng lương dựa trên tổng điểm đánh giá (100 điểm) thay vì chỉ dựa trên số điểm A và thâm niên như nhóm 1-3.\n\n[QCL Điều 3], [QCL Điều 6], [QCL Phụ lục 1]"
+   },
+   {
+    "key": "83f670472ffb3b26",
+    "answer": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là từ 07% theo từng nhóm cụ thể trong thang lương [QCL Điều 3]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-014",
+  "question": "Khi hết thời gian thử việc, đơn vị phải làm gì và người không đạt yêu cầu thử việc bị xử lý ra sao?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Sau khi hết thời gian thử việc, các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng; nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với người lao động (QCL Điều 4).",
+  "key_facts": [
+   "bảng đánh giá",
+   "chấm dứt hợp đồng thử việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 4": "Điều 4. Công ty quy định về việc xếp lương như sau\n1. Sau khi hết thời gian thử việc theo quy định các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng.\n2. Sau thời gian thử việc nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với Người lao động.\n3. Tiền Lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Công ty trả cho CNV tiền lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản."
+  },
+  "answers": [
+   {
+    "key": "412c72353d26686d",
+    "answer": "Sau khi hết thời gian thử việc, đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng. Nếu người lao động không đạt yêu cầu, Công ty ra quyết định chấm dứt hợp đồng thử việc.\n\nVề tiền lương trong thời gian thử việc:\n- Được tính ít nhất bằng 85% tiền lương công việc của vị trí đảm trách.\n- Công ty trả thêm 1% tiền lương đóng Bảo hiểm xã hội (BHTN).\n- Tổng tiền trả cho công nhân viên bằng 100% lương cơ bản.\n\nNếu người lao động không đạt yêu cầu, hợp đồng thử việc sẽ bị chấm dứt theo quy định."
+   },
+   {
+    "key": "495827b24ca053b7",
+    "answer": "Khi hết thời gian thử việc, đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng. Nếu người lao động không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc.\n\nVề mức lương thử việc: Tiền lương được tính ít nhất bằng 85% tiền lương đối với công việc đảm trách. Công ty trả tiền lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản.\n\nNếu người lao động không đạt yêu cầu, hợp đồng sẽ bị chấm dứt theo quy định của Công ty.\n\n[QCL Điều 4, Điều 5], [QCL Phụ lục 01], [NQLD Điều 28]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-015",
+  "question": "Mới vào làm, đang trong giai đoạn thử việc thì mình được trả lương khoảng bao nhiêu so với lương của vị trí đó?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Tiền lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách; Công ty trả lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản (QCL Điều 4).",
+  "key_facts": [
+   "85%",
+   "1%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 4": "Điều 4. Công ty quy định về việc xếp lương như sau\n1. Sau khi hết thời gian thử việc theo quy định các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng.\n2. Sau thời gian thử việc nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với Người lao động.\n3. Tiền Lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Công ty trả cho CNV tiền lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản."
+  },
+  "answers": [
+   {
+    "key": "12e38054e55715df",
+    "answer": "Trong thời gian thử việc, tiền lương được tính ít nhất bằng 85% tiền lương công việc của vị trí đảm trách. Tổng tiền lương thử việc bao gồm khoản này cộng thêm 1% tiền lương đóng Bảo hiểm xã hội, tổng cộng bằng 100% lương cơ bản.\n\n[QCL Điều 4]"
+   },
+   {
+    "key": "49accd18e7e310b1",
+    "answer": "Trong thời gian thử việc, tiền lương được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Tổng tiền lương trả cho CNV bao gồm lương thử việc và 1% tiền lương đóng Bảo hiểm xã hội, tổng cộng bằng 100% lương cơ bản.\n\n[QCL Điều 5]\n[QCL Điều 4]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-017",
+  "question": "Khi xét nâng lương, nhân viên được phân thành những nhóm nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Có 4 nhóm xét nâng lương: Nhóm 1: Lao động phổ thông, công nhân kỹ thuật; Nhóm 2: Trung cấp, cao đẳng; Nhóm 3: Cử nhân, kỹ sư, trưởng ca; Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên (QCL Điều 6).",
+  "key_facts": [
+   "Lao động phổ thông",
+   "Trung cấp",
+   "kỹ sư",
+   "trưởng bộ phận"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "80ef1ce2ace5b47e",
+    "answer": "Nhân viên được phân thành 4 nhóm xét nâng lương như sau:\n\n1.  **Nhóm 1:** Lao động phổ thông, công nhân kỹ thuật.\n2.  **Nhóm 2:** Trung cấp, cao đẳng.\n3.  **Nhóm 3:** Cử nhân, kỹ sư, trưởng ca.\n4.  **Nhóm 4:** Quản trị viên từ cấp trưởng bộ phận trở lên (được đánh giá theo Phụ lục 04).\n\nCác nhóm này được quy định trong [QCL Điều 6]."
+   },
+   {
+    "key": "ddf34620381c9c0d",
+    "answer": "Nhân viên được phân thành 4 nhóm xét nâng lương như sau:\n- Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\n- Nhóm 2: Trung cấp, cao đẳng.\n- Nhóm 3: Cử nhân, kỹ sư, trưởng ca.\n- Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n\n[QCL Điều 6]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-018",
+  "question": "Một công nhân (không phải quản trị viên) có thâm niên 31 năm và đang hưởng lương bậc 3. Kỳ nâng lương này người đó được điều chỉnh lên bậc mấy?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Người đó được nâng lên bậc 4. Người lao động (trừ QTV) có thâm niên >=30 năm được điều chỉnh từ bậc 3 lên bậc 4. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp, mỗi kỳ nâng lương chỉ được nâng 01 bậc (QCL Điều 6).",
+  "key_facts": [
+   "bậc 4"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "23542ba7bfe3207d",
+    "answer": "Người lao động được điều chỉnh lên bậc 4.\n\nTheo quy định, người lao động có thâm niên từ 25 năm trở lên được xét nâng lương theo thâm niên. Cụ thể, với thâm niên >= 30 năm, mức điều chỉnh là từ bậc 3 lên bậc 4 [QCL Điều 6].\n\nLưu ý: Quy định này áp dụng cho người lao động (trừ Quản trị viên - QTV). Do đó, người lao động này không được áp dụng thang điểm 100 điểm để nâng tối đa 3 bậc như QTV [QCL Phụ lục 4]."
+   },
+   {
+    "key": "39c1cb61aae0d027",
+    "answer": "Người lao động được điều chỉnh từ bậc 3 lên bậc 4.\n\nTheo Quy chế tiền lương năm 2024, công nhân viên có thâm niên từ 30 năm trở lên sẽ được điều chỉnh từ bậc 3 lên bậc 4. Tuy nhiên, mức lương hiện tại của người lao động đang ở bậc 3, nên sẽ được nâng lên đúng bậc tương ứng với thâm niên 30 năm là bậc 4.\n\n[QCL Điều 6]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-019",
+  "question": "cnv nhom 1 dang o bac 1 ma ko du dieu kien nang luong thi bao lau dc xet len bac 2?",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Công nhân viên thuộc nhóm 1, 2, 3 đang ở bậc I nếu không đạt điều kiện xét nâng lương (bậc 1 lên bậc 2 phải có 4A cộng dồn) thì sau 03 năm được xét nâng từ bậc I lên bậc II, với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội quy, quy định Công ty; thâm niên để nâng bậc tính từ thời điểm thay đổi vị trí công việc (QCL Điều 6).",
+  "key_facts": [
+   "03 năm"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "03d4b50aa53e4177",
+    "answer": "CNV Nhóm 1 đang ở bậc I nhưng chưa đủ điều kiện nâng lương sẽ được xét nâng lên bậc II sau **03 năm** làm việc.\n\nĐiều kiện này áp dụng khi nhân viên không đạt yêu cầu nâng bậc ngay lập tức (cần 4A để lên bậc 2, mỗi bậc tiếp theo cần cộng thêm 1A). Khi đó, sau 03 năm, nhân viên sẽ được xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc, không vi phạm nội quy và tính thâm niên từ thời điểm thay đổi vị trí công việc [QCL Điều 6]."
+   },
+   {
+    "key": "40df6f5f5c8daf22",
+    "answer": "CNV Nhóm 1 đang bậc I chưa đủ điều kiện nâng lương sẽ được xét nâng lên bậc II sau 03 năm, với điều kiện đánh giá hoàn thành công việc, không vi phạm nội quy và quy định Công ty, đồng thời xét thâm niên tính từ thời điểm thay đổi vị trí công việc [QCL Điều 6].\n\nLưu ý: Chu kỳ xét nâng hệ số lương chung là 01 năm/lần, nhưng đối với trường hợp này, nếu không đạt điều kiện nâng ngay thì sẽ kéo dài thời gian xét lên 03 năm [QCL Điều 6]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-021",
+  "question": "Nhân viên được Công ty đề bạt lên vị trí mới thì tiền lương được xử lý như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty trả lương theo vị trí công việc. CNV được Công ty đề bạt (hoặc được đào tạo/tự đào tạo có trình độ phù hợp với vị trí được phân công, hoặc qua thi tuyển nội bộ đạt yêu cầu) thì được xem xét chuyển đổi lương phù hợp với vị trí công việc mới (QCL Điều 7).",
+  "key_facts": [
+   "chuyển đổi lương",
+   "vị trí công việc mới"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 7": "Điều 7. Các trường hợp chuyển đổi lương.\n1. Công ty trả lương theo vị trí công việc.\n2. Công nhân viên được Công ty đào tạo hoặc tự đào tạo nếu có trình độ phù hợp với vị trí được phân công hoặc qua thi tuyển nội bộ đạt yêu cầu, hoặc do Công ty đề bạt thì được xem xét chuyển đổi lương phù hợp với vị trí công việc mới.\nCông ty có thể tạm thời chuyển công nhân viên làm công việc khác so với hợp đồng lao động và trả lương theo công việc mới, phù hợp quy định pháp luật trong trường hợp Công ty gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, áp dụng biện pháp ngăn ngừa, khắc phục tai nạn lao động, bệnh nghề nghiệp, sự cố điện, nước hoặc do nhu cầu sản xuất, kinh doanh."
+  },
+  "answers": [
+   {
+    "key": "2eca654f7e059180",
+    "answer": "Khi nhân viên được Công ty đề bạt, tiền lương được xử lý như sau:\n\n1.  **Chuyển đổi hệ số lương:** Hệ số lương sẽ được xác định lại phù hợp với vị trí công việc mới [QCL Điều 2].\n2.  **Điều kiện đề bạt:** Nhân viên phải được Công ty đào tạo hoặc tự đào tạo có trình độ phù hợp, hoặc qua thi tuyển nội bộ đạt yêu cầu để được xem xét chuyển đổi lương [QCL Điều 7].\n3.  **Chuẩn hóa theo trình độ:** Hệ số lương sẽ được điều chỉnh lên bậc tương ứng với trình độ chuyên môn nghiệp vụ mới (ví dụ: từ bậc trung cấp lên bậc Kỹ sư/Cử nhân nếu có bằng Đại học phù hợp) [QCL Điều 15].\n\nLưu ý: Thâm niên để nâng bậc lương sẽ được tính từ thời điểm thay đổi vị trí công việc [Trích đoạn 2]."
+   },
+   {
+    "key": "cb108bdfaf197762",
+    "answer": "Nhân viên được Công ty đề bạt lên vị trí mới sẽ được xem xét chuyển đổi lương phù hợp với vị trí công việc mới. Việc này áp dụng cho công nhân viên được đào tạo hoặc tự đào tạo có trình độ phù hợp, qua thi tuyển nội bộ đạt yêu cầu, hoặc do Công ty đề bạt.\n\n[QCL Điều 7]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-023",
+  "question": "Tiêu chí đánh giá KPI được chia thành những nhóm nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Tiêu chí đánh giá KPI chia thành 3 nhóm: Nhóm 1 gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất; Nhóm 2 gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI; Nhóm 3 là công việc trực tiếp do trưởng đơn vị giao (QCL Điều 8).",
+  "key_facts": [
+   "doanh số",
+   "03 chỉ tiêu",
+   "trưởng đơn vị giao"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 8": "Điều 8. Công ty quy định đánh giá KPI như sau\n1. Tiêu chí đánh giá: Tiêu chí đánh giá KPI được chia thành 3 nhóm:\na. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất\nb. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\nc. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\nd. Chi tiết bảng phụ lục 02 đính kèm.\n2. Tần suất đánh giá\na. Tuần suất đánh giá: tạm đánh giá hàng tháng và tổng kết đánh giá vào cuối năm.\nb. Thời gian tạm đánh giá: từ 01 – 05 hàng tháng, tổng kết đánh giá vào cuối năm dương lịch."
+  },
+  "answers": [
+   {
+    "key": "61f23f986701909d",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Các chỉ tiêu chung của Công ty (doanh số, lợi nhuận...).\n2. Nhóm 2: Các chỉ tiêu liên quan đến công việc (mỗi tháng có đủ 03 chỉ tiêu).\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n\nChi tiết cụ thể được quy định trong Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Phụ lục 2]."
+   },
+   {
+    "key": "87f5a29f7a264e56",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Các chỉ tiêu chung của Công ty (doanh số, lợi nhuận, giá vốn...).\n2. Nhóm 2: Các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu.\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n\nChi tiết các chỉ tiêu cụ thể cho từng nhóm được quy định trong Bảng phụ lục 02. [QCL Điều 8] [QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-025",
+  "question": "Ngày nghỉ lễ theo Bộ luật Lao động và ngày nghỉ phép năm được Công ty thanh toán lương như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ; nghỉ phép năm theo quy định của Bộ luật Lao động cũng được thanh toán bằng 100% tiền lương theo HĐLĐ (QCL Điều 14).",
+  "key_facts": [
+   "100%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 14": "Điều 14. Trả lương cho CNV hội họp, học tập, đi công tác\n1. CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt: chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác.\n2. Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ.\n3. Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\nNghỉ phép năm theo quy định của Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "8d6c31928df7dbf8",
+    "answer": "Ngày nghỉ lễ theo Bộ luật Lao động được thanh toán bằng 100% tiền lương theo hợp đồng lao động [QCL Điều 14].\n\nNgày nghỉ phép năm được thanh toán bằng 100% tiền lương theo hợp đồng lao động khi NLĐ nghỉ phép [QCL Điều 14]. Tuy nhiên, nếu NLĐ nghỉ phép chưa hết trong năm, phép được bảo lưu đến tháng 3 năm sau; nếu không nghỉ hết thì không được thanh toán trừ trường hợp NLĐ thôi việc hoặc bị mất việc làm [NQLD Điều 7]."
+   },
+   {
+    "key": "80de45e9a4790082",
+    "answer": "Theo Bộ luật Lao động, người lao động được nghỉ các ngày lễ và hưởng nguyên lương. Ngoài ra, người lao động còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\n\nVề nghỉ phép năm, người lao động làm đủ 12 tháng được nghỉ: 12 ngày (công việc bình thường), 14 ngày (người chưa thành niên, khuyết tật, công việc nặng nhọc/độc hại/nguy hiểm) và 16 ngày (theo trích đoạn).\n\nKhi nghỉ phép, nếu không đăng ký nghỉ mùa thấp điểm thì Công ty không thanh toán số ngày còn dư. Ngược lại, nếu lao động thôi việc hoặc mất việc mà chưa nghỉ hết phép năm, Công ty sẽ thanh toán bằng tiền những ngày chưa nghỉ."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-027",
+  "question": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng dựa trên cơ sở nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của Công ty; cơ cấu tổng quỹ phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương - thưởng (QCL Điều 9).",
+  "key_facts": [
+   "kế hoạch sản xuất kinh doanh"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "4283f0fa1fb42da6",
+    "answer": "Tổng quỹ lương - thưởng hàng năm được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của Công ty. Quỹ này bao gồm các thành phần: Quỹ lương công việc (gián tiếp, phục vụ, trực tiếp sản xuất), Quỹ lương - thưởng bổ sung (thưởng KPI, Lễ Tết, tháng 13, hiệu quả quý...), Quỹ lương chế độ và Quỹ lương hỗ trợ. Cơ cấu tổng quỹ phải được sử dụng đúng theo các quỹ hình thành nên nó [QCL Điều 9]."
+   },
+   {
+    "key": "6ac98ca4954cd726",
+    "answer": "Tổng quỹ lương - thưởng hàng năm được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty. Quỹ này bao gồm quỹ lương công việc (lương trực tiếp, gián tiếp) và quỹ tiền thưởng.\n\n[QCL Điều 9]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-028",
+  "question": "Tổng quỹ lương - thưởng hàng năm của Công ty bao gồm những quỹ nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Tổng quỹ lương - thưởng hàng năm gồm: a. Quỹ lương công việc (quỹ lương gián tiếp, quỹ lương phục vụ, quỹ lương trực tiếp sản xuất); b. Quỹ lương - thưởng bổ sung (thưởng KPI tháng; thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty; thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm); c. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…); d. Quỹ lương hỗ trợ (hỗ trợ xăng xe, đi lại...) (QCL Điều 9).",
+  "key_facts": [
+   "Quỹ lương công việc",
+   "thưởng bổ sung",
+   "Quỹ lương chế độ",
+   "Quỹ lương hỗ trợ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "394bd777c58e3a67",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm 4 quỹ chính:\n1. **Quỹ lương công việc**: Chia thành quỹ lương gián tiếp (Văn phòng, Chi nhánh), quỹ lương phục vụ (QC, cơ điện, thủ kho, lái xe...) và quỹ lương trực tiếp sản xuất (Quản đốc, Công nhân sản xuất, vệ sinh...).\n2. **Quỹ lương - thưởng bổ sung**: Dùng cho các khoản như thưởng KPI, Lễ Tết, sinh nhật, hiệu quả quý, tháng 13, hoàn thành/vượt kế hoạch năm.\n3. **Quỹ lương chế độ**: Bao gồm lương Lễ, Tết, phép năm, nghỉ hưởng lương, thai sản, ốm đau...\n4. **Quỹ lương hỗ trợ**: Dùng cho hỗ trợ xăng xe, đi lại... [QCL Điều 9]."
+   },
+   {
+    "key": "eaefa36fdf2e864f",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm:\n1. Quỹ lương công việc: Quỹ lương gián tiếp (lương CNV văn phòng, tăng thêm do vượt kế hoạch, dự phòng); Quỹ lương trực tiếp (lương cơ bản, hỗ trợ theo ngày công, thưởng KPI, thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng hoàn thành/vượt kế hoạch năm).\n2. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương...).\n3. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...).\n4. Quỹ khen thưởng: Hình thành từ lợi nhuận hàng năm để khen thưởng cá nhân/tập thể tích cực, đề xuất ý tưởng mang lại hiệu quả kinh tế, quy trình/chất lượng tốt hơn, tổ chức nghỉ mát và hỗ trợ thu nhập giảm sút.\n\nCác khoản thưởng của CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\n\n[TQCL Điều 9], [TULD Điều 16], [QCL Điều 10], [QCL Điều 21], [QCL Điều 22]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-029",
+  "question": "Quỹ lương công việc được chia thành những quỹ nào và mỗi quỹ trả lương cho đối tượng nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Quỹ lương công việc gồm: (i) Quỹ lương gián tiếp: lương cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh; (ii) Quỹ lương phục vụ: lương cho CNV tại các bộ phận QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…; (iii) Quỹ lương trực tiếp sản xuất: lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và công nhân Vệ sinh công nghiệp (VSCN), công nhân trực tiếp sản xuất (QCL Điều 9).",
+  "key_facts": [
+   "Quỹ lương gián tiếp",
+   "Quỹ lương phục vụ",
+   "Quỹ lương trực tiếp sản xuất"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "d4de923a8ca67f6f",
+    "answer": "Quỹ lương công việc được chia thành 3 quỹ chính theo quy định:\n\n1.  **Quỹ lương gián tiếp:** Trả lương cho Công nhân viên (CNV) làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh [QCL Điều 9].\n2.  **Quỹ lương phục vụ:** Trả lương cho CNV tại các bộ phận QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe... [QCL Điều 9].\n3.  **Quỹ lương trực tiếp sản xuất:** Trả lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất [QCL Điều 9]."
+   },
+   {
+    "key": "f59db4a29fa4a3a8",
+    "answer": "Quỹ lương công việc được chia thành 3 loại:\n1. **Quỹ lương gián tiếp**: Trả cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh [QCL Điều 9].\n2. **Quỹ lương phục vụ**: Trả cho CNV làm việc tại các bộ phận QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe [QCL Điều 9].\n3. **Quỹ lương trực tiếp sản xuất**: Trả cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp (VSCN) và Công nhân trực tiếp sản xuất [QCL Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-030",
+  "question": "Nếu nhân viên đã nộp đơn nghỉ việc và trong tháng chỉ làm việc được 40% thời gian thì có được thưởng KPI tháng đó không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. Với CNV có đơn nghỉ việc, thời gian làm việc của tháng ít hơn 50% thì không được tính thưởng KPI; từ trên 50% đến dưới 100% được tính thưởng KPI theo tỷ lệ; đủ 100% thì tính đủ thưởng KPI. Làm 40% thời gian nên không được thưởng KPI (QCL Điều 9).",
+  "key_facts": [
+   "50%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "8d52cb42940f7c59",
+    "answer": "Nhân viên nộp đơn nghỉ việc và làm việc dưới 50% thời gian trong tháng **không được tính thưởng KPI**.\n\nTheo Quy chế tiền lương (QCL), mức thưởng KPI được quy định cụ thể như sau:\n- Làm việc ít hơn 50% thời gian trong tháng: Không được tính thưởng KPI.\n- Làm việc lớn hơn 50% và nhỏ hơn 100%: Tính thưởng theo tỷ lệ thời gian làm việc.\n- Làm việc đủ 100%: Tính đủ thưởng KPI.\n\nNgoài ra, nhân viên có đơn nghỉ việc cũng không được xét thưởng KPI tháng đó.\n\n[QCL Điều 9]"
+   },
+   {
+    "key": "33297e7561fe5df1",
+    "answer": "Nhân viên nộp đơn nghỉ việc và làm việc 40% thời gian tháng đó **không được tính thưởng KPI**.\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, đối với nhân viên có đơn nghỉ việc:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc đủ 100% mới được tính đủ thưởng KPI.\n- Chỉ thời gian làm việc từ hơn 50% đến nhỏ hơn 100% mới được tính thưởng theo tỷ lệ.\n\nVì 40% nhỏ hơn 50%, nên không đủ điều kiện để nhận thưởng KPI cho tháng đó.\n\n[QCL Điều 9]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-031",
+  "question": "Nếu tôi đã nộp đơn xin nghỉ việc thì có được nhận thưởng Tết và thưởng bổ sung tháng 13 không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. CNV có đơn nghỉ việc không được xét thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty…; đối với thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm, tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc thì không được xét thưởng (QCL Điều 9).",
+  "key_facts": [
+   "không được xét thưởng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "f808a4a75ade0c1d",
+    "answer": "Nếu bạn đã nộp đơn xin nghỉ việc, bạn **không được** nhận thưởng Tết, thưởng bổ sung tháng 13 hay các khoản thưởng bổ sung khác.\n\nTheo quy định:\n- **Thưởng Tết, Lì xì đầu năm, Sinh nhật công ty:** Người lao động có đơn nghỉ việc không được xét thưởng [NQLD Điều 11].\n- **Thưởng bổ sung tháng 13, hiệu quả quý, hoàn thành/vượt kế hoạch:** Các khoản này thuộc Quỹ lương-thưởng bổ sung và không được xét cho người đã nghỉ việc hoặc có đơn xin nghỉ việc [QCL Điều 9].\n\nTài liệu chỉ ghi rõ trường hợp nghỉ việc không được xét thưởng, không có ngoại lệ nào cho các khoản này."
+   },
+   {
+    "key": "b2bde36ab6d8d954",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, nếu bạn đã nộp đơn xin nghỉ việc thì **không được** nhận thưởng Tết và thưởng bổ sung tháng 13.\n\nCụ thể:\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm và các ngày Lễ Tết: CNV có đơn xin nghỉ việc không được xét thưởng [QCL Điều 9].\n- Thưởng KPI tháng: Chỉ được tính theo tỷ lệ thời gian làm việc thực tế (ít hơn 50% không tính, từ 50-100% tính theo tỷ lệ) [QCL Điều 9].\n\nTài liệu không ghi rõ về các loại thưởng khác."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-034",
+  "question": "Nếu nhà máy phải ngừng việc 20 ngày làm việc vì sự cố mất điện không do lỗi của Công ty thì tiền lương ngừng việc được tính thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Đây là trường hợp ngừng việc trên 14 ngày làm việc do sự cố điện không do lỗi Công ty: tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu (QCL Điều 10).",
+  "key_facts": [
+   "14 ngày",
+   "mức lương tối thiểu"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 10": "Điều 10. Công ty áp dụng phương pháp tính lương như sau\n1. Phương pháp tính lương CNV gián tiếp, phục vụ: Trả theo mức lương cơ bản, hỗ trợ căn cứ vào ngày công làm việc trong tháng; Thưởng KPI căn cứ kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng.\n2. Phương pháp tính lương CNV sản xuất: áp dụng cho các đối tượng trực tiếp sản xuất từ cấp Quản đốc, Phó quản đốc, Thống kê, Trưởng ca trở xuống. Lương sẽ được xác định trên cơ sở sản lượng sản xuất và đơn giá sản phẩm, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n3. Lương bốc xếp: Áp dụng cho đối tượng bốc xếp. Lương được xác định trên cơ sở khối lượng bốc dỡ và đơn giá bốc xếp, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n4. Lương ngừng việc:\na. Nếu do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động.\nb. Nếu do lỗi của CNV thì CNV đó không được trả lương; những CNV trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu.\nc. Nếu vì sự cố về điện, nước mà không do lỗi của Công ty hoặc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa, di dời địa điểm hoạt động theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc vì lý do kinh tế thì hai bên thỏa thuận về tiền lương ngừng việc như sau:\ni. Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu.\nii. Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu."
+  },
+  "answers": [
+   {
+    "key": "ff76739a03b18c5c",
+    "answer": "Do sự cố mất điện không do lỗi của Công ty, tiền lương ngừng việc được tính như sau:\n\n- **Ngừng việc trên 14 ngày:** Hai bên thỏa thuận mức tiền, nhưng **14 ngày đầu tiên** phải trả không thấp hơn mức lương tối thiểu.\n- **Nguyên nhân:** Sự cố điện, nước không do lỗi Công ty thuộc danh sách nguyên nhân khách quan trong QCL Điều 10 và TULD Điều 5.\n\nNguồn: [QCL Điều 10], [TULD Điều 5]."
+   },
+   {
+    "key": "d823f8ad5dc47158",
+    "answer": "Trường hợp ngừng việc 20 ngày (trên 14 ngày) do sự cố điện không do lỗi của Công ty, tiền lương ngừng việc được tính như sau:\n\n- Hai bên thỏa thuận mức tiền lương ngừng việc.\n- Mức tiền lương ngừng việc trong 14 ngày đầu tiên phải không thấp hơn mức lương tối thiểu.\n- Đối với 6 ngày còn lại (từ ngày thứ 15 đến ngày 20), mức tiền lương ngừng việc phải bảo đảm không thấp hơn mức lương tối thiểu vùng áp dụng tại nơi làm việc.\n\nCác quy định này được nêu trong [QCL Điều 10], [QCL Điều 11], [TULD Điều 5] và [NQLD Điều 31]."
+   }
+  ]
+ }
+]

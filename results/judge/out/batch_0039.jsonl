@@ -1,0 +1,49 @@
+{"key": "9086879b57c28166", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; phần thôi việc được trả có trong NQLD Điều 7"}
+{"key": "a5c2dc88df4fb3ca", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; TULD Điều 5 chi tiết thêm liên quan"}
+{"key": "2d26e0783c4a0b87", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; trích dẫn thừa QCL Điều 12"}
+{"key": "87484df30eb8efa4", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng, bổ sung mùa thấp điểm có trong NQLD"}
+{"key": "772dd9c27b979d28", "qid": "QCL-067", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đúng ý chính; 'giữ nguyên quyền nghỉ năm kế tiếp' không có căn cứ"}
+{"key": "d13cd8b1c62aedce", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 28 tháng trước đúng"}
+{"key": "dcf1a64cd80f09d9", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 28 tháng trước đúng"}
+{"key": "9743088a30213858", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; NQLD Điều 7 trích thừa"}
+{"key": "3390aedb906090cf", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thiếu đăng ký lịch nghỉ; sai khi áp 2 tuần cho 4 ngày"}
+{"key": "b360626d4df1efde", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ban TGĐ duyệt, đăng ký lịch; đúng về 2 tuần"}
+{"key": "ee4e1ea5cf7c7ab7", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thiếu đăng ký lịch; sai khi bắt nộp trước 2 tuần"}
+{"key": "87fc589ebd4567c9", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có duyệt và đăng ký lịch nhưng sai: 4 ngày bị coi từ 5 ngày"}
+{"key": "de75ebd292a776bf", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; TULD Hội đồng khen thưởng kỷ luật có trong Điều 16"}
+{"key": "4e375e671aef67e8", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ ý, bổ sung đúng"}
+{"key": "66fb1a2729e88d09", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; trích Điều 17 sai số cho Hội đồng"}
+{"key": "af0e63ac68d6b037", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ ý"}
+{"key": "4a0796ae6b64e83e", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 mục; bổ sung TULD đúng"}
+{"key": "6b6766207f24cf04", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 mục"}
+{"key": "73bd2039602c0518", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 mục"}
+{"key": "0365014eb8f0ff5d", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 3 mục kèm mục TULD"}
+{"key": "a62e89eabfdf84fd", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 chương 23 điều 04 phụ lục, đơn vị phổ biến"}
+{"key": "821bf245d9e3b971", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ"}
+{"key": "bfd54dcc796c7005", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ"}
+{"key": "051bca20498b3982", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng đủ"}
+{"key": "e9a6daa8e0ac4185", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hiệu lực từ ngày ký, 26/04/2024"}
+{"key": "e1ef66562eb693bc", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "9cdc8b3c97dcccb7", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "a7f41a2fe80f0e75", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "6abcdfdcc88244d5", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "b4dd6b3f5ca72bf6", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, là Tổng giám đốc theo TULD"}
+{"key": "4902f4edbf87b07a", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "2c1e5796f1e2d591", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "abd0915be43de667", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng; chỉ trích 'Trích đoạn 1'"}
+{"key": "ccca92d2168177bd", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "26/04/2024 21:32:24 đúng"}
+{"key": "6da5f9d6f592a216", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng"}
+{"key": "5b9075bfc165df90", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15%; ghi chú Phó giám đốc 20% đúng"}
+{"key": "bec7b51a61f0bfb7", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15% đúng"}
+{"key": "e928b8d956fb55fa", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15%; phân biệt Phó giám đốc 20% đúng"}
+{"key": "40b45f734b341f8e", "qid": "QCL-077", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "15% đúng; giải thích chênh lệch gây hiểu nhầm, Điều 15 không nêu"}
+{"key": "534aa6f4bca6d7ad", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% đúng"}
+{"key": "413867e36b96e887", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% đúng"}
+{"key": "8d440612007bdf36", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% đúng"}
+{"key": "345d998b658a8a85", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% đúng"}
+{"key": "e968103847b2b1b9", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% đúng"}
+{"key": "7ad503f8bc2ed46f", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30% đúng; ghi chú trích đoạn khớp bảng"}
+{"key": "661d117b56e4c84a", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30% đúng; sai khi cho QTV1 gồm Giám đốc/Phó giám đốc"}
+{"key": "f92eea2378aebc89", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30% đúng"}
+{"key": "88128dfb84ae220b", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30% đúng; bịa 'Quản đốc' 20% trong nhóm Giám đốc sản phẩm"}
+{"key": "2c7149292f21947a", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30% đúng; sai khi xếp Quản đốc vào nhóm Ban Tổng Giám đốc"}

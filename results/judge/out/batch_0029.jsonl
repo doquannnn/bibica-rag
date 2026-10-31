@@ -1,0 +1,47 @@
+{"key": "617eecdf7112c091", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core Điều 19 duties present; extra Điều 13 items are real rules."}
+{"key": "d837b79561576bf1", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All Điều 19 duties plus responsibility; extras supported by Điều 13c, 14b."}
+{"key": "8c69fd8643e396e0", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core duties present; padded with loosely related rules; Điều 7 citation irrelevant."}
+{"key": "eceb568050915f47", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core duties and responsibility correct; Điều 27 citation slip."}
+{"key": "5860b5644809378c", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22; generic discipline remark acceptable."}
+{"key": "495346d6380474d9", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "d3d3fbab45329ca7", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "d44f36fb851091bf", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per Điều 22."}
+{"key": "ca8960f05be4c8bb", "qid": "NQLD-020", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; 'chiếm đoạt', 'cảnh cáo đến sa thải' consequence unsupported."}
+{"key": "92acfacd56093276", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "States NQLD defers to BLLĐ; QCL Điều 7 cases accurate."}
+{"key": "277ffeaea9f9f89a", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL Điều 7 cases plus BLLĐ reference; accurate."}
+{"key": "4bae8ac53337207a", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ reference plus accurate QCL Điều 7 cases."}
+{"key": "c8ef29b451204df1", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ reference and QCL Điều 7 cases correct."}
+{"key": "c90f96df90868e54", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both NQLD Điều 24 and QCL Điều 7 stated correctly."}
+{"key": "32d505587edfb642", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLĐ, no specific number in documents."}
+{"key": "39ac9643bad55097", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct BLLĐ reference; extra Điều 31 facts accurate."}
+{"key": "03763245f8b4dc30", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Điều 25 defers to BLLĐ."}
+{"key": "c2991957b0c980cd", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both authorities correct per Điều 27."}
+{"key": "517208c2d6ec911c", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct but cited Điều 29 instead of Điều 27."}
+{"key": "a434aaaca56c78b8", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both authorities correct per Điều 27."}
+{"key": "14090e88ee1484ec", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both authorities correct per Điều 27."}
+{"key": "057f3e08ff546fc1", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Điều 124 BLLĐ correct; 6/12-month periods accurate."}
+{"key": "8522e3b4f9d0001f", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, TGĐ correct; chunk citation unverifiable."}
+{"key": "5a2131c54d2ae2d8", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, TGĐ correct; chunk citation unverifiable."}
+{"key": "ac2476a28e4f8ae6", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng, TGĐ correct; chunk citation unverifiable."}
+{"key": "b3dc6480b3f86afd", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Name/date correct; cited Mở đầu/Điều 3 lack signature (Chương IX)."}
+{"key": "c5ff2c37fcfb705c", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "22/03/2024 22:45:07 correct, image cited."}
+{"key": "f0fa8e01a713463b", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "22/03/2024 22:45:07 correct."}
+{"key": "0279538a25311de5", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "22/03/2024 22:45:07 correct."}
+{"key": "526984f731654c52", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Date, time and signer correct."}
+{"key": "33b8748ecc2396ea", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Date, time, signer correct; no citation."}
+{"key": "e128c813710fd4a0", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts with correct times."}
+{"key": "c592d244d9cf0f85", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts with correct times."}
+{"key": "a56a6b31547ab3f0", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts with correct times."}
+{"key": "9ccb8f7a2813ea11", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct."}
+{"key": "031f0eb87e90076e", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct."}
+{"key": "79e7ef061ca479c0", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct; female extra break accurate."}
+{"key": "b4d8e35effe88379", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct."}
+{"key": "ce3df8b8c265c3fa", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days with conditions correct."}
+{"key": "cdb560776c596af9", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct; seniority bonus accurate."}
+{"key": "5af3587aa6fa169f", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct but cited QCL Điều 12 (overtime) instead of NQLD Điều 7."}
+{"key": "4c2c33d10e287cf8", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days with conditions correct."}
+{"key": "5b3444ec65db128b", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days, full pay; correct."}
+{"key": "ab8903f6778ed99c", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15 days, special 90 days; extras accurate."}
+{"key": "4ed40ca5c7d44729", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "States 15 normal, 90 special; accurate."}
+{"key": "c710fad5b898d8e1", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15/90 days and 50% advance correct."}
+{"key": "0b244d0f47ed4267", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15/90 days correct; extras accurate."}

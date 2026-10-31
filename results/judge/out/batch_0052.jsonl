@@ -1,0 +1,139 @@
+{"key": "3390aedb906090cf", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TGD duyet dung nhung thieu dang ky lich nghi; sai khi ap 2 tuan cho 4 ngay"}
+{"key": "51421e4859e1a0b2", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ban TGD duyet, dang ky lich phep, dung khong bat buoc 2 tuan"}
+{"key": "3d02fceff649e16e", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Co Ban TGD va dang ky lich nhung sai khi yeu cau don truoc 2 tuan"}
+{"key": "c9724d87c99e8f97", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Duyet dung nhung bao 2 tuan sai; thieu dang ky lich ro rang"}
+{"key": "7a6e76e2763ba4f1", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thieu dang ky lich nghi phep nam; sai quy tac 2 tuan cho 4 ngay"}
+{"key": "2db4294ec343379f", "qid": "QCL-069", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 2 tuan cho 4 ngay; co danh sach dang ky va TGD duyet"}
+{"key": "ac79a06cf5634db8", "qid": "QCL-070", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Du y chinh nhung noi quy hinh thanh tu cac khoan thuong TGD sai"}
+{"key": "c808d654e52dbba5", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung day du; bo sung Dieu 21 dung"}
+{"key": "86bad92efe9762ee", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung; bo sung TULD Dieu 16 Hoi dong khen thuong dung"}
+{"key": "67a11071320cbef5", "qid": "QCL-070", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung chinh; gan Dieu 21 cho TULD la sai attribution"}
+{"key": "298af622d9952f7b", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung day du"}
+{"key": "e7535d306fc21204", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung day du"}
+{"key": "de75ebd292a776bf", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung; neu them TULD Hoi dong khen thuong ky luat dung"}
+{"key": "6edcae7b852a9845", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "0a24889ba28cd92e", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "db7638e315335ca9", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "48c8f96b7c37b60a", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "b741ddb7968d7b84", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "4a0796ae6b64e83e", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Du ba truong hop dung; bo sung TULD dung"}
+{"key": "72831eceed1ebd37", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 05 chuong 23 dieu 04 phu luc, don vi pho bien"}
+{"key": "1979933cd4134729", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 05 chuong 23 dieu 04 phu luc, don vi pho bien"}
+{"key": "a008d0b486a226f3", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 05 chuong 23 dieu 04 phu luc, don vi pho bien"}
+{"key": "20bc35f75319d6e2", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 05 chuong 23 dieu 04 phu luc, don vi pho bien"}
+{"key": "39c52e1d4ebdab4b", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 05 chuong 23 dieu 04 phu luc, don vi pho bien"}
+{"key": "543dce8aeaa7eb30", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung; trich them Dieu 1 khong hai"}
+{"key": "a62e89eabfdf84fd", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung; trich them Dieu 1 khong hai"}
+{"key": "b172acd9a21c00d4", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024; Phu luc 3 trich thua"}
+{"key": "a6a00a5d800035fb", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024"}
+{"key": "a6ff981ad4e9ba01", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024"}
+{"key": "eb712ed72edea93c", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung; them noi dung Dieu 1 co that"}
+{"key": "98bb3f25800bdd07", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024"}
+{"key": "180e25f0af7a458c", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024; Phu luc 3 trich thua"}
+{"key": "e9a6daa8e0ac4185", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung hieu luc tu ngay ky 26/04/2024"}
+{"key": "4902f4edbf87b07a", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung Nguyen Quoc Hoang"}
+{"key": "cd3df6c796023232", "qid": "QCL-074", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Co ten dung nhung khang dinh nguoi ky la Tong Giam doc khong co can cu"}
+{"key": "2c1e5796f1e2d591", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung Nguyen Quoc Hoang"}
+{"key": "b4dd6b3f5ca72bf6", "qid": "QCL-074", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Neu ten dung nhung noi nguoi ky la TGD, trich Dieu 1 khong ho tro"}
+{"key": "8c8726a59c27ad37", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung 21:32:24 26/04/2024; chi trich dan doan"}
+{"key": "590701db57e48c0b", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 21:32:24 ngay 26/04/2024"}
+{"key": "ccca92d2168177bd", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 21:32:24 ngay 26/04/2024"}
+{"key": "766c28e49e427d02", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 21:32:24 ngay 26/04/2024"}
+{"key": "13b493c3e52c922e", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 15%"}
+{"key": "5b9075bfc165df90", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 15%; ghi chu Pho giam doc 20% dung"}
+{"key": "8fefb542cf431ff1", "qid": "QCL-077", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Khong tra loi 15%; noi dung khong lien quan"}
+{"key": "345d998b658a8a85", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "72f5b62d3ed41e6f", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "542cd40d22622ace", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "8d440612007bdf36", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "7145340560205663", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "534aa6f4bca6d7ad", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20%"}
+{"key": "ef76d29cfcbd159a", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung 30%"}
+{"key": "cc2ba28d64c89058", "qid": "QCL-079", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Neu 30% nhung de xuat them 40% nhu phuong an, sai"}
+{"key": "9ddab9daf6540c48", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 30%"}
+{"key": "fd1724925742203e", "qid": "QCL-079", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Khong tra loi ty trong KPI; noi dung lac de"}
+{"key": "5098b88664f3b327", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung 30% nhung noi QD/PQD khong co ty trong co dinh, sai"}
+{"key": "7ad503f8bc2ed46f", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 30%"}
+{"key": "d11212a33394ad5d", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35% (Pho Quan doc PX)"}
+{"key": "76254974c1aecaed", "qid": "QCL-080", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau tien 30% sai, sau do neu 35% co dieu kien; mau thuan"}
+{"key": "d3ece7601666524e", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35%"}
+{"key": "2a0b663a14c69a24", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35%"}
+{"key": "2c288b1795874728", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35%"}
+{"key": "287eff66e3f729fd", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35%"}
+{"key": "35a0b8dd5425e314", "qid": "QCL-080", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 30% sai; dung 35%"}
+{"key": "cd236586230203aa", "qid": "QCL-082", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung 40% nhung bia them bang phan bo nhom nhan vien dai hoc"}
+{"key": "75230ce3470c4a43", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 40%"}
+{"key": "dbccf3a7d0fa8058", "qid": "QCL-082", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Khong tra loi 40%; chi cong thuc KPI lac de"}
+{"key": "c421f07196a48ee4", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 40%"}
+{"key": "3d6d199bf4895e74", "qid": "QCL-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 40%"}
+{"key": "4580454966a516b6", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "e685d406c12a5367", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "922827cfbf047786", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "a8eac954b68fc7e6", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "64f0f64d35dffb3c", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "9d96fd686ea8f23c", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "81a4c5b25051dd23", "qid": "QCL-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 20% va 30%"}
+{"key": "fbd426b589f6f217", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 35%; them khoang 30-60 hoi mo ho"}
+{"key": "306b5d3e4beb9f1d", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 35%"}
+{"key": "b0363484cd8ad730", "qid": "QCL-084", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung 35%"}
+{"key": "478c621ac2bc8b79", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 30/10/40; dung 50/10/60"}
+{"key": "cc4ec99cbd04f2f6", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 20/10/30; dung 50/10/60"}
+{"key": "7ac2de3cfc080a53", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 30/10/40; dung 50/10/60"}
+{"key": "6c984f945c778f2f", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: dung 50/10/60 cho KSCN/NV VP"}
+{"key": "7bca1ee0545c55e4", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: dung 50/10/60 cho KSCN/NV VP"}
+{"key": "ae94c64a70ba7cd1", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: dung 50/10/60 cho KSCN/NV VP"}
+{"key": "83cb9224c8f2d726", "qid": "QCL-085", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: dung 50/10/60 cho KSCN/NV VP"}
+{"key": "9425c681fbc80148", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khong neu BTGD nhom 2 la -, nhom 3 la 10; noi co nhom 2"}
+{"key": "c21f03231253d900", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: noi BTGD khong co ty trong KPI trong Phu luc 2"}
+{"key": "1d70229949932211", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: noi BTGD co 03 chi tieu nhom 2; khong dua so"}
+{"key": "84599a28c00187c5", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "So sai: nhom 3 15/20, tong 25/35"}
+{"key": "bf239dae878cbdcc", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "So sai: nhom 3 15/20, tong 25/35"}
+{"key": "60e0ea5c7cd496fb", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "So sai: nhom 2 va nhom 3 20%"}
+{"key": "380f75b3053f291a", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "So sai: Pho TGD nhom 2 15, nhom 3 20, tong 35"}
+{"key": "c5b16308b4478f01", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhom 2=30 dung cho QD; Pho QD 35/45 sai; tong 40 chi cho QD"}
+{"key": "79633a3b41498426", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai nhom 3 40 va tong 70"}
+{"key": "75f02e498898f307", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Nhom 2=30 dung nhung tong 70 sai; trich dan loi"}
+{"key": "af90ce6b5d9ed10f", "qid": "QCL-087", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nhom 2=30, tong 40 dung"}
+{"key": "8f768ed300766d3d", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhom 2=30 dung nhung tong 60 sai"}
+{"key": "2daf7eff50dd58e9", "qid": "QCL-087", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tong 60 sai; khong neu ro nhom 2=30"}
+{"key": "28812f18291938b0", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhom 2=30 dung nhung tong 60 sai"}
+{"key": "c30f8dea8f84cdfb", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 60/40, +/-1 diem, <90%, thang vuot KH"}
+{"key": "3ea82b892085a9a1", "qid": "QCL-089", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung diem nhung noi khong dat KH thi luong thang 14 sai"}
+{"key": "3bf19363b508610d", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du, gom 100 diem la thang 14"}
+{"key": "8fff1e6a8cce5517", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du, gom 100 diem la thang 14"}
+{"key": "2d788536ed10aa74", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du dung"}
+{"key": "9b683df4373d43e2", "qid": "QCL-089", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung 60/40, +/-1 diem, <90%, thang vuot KH"}
+{"key": "466ae0422a1c48b1", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung thang 18"}
+{"key": "7d678d81655e7fff", "qid": "QCL-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung thang 18"}
+{"key": "29ddba9fb7a49b12", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Day du 1/2 thang, cong thuc, thanh phan LCV"}
+{"key": "3c9432392e7bfa8f", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du dung"}
+{"key": "bc3eeeda1b46443f", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du dung"}
+{"key": "96450baadb3ab8ae", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du dung"}
+{"key": "c541cf9754977d09", "qid": "QCL-093", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Day du dung"}
+{"key": "ee3e1a6c9caa0fa0", "qid": "QCL-093", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thieu muc 1/2 thang luong cong viec"}
+{"key": "922fb21f2c91cc16", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem 106 sai (dung 108); khung thang 15/16 dung"}
+{"key": "19b403446c0dd294", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem sai va tinh toan mau thuan; thang 15,16 dung"}
+{"key": "f08cc831d6994694", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem 106 sai (63.6/39.2); thang 15,16 dung"}
+{"key": "a4d3a02f50363801", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem 106 sai; khung 15-16 va muc ca nhan dung"}
+{"key": "d0c6b980a4fc8cb7", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem sai va tu mau thuan; thang 15,16 dung"}
+{"key": "2abccffe0adbc6ef", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Diem 106 sai (dung 108); thang 15,16 dung"}
+{"key": "573cb5c5d90a109c", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "c3b6bb37495290f5", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "bf1ae2a4d2dc2149", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "4f0787ecac8ace11", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "d1e5aa043c7a2006", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "a238ccc0a2ad34ba", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "d928c0ab35ad80a4", "qid": "QCL-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung: khong, loi nhuan 88% duoi 90%"}
+{"key": "3cef47e15a4f6ee7", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "3a0ec46b2adbc282", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "795b62291f40674c", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "560d75a9447d1b15", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "06cf76f97863f472", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "3dff24605e392ca9", "qid": "QCL-096", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc va toi da 40 diem dung"}
+{"key": "cba29d46fc481360", "qid": "QCL-097", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ket qua 10 dung nhung dien giai So de xuat >=03 sai"}
+{"key": "5727eb5150be2a4f", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 5 diem sai; dung 10"}
+{"key": "64217bf05077b7e0", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 5 diem sai; dung 10"}
+{"key": "345806a1c1d10892", "qid": "QCL-097", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ket qua 10 dung nhung dien giai nhieu doan sai"}
+{"key": "77447f3f854423e4", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 15 diem va 45 sai"}
+{"key": "ee0445bb719fb134", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 5 diem sai; dung 10"}
+{"key": "3f101c8f6b9e8914", "qid": "QCL-097", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tra loi 2 diem sai; dung 10"}

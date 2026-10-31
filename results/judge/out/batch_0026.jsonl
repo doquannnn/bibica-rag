@@ -1,0 +1,58 @@
+{"key": "73d3b37b3a30661f", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD Đ8, 60 phút, tháng thứ 7, đi làm sớm sau 04 tháng đều đúng."}
+{"key": "e034fd03e587c29c", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ TULD Đ8, 60 phút/ngày, tháng thứ 7; thai sản theo BHXH."}
+{"key": "e3343e570493ba8c", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng các ý chính; lặp ý làm thêm giờ."}
+{"key": "86ef20289057d80f", "qid": "MULTI-017", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nêu sai TULD chỉ có Đ4 (bỏ Đ8); trả lương đi làm sớm không theo BHXH."}
+{"key": "a863b86ac503661b", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ; thêm trợ cấp thai sản QCL Đ13 đúng."}
+{"key": "24aa8f231adf319a", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có thỏa thuận BCH, Người đại diện pháp luật; thiếu 05 ngày, Chủ tịch CĐ."}
+{"key": "ce4fef6d7d75370e", "qid": "MULTI-018", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Có 05 ngày; thiếu Người đại diện pháp luật; tham khảo CĐ là cho tạm đình chỉ."}
+{"key": "9beec21daa1e7191", "qid": "MULTI-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ TULD Đ4 kể cả ngoại lệ Đ8; 05 ngày, biên bản, Người ĐDPL."}
+{"key": "af9008201f442108", "qid": "MULTI-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ thỏa thuận BCH/cấp trên, 05 ngày làm việc, Người đại diện pháp luật."}
+{"key": "9514eb5082230fc4", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD đầy đủ, Người ĐDPL; thiếu trình tự kỷ luật, 05 ngày."}
+{"key": "09eda9d6d80f11d5", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu mức tối đa 03 tháng tiền lương; phần trừ lương đúng."}
+{"key": "dac4911b5cd2015d", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ 03 tháng lương, 10 tháng LTT vùng, khấu trừ hàng tháng, ngoại lệ."}
+{"key": "a5bcf325f6f5699a", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu mức tối đa 03 tháng tiền lương."}
+{"key": "b4f9a28536a947aa", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu 03 tháng tiền lương; bỏ qua TULD Đ15/QCL Đ16 về trừ lương."}
+{"key": "dc9e2832ae319c91", "qid": "MULTI-019", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ghi 'bồi thường toàn bộ' thay vì một phần hoặc toàn bộ."}
+{"key": "76556d4a10e79bcf", "qid": "MULTI-020", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD, NQLD đúng; sai QCL theo đăng ký Sở; thiếu ngày ký."}
+{"key": "e0425d7c9c2899a7", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD, NQLD đúng; nói QCL không có thông tin dù Đ23 có."}
+{"key": "9d4ffb245cd36c8f", "qid": "MULTI-020", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai QCL theo đăng ký Sở; nói không có ngày ký là sai."}
+{"key": "fc811c7315c58a5d", "qid": "MULTI-020", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD hiệu lực khi được thừa nhận là sai; QCL bị bỏ."}
+{"key": "637d2d4da24ca0ea", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD, NQLD đúng; QCL nói không có thông tin; thiếu ngày."}
+{"key": "9c49ab1b23f8be90", "qid": "MULTI-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng BLLĐ cho TULD/NQLD; thiếu QCL và dẫn chiếu lẫn nhau."}
+{"key": "83a9458e66694832", "qid": "MULTI-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD/NQLD đúng, có dẫn chiếu lẫn nhau; thiếu QCL; Điều 9 nhầm Chương IX."}
+{"key": "5c2f1908d55fe839", "qid": "MULTI-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ cả ba về BLLĐ và dẫn chiếu; nhầm Điều 27 thay Chương IX."}
+{"key": "4e6f661b59ed89cf", "qid": "MULTI-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ TULD Đ1, NQLD Đ3, Chương IX, BLLĐ chung."}
+{"key": "700279434e7464a7", "qid": "MULTI-022", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu điều kiện TULD Đ2 nhưng không kết luận cho QCL/NQLD."}
+{"key": "aa880b2c2d10fccf", "qid": "MULTI-022", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Điều kiện đúng; gán sai TULD Đ16 là không coi NQLD là một phần."}
+{"key": "4a8700af8039afea", "qid": "MULTI-022", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu điều kiện nhưng không kết luận cụ thể."}
+{"key": "b74ab33a88b5a4b0", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Có, với điều kiện thông qua CĐ và không trái pháp luật."}
+{"key": "28c1220e297b31b9", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kết luận đúng có điều kiện; diễn giải TULD Đ1 hơi lủng củng."}
+{"key": "89e0ba2f568b51bf", "qid": "MULTI-023", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nói không quy định điều chỉnh lương, bỏ qua QCL Đ7."}
+{"key": "1f28fb3485d4d11b", "qid": "MULTI-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% học phí, chuyển đổi lương QCL Đ7, khấu trừ bồi hoàn, 02 năm."}
+{"key": "1f4cab84fef2f4eb", "qid": "MULTI-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ba ý; không nêu số 02 năm cam kết."}
+{"key": "c0a64d6cfac9db79", "qid": "MULTI-023", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai: lương không điều chỉnh, dẫn TULD Đ12 thay QCL Đ7."}
+{"key": "c158f9a1746b083c", "qid": "MULTI-024", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ghi 1% BHXH thay BHTN; thưởng chỉ sinh nhật, bỏ Lễ/Tết."}
+{"key": "a8a4d6800dcb93ed", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85%, 1% bảo hiểm=100%, 100.000đ, phải chấp hành NQLD/TULD."}
+{"key": "0b92e7b8b755513c", "qid": "MULTI-024", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thưởng chỉ nêu sinh nhật Công ty, thiếu Lễ, Tết."}
+{"key": "da0ec793172133b5", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ lương, thưởng, nghĩa vụ chấp hành."}
+{"key": "65283f14cb53d41e", "qid": "MULTI-024", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thưởng thiếu Lễ, Tết; dẫn TULD Đ1 thay Đ2."}
+{"key": "4f267b48f0831bac", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không nêu công ty hay người ký cụ thể nào."}
+{"key": "6166fd9c3657d383", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD: Pan, chức danh ký; thiếu tên, thiếu Bibica cho QCL/NQLD."}
+{"key": "62145b962e791433", "qid": "MULTI-025", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD đủ tên, Pan; QCL/NQLD không trả lời, gán sai TULD Đ1."}
+{"key": "806e34b663bbc47b", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD, NQLD đúng; QCL nói không có thông tin, thiếu Bibica."}
+{"key": "bb790b9b894eca31", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Chỉ NQLD có người ký; TULD, QCL mơ hồ, thiếu Pan/Bibica/Thiện."}
+{"key": "6783b601cdc714fd", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ điều kiện đi làm sớm và trợ cấp kể cả mục 14 ngày."}
+{"key": "4f2d79069e1e1e9c", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thiếu điều kiện nghỉ ít nhất 04 tháng."}
+{"key": "d09eb330cfdcd2f0", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ điều kiện và trợ cấp."}
+{"key": "7955dc0e52de9afd", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đầy đủ 04 tháng, 07 ngày, giấy xác nhận, trợ cấp."}
+{"key": "8ce1f0fb514cc632", "qid": "MULTI-026", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thâm niên dưới 3 năm ghi 1% BHTN thay vì BHXH."}
+{"key": "9f229dac9d4226f7", "qid": "MULTI-028", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Phủ nhận khấu trừ phúng điếu, trái QCL Đ16/TULD Đ15."}
+{"key": "68dd2208c0a50be6", "qid": "MULTI-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng khấu trừ theo TULD Đ15/QCL Đ16 và mượn xe 100 km."}
+{"key": "5e7d612edf9087ed", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gán đám tang vào bồi thường thiệt hại; BHYT 4,5% sai; Phụ lục 2 sai."}
+{"key": "fb25e1c06b3eb9b7", "qid": "MULTI-028", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Phần khấu trừ đúng; nói không có hỗ trợ, bỏ mượn xe."}
+{"key": "e436ab5d56f474bd", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Khấu trừ đúng; hỗ trợ khi có người mất bị bịa."}
+{"key": "e6e79818aa66cb65", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng 48 giờ/tuần; thiếu ngày nghỉ hàng tuần."}
+{"key": "3cf4ec6729f67459", "qid": "MULTI-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1 ngày/tuần, ít nhất 4 ngày/tháng, 48 giờ/tuần."}
+{"key": "0584a713ac7665ce", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ có 48 giờ/tuần; thiếu ngày nghỉ."}
+{"key": "00ecb0b01db9e4f7", "qid": "MULTI-029", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thiếu ngày nghỉ; gán nội dung TULD Đ7 cho NQLD Đ7."}
+{"key": "921e26a4f481634d", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chỉ có 48 giờ/tuần; thiếu ngày nghỉ hàng tuần."}

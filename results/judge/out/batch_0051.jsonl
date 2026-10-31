@@ -1,0 +1,145 @@
+{"key": "8d15e66c49eb7bc5", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "cb34ff61b6bf33ac", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "13ff15dc593b60e6", "qid": "QCL-041", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi tai lieu thong nhat cho QTV la sai"}
+{"key": "71897b0f9fefbf7d", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b2bc2870fee8b930", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4bb937ae172ffa57", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d4b8d4844e49e109", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "3dcf3165be2536f4", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "075c8ced33feebd4", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "0c98528c18400eea", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "23dbe99bb7b79dc3", "qid": "QCL-042", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tach nhan vien thuong/QTV sai, lam mo ket luan"}
+{"key": "bcf56413ede7f4d2", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b22fae592b9fb4a4", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d414a60adbff8936", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "9b9c38f58cebab59", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "ac089b66c8cbdfe0", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "efe39066930bb523", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "5186e978a5979318", "qid": "QCL-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Giai thich BHTN la bao hiem thai san sai"}
+{"key": "72fb4ceb81f0af1e", "qid": "QCL-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Giai thich BHTN la bao hiem thai san sai"}
+{"key": "4cc3cc3e36c15c79", "qid": "QCL-044", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Giai thich BHTN la bao hiem thai san sai"}
+{"key": "0e5207be2f12de26", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "95a3cfc029914475", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4fad5e9d01f044a1", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "5eb212dec9a94ccd", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d8a3c387f6276d85", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b42688b2c53e9294", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a3209c4c560e5c50", "qid": "QCL-045", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi TULD Dieu 11 quy dinh tuong tu la khong co"}
+{"key": "5eb591e094a90675", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "0b30f6a04242914b", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "58728d8931281d7b", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "0b0f41bcd31036ec", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b1f30d14358f81de", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a324cfe4c7506963", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "329e9d515ed90968", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "1154fc2b5df35c48", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a30476afebd2e425", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "690b8b588861ae34", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "6e23b6807bbcd85f", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "5eed72c09d9c9adf", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "389f1311eab56496", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "fa36ab2cb437fcaf", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d8e5bc89fec1c922", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "e6d037c353aa88ce", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a39e9b433ed4e422", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "3cc4afd720e22160", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "1b4be169dca62359", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "00cef0390aeca7e7", "qid": "QCL-048", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Gan ty le QTV2/NV cho Pho TGD/Bi thu, bia dat"}
+{"key": "819b7b4db2d4149a", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "0ccfce213ca8ce40", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "6ea0fc30680e30ce", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "5b3af1e5d0c2068a", "qid": "QCL-049", "correctness": 0, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Noi van ban khong quy dinh ty le; sai, Dieu 15 co 60%, 10-40%"}
+{"key": "af637430a2578014", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "9f1844acf18a4946", "qid": "QCL-049", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi chiem tong thu nhap, sai ban chat LCV"}
+{"key": "a526336b9ce56798", "qid": "QCL-050", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khong liet ke cac yeu to Dieu 15"}
+{"key": "5ce2ebaf5a49a675", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chi nhac ngay cong thuc te, thieu cac yeu to khac"}
+{"key": "5002f73703968ac1", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chi nhac ngay cong thuc te, thieu phan lon"}
+{"key": "d8499bcc43c08316", "qid": "QCL-050", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khong liet ke cac yeu to"}
+{"key": "9d5878591e84b0b2", "qid": "QCL-050", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khong liet ke cac yeu to"}
+{"key": "82800edd403c898e", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Chi nhac ngay cong thuc te"}
+{"key": "b94b574f6a4a31a3", "qid": "QCL-050", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Chi nhac ngay cong; KPI la phan con lai sai"}
+{"key": "3b62961d7ee1f878", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "13e030d21aa51fe7", "qid": "QCL-052", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Noi khong quy dinh; bo sot Dieu 15, ket luan gan dung"}
+{"key": "24541bd71760c54b", "qid": "QCL-052", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Khong tra loi; suy dien tang luong anh huong"}
+{"key": "125ef1970ac9653b", "qid": "QCL-052", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai: noi KPI tinh lai theo luong moi"}
+{"key": "cc8f6d36260d81af", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Noi tai lieu khong co thong tin, bo sot Dieu 15"}
+{"key": "b983dffe26a8b3a3", "qid": "QCL-052", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Noi khong co co che truc tiep, khong neu Dieu 15"}
+{"key": "a8e025dde7c47a66", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Tu choi du dap an co trong Dieu 15"}
+{"key": "c5b46eb8d2bca765", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai 6.24.000.000, noi khong tinh duoc"}
+{"key": "ca1fbfbf62938bca", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai 7.800.000"}
+{"key": "34ccdcf90f14cb08", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai 7.800.000"}
+{"key": "f0be5c72b76303d4", "qid": "QCL-053", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai 7.680.000 sai, phep tinh cuoi 7.200.000"}
+{"key": "91cbbec5e219fd83", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai 7.800.000"}
+{"key": "6d96ad48dbd565bf", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Sai 7.800.000"}
+{"key": "4780796d4b020258", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cong thuc dung nhung ket qua 6.24.000.000 sai"}
+{"key": "c47497ab2b4e244f", "qid": "QCL-054", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "700.000 dung; ap sai quy tac KPI 50% vao day"}
+{"key": "0a5c6b135f7017a9", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "3a6c1298b2e740a6", "qid": "QCL-054", "correctness": 1, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "700.000 dung; khau tru BHYT 4,5%, dien thoai khong co"}
+{"key": "60ffbf7acd51ebed", "qid": "QCL-055", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi To pho 900.000 sai, la 800.000"}
+{"key": "110d4244dfeb133d", "qid": "QCL-055", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi To pho 900.000 sai, la 800.000"}
+{"key": "ed5206aba801ee2d", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 900.000 sai, sau moi nhac Tp 800.000 mau thuan"}
+{"key": "317e31617d1de155", "qid": "QCL-055", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi To pho 900.000 sai, la 800.000"}
+{"key": "e0ea5105a9da58ca", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 900.000 sai, sau moi nhac Tp 800.000 mau thuan"}
+{"key": "f805af0312265c23", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 900.000 sai, sau moi nhac Tp 800.000 mau thuan"}
+{"key": "f2b2167ccdfc8b8b", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 900.000 sai, sau moi nhac Tp 800.000 mau thuan"}
+{"key": "64ea20cc0e85de62", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "8d03476de330775a", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 2.300.000"}
+{"key": "c463383999d5d7b5", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4a7c31cd50b95e75", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tinh 828.000 nhung ket luan 900.000 sai"}
+{"key": "ef1187dae6206aca", "qid": "QCL-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 900.000 sai, cuoi 828.000"}
+{"key": "3517b0191fbabda8", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ket luan 900.000 sai"}
+{"key": "d1e2b75d66e7224a", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4a27ff61b1cbac89", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "6526295e1a1b5607", "qid": "QCL-058", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi van duoc huong nhung 0 dong, mau thuan"}
+{"key": "3099ac4944d15503", "qid": "QCL-058", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Noi van duoc huong neu nghi <15%; sai"}
+{"key": "b2825efec11f01f9", "qid": "QCL-058", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Noi van duoc huong; sai"}
+{"key": "4332d3d4053e5406", "qid": "QCL-058", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Noi van duoc huong neu nghi <15%; sai"}
+{"key": "59eead7790f4531e", "qid": "QCL-058", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Noi van duoc huong nhung 0 dong, mau thuan"}
+{"key": "a7eb157f623ce49b", "qid": "QCL-058", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung 0 dong nhung them ngoai le bia dat"}
+{"key": "dcffbe7abd8486dc", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 500.000; cong thuc bo sot"}
+{"key": "c46d98d86bc73699", "qid": "QCL-059", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau 500.000 sai, tinh 600.000 roi cut"}
+{"key": "018d97590a98be82", "qid": "QCL-059", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khong ra 600.000; nhan ngay cong sai; thoi diem dung"}
+{"key": "6ef7f47b1527040d", "qid": "QCL-059", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Co 600.000 nhung nhan ngay cong, 500.000 thuc nhan bia dat"}
+{"key": "430dcad2da041100", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 500.000/50 thang, khong duoc nhan"}
+{"key": "b30b3741fbea4363", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sai 500.000/50 thang, khong duoc nhan"}
+{"key": "81f6bbe22ce11ca2", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "aa5ed88a7d503f81", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4fed25a6927bfd03", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "957f0968586de220", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "8dff6b6ce309d67b", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "e99110520ab4745d", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "d89c87cd88be5de3", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "132cea6f95b09771", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "33df9e7bb7ac5cea", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "1f8ac3f3154d58f7", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "e74646079379422d", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "355ff04d61b1db97", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dau bai so sai, phep tinh cuoi ra 58"}
+{"key": "c097e62613a2f62b", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "ccdd18cff05af509", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "da215752555ec0ad", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "c1668d652c32433e", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a4a94fa5e7264f1d", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "7e680e23358a6137", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "737519d264498eb3", "qid": "QCL-065", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dung; NQLD Dieu 32 khong ve tranh chap"}
+{"key": "41514d076c07a7ff", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "f1caefd006714434", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d070ded56a19335a", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "e47e0ad4b08577af", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b064356cbf39c61e", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "74fe01753e7f803f", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "283d912cdbb12935", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "b923d7edaa199393", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "579eef76ad318b96", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "4bc467aac74cc54d", "qid": "QCL-066", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gan quy tac KPI cho thuong vuot KH sai"}
+{"key": "baa984a2af55349d", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "9086879b57c28166", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "9505d144f4f58874", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d6d803f64f3a5e87", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "55e1b0bb1d6f5dc2", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "a6a4c9a5bb8bb920", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "ca941d97c24a69c1", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "880ab7b102ef4f50", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "95ddbfc9c8c9d6f9", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "95cf6a10a7f5b052", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "7cef38d31aac6c36", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}
+{"key": "d13cd8b1c62aedce", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dung theo QCL"}

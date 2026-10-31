@@ -1,0 +1,40 @@
+{"key": "2dbfb51a2258947a", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete; extra QCL Điều 10 fault rule supported."}
+{"key": "243be3bc9e0068fb", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and accurate per TULD Điều 5."}
+{"key": "0b21777e3e584951", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nhắc nhở correct; NQLD Điều 28 khiển trách comparison supported."}
+{"key": "c720b92e1ca50cb0", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: first violation gets nhắc nhở."}
+{"key": "25237feb2bcff30a", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day; QCL ngày 15 comparison accurate."}
+{"key": "72440fec0bb15a39", "qid": "TULD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct next working day rule, TULD Điều 9."}
+{"key": "5dd5950531f70206", "qid": "TULD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% BHXH over 6 months correct; extras from QCL Điều 13 supported."}
+{"key": "d891ba801913dc56", "qid": "TULD-030", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Main correct; 14-day 1% BHTN rule misattributed to TULD (it is QCL)."}
+{"key": "686f3c20670db732", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% học phí, 02 năm commitment; refund via TULD Điều 15 supported."}
+{"key": "e10ce9dfcac73caa", "qid": "TULD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and accurate per TULD Điều 6."}
+{"key": "de96650b8b86eb25", "qid": "TULD-032", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits Hội đồng hòa giải cơ sở step."}
+{"key": "2abe8829e9293752", "qid": "TULD-032", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All elements present; minor extra citation slips."}
+{"key": "4bf2d64cc814f3ac", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four deduction groups listed; QCL note accurate."}
+{"key": "b1e3bc6e246bb94c", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list; spurious Điều 16 mention minor."}
+{"key": "7b576726e819372a", "qid": "TULD-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Four items present; income-drop support wrongly put in TULD, học phí claim wrong."}
+{"key": "9014243013286c07", "qid": "TULD-034", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Missing mượn xe and du lịch; several wrong article numbers."}
+{"key": "d3c0ae49dd8f35c0", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases correct."}
+{"key": "6fd972f666998131", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three bases correct; extra note from Điều 3."}
+{"key": "18984dd20b6f9ad2", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete per TULD Điều 2."}
+{"key": "d10576713162b0d6", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete per TULD Điều 2."}
+{"key": "670da9a90af9b8c0", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full data list; NQLD Điều 17 note supported."}
+{"key": "6720b27b8485776b", "qid": "TULD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full data list correct."}
+{"key": "2de54d54ddf4e838", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core three factors present; extra QCL KPI detail supported."}
+{"key": "b911c54807449349", "qid": "TULD-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three factors correct; QCL Điều 9 note accurate."}
+{"key": "35e361cbd96ace18", "qid": "TULD-040", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Tái ký correct; added unstated rule about not re-signing after discipline."}
+{"key": "42bfa9db253432cd", "qid": "TULD-040", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Answers about job abandonment; misses tái ký rule."}
+{"key": "3d4ace8f91c840c2", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100 km, xăng dầu, relatives correct."}
+{"key": "1bf16c0cb95cb8e4", "qid": "TULD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100 km and fuel costs correct."}
+{"key": "b920e09e83f5f1ae", "qid": "TULD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "01 lần, chi tùy KQSXKD; QCL Điều 21 note supported."}
+{"key": "2407e3b0ec61f65b", "qid": "TULD-042", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Main correct; extra QCL birthday claim garbled/misstated."}
+{"key": "398b6606dbf88cf9", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mentions Điều 8 but misstates maternity tiers (1% BHXH tied to 3 years)."}
+{"key": "cd82f1d4a2fb315b", "qid": "TULD-044", "correctness": 0.5, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Maternity tiers correct; omits Điều 8 Nội quy/pháp luật reference."}
+{"key": "1ec55aac7f580915", "qid": "TULD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Consent, data list, company commitment correct."}
+{"key": "b8a17e137580b360", "qid": "TULD-046", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly claims no information; misses TULD Điều 18."}
+{"key": "2f2bc7e2b5e474f9", "qid": "TULD-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tỷ lệ số tháng thực tế correct; Phụ lục 3 details supported."}
+{"key": "a141ddf7d28ea510", "qid": "TULD-047", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although TULD Điều 14 answers it."}
+{"key": "1f0d0b1c300cba72", "qid": "TULD-048", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Pan identified; falsely says TULD signed at Bibica per Điều 19."}
+{"key": "8437f4b24a205865", "qid": "TULD-048", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Pan correctly identified; excerpt citations unverifiable."}
+{"key": "91073d98444c2cab", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Điều 1 scope and fallback clause correct."}
+{"key": "9d6bc8934bf0c2ff", "qid": "TULD-050", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct; most citations (QCL 12, NQLD 7, TULD 4) irrelevant."}

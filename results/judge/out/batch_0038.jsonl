@@ -1,0 +1,56 @@
+{"key": "a8e025dde7c47a66", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Says documents silent; Điều 15 says only base salary rises, KPI bonus not adjusted."}
+{"key": "c28c509d2fa0f279", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims no info; misses Điều 15 rule."}
+{"key": "c61aa7907966b9e0", "qid": "QCL-052", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Conclusion (only base pay rises, KPI not) right but hedges 'no specific rule'; misses Điều 15."}
+{"key": "b1fe48e51f660276", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says no info; misses Điều 15."}
+{"key": "7d17f7e447681372", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says cannot affirm; misses Điều 15 rule."}
+{"key": "4780796d4b020258", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Result '6.24.000.000' garbled and wrong; correct is 7.200.000."}
+{"key": "01b3a1e112733526", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Right formula, wrong arithmetic: 6.240.000 instead of 7.200.000."}
+{"key": "10e3328618cdd34c", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong result 7.560.000; correct 7.200.000."}
+{"key": "0b9e75961adc0cde", "qid": "QCL-053", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses though Điều 16 gives the formula."}
+{"key": "0c71e535283c5b04", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong arithmetic: 7.680.000 instead of 7.200.000."}
+{"key": "0a5c6b135f7017a9", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "700.000đ/tháng, correct."}
+{"key": "c4976cada22d219c", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "cbe72a988591eef2", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with accurate extra conditions."}
+{"key": "75bb86ef5631993d", "qid": "QCL-055", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives Tổ trưởng 900.000 instead of Tổ phó 800.000; irrelevant claim."}
+{"key": "c70919305b48118f", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Confused: states 900.000 then 800.000 for Tổ phó, ambiguous."}
+{"key": "e1ae40df05616686", "qid": "QCL-055", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Lists Tổ phó 800.000 correctly; wrongly says LT50 is ngày lễ."}
+{"key": "355827113d6afec1", "qid": "QCL-055", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Leads with 900.000, muddled; 800.000 mentioned for Tổ phó."}
+{"key": "32546bf9cc5cf386", "qid": "QCL-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổ phó 800.000 correct."}
+{"key": "d1e2b75d66e7224a", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct, cap noted."}
+{"key": "64ea20cc0e85de62", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct."}
+{"key": "1199776b6bc10961", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct."}
+{"key": "489b4c69bde7f343", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Formula right but result 882.000 wrong."}
+{"key": "1cc0bb3435d8be8e", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct."}
+{"key": "a7eb157f623ce49b", "qid": "QCL-058", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 0 đồng but adds unsupported claim of other supports if 85% met."}
+{"key": "e2262955859031f0", "qid": "QCL-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "'Vẫn được hưởng nhưng 0 đồng' contradictory; amount 0 correct; NQLD cite irrelevant."}
+{"key": "6043e31187034f56", "qid": "QCL-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "'Vẫn được hưởng nhưng 0 đồng' contradictory wording; amount 0 right."}
+{"key": "c35cec299b5c28b0", "qid": "QCL-058", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Claims no specific rule; Điều 16 says 0 đồng; irrelevant NQLD overtime."}
+{"key": "bb50d93c1d03a898", "qid": "QCL-058", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct 0 đồng but invents 85% reasoning for it."}
+{"key": "dcffbe7abd8486dc", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "500.000 wrong (should be 600.000); confused deduction; payment timing right."}
+{"key": "f2902e813511aba9", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Uses 50 months, 500.000 wrong; timing right."}
+{"key": "226eaac1e38bf7b4", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong formula (ngày công, cap 100.000); misses 600.000."}
+{"key": "f491042826600138", "qid": "QCL-059", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "600.000 and tháng sinh nhật correct."}
+{"key": "ccda26f51087583b", "qid": "QCL-059", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "500.000/400.000 wrong; timing right."}
+{"key": "8dff6b6ce309d67b", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no, not prorated; retirement exception."}
+{"key": "6a2916f0f50a4a3f", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "c290331ba8d90962", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "70a2fca678d301d5", "qid": "QCL-060", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core right; adds unsupported claim about recovery after birthday month."}
+{"key": "355ff04d61b1db97", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 110,4 contradicts computed 58; cites nonexistent Phụ lục 2."}
+{"key": "0366a58a96d3a67c", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 1.100 contradicts computed 58."}
+{"key": "8cc126a4cb5fc13f", "qid": "QCL-061", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Refuses, fabricates definition; Điều 16 has formula."}
+{"key": "9f2fbb8a34fe59ed", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 1.100 contradicts 58; rambling, truncated."}
+{"key": "d2b2500f4cda4d46", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 10,8 contradicts computed 58."}
+{"key": "7e680e23358a6137", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bank account and luong.bibica.com.vn; ATM from TULD supported."}
+{"key": "aa814eaf0c4eadc2", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra NQLD cite unneeded."}
+{"key": "36615335e671b2ac", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, properly attributes TULD ATM vs QCL bank account."}
+{"key": "8cc5b80e4ab17adc", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "e47e0ad4b08577af", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hội đồng hòa giải cơ sở then cơ quan pháp luật."}
+{"key": "2f933d251ac29134", "qid": "QCL-065", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; mischaracterizes NQLD Điều 32 (trách nhiệm vật chất)."}
+{"key": "f28db9051f2fa5ab", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ac9bbec5682f7efd", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra NQLD note plausible."}
+{"key": "39b9e28be968858d", "qid": "QCL-065", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; wrongly attributes to QCL Điều 14."}
+{"key": "baa984a2af55349d", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Prorated correct; misapplies Điều 9 KPI <50% rule to under-1-year staff."}
+{"key": "d21c27f92c1d560f", "qid": "QCL-066", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Prorating right but says tháng 13 uses monthly công; wrong."}
+{"key": "4f1d746c0ea96555", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct HĐLĐ condition and proration; misapplies KPI <50% rule."}
+{"key": "cbc53eeac7e9866d", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Proration right; misapplies KPI rule, irrelevant overtime/birthday notes."}
+{"key": "61b34b0c552087fc", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Proration right; misapplies KPI <50% rule to under-1-year."}

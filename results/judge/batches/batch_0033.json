@@ -1,0 +1,416 @@
+[
+ {
+  "qid": "NQLD-077",
+  "question": "Sếp có thể bắt mình tạm nghỉ ở nhà để điều tra vụ việc bất cứ lúc nào không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không phải bất cứ lúc nào. Công ty chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có những tình tiết phức tạp, nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh, và chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện tập thể lao động tại cơ sở (NQLD Điều 31).",
+  "key_facts": [
+   "tình tiết phức tạp"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 31": "Điều 31. Tạm đình chỉ công việc\n1. Công ty có quyền tạm đình chỉ công việc của người lao động khi vụ việc vi phạm có những tình tiết phức tạp, nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện tập thể lao động tại cơ sở.\n2. Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.\nHết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n3. Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng.\n4. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  "answers": [
+   {
+    "key": "38a0fefcbb21622f",
+    "answer": "Sếp chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có tình tiết phức tạp, nếu tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. Việc này chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở [NQLD Điều 31].\n\nQuy trình xử lý kỷ luật lao động yêu cầu công ty phải thông báo ít nhất 05 ngày làm việc trước ngày họp xử lý kỷ luật cho người lao động và công đoàn [NQLD Điều 27].\n\nTuy nhiên, nội quy không quy định cụ thể thời điểm bắt đầu hay kết thúc việc tạm đình chỉ công việc, cũng như không ghi rõ quy trình xác minh chi tiết trong các trích đoạn đã cung cấp."
+   },
+   {
+    "key": "adccfee16cf254ef",
+    "answer": "Sếp chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có tình tiết phức tạp, nếu tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. Việc này chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện tập thể lao động hoặc công đoàn cơ sở [NQLD Điều 31].\n\nQuy trình xử lý kỷ luật lao động phải tuân thủ trình tự chặt chẽ, bao gồm việc thông báo ít nhất 05 ngày làm việc trước cuộc họp xử lý kỷ luật cho công đoàn và người lao động [NQLD Điều 27].\n\nTạm đình chỉ công việc không phải là nghỉ phép thường lệ. Nếu nghỉ phép, nhân viên phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Tổng Giám đốc (đối với nghỉ liên tiếp từ 3 ngày trở lên) [NQLD Điều 7].\n\nViệc nghỉ không báo trước hoặc vắng mặt không có lý do chính đáng sẽ bị xem là nghỉ không có lý do và bị xử lý kỷ luật [NQLD Điều 14].\n\nTài liệu nội bộ không quy định cụ thể về thời điểm \"bất cứ lúc nào\" để thực hiện việc tạm đình chỉ công việc."
+   },
+   {
+    "key": "8e3183d1dde9a96e",
+    "answer": "Sếp chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có tình tiết phức tạp, cần thời gian xác minh và sau khi tham khảo ý kiến tổ chức đại diện tập thể lao động [NQLD Điều 31]. Thời hạn tối đa là 15 ngày (tối đa 90 ngày nếu trường hợp đặc biệt) [NQLD Điều 31]. Trong thời gian này, bạn được tạm ứng 50% tiền lương; nếu không bị xử lý kỷ luật, công ty sẽ trả đủ lương cho thời gian bị đình chỉ [NQLD Điều 31]."
+   },
+   {
+    "key": "c273c13469bba8b9",
+    "answer": "Sếp chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có tình tiết phức tạp, việc tiếp tục làm việc gây khó khăn cho việc xác minh, và phải tham khảo ý kiến tổ chức đại diện tập thể lao động trước [NQLD Điều 31].\n\nQuy định này không áp dụng \"bất cứ lúc nào\". Công ty phải thông báo ít nhất 05 ngày làm việc trước khi tiến hành họp xử lý kỷ luật lao động liên quan đến việc này [NQLD Điều 27]. Nếu người lao động không bị xử lý kỷ luật, công ty phải trả đủ tiền lương cho thời gian bị tạm đình chỉ [NQLD Điều 31]."
+   },
+   {
+    "key": "bae028ad859c61f5",
+    "answer": "Sếp chỉ có quyền tạm đình chỉ công việc khi vụ việc vi phạm có tình tiết phức tạp, gây khó khăn cho việc xác minh, và bắt buộc phải tham khảo ý kiến tổ chức đại diện tập thể lao động trước khi thực hiện [NQLD Điều 31]. Thời hạn tạm đình chỉ không quá 15 ngày, tối đa 90 ngày nếu trường hợp đặc biệt [NQLD Điều 31]. Trong thời gian này, bạn được tạm ứng 50% tiền lương; nếu không bị xử lý kỷ luật, công ty phải trả đủ lương cho toàn bộ thời gian [NQLD Điều 31]. Việc này không được thực hiện \"bất cứ lúc nào\" mà phải tuân thủ các điều kiện và trình tự quy định."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-078",
+  "question": "Lấy laptop, máy in của công ty về làm việc riêng cho mình thì có được không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không. Người lao động không được sử dụng tài sản của Công ty cho bất cứ lợi ích cá nhân nào; chỉ được sử dụng các tài sản đã được công ty bàn giao hoặc trang bị để thực hiện công việc của mình. Ngoài ra không được mang tài sản của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc (NQLD Điều 22).",
+  "key_facts": [
+   "lợi ích cá nhân"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 22": "Điều 22. Sử dụng và bảo vệ tài sản\n1. Sử dụng\n- Người lao động chỉ được phép sử dụng các tài sản đã được công ty bàn giao hoặc trang bị để thực hiện công việc của mình. Không được sử dụng các tài sản khác không liên quan đến công việc của mình khi chưa được sự cho phép của người quản lý hoặc giám đốc.\n- Người lao động không được sử dụng tài sản của Công ty cho bất cứ lợi ích cá nhân nào.\n2. Bảo vệ tài sản\n- Người lao động trong Công ty phải có trách nhiệm bảo vệ tài sản Công ty; nếu làm thất thoát, hư hỏng thì phải bồi thường.\n- Người lao động không được phép mang các dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở của công ty mà không có sự đồng ý của người quản lý hoặc Giám đốc.\n- Nghiêm cấm người lao động chiếm đoạt bất cứ tài sản nào của công ty vì mục đích sử dụng cá nhân hoặc bán lại."
+  },
+  "answers": [
+   {
+    "key": "d25672867c03e45c",
+    "answer": "Không được phép. Theo Nội quy lao động 2024, người lao động chỉ được sử dụng tài sản công ty để thực hiện công việc đã được bàn giao hoặc trang bị [NQLD Điều 22]. Việc mang dụng cụ, máy móc ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc là bị cấm [NQLD Điều 22]. Ngoài ra, trong giờ làm việc không được làm bất kỳ công việc riêng nào ngoài công việc được giao [NQLD Điều 13]."
+   },
+   {
+    "key": "d22801a3abb98fa4",
+    "answer": "Không được phép. Theo Nội quy lao động 2024, người lao động chỉ được sử dụng tài sản công ty để thực hiện công việc đã được bàn giao hoặc trang bị [NQLD Điều 22]. Việc mang dụng cụ, máy móc ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc là vi phạm quy định bảo vệ tài sản [NQLD Điều 22]. Ngoài ra, trong giờ làm việc không được thực hiện bất kỳ công việc riêng nào ngoài công việc được giao [NQLD Điều 13]. Hành vi chiếm đoạt hoặc sử dụng tài sản cho mục đích cá nhân cũng bị nghiêm cấm [NQLD Điều 22]."
+   },
+   {
+    "key": "5ca7d8d8cf810b84",
+    "answer": "Không được phép. Theo Nội quy lao động 2024, người lao động chỉ được sử dụng tài sản công ty đã được bàn giao để thực hiện công việc và không được mang tài sản ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc [NQLD Điều 22]. Việc sử dụng laptop, máy in cho việc riêng vi phạm quy định bảo vệ tài sản và bị nghiêm cấm [NQLD Điều 17]."
+   },
+   {
+    "key": "9804164db5ccd39c",
+    "answer": "Không được phép. Theo Nội quy lao động 2024, người lao động chỉ được sử dụng tài sản công ty đã được bàn giao để thực hiện công việc và không được mang tài sản ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc. Việc lấy laptop, máy in về làm việc riêng vi phạm quy định này. Nếu hành vi này được coi là chiếm đoạt hoặc sử dụng cho lợi ích cá nhân, công ty có thể áp dụng hình thức xử lý kỷ luật kéo dài thời hạn nâng lương (nếu mức độ nhẹ) hoặc sa thải (nếu gây thiệt hại nghiêm trọng) tùy theo mức độ vi phạm."
+   },
+   {
+    "key": "b3538aacdeee78f0",
+    "answer": "Không được phép. Theo Nội quy lao động 2024, người lao động chỉ được sử dụng tài sản công ty đã được bàn giao để thực hiện công việc và không được dùng cho lợi ích cá nhân [NQLD Điều 22]. Việc mang máy tính, máy in ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc là vi phạm quy định về bảo vệ tài sản [NQLD Điều 22]. Ngoài ra, trong giờ làm việc không được làm bất kỳ công việc riêng nào ngoài công việc được giao [NQLD Điều 13]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-079",
+  "question": "Mẹ bỉm sữa có em bé chưa đầy một tuổi thì mỗi ngày được bớt giờ làm bao lâu?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Lao động nữ trong thời gian nuôi con dưới 12 tháng được nghỉ thêm 60 phút/ngày (NQLD Điều 5).",
+  "key_facts": [
+   "60 phút"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "89b2d65ab19e75b3",
+    "answer": "Mẹ bỉm sữa có em bé chưa đầy 12 tháng được nghỉ thêm 60 phút/ngày.\n\n[NQLD Điều 5]"
+   },
+   {
+    "key": "3cda3ec2a04642f1",
+    "answer": "Mẹ bỉm sữa có em bé chưa đầy 12 tháng được nghỉ thêm 60 phút/ngày.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 5.2.3]"
+   },
+   {
+    "key": "4e24e7c1676f7034",
+    "answer": "Mẹ bỉm sữa có em bé dưới 12 tháng được nghỉ thêm 60 phút/ngày.\n\n[NQLD Điều 5]"
+   },
+   {
+    "key": "feb24e081c1fadfa",
+    "answer": "Theo Nội quy lao động 2024, lao động nữ nuôi con dưới 12 tháng được nghỉ thêm 60 phút/ngày. Thời gian này không quá 03 ngày/tháng và được tính vào giờ làm việc.\n\n[NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-080",
+  "question": "Thấy cái máy đang chạy có dấu hiệu sắp gây tai nạn, mình bỏ ra ngoài không đứng máy nữa thì có bị coi là sai không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không sai. Người lao động có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe của bản thân hoặc của người khác cho đến khi sự cố được khắc phục; đồng thời cần báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động (NQLD Điều 19).",
+  "key_facts": [
+   "rời bỏ"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 19": "Điều 19. Trách nhiệm của người lao động\na. Chấp hành các quy định, quy trình, nội quy về an toàn lao động, vệ sinh lao động có liên quan đến công việc, nhiệm vụ được giao:\n+ Trước khi rời khỏi vị trí làm việc, phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận nếu để sai sót phải chịu hoàn toàn trách nhiệm trước Công ty.\n+ Chịu trách nhiệm bảo dưỡng, vệ sinh các thiết bị tại vị trí làm việc luôn sạch sẽ;\nb. Sử dụng và bảo quản các phương tiện bảo vệ cá nhân đã được trang cấp; các thiết bị an toàn lao động, vệ sinh lao động nơi làm việc;\nc. Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, gây độc hại hoặc sự cố nguy hiểm;\nd. Tham gia cấp cứu và khắc phục hậu quả tai nạn lao động khi có lệnh của người sử dụng lao động;\ne. Có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe của bản thân hoặc cho những người khác cho đến khi sự cố được khắc phục;\nf. Triệt để chấp hành các quy định, quy chế về phòng cháy chữa cháy."
+  },
+  "answers": [
+   {
+    "key": "cd07ba31090ed245",
+    "answer": "Việc bạn bỏ ra ngoài khi thấy nguy cơ tai nạn là **đúng** và được bảo vệ theo quy định.\n\nTheo Nội quy lao động 2024, người lao động có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe cho đến khi sự cố được khắc phục [NQLD Điều 19].\n\nTuy nhiên, bạn cần lưu ý:\n1.  **Trách nhiệm báo cáo:** Bạn phải báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động [NQLD Điều 19].\n2.  **Tránh bị coi là nghỉ không có lý do:** Hành động này không được coi là đi trễ, về sớm hay nghỉ không có lý do chính đáng nếu bạn thực hiện đúng quy định về an toàn lao động [NQLD Điều 14]."
+   },
+   {
+    "key": "f76ed8e234bd9c0f",
+    "answer": "Việc bạn bỏ ra ngoài khi thấy máy có dấu hiệu gây tai nạn **không bị coi là sai**, ngược lại đây là quyền và trách nhiệm của người lao động.\n\nTheo Nội quy lao động 2024, bạn có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ tai nạn lao động đe dọa tính mạng cho đến khi sự cố được khắc phục [NQLD Điều 19]. Đồng thời, bạn còn có trách nhiệm báo cáo kịp thời với người có thẩm quyền khi phát hiện nguy cơ gây tai nạn lao động [NQLD Điều 19]."
+   },
+   {
+    "key": "00015f5ad87cd6a7",
+    "answer": "Việc bạn bỏ ra ngoài khi thấy máy sắp gây tai nạn **không bị coi là sai**, ngược lại là hành vi đúng quy định.\n\nTheo Điều 19(e) Nội quy lao động 2024, người lao động **có quyền từ chối hoặc rời bỏ nơi làm việc** khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe cho đến khi sự cố được khắc phục.\n\nTuy nhiên, bạn cần lưu ý:\n- Hành vi này phải được thực hiện trong **phạm vi nơi làm việc** và **trong suốt thời gian làm việc**.\n- Bạn vẫn phải **thông báo kịp thời** cho người có trách nhiệm về nguy cơ tai nạn đó theo Điều 19(c).\n- Việc rời đi không được xem là nghỉ không có lý do chính đáng nếu bạn đã thông báo và thực hiện đúng quy trình an toàn.\n\n[NQLD Điều 19]"
+   },
+   {
+    "key": "9e302006be4f0eb7",
+    "answer": "Việc bỏ máy để tránh tai nạn là quyền của người lao động theo Điều 19(e) Nội quy lao động 2024, cho phép rời nơi làm việc khi thấy nguy cơ đe dọa tính mạng hoặc sức khỏe cho đến khi sự cố được khắc phục. Tuy nhiên, bạn vẫn phải thông báo kịp thời cho người có trách nhiệm theo Điều 19(c) và tuân thủ thời gian làm việc, thời gian nghỉ ngơi đã quy định tại Điều 5 Nội quy này. Việc rời vị trí làm việc phải thông báo cho cấp trên biết. Nếu việc rời đi không được thông báo hoặc không có lý do chính đáng, sẽ bị coi là nghỉ không có lý do chính đáng và có thể bị xử lý kỷ luật theo Điều 14."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-081",
+  "question": "Cấp trên gạ gẫm chuyện ân ái để đổi lấy việc được chấm điểm tốt hay tăng lương thì có bị xem là hành vi sai trái ở công ty không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng là hành vi quấy rối tình dục tại nơi làm việc (NQLD Điều 20).",
+  "key_facts": [
+   "quấy rối tình dục"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 20": "Điều 20. Các hành vi quấy rối tình dục tại nơi làm việc\na. Hành động, cử chỉ có tính chất tình dục;\nb. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục;\nc. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng."
+  },
+  "answers": [
+   {
+    "key": "14e5743f80c04183",
+    "answer": "Có, hành vi này bị xem là sai trái và vi phạm quy định của Công ty.\n\nTheo Nội quy lao động 2024, việc đề nghị, yêu cầu hoặc gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái, bao gồm cả việc chấm điểm hay tăng lương, được xếp vào danh sách các hành vi quấy rối tình dục tại nơi làm việc [NQLD Điều 20]. Đồng thời, hành vi này cũng bị nghiêm cấm theo Điều 17 của Nội quy lao động [NQLD Điều 17].\n\nNgoài ra, hành vi này còn bị coi là có biểu hiện suy đồi đạo đức, là căn cứ để áp dụng hình thức xử lý kỷ luật kéo dài thời gian nâng lương không quá 6 tháng [NQLD Điều 28]."
+   },
+   {
+    "key": "597240f441b19063",
+    "answer": "Có, hành vi này bị coi là sai trái và vi phạm quy định của công ty.\n\nTheo Nội quy lao động 2024, việc đề nghị, yêu cầu hoặc gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái, chấm điểm tốt hay tăng lương thuộc hành vi quấy rối tình dục tại nơi làm việc [NQLD Điều 20]. Đồng thời, đây cũng là một trong các hành vi bị nghiêm cấm trong suốt thời gian làm việc [NQLD Điều 17]."
+   },
+   {
+    "key": "f64d13b7d2434911",
+    "answer": "Có, hành vi này bị xem là sai trái và thuộc hành vi quấy rối tình dục tại nơi làm việc.\n\nTheo Nội quy lao động 2024, việc đề nghị, yêu cầu hoặc gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái, chấm điểm tốt hay tăng lương là hành vi bị cấm. Hành vi này được xếp vào nhóm hành vi quấy rối tình dục bằng lời nói hoặc qua phương tiện điện tử.\n\nVề hình thức xử lý:\n- Nếu là lần đầu và không gây hậu quả nghiêm trọng: Bị khiển trách bằng văn bản.\n- Nếu tái phạm trong 3 tháng hoặc gây hậu quả nghiêm trọng: Có thể bị xử lý kéo dài thời gian nâng lương, cách chức hoặc sa thải tùy mức độ thiệt hại.\n\n[NQLD Điều 20], [NQLD Điều 28], [NQLD Điều 21]"
+   },
+   {
+    "key": "b9b0c474eff17541",
+    "answer": "Có, hành vi này bị xem là sai trái và vi phạm quy định của Công ty.\n\nTheo Nội quy lao động 2024, việc đề nghị, yêu cầu hoặc gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái, sự hứa hẹn công việc, lương, thưởng được xếp vào hành vi quấy rối tình dục tại nơi làm việc [NQLD Điều 20]. Đồng thời, hành vi này cũng bị nghiêm cấm theo Điều 17 của Nội quy lao động [NQLD Điều 17].\n\nNgoài ra, nếu hành vi này được coi là suy đồi đạo đức, nhân viên có thể bị xử lý kỷ luật theo Điều 28, bao gồm hình thức kéo dài thời gian nâng lương hoặc sa thải tùy mức độ nghiêm trọng [NQLD Điều 28]."
+   },
+   {
+    "key": "1ed8e168e4074663",
+    "answer": "Có, hành vi cấp trên gả gẫm chuyện ân ái để đổi lấy việc được chấm điểm tốt hay tăng lương bị xem là sai trái nghiêm trọng.\n\nTheo Nội quy lao động 2024, đây là hành vi quấy rối tình dục tại nơi làm việc (Điều 20) và cũng bị nghiêm cấm (Điều 17). Khi vi phạm, người lao động có thể bị xử lý bằng hình thức kéo dài thời gian nâng lương không quá 6 tháng (Điều 28).\n\nTheo Quy chế tiền lương 2024, việc xét nâng lương dựa trên các tiêu chí cụ thể như chỉ tiêu chung, KPI hàng tháng và đề xuất cải tiến (Điều 6, Phụ lục 4). Việc dùng mối quan hệ tình dục để thao túng các tiêu chí này vi phạm nguyên tắc đánh giá công việc trực tiếp giao và làm lợi cho công ty."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-082",
+  "question": "Kể chuyện làm ăn nội bộ của công ty cho bạn bè bên ngoài nghe thì có sao không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Không được. Trong thời gian làm việc cho Công ty, người lao động không được tiết lộ hoặc yêu cầu tiết lộ các thông tin bí mật thuộc quyền sở hữu của Công ty cho những người không có quyền hạn, ngoại trừ những người được phép hoặc cơ quan pháp luật (NQLD Điều 23).",
+  "key_facts": [
+   "bí mật"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 23": "Điều 23. Giữ bí mật kinh doanh\n- Trong thời gian làm việc cho Công ty, người lao động không được tiết lộ hoặc yêu cầu tiết lộ các thông tin bí mật thuộc quyền sỡ hữu của Công ty cho những người không có quyền hạn, ngoại trừ những người được phép hoặc cơ quan pháp luật.\n- Công ty có những nguyên tắc và cách xử lý riêng cam kết với khách hàng. Tất cả người lao động có trách nhiệm hiểu rõ và tuân thủ các nguyên tắc và cách xử lý này."
+  },
+  "answers": [
+   {
+    "key": "d745f72238f90981",
+    "answer": "Theo Nội quy lao động 2024, người lao động có trách nhiệm giữ bí mật kinh doanh và không được tiết lộ thông tin thuộc quyền sở hữu của Công ty cho những người không có quyền hạn, ngoại trừ người được phép hoặc cơ quan pháp luật.\n\nTất cả người lao động phải hiểu rõ và tuân thủ các nguyên tắc, cách xử lý riêng mà Công ty cam kết với khách hàng. Việc kể chuyện làm ăn nội bộ cho bạn bè bên ngoài nghe có thể bị coi là vi phạm quy định về bảo vệ bí mật kinh doanh nếu thông tin đó thuộc phạm vi bảo mật.\n\n[NQLD Điều 23]"
+   },
+   {
+    "key": "b7d379094f091e4b",
+    "answer": "Việc kể chuyện làm ăn nội bộ cho bạn bè bên ngoài nghe là vi phạm bí mật kinh doanh theo Điều 23 Nội quy lao động 2024. Người lao động không được tiết lộ thông tin bí mật thuộc quyền sở hữu của Công ty cho những người không có quyền hạn, ngoại trừ người được phép hoặc cơ quan pháp luật.\n\nNgoài ra, nếu nội dung kể chuyện liên quan đến việc tiết lộ dữ liệu cá nhân của người lao động (như họ tên, địa chỉ, số điện thoại...) thì cũng bị nghiêm cấm theo Điều 17 và Điều 17 (l, z) Nội quy lao động 2024.\n\nViệc tiết lộ thông tin này có thể bị coi là hành vi trái đạo đức hoặc không đứng đắn tại nơi làm việc."
+   },
+   {
+    "key": "5b2e926d20af2fd7",
+    "answer": "Theo Nội quy lao động 2024, người lao động không được tiết lộ thông tin bí mật kinh doanh cho những người không có quyền hạn, ngoại trừ người được phép hoặc cơ quan pháp luật. Công ty có các nguyên tắc và cách xử lý riêng cam kết với khách hàng mà tất cả nhân viên phải tuân thủ. Việc kể chuyện làm ăn cho bên ngoài có thể bị coi là vi phạm bí mật kinh doanh nếu thông tin đó thuộc quyền sở hữu của công ty và không được phép chia sẻ.\n\n[NQLD Điều 23]"
+   },
+   {
+    "key": "417025b9c7ae481d",
+    "answer": "Theo Nội quy lao động 2024, người lao động không được tiết lộ thông tin bí mật kinh doanh của công ty cho những người không có quyền hạn, ngoại trừ người được phép hoặc cơ quan pháp luật. Đặc biệt, công ty có các nguyên tắc và cách xử lý riêng cam kết với khách hàng mà tất cả nhân viên phải tuân thủ. Việc kể chuyện làm ăn nội bộ cho bên ngoài nghe có thể vi phạm quy định về bảo vệ bí mật kinh doanh nếu thông tin đó thuộc phạm vi bảo mật.\n\n[NQLD Điều 23]"
+   },
+   {
+    "key": "27c2b27768e69b5e",
+    "answer": "Theo Nội quy lao động 2024, người lao động có trách nhiệm giữ bí mật kinh doanh và không được tiết lộ thông tin thuộc quyền sở hữu của Công ty cho những người không có quyền hạn [NQLD Điều 23].\n\nViệc kể chuyện làm ăn nội bộ cho bạn bè bên ngoài nghe có thể bị coi là vi phạm nếu thông tin đó thuộc phạm vi bí mật kinh doanh. Công ty có các nguyên tắc và cách xử lý riêng cam kết với khách hàng mà tất cả người lao động phải tuân thủ [NQLD Điều 23].\n\nNếu hành vi này được xem là tiết lộ bí mật kinh doanh, nó có thể dẫn đến các hình thức xử lý kỷ luật theo quy định của Công ty."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-083",
+  "question": "Công ty có ép mình ở lại tăng ca được không hay mình có quyền nói không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Thông thường Công ty phải thông báo và thỏa thuận với người lao động; việc làm thêm giờ phải được sự đồng ý của người lao động và số giờ làm thêm theo quy định của Luật Lao động. Tuy nhiên người lao động không được từ chối trong 2 trường hợp: thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp; hoặc thực hiện công việc bảo vệ tính mạng con người, tài sản trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa (NQLD Điều 12).",
+  "key_facts": [
+   "đồng ý",
+   "quốc phòng",
+   "thiên tai"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 12": "Điều 12. Làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương\n1. Làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được quy định tại Điều 5 của Nội quy này.\n2. Trong quá trình hoạt động sản xuất kinh doanh, nếu cần người lao động làm thêm giờ, Công ty sẽ thông báo và thỏa thuận với người lao động về việc làm thêm giờ, làm thêm vào ngày nghỉ, ngày lễ tết. Đảm bảo:\n+ Được sự đồng ý của người lao động;\n+ Số giờ làm thêm theo quy định của Luật Lao động.\n3. Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương: Theo qui định của Bộ Luật Lao động.\n4. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào và người lao động không được từ chối trong các trường hợp sau đây:\n- Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp về quốc phòng, an ninh theo quy định của pháp luật;\n- Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa."
+  },
+  "answers": [
+   {
+    "key": "33acb9dbeebd6170",
+    "answer": "Tài liệu nội bộ không có thông tin về quyền từ chối tăng ca hoặc việc ép nhân viên ở lại làm việc.\n\nCác quy định hiện hành chỉ tập trung vào:\n- Trật tự nơi làm việc (cấm hút thuốc, uống rượu, đánh bạc, trộm cắp...) [NQLD Điều 17].\n- Quy trình báo cáo đi trễ, về sớm hoặc ra ngoài vì lý do cá nhân cần sự chấp thuận của quản lý [NQLD Điều 14].\n- Hình thức xử lý kỷ luật như kéo dài thời gian nâng lương hoặc tạm đình chỉ công việc trong các trường hợp vi phạm cụ thể [NQLD Điều 28, Điều 31].\n\nBạn vui lòng tham khảo thêm Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL) để biết rõ về chế độ tăng ca và quyền lợi liên quan."
+   },
+   {
+    "key": "98b9d9b68c6c2878",
+    "answer": "Công ty **không được ép** nhân viên ở lại tăng ca.\n\nTheo Quy chế tiền lương (QCL), đối với Quản trị viên, việc làm ngoài giờ hoặc vào cuối tuần/Lễ/Tết được **khuyến khích** nghỉ bù (hưởng nguyên lương). Chỉ khi không sắp xếp được nghỉ bù thì mới được chấm tăng ca theo luật, với điều kiện phải có đơn xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt [QCL Điều 12].\n\nNgoài ra, theo Nội quy lao động (NQLD), người lao động có quyền **từ chối hoặc rời bỏ nơi làm việc** khi thấy rõ nguy cơ tai nạn lao động, đe dọa tính mạng hoặc sức khỏe [NQLD Điều 19].\n\nTuy nhiên, các quy định trên tập trung vào quyền từ chối do nguy hiểm hoặc thỏa thuận nghỉ bù; văn bản không ghi rõ quyền từ chối tuyệt đối việc tăng ca trong các trường hợp bình thường khác."
+   },
+   {
+    "key": "aaa88e14480b9f9d",
+    "answer": "Tài liệu nội bộ không có thông tin về việc ép nhân viên ở lại tăng ca hay quyền từ chối tăng ca.\n\nCác quy định hiện có liên quan đến thời gian làm việc bao gồm:\n- Nhân viên phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước nếu muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc [NQLD Điều 14].\n- Nếu vắng mặt không thông báo hoặc không được chấp thuận sẽ bị xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật [NQLD Điều 14].\n- Công ty có quyền tạm đình chỉ công việc nếu vụ việc vi phạm có tình tiết phức tạp để xác minh, với thời hạn tối đa 15 ngày (hoặc 90 ngày đặc biệt) và người lao động được tạm ứng 50% tiền lương [NQLD Điều 31].\n- Người lao động có quyền khiếu nại nếu thấy xử lý kỷ luật hoặc bồi thường thiệt hại không thỏa đáng [NQLD Điều 32]."
+   },
+   {
+    "key": "3c3766ed14c78515",
+    "answer": "Công ty **không được ép** nhân viên làm thêm giờ. Theo NQLD, việc làm thêm giờ phải có sự **đồng ý của người lao động** và thông báo trước [NQLD Điều 12].\n\nTuy nhiên, có 2 trường hợp ngoại lệ nhân viên **không được từ chối**:\n1. Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp [NQLD Điều 12].\n2. Thực hiện công việc bảo vệ tính mạng, tài sản khi phòng ngừa thiên tai, hỏa hoạn, dịch bệnh [NQLD Điều 12].\n\nNgoài ra, nếu đến trễ hoặc về sớm mà không báo trước hoặc không được chấp thuận sẽ bị xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật [NQLD Điều 14]."
+   },
+   {
+    "key": "6f0897dd461916f7",
+    "answer": "Tài liệu nội bộ không có thông tin về việc ép nhân viên tăng ca hay quyền từ chối tăng ca.\n\nCác quy định hiện có tập trung vào:\n- Hành vi bị nghiêm cấm (như hút thuốc, uống rượu, đánh bạc, trộm cắp...) trong giờ làm việc [NQLD Điều 17].\n- Quy định về đi trễ, về sớm hoặc ra ngoài vì mục đích cá nhân cần sự chấp thuận của quản lý [NQLD Điều 14].\n- Hình thức xử lý kỷ luật kéo dài thời gian nâng lương tối đa 6 tháng đối với các vi phạm cụ thể như tiếp tay chống lợi ích công ty, tham ô, tiết lộ bí mật... [NQLD Điều 28].\n- Quy định về tạm đình chỉ công việc khi cần xác minh vụ việc vi phạm [NQLD Điều 31].\n- Thỏa ước lao động tập thể quy định về việc làm, nghỉ phép và trả lương ngừng việc khi thiếu đơn hàng [TULD Điều 5, Điều 13]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-085",
+  "question": "lam o cty du 5 nam thi phep nam dc cong them may ngay",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Cứ 05 năm làm việc tại công ty thì số ngày nghỉ hàng năm được tăng thêm 01 ngày (NQLD Điều 7).",
+  "key_facts": [
+   "1 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 7": "Điều 7. Nghỉ phép năm\n1. Người lao động làm việc đủ 12 tháng thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau:\n+ 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\n+ 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật; người làm công việc nặng nhọc, độc hại, nguy hiểm;\n+ 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n2. Đối với trường hợp làm không đủ năm (làm việc dưới 12 tháng):\nLấy số ngày nghỉ hàng năm cộng với số ngày được nghỉ tăng thêm theo thâm niên (nếu có), chia cho 12 tháng, nhân với số tháng làm việc thực tế trong năm để tính thành số ngày được nghỉ hàng năm.\n3. Cứ 05 năm làm việc tại công ty thì số ngày nghỉ hàng năm được tăng thêm 01 ngày.\n4. Lịch nghỉ phép hàng năm:\n- Mỗi tháng người lao động được nghỉ số ngày bằng tổng ngày phép chia cho 12, nếu không nghỉ thì những ngày phép đó sẽ cộng dồn vào những tháng sau. Nhân viên cũng có thể sử dụng một lần phép năm nếu không ảnh hưởng đến công việc.\n- Khi người lao động muốn nghỉ phép phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Người được ủy quyền. Tổng Giám đốc duyệt các trường hợp nghỉ liên tiếp từ 3 ngày trở lên. Bất kỳ sự thay đổi nào về số ngày phép đã được chấp thuận trước đó sẽ phải tuân thủ theo trình tự nộp đơn xin nghỉ phép/duyệt phép giống như lần xin phép ban đầu.\n- Trong các trường hợp nghỉ từ 05 ngày trở lên thì phải làm đơn xin phép trước 02 tuần.\n- Trường hợp khẩn cấp, xin nghỉ trong ngày, người lao động có thể thông báo bằng điện thoại cho cấp trên của mình trong hôm đó.\n5. Cách giải quyết số ngày phép chưa nghỉ hết trong năm:\n- Trường hợp chưa sử dụng hết thì những ngày nghỉ này sẽ được chuyển sang cho năm kế tiếp. Tuy nhiên người lao động phải nghỉ hết ngày phép của mình trước Quý I của năm sau, tức là trước ngày 30 tháng 3 năm sau.\n- Mùa thấp điểm theo thông báo Công ty cho phép Người lao động đăng ký nghỉ phép mà người lao động không đăng ký thì Công ty không thanh toán số ngày phép còn dư.\n- Người lao động do thôi việc, bị mất việc làm mà chưa nghỉ hàng năm thì được thanh toán bằng tiền những ngày chưa nghỉ."
+  },
+  "answers": [
+   {
+    "key": "10d58041beed9e3e",
+    "answer": "Theo Nội quy lao động 2024, cứ 05 năm làm việc tại công ty thì số ngày nghỉ phép năm được tăng thêm 01 ngày [NQLD Điều 7]. Quy định này áp dụng cho nhân viên làm đủ 5 năm. Đối với trường hợp làm không đủ năm (dưới 12 tháng), số ngày nghỉ được tính dựa trên thâm niên và chia cho 12 tháng nhân với số tháng làm việc thực tế [NQLD Điều 7]."
+   },
+   {
+    "key": "4610c087c391e915",
+    "answer": "Theo Nội quy lao động 2024, cứ 05 năm làm việc tại công ty thì số ngày nghỉ phép năm hàng năm được tăng thêm 01 ngày [NQLD Điều 7]. Quy chế tiền lương, tiền thưởng Bibica năm 2024 không quy định cụ thể về việc tăng thêm ngày nghỉ phép theo năm làm việc [QCL Phụ lục 2]."
+   },
+   {
+    "key": "9aee8d68538a93e1",
+    "answer": "Theo quy định tại Điều 7, Khoản 3 của Nội quy lao động 2024, cứ 05 năm làm việc tại công ty thì số ngày nghỉ phép hàng năm được tăng thêm 01 ngày.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 7]"
+   },
+   {
+    "key": "f93c5e0fa9b5c4f8",
+    "answer": "Theo Nội quy lao động 2024, cứ 05 năm làm việc tại công ty thì số ngày nghỉ hàng năm được tăng thêm 01 ngày [NQLD Điều 7].\n\nLưu ý: Số ngày nghỉ tăng thêm này được cộng vào tổng số ngày nghỉ cơ bản (12, 14 hoặc 16 ngày tùy điều kiện công việc) để tính toán khi nghỉ phép không đủ năm hoặc khi chấm dứt hợp đồng [NQLD Điều 7]."
+   },
+   {
+    "key": "71b549a3e7fac628",
+    "answer": "Theo Nội quy lao động 2024, cứ 05 năm làm việc tại công ty thì số ngày nghỉ phép hàng năm được tăng thêm 01 ngày [NQLD Điều 7]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-086",
+  "question": "thong bao mat dien mat nuoc thi ngay nghi hang tuan co bi doi ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Có. Trong trường hợp có thông báo bị mất điện, nước, Công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước để người lao động biết thực hiện (NQLD Điều 5).",
+  "key_facts": [
+   "thay đổi"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "312872799d81697e",
+    "answer": "Có. Theo Nội quy lao động 2024, khi có thông báo mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của đơn vị cung cấp để người lao động biết thực hiện [NQLD Điều 5]."
+   },
+   {
+    "key": "1e1ae44ab976eaa0",
+    "answer": "Có, ngày nghỉ hàng tuần có thể bị đổi. Theo Nội quy lao động 2024, khi có thông báo mất điện hoặc mất nước, công ty sẽ thay đổi lịch nghỉ hàng tuần và thông báo ngay lập tức cho người lao động biết để thực hiện [NQLD Điều 5]."
+   },
+   {
+    "key": "b48404301cb85a12",
+    "answer": "Tài liệu nội bộ không có thông tin về việc thay đổi ngày nghỉ hàng tuần khi thông báo mất điện.\n\nCác văn bản quy định về ngày nghỉ và thời gian làm việc được nêu trong Nội quy lao động 2024 (Điều 28) và Thỏa ước lao động tập thể 2024 (Điều 9) chỉ xác định các ngày nghỉ cố định hoặc quy định về xử lý kỷ luật khi vắng mặt không có lý do chính đáng, không đề cập đến trường hợp mất điện.\n\nNếu có quy định cụ thể về việc thay đổi ngày nghỉ do thiên tai hoặc sự cố (như mất điện), thông tin này có thể nằm trong các điều khoản về \"Lý do chính đáng\" cho việc vắng mặt hoặc nghỉ việc không có lý do trong Nội quy lao động 2024, nhưng trích đoạn hiện tại không ghi rõ chi tiết."
+   },
+   {
+    "key": "514f5175587a4223",
+    "answer": "Có, ngày nghỉ hàng tuần có thể bị điều chỉnh. Theo Nội quy lao động 2024, khi có thông báo mất điện hoặc nước, công ty sẽ thay đổi lịch nghỉ hàng tuần và thông báo ngay khi nhận được lịch cúp điện/nước từ đơn vị cấp để người lao động biết thực hiện [NQLD Điều 5]."
+   },
+   {
+    "key": "ac766b5c5d75b060",
+    "answer": "Có, khi có thông báo mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay lập tức cho người lao động biết để thực hiện.\n\n[NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-087",
+  "question": "dang nghi om ma bi phat hien vi pham thi co bi xu ly ky luat lien ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Không. Công ty không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian nghỉ ốm đau, điều dưỡng (NQLD Điều 27).",
+  "key_facts": [
+   "ốm"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "b23065c40424e559",
+    "answer": "Có, nhân viên bị phát hiện vi phạm sẽ bị xử lý kỷ luật nếu thỏa mãn điều kiện quy định.\n\nTheo [NQLD Điều 27], nếu vụ việc phức tạp, xét thấy người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh, Công ty có quyền tạm đình chỉ công việc sau khi tham khảo ý kiến công đoàn.\n\nTheo [NQLD Điều 28], các hành vi vi phạm cụ thể bao gồm: đi trễ/vắng mặt thường xuyên (từ 02 lần/tháng), có hành vi suy đồi đạo đức/quấy rối tình dục, không cố gắng/lơ là (từ 03 lần/tháng hoặc 03 tháng liên tục), tuyển dụng không trung thực, không tuân thủ quy trình, vi phạm PCCC, nghỉ không lý do (1-5 ngày/tháng), hoặc say rượu/sử dụng chất kích thích.\n\nTheo [NQLD Điều 27], người có thẩm quyền ra quyết định xử lý là người giao kết hợp đồng lao động; nếu bị sa thải thì là Người đại diện pháp luật của Công ty.\n\nTheo [NQLD Điều 27], trước khi họp xử lý kỷ luật, Công ty phải thông báo ít nhất 05 ngày làm việc cho người lao động và công đoàn cơ sở."
+   },
+   {
+    "key": "c111ab2a5b6c7dbf",
+    "answer": "Có, nhân viên đang nghi ngờ nhưng chưa phát hiện vi phạm thì **không** bị xử lý kỷ luật.\n\nTheo Nội quy lao động 2024, trình tự xử lý bắt đầu khi **phát hiện hành vi vi phạm tại thời điểm xảy ra**. Khi đó, cấp trên trực tiếp mới lập biên bản và thông báo đến Công đoàn. Nếu hành vi xảy ra trước khi phát hiện, công ty chỉ thực hiện thu thập chứng cứ chứng minh lỗi sau này, không áp dụng hình thức xử lý ngay lập tức.\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "339c09cd8e20d7ff",
+    "answer": "Có, nhân viên nghi ngờ bị phát hiện vi phạm sẽ được xử lý kỷ luật nếu có bằng chứng xác thực hành vi vi phạm.\n\nTheo Nội quy lao động 2024, việc xử lý kỷ luật áp dụng cho các hành vi vi phạm quy định cụ thể như:\n- Khen trách bằng văn bản đối với vi phạm lần đầu, hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng) [NQLD Điều 28].\n- Kéo dài thời gian nâng lương không quá 6 tháng đối với các hành vi vi phạm nghiêm trọng hơn như tiếp tay chống lại lợi ích công ty, tiết lộ bí mật, đi trễ/vắng mặt thường xuyên, quấy rối tình dục, lơ là công việc hoặc tuyển dụng không trung thực [NQLD Điều 28].\n- Cách chức đối với các hành vi lừa đảo, giả mạo giấy tờ, cản trở giao dịch hoặc vi phạm nhiệm vụ được giao [NQLD Điều 28].\n- Sa thải đối với hành vi trộm cắp, tham ô, đánh bạc, sử dụng ma túy, quấy rối tình dục thể chất hoặc tự ý bỏ việc quá 05 ngày trong tháng [NQLD Điều 28].\n\nViệc vắng mặt không thông báo hoặc không được chấp thuận sẽ được xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật [NQLD Điều 14]."
+   },
+   {
+    "key": "24a346c11531ba9f",
+    "answer": "Có, nhân viên đang nghi ngờ bị phát hiện vi phạm sẽ được xử lý kỷ luật nếu có bằng chứng xác thực hành vi vi phạm.\n\nTheo Nội quy lao động 2024, việc xử lý kỷ luật lao động phải được lập thành biên bản và không được áp dụng đối với người lao động đang trong thời gian chờ kết quả điều tra xác minh đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh hoặc bí mật công nghệ [NQLD Điều 27].\n\nTuy nhiên, nếu hành vi vi phạm thuộc các trường hợp cụ thể như quấy rối tình dục, trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy, hoặc vi phạm quy định về nội quy PCCC, thì nhân viên có thể bị sa thải ngay lập tức [NQLD Điều 28].\n\nNếu hành vi vi phạm không thuộc nhóm trên mà gây hậu quả không nghiêm trọng, nhân viên có thể bị khiển trách bằng văn bản [NQLD Điều 28]."
+   },
+   {
+    "key": "fc570f430252da30",
+    "answer": "Có, nhân viên đang nghi ngờ nhưng bị phát hiện vi phạm sẽ được xử lý kỷ luật nếu có bằng chứng xác thực hành vi.\n\nTheo Điều 27, việc xử lý kỷ luật phải được lập biên bản và không được áp dụng nhiều hình thức cho một hành vi [NQLD Điều 27]. Tuy nhiên, nếu vụ việc có tình tiết phức tạp, xét thấy người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh, Công ty có quyền tạm đình chỉ công việc sau khi tham khảo ý kiến công đoàn [NQLD Điều 27].\n\nQuy trình xử lý bao gồm: thông báo cuộc họp xử lý kỷ luật ít nhất 05 ngày làm việc trước ngày họp cho người lao động và công đoàn [NQLD Điều 27]. Nếu có người không xác nhận tham dự hoặc vắng mặt, người sử dụng lao động vẫn tiến hành họp [NQLD Điều 27]. Quyết định xử lý do người giao kết hợp đồng lao động ra, trừ trường hợp sa thải thì do Người đại diện pháp luật Công ty ra [NQLD Điều 27].\n\nLưu ý: Không được xử lý kỷ luật đối với người lao động đang nghỉ ốm, thai sản, nuôi con nhỏ dưới 12 tháng hoặc đang chờ kết quả điều tra xác minh hành vi trộm cắp, tham ô... [NQLD Điều 27]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-088",
+  "question": "bi ky luat cach chuc, 4 nam sau vi pham tiep thi co tinh la tai pham ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Không. Trường hợp bị xử lý kỷ luật lao động bằng hình thức cách chức thì sau thời hạn 03 năm, nếu tiếp tục vi phạm kỷ luật lao động thì không bị coi là tái phạm (NQLD Điều 30).",
+  "key_facts": [
+   "3 năm"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 30": "Điều 30. Xoá kỷ luật, giảm thời hạn chấp hành kỷ luật lao động\n1. Người lao động bị khiển trách sau 03 tháng, hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau 06 tháng, kể từ ngày bị xử lý, nếu không tái phạm thì đương nhiên được xoá kỷ luật. Trường hợp bị xử lý kỷ luật lao động bằng hình thức cách chức thì sau thời hạn 03 năm, nếu tiếp tục vi phạm kỷ luật lao động thì không bị coi là tái phạm.\n2. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành được một nửa thời hạn nếu sửa chữa tiến bộ, có thể được người sử dụng lao động xét giảm thời hạn."
+  },
+  "answers": [
+   {
+    "key": "c0843ba196fb3410",
+    "answer": "Theo Nội quy lao động 2024, người lao động bị cách chức sẽ không bị coi là tái phạm nếu tiếp tục vi phạm sau 03 năm kể từ ngày bị xử lý.\n\nVì vậy, sau 4 năm vi phạm tiếp theo, người lao động này **không** bị coi là tái phạm.\n\n[NQLD Điều 30]"
+   },
+   {
+    "key": "92e80b369009cb4f",
+    "answer": "Theo Nội quy lao động 2024, hình thức cách chức áp dụng cho các vi phạm nghiêm trọng như lừa đảo, sử dụng danh nghĩa công ty cho việc riêng, cản trở giao dịch, giả mạo giấy tờ hoặc vi phạm nhiệm vụ được giao. Tuy nhiên, tài liệu không ghi rõ việc \"vi phạm tiếp tục trong 4 năm\" là điều kiện để cách chức.\n\nVề vi phạm liên quan đến việc nghỉ việc tự ý, quy định là cách chức nếu người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong 365 ngày mà không có lý do chính đáng. Nếu hành vi này diễn ra liên tục trong 4 năm, nhân viên sẽ bị cách chức do vi phạm quy định trên nhiều lần.\n\nNguồn: [NQLD Điều 28], [NQLD Điều 28], [NQLD Điều 28]."
+   },
+   {
+    "key": "06da1ec458d60bac",
+    "answer": "Theo Nội quy lao động 2024, người lao động bị cách chức sẽ không bị coi là tái phạm nếu tiếp tục vi phạm sau 03 năm kể từ ngày bị xử lý.\n\nVì 4 năm sau vi phạm vượt quá thời hạn 03 năm quy định, nên trường hợp này **không** được tính là tái phạm.\n\n[NQLD Điều 30]"
+   },
+   {
+    "key": "76a512047f10b9e6",
+    "answer": "Theo Nội quy lao động 2024, người lao động bị cách chức sẽ được coi là tái phạm nếu vi phạm kỷ luật lao động trong vòng 03 năm kể từ ngày bị xử lý, không phải 4 năm. Do đó, sau 4 năm, hành vi đó không còn được coi là tái phạm.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 30]"
+   },
+   {
+    "key": "0ceb67c81da429f3",
+    "answer": "Theo Nội quy lao động 2024, người lao động bị cách chức sẽ không bị coi là tái phạm nếu tiếp tục vi phạm kỷ luật lao động sau thời hạn 03 năm kể từ ngày bị xử lý [NQLD Điều 30].\n\nDo đó, sau 4 năm (vượt quá 03 năm quy định), nếu nhân viên này tiếp tục vi phạm, hành vi đó **không** được tính là tái phạm.\n\n[NQLD Điều 30]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-091",
+  "question": "hop xu ly ky luat ma nguoi bi ky luat vang mat thi cty co hop dc ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Có. Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động (NQLD Điều 27).",
+  "key_facts": [
+   "vẫn tiến hành"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "ca906e6c1375132a",
+    "answer": "Nếu người bị xử lý kỷ luật vắng mặt, Công ty vẫn tiến hành họp xử lý kỷ luật lao động.\n\n- Trường hợp người lao động không xác nhận tham dự hoặc vắng mặt, người sử dụng lao động vẫn tổ chức họp.\n- Nội dung họp được lập thành biên bản có chữ ký của người tham dự; nếu có người không ký, người ghi biên bản sẽ nêu rõ họ tên và lý do.\n- Quyết định xử lý kỷ luật sẽ do người giao kết hợp đồng lao động (hoặc Người đại diện pháp luật nếu bị sa thải) ban hành.\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "9baa8ef8f6c653e4",
+    "answer": "Trường hợp người lao động vắng mặt, người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động. Nội dung cuộc họp được lập thành biên bản, thông qua trước khi kết thúc và có chữ ký của người tham dự. Trường hợp có người không ký, người ghi biên bản sẽ nêu rõ họ tên và lý do không ký.\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "b37546ad5e6dbfc7",
+    "answer": "Theo Nội quy lao động 2024, trường hợp người lao động vắng mặt hoặc không xác nhận tham dự cuộc họp xử lý kỷ luật lao động, người sử dụng lao động vẫn được tiến hành họp. Nội dung cuộc họp sẽ được lập thành biên bản và thông qua trước khi kết thúc. Trường hợp có người không ký vào biên bản, người ghi biên bản sẽ nêu rõ họ tên và lý do không ký.\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "55b7919b715cdf24",
+    "answer": "Có, công ty vẫn được tiến hành họp xử lý kỷ luật lao động. Theo Điều 27 Nội quy lao động 2024, nếu một trong các thành phần phải tham dự (người lao động hoặc người đại diện) không xác nhận tham dự hoặc vắng mặt, người sử dụng lao động vẫn được phép tổ chức họp. Nội dung cuộc họp sẽ được lập thành biên bản, thông qua trước khi kết thúc và ghi rõ lý do nếu có người không ký vào biên bản [NQLD Điều 27]."
+   },
+   {
+    "key": "3712b433d724596b",
+    "answer": "Theo Nội quy lao động 2024, nếu người bị xử lý kỷ luật vắng mặt, Công ty vẫn tiến hành họp xử lý kỷ luật lao động. Nội dung cuộc họp được lập thành biên bản và thông qua trước khi kết thúc; trường hợp có người không ký, người ghi biên bản sẽ nêu rõ họ tên và lý do không ký.\n\n[NQLD Điều 27]"
+   }
+  ]
+ }
+]

@@ -1,0 +1,160 @@
+{"key": "9eb556473761c8a1", "qid": "MULTI-001", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says QCL lacks 48h/26-day basis; holiday rule right"}
+{"key": "3fa8096b85891ac1", "qid": "MULTI-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: shared 48h basis and holiday rule; QCL detail"}
+{"key": "d387d6868d2118a8", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only holiday rule; omits 48h basis and 150/200/300% formula"}
+{"key": "2532f42b67b9e02b", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h and holiday rule right; omits percentage formulas and TULD deferral"}
+{"key": "762d4371fd006e9b", "qid": "MULTI-001", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Misses 48h basis; says TULD only covers holiday case, false"}
+{"key": "a9948e7b9c5657e6", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h and holiday rule right; omits 150/200/300% detail difference"}
+{"key": "a556b25e7380755a", "qid": "MULTI-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: shared basis, QCL percentages, TULD lacks them"}
+{"key": "6bf1056686151886", "qid": "MULTI-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD only; claims QCL pay day absent (QCL Dieu 11 says day 15)"}
+{"key": "e8941d5a3c8b7b0c", "qid": "MULTI-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD only; misses QCL day 15"}
+{"key": "7c51c2eb6a964cb9", "qid": "MULTI-002", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says different but denies QCL specifies pay day; omits day 15"}
+{"key": "f307d9cb20819e31", "qid": "MULTI-002", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says different but claims QCL has no pay day; omits day 15"}
+{"key": "6fb68b8fa8217d9a", "qid": "MULTI-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD only; misses QCL day 15"}
+{"key": "75f8fa1ebe1e9ba1", "qid": "MULTI-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD only; misses QCL day 15"}
+{"key": "1b13c2084f203b70", "qid": "MULTI-002", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD only; misses QCL day 15"}
+{"key": "afb1ae39bf01512e", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM vs bank account, identical complaint process; omits portal"}
+{"key": "0abee67c3695c504", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct including luong.bibica.com.vn"}
+{"key": "aeda5ae55d39c7e1", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct difference and identical complaint process"}
+{"key": "5f49e6356f263141", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; phrasing about CNV vs other staff slightly odd"}
+{"key": "75df6362f327712b", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct difference and identical complaint process"}
+{"key": "b9301e1c5069fca1", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct content; framing as difference of subject is loose"}
+{"key": "b9ef1c40dc20c9dd", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%; extra income detail from QCL 16"}
+{"key": "e3e58aa3d574fa42", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, tờ trình mentioned"}
+{"key": "d851f88310000c44", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, correct nuance"}
+{"key": "daa2b99710bf1292", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, correct nuance"}
+{"key": "fc3f0534ec7a8d2c", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, correct"}
+{"key": "7a7254bcad69a2cb", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, correct"}
+{"key": "052f39c252f3066e", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100%, correct"}
+{"key": "ff9f90bc00f3781e", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both lists accurate; differences correct"}
+{"key": "8f013cb844ce27ff", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both lists accurate; common items identified"}
+{"key": "e2757c67f93bfa89", "qid": "MULTI-007", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says both include BHXH and TNCN; misses QCL extras"}
+{"key": "b590f2be3d2cebf7", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both lists accurate; differences correct"}
+{"key": "194ab9d7d9a2afde", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Accurate, notes compensation basis difference"}
+{"key": "0522c03ee6f5311c", "qid": "MULTI-007", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Right on phone/phúng điếu but wrongly says BHXH, TNCN, loans in both"}
+{"key": "d3b80e83069d0ab4", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both lists accurate; differences correct"}
+{"key": "16aa4d96bd718501", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "38341379b6434fcf", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "af51e67a494f090f", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "2883e5513d93a618", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "7659a472f6e3f444", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "1fdeb47350c5d6e8", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct shared 14-day rule; omits phép năm and QCL fault-based differences"}
+{"key": "e1f011bf30d75e03", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL and NQLD right; TULD phép notification missing"}
+{"key": "4aa5b5193f610b83", "qid": "MULTI-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Covers QCL, NQLD, thôi việc and TULD notification"}
+{"key": "5c4f59fbb3f5096b", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL/NQLD right; TULD notify-leave point missing"}
+{"key": "f890dab780cbe6b8", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL/NQLD right; says TULD silent, missing its leave notice"}
+{"key": "c2578a09bd402978", "qid": "MULTI-010", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says TULD records non-payment of unused leave"}
+{"key": "795ea0549dbaeb50", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits payment in cash on termination; TULD point included"}
+{"key": "55dbc5d3f8df04fa", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct hours; includes irrelevant QCL Dieu 12 citation"}
+{"key": "014a62bf9ae34125", "qid": "MULTI-011", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Hours right but says Monday to Sunday for admin; should be Mon-Sat"}
+{"key": "17eab8cf9d9e8bbd", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "dd590aa3b34bf438", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "08d142c80e56c40d", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "a3cb8f7254e87f56", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "10800e739c3a0981", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "c43cf9d3ddcb1c53", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "a14d7352520ff81f", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "b2eb84eb9e5b631b", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "6c73bb11c02b5937", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "8e285139c967d7dc", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "a2caa5a10ee6db3f", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correctly says no, QCL Dieu 9 excludes resignation applicants"}
+{"key": "ca816d7083ee753e", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "f938ca3e7eb5d060", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "79f04e0be71b62cd", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "2415f824c71249fd", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "a92b6ed8745f17e1", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "0c9724db3cf6f7a0", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct for both documents"}
+{"key": "8be2334a247dab0b", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "91419eed94d34d1d", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "c2e7b734c8d460ba", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "d79bfefe9d0634d8", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "d24c484c33cffe1b", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "52fb4918e825de7e", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "043c6047ca978924", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct TULD 18 and NQLD 17 content"}
+{"key": "04da9c3c3ead8bd8", "qid": "MULTI-016", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Source/decider via TULD right; misattributes quỹ lương point to QCL 20; omits TGĐ"}
+{"key": "12b1344bcd852326", "qid": "MULTI-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Source, TGĐ and Hội đồng, purposes all covered"}
+{"key": "4f9dd0b7714ebe06", "qid": "MULTI-016", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits Tổng giám đốc as decider under QCL"}
+{"key": "6f3fd48040c5e711", "qid": "MULTI-016", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits Tổng giám đốc as decider under QCL"}
+{"key": "31aa5cc75858179f", "qid": "MULTI-016", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits Tổng giám đốc as decider under QCL"}
+{"key": "c9aba1c8f853b678", "qid": "MULTI-016", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits Tổng giám đốc as decider under QCL"}
+{"key": "e034fd03e587c29c", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "4c34f64d3c8a7e2b", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "913166005b30a90b", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "f5c10d5a5657a63b", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "5c79813816bec64f", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "50d8f42558008e9b", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "73d3b37b3a30661f", "qid": "MULTI-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to law/NQLD; 60 phút and tháng thứ 7 correct"}
+{"key": "c32577614ccfe92f", "qid": "MULTI-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD consent plus 05 working days, minutes, legal representative"}
+{"key": "b62c5c736bc822fb", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and legal representative right; omits 05-day notice"}
+{"key": "1bccc3c2a5c84fe0", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and legal representative right; omits 05-day notice"}
+{"key": "3aba66d831c280ec", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and legal representative right; omits 05-day notice"}
+{"key": "2a48089972224232", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD right; procedure partial, omits 05-day notice"}
+{"key": "546ef00a048b5435", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD right; procedure partial, omits 05-day notice"}
+{"key": "24aa8f231adf319a", "qid": "MULTI-018", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD right; omits 05-day notice and union-president case"}
+{"key": "60508f205df6e074", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Covers NQLD 32 tiers, deduction via TULD 15 and QCL 16"}
+{"key": "c14b6a6f8ef763e0", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct"}
+{"key": "02bad0db66e1d3e1", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; citation format garbled but content sourced right"}
+{"key": "1e63ebd4ad69b966", "qid": "MULTI-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, cites NQLD 32 and TULD 15"}
+{"key": "999772263748e10b", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits the 3-month salary cap"}
+{"key": "9f4dbe1cdff3d959", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits the 3-month salary cap"}
+{"key": "09eda9d6d80f11d5", "qid": "MULTI-019", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits the 3-month salary cap"}
+{"key": "92056d64831bbfd4", "qid": "MULTI-020", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD; wrongly says NQLD and QCL have no effective date"}
+{"key": "a1e1bd3b737b28b1", "qid": "MULTI-020", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; wrongly applies Sở registration to QCL"}
+{"key": "67bfd39e2c210d4a", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; says QCL has no date (signed 26/04/2024)"}
+{"key": "714a3359dbe10a0e", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; says QCL has no date"}
+{"key": "2abb4ae905e0b836", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; says QCL has no date"}
+{"key": "1a1169df5346fd51", "qid": "MULTI-020", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; says QCL has no date"}
+{"key": "76556d4a10e79bcf", "qid": "MULTI-020", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; wrongly applies Sở registration to QCL"}
+{"key": "9c49ab1b23f8be90", "qid": "MULTI-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ for TULD/NQLD right; QCL and NQLD-to-TULD reference missing"}
+{"key": "b63e6fa64292c48e", "qid": "MULTI-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ right; adds muddled list and TULD 13 stretch"}
+{"key": "d476cd3759f5a547", "qid": "MULTI-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ right; invents a priority order TULD > NQLD > BLLĐ"}
+{"key": "b8584f710fccd447", "qid": "MULTI-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ with TULD 1, NQLD 3 and Chương IX"}
+{"key": "0f81d96d529a5cde", "qid": "MULTI-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ right; invents priority order, wrong TULD 4 cite"}
+{"key": "0dafbd24297152b9", "qid": "MULTI-021", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Claims QCL self-governs and has priority; QCL 1 refers to BLLĐ"}
+{"key": "da8509f3c0ddf901", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "f5a614a5c7785b8f", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "df9a69eb2e21d4ff", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "c028392a316dd816", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "51664660d349dcc1", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "2b542a375294a2c9", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "700279434e7464a7", "qid": "MULTI-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: part of TULD if union-approved and lawful"}
+{"key": "89e0ba2f568b51bf", "qid": "MULTI-023", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100%, 2 years, deduction right; misses QCL 7 salary conversion"}
+{"key": "bfbcc74d0305b767", "qid": "MULTI-023", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100%, 2 years, deduction right; says no salary info"}
+{"key": "41ed7d922cc18b75", "qid": "MULTI-023", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100%, 2 years, deduction right; says salary unspecified"}
+{"key": "6da7441778ae4ba5", "qid": "MULTI-023", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100%, 2 years, deduction right; says salary unspecified"}
+{"key": "7dd35d061cbfd2c5", "qid": "MULTI-023", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Salary adjustment misattributed to TULD 6; omits 2-year commitment"}
+{"key": "3ce2a4d5e3a7d6c6", "qid": "MULTI-023", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100%, 2 years, deduction right; says salary unspecified"}
+{"key": "66c72f34fc1f9ede", "qid": "MULTI-024", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 1% BHXH not BHTN; misses 100,000 đ bonus; compliance right"}
+{"key": "95f502a3ad096e3f", "qid": "MULTI-024", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Pay and 100,000 right; compliance only via NQLD time rules"}
+{"key": "e8a918c19d450053", "qid": "MULTI-024", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Pay right; wrongly says probation bonus unspecified"}
+{"key": "9b486dd57837d818", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Pay, 100,000 bonus, compliance all covered"}
+{"key": "29705a018705330b", "qid": "MULTI-024", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 1% BHXH not BHTN; no bonus; compliance right"}
+{"key": "c9caaada897aae14", "qid": "MULTI-024", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says no pay or bonus for probation; only compliance right"}
+{"key": "c158f9a1746b083c", "qid": "MULTI-024", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Content complete but mislabels 1% as BHXH instead of BHTN"}
+{"key": "07acadbeec81895a", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD parties right; omits Bibica issuers of QCL/NQLD"}
+{"key": "04076f09fe563964", "qid": "MULTI-025", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "No parties or names; vague and misattributed"}
+{"key": "567adf10090eec6a", "qid": "MULTI-025", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conflates Bibica with Pan; no signatories"}
+{"key": "24bad40d413d3194", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD parties by title only; no Bibica issuers"}
+{"key": "a6226c2ce11d24b4", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD parties by title only; no Bibica issuers"}
+{"key": "e4fd7915d5a554d7", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "TULD parties by title only; citations misplaced"}
+{"key": "4f267b48f0831bac", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Names no companies or signatories"}
+{"key": "15d330c03d8dcdfd", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct"}
+{"key": "0ba20dfcd3e82f06", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct"}
+{"key": "8924c622f6241e29", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits 04-month condition; benefits right"}
+{"key": "a66e73589fce1dc5", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "5d3f51220f1d8d90", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct"}
+{"key": "673a4f4ad252c4e5", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits 04-month condition; benefits right"}
+{"key": "6783b601cdc714fd", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct"}
+{"key": "a0eebe2e23d134c4", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Yes plus vehicle loan right; wrongly says TULD 15 omits funeral costs"}
+{"key": "8b3b9eee7ac2ddf3", "qid": "MULTI-028", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Invents that deduction is not for colleagues; contradicts yes"}
+{"key": "3ccaaf8ecca05bd1", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Yes on deduction; wrongly says no company help for deaths"}
+{"key": "3af9c5a0da53fb1b", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Yes on deduction; support part wrong, no vehicle loan"}
+{"key": "aa8624f31e3970d7", "qid": "MULTI-028", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Garbled, wrong citation; no vehicle loan"}
+{"key": "3ebd2a6f5642d5b6", "qid": "MULTI-028", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Garbled; claims company pays unrelated items; no vehicle loan"}
+{"key": "9f229dac9d4226f7", "qid": "MULTI-028", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Denies the deduction; contradicts TULD 15 and QCL 16"}
+{"key": "d64a6618970f7c6b", "qid": "MULTI-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1 day/week, 4 days/month, 48h basis"}
+{"key": "9962a2a6f14b03b7", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h right; omits weekly rest days"}
+{"key": "894c3085420ad2c0", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h right; irrelevant annual leave, no weekly rest"}
+{"key": "38dfcfabfbac74c0", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h right; says weekly rest info absent"}
+{"key": "be87a23b57abc819", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h right; says weekly rest info absent"}
+{"key": "e362eb3783299372", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h right; says weekly rest info absent"}
+{"key": "b1371fc3f1396550", "qid": "MULTI-029", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "48h right; wrongly says 5 working days/week"}

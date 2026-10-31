@@ -1,0 +1,567 @@
+[
+ {
+  "qid": "TULD-026",
+  "question": "Nếu công ty thiếu đơn hàng hoặc mất điện nước phải cho công nhân nghỉ, thì người còn phép năm và người đã hết phép năm được giải quyết thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Người lao động còn phép năm tạm tính đến tháng 12: Công ty thông báo cho người lao động nghỉ phép năm. Người lao động đã hết phép năm tạm tính đến tháng 12: Công ty trả lương ngừng việc — nếu ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu; nếu ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu (TULD Điều 5).",
+  "key_facts": [
+   "nghỉ phép năm",
+   "14 ngày làm việc",
+   "mức lương tối thiểu"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 5": "Điều 5. Việc làm và bảo đảm việc làm\n1. NSDLĐ phải đảm bảo việc làm cho NLĐ trong suốt thời gian có hiệu lực của hợp đồng.\n2. Trường hợp do thiếu đơn hàng hay do lý do khách quan khác như điện nước thì hai bên thỏa thuận như sau:\na) Đối với người lao động còn phép năm tạm tính đến tháng 12: Công ty thông báo cho người lao động nghỉ phép năm.\nb) Đối với người lao động đã hết phép năm tạm tính đến tháng 12: Công ty sẽ trả lương ngừng việc như sau:\n- Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu;\n- Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n3. NLĐ hoàn thành tốt nhiệm vụ được giao, không bị xử lý kỷ luật lao động sẽ được tái ký HĐLĐ khi hết hạn hợp đồng.\n4. NLĐ tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "7e1ea19799559eb8",
+    "answer": "Tài liệu nội bộ không có thông tin về việc giải quyết nghỉ phép khi công ty thiếu đơn hàng hoặc mất điện nước.\n\nCác văn bản quy định (NQLD, QCL, TULD) chỉ nêu rõ:\n- Người lao động được nghỉ phép năm nếu làm việc đủ 12 tháng và hưởng nguyên lương [NQLD/Điều 7].\n- Công ty khuyến khích nghỉ vào thời gian thấp điểm nhưng không quy định cụ thể trường hợp nghỉ do sự cố của doanh nghiệp [QCL/Điều 19].\n- Phép năm chưa nghỉ hết trước ngày 30/3 năm sau sẽ không được thanh toán [NQLD/Điều 7].\n\nĐể biết quy định cụ thể cho trường hợp này, vui lòng liên hệ trực tiếp Ban Nhân sự."
+   },
+   {
+    "key": "ab4ad0e3b34b727f",
+    "answer": "Theo Thỏa ước lao động tập thể 2024:\n- Đối với người lao động còn phép năm (tính đến tháng 12): Công ty thông báo cho người lao động nghỉ phép năm.\n- Đối với người lao động đã hết phép năm (tính đến tháng 12): Công ty trả lương ngừng việc.\n  + Trường hợp ngừng việc từ 14 ngày làm việc trở xuống: Tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu.\n  + Trường hợp ngừng việc trên 14 ngày làm việc: Tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n\nNguồn: [TULD Điều 5]"
+   },
+   {
+    "key": "81f9c7294e568dcf",
+    "answer": "Khi thiếu đơn hàng hoặc mất điện nước, việc giải quyết nghỉ phép phụ thuộc vào thời điểm người lao động đã sử dụng hết phép năm hay chưa:\n\n1.  **Người lao động còn phép năm (tính đến tháng 12):** Công ty thông báo cho người lao động nghỉ phép năm.\n2.  **Người lao động đã hết phép năm (tính đến tháng 12):** Công ty trả lương ngừng việc.\n    *   Nếu ngừng việc từ 14 ngày trở xuống: Tiền lương ngừng việc không thấp hơn mức lương tối thiểu.\n    *   Nếu ngừng việc trên 14 ngày: Tiền lương ngừng việc do hai bên thỏa thuận, nhưng 14 ngày đầu phải không thấp hơn mức lương tối thiểu.\n\n*Lưu ý: Nếu mất điện nước, công ty sẽ thay đổi lịch nghỉ hàng tuần và thông báo ngay cho người lao động.*\n\n[TULD Điều 5], [NQLD Điều 7], [NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-027",
+  "question": "Nếu tôi đi làm muộn lần đầu tiên thì bị xử lý thế nào theo thỏa ước?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "NLĐ vi phạm quy định về thời giờ làm việc, thời giờ nghỉ ngơi (như đến công ty muộn, về sớm) lần đầu thì bị nhắc nhở; từ lần thứ 2 trở đi sẽ áp dụng chế tài theo nội quy, quy định của công ty (TULD Điều 7).",
+  "key_facts": [
+   "nhắc nhở"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 7": "Điều 7. Thời giờ làm việc, thời giờ nghỉ ngơi\n- Tất cả người lao động làm việc tại Công ty đều phải chấp hành qui định về thời giờ làm việc, thời giờ nghỉ ngơi trong Nội qui lao động. Trường hợp có sự thay đổi về thời giờ làm việc, Công ty phải thông báo trước cho người lao động.\n- NLĐ vi phạm quy định về thời giờ làm việc, thời giờ nghỉ ngơi (như đến công ty muộn, về sớm trước khi hết giờ làm việc): vi phạm lần đầu thì bị nhắc nhở, từ lần thứ 2 trở đi sẽ áp dụng chế tài theo nội qui; quy định của công ty.\n- Ngoài các ngày nghỉ lễ, tết hưởng nguyên lương theo quy định của pháp luật lao động hiện hành, NLĐ còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.."
+  },
+  "answers": [
+   {
+    "key": "82451cffd65ac92f",
+    "answer": "Tài liệu nội bộ không có thông tin chi tiết về mức xử lý kỷ luật cụ thể cho việc đi làm muộn lần đầu tiên.\n\nTuy nhiên, theo **NQLD Điều 14**, việc đến trễ mà không được chấp thuận trước sẽ được xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật. Theo **NQLD Điều 28**, hình thức \"khiển trách bằng văn bản\" có thể được áp dụng cho các hành vi vi phạm gây hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng) hoặc vi phạm các điều khoản cụ thể trong nội quy.\n\nĐể biết mức xử lý chính xác cho trường hợp này, bạn cần tham khảo **Thỏa ước lao động tập thể 2024 (TULD)** hoặc **Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL)** vì các văn bản này thường quy định rõ mức phạt tiền hoặc hình thức kỷ luật cụ thể cho từng lỗi vi phạm."
+   },
+   {
+    "key": "9457a18b258e7c52",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nếu bạn đi làm muộn lần đầu tiên, bạn sẽ bị **nhắc nhở**.\n\nNếu vi phạm từ lần thứ 2 trở đi, Công ty sẽ áp dụng chế tài theo **Nội quy lao động** (không có quy định cụ thể trong Thỏa ước).\n\n[QCL Điều 12], [TULD Điều 7]"
+   },
+   {
+    "key": "ab2d06b7952a8e3c",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nếu đi làm muộn lần đầu, bạn sẽ bị **nhắc nhở**.\n\nNếu vi phạm lần thứ 2 trở đi, sẽ áp dụng chế tài theo quy định của Nội quy lao động và quy định của công ty.\n\n[QCL Điều 12], [NQLD Điều 14], [TULD Điều 7]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-028",
+  "question": "Nếu ngày 20 rơi vào Chủ nhật thì lương kỳ I được trả vào ngày nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương; nếu khác hệ thống ngân hàng thì CNV có thể nhận trễ hơn (TULD Điều 9).",
+  "key_facts": [
+   "ngày làm việc kế tiếp"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 9": "Điều 9. Định kỳ chi trả lương\nTiền lương hàng tháng được chi trả 2 kỳ đối với CN Gián tiếp, Phục vụ và Sản xuất:\n- Kỳ I vào ngày 20 của tháng\n- Kỳ II trả vào ngày 10 dương lịch tháng sau.\nĐối với Đội ngũ bán hàng trả 01 kỳ vào ngày 15 hàng tháng.\nTrong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (nếu trái hệ thống ngân hàng CNV có thể nhận trễ hơn)."
+  },
+  "answers": [
+   {
+    "key": "fc7e88242e46fdeb",
+    "answer": "Nếu ngày 20 rơi vào Chủ nhật, tiền lương kỳ I được trả vào ngày làm việc kế tiếp.\n\n*   Đối với Công ty Bibica (QCL): Ngày làm việc kế tiếp là ngày trả lương.\n*   Đối với một số bộ phận (TULD): Ngày làm việc kế tiếp là ngày trả lương (nếu hệ thống ngân hàng cho phép trễ hơn).\n\n[QCL Điều 11], [TULD Điều 9]"
+   },
+   {
+    "key": "471ba5cdb8416273",
+    "answer": "Theo quy định của Thỏa ước lao động tập thể 2024, tiền lương kỳ I được trả vào ngày 20 của tháng. Nếu ngày 20 trùng vào Chủ nhật (ngày nghỉ), ngày trả lương sẽ là ngày làm việc kế tiếp.\n\n[QCL Điều 11] [TULD Điều 9]"
+   },
+   {
+    "key": "81aa5ccb441e4d74",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, tiền lương kỳ I của CN Gián tiếp, Phục vụ và Sản xuất được trả vào ngày 20 của tháng. Nếu ngày 20 trùng Chủ nhật, ngày trả lương sẽ là ngày làm việc kế tiếp [TULD Điều 9].\n\nTuy nhiên, theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền lương hàng tháng được chi trả vào ngày 15 của tháng. Nếu ngày 15 trùng ngày nghỉ (bao gồm Chủ nhật), ngày trả lương sẽ là ngày làm việc kế tiếp [QCL Điều 11].\n\nDo hai văn bản quy định ngày trả lương khác nhau (ngày 20 và ngày 15), cần xác định đối tượng lao động cụ thể để áp dụng đúng quy định tương ứng."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-030",
+  "question": "Theo thỏa ước, nếu tôi mới làm được 2 năm và nghỉ thai sản 6 tháng thì ngoài tiền BHXH công ty có trợ cấp gì không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Có. CNV có thâm niên dưới 3 năm được trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản (TULD Điều 11).",
+  "key_facts": [
+   "1% tiền lương đóng BHXH",
+   "6 tháng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 11": "Điều 11. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo luật BHXH hiện hành, ngoài ra:\nĐối với NLĐ trong thời gian nghỉ thai sản 6 tháng: (theo quy chế tiền lương)\n- CNV có thâm niêm từ 3 năm trở lên: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản."
+  },
+  "answers": [
+   {
+    "key": "cb150eedc62c4b86",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, công ty sẽ trợ cấp cho bạn trong 6 tháng nghỉ thai sản. Mức trợ cấp phụ thuộc vào thâm niên làm việc:\n\n*   **Đối với lao động có thâm niên dưới 3 năm:** Công ty sẽ thanh toán một khoản tiền tương đương **1% tiền lương đóng BHXH** trong vòng 6 tháng nghỉ thai sản.\n*   **Đối với lao động có thâm niên từ 3 năm trở lên:** Mức trợ cấp là **2 triệu đồng** trong vòng 6 tháng (hoặc 1% lương đóng BHTN nếu cao hơn 2 triệu đồng).\n\nVì bạn mới làm được 2 năm (dưới 3 năm), mức trợ cấp áp dụng là **1% tiền lương đóng BHXH** trong 6 tháng. Số tiền này được thanh toán ngoài khoản từ Quỹ BHXH.\n\n[QCL Phụ lục 2], [TULD/Điều 11]"
+   },
+   {
+    "key": "41c2fb7e172a95c5",
+    "answer": "Theo Thỏa ước lao động tập thể 2024 (Điều 11) và Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Điều 13), đối với nhân viên nghỉ thai sản 6 tháng:\n\n- Nếu thâm niên **dưới 3 năm** (bao gồm 2 năm): Công ty trợ cấp **1% tiền lương đóng BHXH** trong vòng 6 tháng.\n- Nếu thâm niên **từ 3 năm trở lên**: Công ty trợ cấp **2 triệu đồng** trong vòng 6 tháng (số tiền này đã bao gồm 1% lương đóng BHTN nếu mức này thấp hơn 2 triệu).\n\nVì bạn mới làm được 2 năm, mức trợ cấp là **1% tiền lương đóng BHXH** trong 6 tháng.\n\n[TULD Điều 11], [QCL Điều 13]"
+   },
+   {
+    "key": "e33081ab15f81730",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nhân viên mới làm việc 2 năm (thâm niên dưới 3 năm) khi nghỉ thai sản 6 tháng sẽ được trợ cấp tương đương **1% tiền lương đóng BHXH** trong vòng 6 tháng. Khoản này được thực hiện ngoài chế độ BHXH do cơ quan nhà nước chi trả [TULD Điều 11]. Quy định này cũng được ghi nhận trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Điều 13]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-031",
+  "question": "Nếu công ty yêu cầu tôi tham gia một khóa đào tạo thì ai trả học phí và tôi có phải cam kết gì không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Công ty hỗ trợ 100% học phí khi NLĐ tham gia các khóa đào tạo do công ty yêu cầu; tùy theo khóa đào tạo, công ty sẽ yêu cầu NLĐ cam kết làm việc tại công ty sau khi được đào tạo từ 02 năm trở lên (TULD Điều 6).",
+  "key_facts": [
+   "100% học phí",
+   "02 năm"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 6": "Điều 6. Công tác đào tạo và huấn luyện\n1. Công ty coi trọng công tác đào tạo và huần luyện để nâng cao trình độ quản lý, chuyên môn nghiệp vụ, văn hóa… cho NLĐ nhằm phục vụ thiết thực có hiệu quả cao cho công ty.\n2. Vào thời điểm thích hợp, Công ty sẽ tổ chức đào tạo/huấn luyện hoặc cử NLĐ đi đào tạo, bồi dưỡng nghiệp vụ tay nghề cho phù hợp với yêu cầu công việc thực tế.\n3. Công ty khuyến khích và tạo điều kiện cho NLĐ tự học hỏi nâng cao, bồi dưỡng nghiệp vụ, trình độ chuyên môn để phục vụ công việc tốt hơn.\n4. Đối với người lao động khi tuyển mới vào, chưa có kinh nghiệm ở vị trí công việc cần làm, Công ty sẽ ký hợp đồng đào tạo/Tập nghề để hướng dẫn thực hành công việc, tập làm nghề theo vị ví việc làm tại nơi làm việc, thời gian tập nghề không quá 3 tháng.\nCông ty sẽ hỗ trợ 100% học phí khi NLĐ tham gia các khoá đào tạo do công ty yêu cầu; tùy theo khóa đào tạo công ty sẽ yêu cầu NLĐ cam kết làm việc tại công ty sau khi được đào tạo từ 02 năm trở lên."
+  },
+  "answers": [
+   {
+    "key": "97496cbcabfca6b1",
+    "answer": "Công ty hỗ trợ **100% học phí** cho các khóa đào tạo do công ty yêu cầu.\n\nVề cam kết làm việc, tùy theo khóa đào tạo, bạn có thể được yêu cầu cam kết làm việc tại công ty từ **02 năm trở lên** sau khi được đào tạo.\n\n[QCL/Điều 14], [TULD/Điều 6]"
+   },
+   {
+    "key": "3b40ab5e91612e1b",
+    "answer": "Công ty hỗ trợ 100% học phí khi nhân viên tham gia các khóa đào tạo do công ty yêu cầu.\n\nTuy nhiên, nhân viên có thể phải cam kết làm việc tại công ty từ 02 năm trở lên sau khi được đào tạo.\n\n[NQLD/Mở đầu], [TULD Điều 6]"
+   },
+   {
+    "key": "5005a0436770477a",
+    "answer": "Công ty sẽ hỗ trợ 100% học phí cho các khóa đào tạo do công ty yêu cầu. Tùy theo khóa đào tạo, công ty có thể yêu cầu bạn cam kết làm việc tại công ty từ 02 năm trở lên sau khi được đào tạo.\n\n[QCL Phụ lục 2], [TULD Điều 6]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-032",
+  "question": "Theo thỏa ước, nếu tôi thấy lương tháng bị tính sai thì phải khiếu nại thế nào và trong thời hạn bao lâu?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Mọi thắc mắc về tiền lương phải được thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ lãnh lương; người sử dụng lao động phải giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Nếu có tranh chấp tiền lương thì do Hội đồng hòa giải cơ sở giải quyết, không hòa giải được thì chuyển cơ quan pháp luật giải quyết (TULD Điều 13).",
+  "key_facts": [
+   "bằng văn bản",
+   "01 tháng",
+   "15 ngày",
+   "Hội đồng hòa giải cơ sở"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 13": "Điều 13. Hình thức trả lương\n1. Người lao động được lãnh lương qua thẻ ATM và được thông báo chi tiết các khoản trong lương trên hệ thống luong.bibica.com.vn của Công ty.\n2. Mọi trường hợp có thắc mắc về tiền lương phải được thực hiện bằng văn bản chậm nhất sau 01 tháng của kỳ lãnh lương và người sử dụng lao động phải giải quyết chậm nhất không quá 15 ngày kể từ ngày nhận được phản ánh. Các trường hợp tranh chấp tiền lương nếu có do Hội đồng hòa giải cơ sở giải quyết nếu không hòa giải được phải chuyển cơ quan pháp luật giải quyết."
+  },
+  "answers": [
+   {
+    "key": "edf2b16a9ead0cc3",
+    "answer": "Tài liệu nội bộ không có thông tin về quy trình khiếu nại cụ thể khi lương tháng bị tính sai hay thời hạn khiếu nại.\n\nCác văn bản quy định chung bao gồm Quy chế tiền lương (QCL), Nội quy lao động (NQLD) và Thỏa ước lao động tập thể (TULD). Tuy nhiên, nội dung trích đoạn chỉ nêu QCL áp dụng thống nhất trong toàn công ty và TULD có hiệu lực 3 năm, không đề cập chi tiết về cơ chế xử lý sai sót lương hay thời hạn khiếu nại. Bạn vui lòng tham khảo các điều khoản cụ thể trong QCL hoặc liên hệ bộ phận nhân sự để được hướng dẫn chính xác."
+   },
+   {
+    "key": "6920a894dac9e009",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nếu bạn thấy lương tháng bị tính sai, bạn phải thực hiện khiếu nại theo quy định sau:\n\n1.  **Trình tự:** Gửi đơn khiếu nại bằng văn bản cho người sử dụng lao động.\n2.  **Thời hạn giải quyết:** Người sử dụng lao động phải giải quyết chậm nhất không quá **15 ngày** kể từ ngày nhận được phản ánh của bạn.\n3.  **Tranh chấp:** Nếu không hòa giải được, các trường hợp tranh chấp tiền lương sẽ được Hội đồng hòa giải cơ sở giải quyết; nếu vẫn không giải quyết được thì chuyển cơ quan pháp luật giải quyết.\n\n(Nguồn: [TULD Điều 13])"
+   },
+   {
+    "key": "1a9fac225ae470e9",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, nếu bạn thấy lương tháng bị tính sai, bạn có quyền khiếu nại với người sử dụng lao động hoặc cơ quan có thẩm quyền theo quy định của pháp luật [TULD Điều 32].\n\nTuy nhiên, các trích đoạn tài liệu đã cung cấp (NQLD, TULD, QCL) **không có thông tin cụ thể** về thời hạn khiếu nại đối với việc tính lương sai. Tài liệu chỉ quy định chung về việc khiếu nại khi không thỏa đáng với kỷ luật hoặc trách nhiệm vật chất, nhưng không nêu rõ khung thời gian cụ thể cho khiếu nại lương [NQLD Điều 32]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-033",
+  "question": "Theo thỏa ước, công ty được khấu trừ những khoản nào vào thu nhập của người lao động?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Công ty trừ từ thu nhập các chi phí đã báo trước cho người lao động gồm: (a) Công đoàn phí (đối với đoàn viên công đoàn); (b) Chi phí sử dụng điện thoại cá nhân vượt định mức hoặc truy thu chi phí thuê bao nếu CNV không sử dụng số điện thoại Công ty cấp; (c) Chi phí bồi thường thiệt hại do cá nhân gây ra theo quyết định kỷ luật của Công ty; (d) Các chi phí tiền vay, tạm ứng, viếng đám tang, nuôi Bà mẹ Việt Nam anh hùng, khấu trừ BHYT 4,5% (CNV nghỉ việc không thuộc đối tượng tham gia BHXH nhưng phát sinh BHYT của tháng nghỉ việc), bồi hoàn chi phí đào tạo đã cam kết hoàn trả cho Công ty (TULD Điều 15).",
+  "key_facts": [
+   "Công đoàn phí",
+   "điện thoại",
+   "bồi thường thiệt hại",
+   "4,5%"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 15": "Điều 15. Khấu trừ lương theo thỏa thuận\nCông ty sẽ trừ từ thu nhập các chi phí theo quy định đã báo trước cho người lao động theo quy định\na. Công đoàn phí (cho các cá nhân là đoàn viên công đoàn).\nb. Chi phí sử dụng điện thoại cá nhân vượt định mức hoặc truy thu chi phí thuê bao nếu CNV không sử dụng số điện thoại Công ty cấp.\nc. Chi phí bồi thường thiệt hại do cá nhân gây ra theo quyết định kỷ luật của Công ty.\nd. Các chi phí tiền vay, tạm ứng, viếng đám tang, nuôi Bà mẹ Việt Nam anh hùng, khấu trừ BHYT 4,5% (CNV nghỉ việc không thuộc đối tượng tham gia BHXH nhưng phát sinh BHYT của tháng nghỉ việc) bồi hoàn chi phí đào tạo đã cam kết hoàn trả cho Công ty."
+  },
+  "answers": [
+   {
+    "key": "4020a23cd6163931",
+    "answer": "Theo các tài liệu nội bộ, công ty được khấu trừ các khoản sau từ thu nhập của người lao động:\n\n1.  **Công đoàn phí:** Cho các cá nhân là đoàn viên công đoàn.\n2.  **Tiền đóng:** Bao gồm BHXH, BHYT, BHTN.\n3.  **Thuế TNCN.**\n4.  **Chi phí bồi thường thiệt hại:** Theo quy định pháp luật do cá nhân gây ra theo quyết định xử lý trách nhiệm vật chất của Công ty.\n5.  **Tiền phúng điếu và hoạt động chia sẻ cộng đồng - xã hội.**\n\nNgoài ra, nếu người lao động nghỉ việc trước tháng sinh nhật (trừ nghỉ hưu), công ty sẽ thu hồi số tiền chi trả chi phí sinh nhật theo các tháng làm việc thực tế.\n\n[Từ đoạn 1, mục h. Các khoản phải trừ]\n[Từ đoạn 1, mục f. Chi phí sinh nhật]"
+   },
+   {
+    "key": "ee53776beb2f43b3",
+    "answer": "Theo Thỏa ước lao động tập thể 2024 (Điều 15), Công ty được khấu trừ các khoản sau từ thu nhập của người lao động:\n\n1.  **Công đoàn phí:** Đối với các cá nhân là đoàn viên công đoàn.\n2.  **Chi phí điện thoại cá nhân:** Chi phí sử dụng vượt định mức hoặc truy thu chi phí thuê bao nếu nhân viên không sử dụng số điện thoại công ty cấp.\n3.  **Chi phí bồi thường thiệt hại:** Theo quyết định kỷ luật của Công ty do cá nhân gây ra.\n4.  **Các chi phí tiền vay, tạm ứng:** Và các khoản viếng đám tang, nuôi Bà mẹ Việt Nam anh hùng.\n5.  **Hoàn trả chi phí đào tạo:** Đối với những người đã cam kết hoàn trả.\n6.  **Chi phí BHYT:** 4,5% đối với nhân viên nghỉ việc không thuộc đối tượng tham gia BHXH nhưng phát sinh BHYT của tháng nghỉ việc.\n\n(Nguồn: [TULD Điều 15])"
+   },
+   {
+    "key": "713a6f769acab072",
+    "answer": "Theo Thỏa ước lao động tập thể 2024 (Điều 15), công ty được khấu trừ các khoản sau:\n- Công đoàn phí (cho đoàn viên).\n- Chi phí điện thoại cá nhân vượt định mức hoặc truy thu thuê bao khi không dùng số công ty cấp.\n- Chi phí bồi thường thiệt hại do cá nhân gây ra theo quyết định kỷ luật.\n- Các chi phí tiền vay, tạm ứng, viếng đám tang, nuôi Bà mẹ Việt Nam anh hùng, khấu trừ BHYT 4,5% (cho CNV nghỉ việc không thuộc đối tượng BHXH nhưng phát sinh BHYT), và hoàn trả chi phí đào tạo đã cam kết.\n\n(Nguồn: [TULD Điều 15])\n\n*Lưu ý: Quy chế tiền lương (Điều 16) quy định thêm các khoản phải trừ khác như BHXH, BHYT, BHTN, thuế TNCN, tiền phúng điếu và hoạt động chia sẻ cộng đồng, nhưng câu hỏi chỉ yêu cầu nội dung theo Thỏa ước.*"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-034",
+  "question": "Ngoài lương thưởng, thỏa ước quy định những phúc lợi khác nào cho người lao động?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Các phúc lợi khác gồm: (1) Khám sức khỏe định kỳ ít nhất một lần mỗi năm; khi ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển bệnh viện khi cần; (2) Được mượn xe Công ty cho việc ma chay, cưới hỏi của người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con) nếu có điều kiện, trong phạm vi không quá 100 km/02 lượt đi và về, NLĐ chịu xăng dầu và chi phí liên quan; (3) Hàng năm được tham quan du lịch 01 lần do Công ty phối hợp Công đoàn cơ sở tổ chức, mức chi tùy kết quả sản xuất kinh doanh; (4) Thưởng dịp sinh nhật Công ty, Lễ, Tết: 500.000 đồng/người (thâm niên từ 1 năm), 200.000 đồng/người (dưới 1 năm), 100.000 đồng/người (thử việc) (TULD Điều 17).",
+  "key_facts": [
+   "khám sức khỏe định kỳ",
+   "mượn xe",
+   "tham quan du lịch",
+   "500.000 đồng/người"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "9fb6aea21dc528b7",
+    "answer": "Thỏa ước lao động tập thể (TULD) quy định các phúc lợi sau:\n\n1.  **Khám sức khỏe định kỳ:** Hàng năm, công ty tổ chức ít nhất một lần cho nhân viên. Khi ốm đau hoặc tai nạn đột xuất trong giờ làm việc, được khám, sơ cứu tại trạm y tế công ty và chuyển bệnh viện khi cần thiết [TULD Điều 17].\n2.  **Mượn xe phục vụ việc riêng:** Cho phép người lao động mượn xe phục vụ việc riêng trong gia đình (ma chay, cưới hỏi). Điều kiện: không vượt quá 100 km/02 lượt đi và về, người lao động tự chịu chi phí xăng dầu [TULD Điều 17].\n3.  **Tham quan du lịch:** Hàng năm, công ty phối hợp Công đoàn cơ sở tổ chức cho người lao động được tham quan du lịch 01 lần. Mức chi tùy thuộc vào kết quả sản xuất kinh doanh và quy định của công ty [TULD Điều 17].\n4.  **Thưởng sinh nhật công ty và ngày Lễ, Tết:**\n    *   Thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n    *   Thâm niên dưới 1 năm: 200.000 đồng/người.\n    *   Thời gian thử việc: 100.000 đồng/người [TULD Điều 17].\n\n*Lưu ý: Các quy định về cơ cấu lương, tỷ lệ KPI và trách nhiệm bồi thường thiệt hại thuộc nội dung Quy chế tiền lương (QCL) và Nội quy lao động (NQLD), không nằm trong TULD [QCL Điều 15, 16; NQLD Điều 32].*"
+   },
+   {
+    "key": "840093c0294fe35f",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, ngoài lương thưởng, Công ty quy định các phúc lợi khác như sau:\n\n- Khám sức khỏe định kỳ ít nhất một lần/năm và sơ cấp cứu tại Trạm y tế Công ty khi ốm đau/tai nạn đột xuất [TULD Điều 17].\n- Cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi tuyến đường không quá 100 km/2 lượt đi và về; nhân viên chịu chi phí xăng dầu và các khoản liên quan [TULD Điều 17].\n- Tổ chức tham quan du lịch 01 lần/năm cho người lao động được làm việc tại Công ty, mức chi tùy thuộc vào kết quả sản xuất kinh doanh và quy định của Công ty [TULD Điều 17].\n- Thưởng dịp sinh nhật Công ty và ngày Lễ, Tết:\n  + Đã ký HĐLĐ, thâm niên từ 1 năm trở lên: 500.000 đồng/người.\n  + Đã ký HĐLĐ, thâm niên dưới 1 năm: 200.000 đồng/người.\n  + Đang thử việc: 100.000 đồng/người [TULD Điều 17].\n- Người làm công tác công đoàn không chuyên trách được sử dụng thời gian trong giờ làm việc (ít nhất 24 giờ/tháng) để làm nhiệm vụ và được trả lương [TULD Điều 4].\n\nTài liệu nội bộ không có thông tin về các phúc lợi khác ngoài những nội dung trên."
+   },
+   {
+    "key": "45cb31b139c9d287",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định các phúc lợi khác sau:\n\n1.  **Khám sức khỏe định kỳ:** Hàng năm, Công ty tổ chức khám sức khỏe định kỳ ít nhất một lần cho nhân viên. Khi bị ốm đau hoặc tai nạn đột xuất trong giờ làm việc, nhân viên được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết [TULD Điều 17].\n2.  **Mượn xe phục vụ việc riêng:** Nhân viên có thể được mượn xe của Công ty phục vụ việc riêng (ma chay, cưới hỏi) nếu có điều kiện và không ảnh hưởng giờ làm việc. Phạm vi mượn xe không vượt quá 100 km/02 lượt đi và về. Nhân viên phải tự chịu chi phí xăng dầu và các khoản liên quan khác [TULD Điều 17].\n3.  **Phúc lợi công đoàn:** Người làm công tác công đoàn chuyên trách do quỹ công đoàn trả lương và được hưởng các quyền lợi, phúc lợi tập thể như mọi người lao động khác [TULD Điều 4].\n\nNgoài ra, Quy chế tiền lương, tiền thưởng 2024 quy định Quỹ khen thưởng phúc lợi có thể được phân phối cho người lao động khi thu nhập bị giảm sút theo đề xuất của BCH Công đoàn Cơ Sở [QCL Điều 21]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-035",
+  "question": "Thỏa ước lao động tập thể được xây dựng dựa trên những căn cứ pháp lý nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Thỏa ước căn cứ: Bộ luật Lao động năm 2019; Luật Công đoàn năm 2012; Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động (TULD Mở đầu).",
+  "key_facts": [
+   "Bộ luật Lao động năm 2019",
+   "Luật Công đoàn năm 2012",
+   "145/2020/NĐ-CP"
+  ],
+  "gold_evidence": {
+   "TULD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\nCông Ty cổ phần phân phối hàng CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\ntiêu dùng Pan\nĐộc Lập – Tự Do – Hạnh Phúc\nTHỎA ƯỚC LAO ĐỘNG TẬP THỂ\n- Căn cứ Bộ luật Lao động năm 2019.\n- Căn cứ Luật Công đoàn năm 2012.\n- Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của bộ luật Lao động về điều kiện lao động và quan hệ lao động.\nĐể bảo đảm quyền lợi và trách nhiệm của người sử dụng lao động và người lao động trong quan hệ lao động. Hôm nay, ngày 30 tháng 06 năm 2024, tại văn phòng Công ty chúng tôi gồm có:\n1. ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (“Gọi tắt là Công ty”)\nCÔNG TY CỔ PHẦN PHÂN PHỐI HÀNG TIÊU DÙNG PAN\nDo : Ông NGUYỄN QUỐC HOÀNG – Tổng giám đốc - làm đại diện\nĐịa chỉ : Lô A1/1-9 Đường VL 3, KCN Vĩnh Lộc 2, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An,Việt Nam.\n2. ĐẠI DIỆN TẬP THỂ NGƯỜI LAO ĐỘNG (“Gọi tắt là Công đoàn\")\nDo : : Ông PHAN VĂN THIỆN - Chủ tịch Công đoàn cơ sở - làm đại diện.\nĐịa chỉ : 443 Lý Thường Kiệt, phường 8, quận Tân Bình, thành phố Hồ Chí Minh.\nCùng nhau ký thỏa ước lao động tập thể với các nội dung chính như sau"
+  },
+  "answers": [
+   {
+    "key": "0cbf0e9ad207785c",
+    "answer": "Thỏa ước lao động tập thể được xây dựng dựa trên các căn cứ pháp lý sau:\n*   Bộ luật Lao động năm 2019.\n*   Luật Công đoàn năm 2012.\n*   Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ.\n\nCác căn cứ này được ghi rõ trong phần \"Căn cứ ban hành\" của văn bản. [TULD/Điều 3]"
+   },
+   {
+    "key": "a16e04b64cbb15e0",
+    "answer": "Thỏa ước lao động tập thể được xây dựng dựa trên các căn cứ pháp lý sau:\n- Bộ luật Lao động năm 2019.\n- Luật Công đoàn năm 2012.\n- Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động.\n\n[TULD Mở đầu]"
+   },
+   {
+    "key": "ddab9cec169556d2",
+    "answer": "Thỏa ước lao động tập thể được xây dựng dựa trên các căn cứ pháp lý sau: Bộ luật Lao động năm 2019; Luật Công đoàn năm 2012; và Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động [TULD Mở đầu]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-036",
+  "question": "Những đối tượng nào có trách nhiệm thi hành Thỏa ước lao động tập thể?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Tất cả cán bộ công nhân viên trong Công ty (bao gồm các Chi nhánh và Công ty thành viên), kể cả NLĐ trong thời gian học nghề, tập nghề, thử việc, và NLĐ vào làm việc sau ngày Thỏa ước có hiệu lực đều có trách nhiệm thực hiện những nội dung thỏa thuận trong Thỏa ước (TULD Điều 2).",
+  "key_facts": [
+   "Chi nhánh",
+   "Công ty thành viên",
+   "thử việc"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 2": "Điều 2. Trách nhiệm tổng quát của hai bên\n1. Tất cả cán bộ công nhân viên trong Công ty (bao gồm các Chi nhánh và Công ty thành viên) có trách nhiệm nghiêm chỉnh thi hành các điều thỏa thuận trong Thỏa ước này, kể cả NLĐ trong thời gian học nghề, tập nghề, thử việc, NLĐ vào làm việc sau ngày Thỏa ước có hiệu lực đều có trách nhiệm thực hiện những nội dung thoả thuận trong Thỏa ước này.\n2. NLĐ có trách nhiệm hoàn thành công việc được giao, chấp hành các nội qui, quy chế của Công ty và được hưởng các quyền lợi quy định trong Thỏa ước lao động tập thể và Hợp đồng lao động (\"HĐLĐ\").\n3. Công ty có trách nhiệm bảo đảm các điều kiện cần thiết để NLĐ hoàn thành tốt nhiệm vụ được giao, không ngừng nâng cao đời sống cho NLĐ và bảo đảm quyền tự do hoạt động Công đoàn của NLĐ trong Công ty theo Luật Công đoàn.\n4. Các nội qui, qui định/quy chế của Công ty liên quan NLĐ được thông qua ban chấp hành công đoàn Công ty và không trái pháp luật thì được coi như một phần của Thoả ước này."
+  },
+  "answers": [
+   {
+    "key": "4584eeab0c6d354d",
+    "answer": "Tất cả cán bộ công nhân viên trong Công ty (bao gồm các Chi nhánh và Công ty thành viên) đều có trách nhiệm nghiêm chỉnh thi hành Thỏa ước lao động tập thể. Quy định này áp dụng cho cả NLĐ đang học nghề, tập nghề, thử việc hoặc bắt đầu làm việc sau khi Thỏa ước có hiệu lực.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 19, TULD/Điều 2]"
+   },
+   {
+    "key": "c60e8f66dcd6b83f",
+    "answer": "Tất cả cán bộ công nhân viên trong Công ty (bao gồm các Chi nhánh và Công ty thành viên) có trách nhiệm nghiêm chỉnh thi hành Thỏa ước lao động tập thể này, kể cả người lao động trong thời gian học nghề, tập nghề, thử việc và những người lao động vào làm việc sau ngày Thỏa ước có hiệu lực.\n\n[NQLD Điều 2]"
+   },
+   {
+    "key": "0c49ad9d13a6a7c0",
+    "answer": "Tất cả cán bộ công nhân viên trong Công ty (bao gồm Chi nhánh và Công ty thành viên) đều có trách nhiệm thi hành Thỏa ước, kể cả NLĐ trong thời gian học nghề, tập nghề, thử việc hoặc làm việc sau khi Thỏa ước có hiệu lực [TULD Điều 2]. NLĐ còn phải hoàn thành công việc được giao và chấp hành các nội quy, quy chế của Công ty [TULD Điều 2]. Các nội quy, quy chế liên quan đến NLĐ được thông qua Ban chấp hành Công đoàn và không trái pháp luật cũng được coi như một phần của Thỏa ước [TULD Điều 2]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-038",
+  "question": "Người lao động đồng ý cung cấp những loại dữ liệu cá nhân nào cho công ty theo thỏa ước?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Dữ liệu cá nhân gồm: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp (TULD Điều 18).",
+  "key_facts": [
+   "Họ tên",
+   "Căn cước công dân",
+   "bằng cấp"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 18": "Điều 18. Bảo vệ Dữ liệu cá nhận\nNLĐ đồng ý cung cấp dữ liệu cá nhân cho cá nhân (bao gồm:Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp); và Công ty cam kết tuân thủ nghiêm ngặt quy định của pháp luật và tiêu chuẩn bảo vệ dữ liệu cá nhân, chỉ thu thập và xử lý dữ liệu cá nhân đúng theo quy định của pháp luật."
+  },
+  "answers": [
+   {
+    "key": "5a18764b89c06e02",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động đồng ý cung cấp các dữ liệu cá nhân sau: họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân/Chứng minh nhân dân/hộ chiếu và bằng cấp.\n\n[Trích đoạn 3 | nguồn: TULD/Điều 18]"
+   },
+   {
+    "key": "69fd4fa28298e5c8",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động đồng ý cung cấp các dữ liệu cá nhân sau: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp.\n\n[Điều 18 TULD]"
+   },
+   {
+    "key": "92d336ed4ee358f2",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động đồng ý cung cấp các dữ liệu cá nhân sau: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân, Chứng minh nhân dân hoặc hộ chiếu, và bằng cấp [TULD Điều 18].\n\nTuy nhiên, Nội quy lao động 2024 quy định rõ hơn về việc mua bán, tiết lộ hoặc chia sẻ các dữ liệu này (bao gồm danh sách trên) là hành vi bị nghiêm cấm [NQLD Điều 17]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-039",
+  "question": "Mức thưởng từ quỹ lương được căn cứ vào những yếu tố nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Công ty xét thưởng từ quỹ lương nếu quỹ lương cho phép; mức thưởng căn cứ vào: mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ; quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh; và quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng. Các vấn đề phân phối tiền thưởng được quy định đầy đủ trong quy chế tiền lương tiền thưởng của Công ty (TULD Điều 16).",
+  "key_facts": [
+   "kế hoạch sản xuất kinh doanh",
+   "quỹ lương dự phòng"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 16": "Điều 16. Chế độ khen thưởng\n1. Thưởng từ quỹ lương:\na. Công ty xét thưởng cho người lao động từ quỹ lương nếu quỹ lương công ty cho phép. Mức thưởng căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ, quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh và quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng.\nb. Tất cả các vấn đề liên quan đến phân phối tiền thưởng được qui định đầy đủ trong qui chế, quy định tiền lương tiền thưởng của Công ty.\n2. Thưởng từ quỹ khen thưởng:\na. Quỹ khen thưởng của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua nhằm khen thưởng các cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho Công ty, như sáng kiến cải tiến kỹ thuật, tiết kiệm tiêu hao vật tư, nguyên liệu .v.v…\nb. Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất:\n- Thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất nhằm mục đích tận dụng rộng rãi trí tuệ, tài năng sáng tạo của lực lượng lao động góp phần nâng cao hiệu quả sản xuất kinh doanh tại Công ty.\n- Tất cả nhân viên có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất... và được Hội đồng thi đua khen thưởng Công ty công nhận là một giải pháp tốt, đã được áp dụng và mang lại hiệu quả thiết thực cho Công ty đều được xem xét khen thưởng.\n- Các qui định về mức thưởng, xét thưởng sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất không trái với pháp luật và phải qui định cụ thể trong qui chế tiền lương tiền thưởng của Công ty\n3. Việc xét thưởng được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty. Đối tượng được xét thưởng là những cá nhân làm việc tại Công ty đến kỳ xét thưởng."
+  },
+  "answers": [
+   {
+    "key": "edf63c68ecc21d41",
+    "answer": "Mức thưởng từ quỹ lương được căn cứ vào các yếu tố sau:\n*   Mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ.\n*   Quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh.\n*   Quỹ lương dự phòng hàng năm (nếu không có nhu cầu sử dụng).\n\nTất cả các vấn đề liên quan đến phân phối tiền thưởng từ quỹ lương đều được qui định đầy đủ trong quy chế tiền lương tiền thưởng của Công ty.\n\n[SQCL/Điều 31]"
+   },
+   {
+    "key": "9851ef52b6391d53",
+    "answer": "Mức thưởng từ quỹ lương được căn cứ vào mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ, quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh và quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng. Việc xét thưởng từ quỹ lương này được quyết định bởi Hội đồng khen thưởng kỷ luật của Công ty đối với các cá nhân làm việc tại Công ty đến kỳ xét thưởng.\n\n[TULD Điều 16]"
+   },
+   {
+    "key": "2db1b47b76b6a1da",
+    "answer": "Mức thưởng từ quỹ lương được căn cứ vào:\n1. Mức độ hoàn thành kế hoạch sản xuất kinh doanh của Công ty trong kỳ.\n2. Quỹ lương tăng thêm do vượt kế hoạch sản xuất kinh doanh.\n3. Quỹ lương dự phòng hàng năm nếu không có nhu cầu sử dụng.\n\nNgoài ra, đối với nhân viên gián tiếp, thưởng KPI còn căn cứ vào kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng.\n\n[TULD Điều 16], [QCL Điều 10], [QCL Điều 3]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-040",
+  "question": "Làm ăn đàng hoàng, không dính kỷ luật gì thì lúc hết hạn giấy tờ làm việc công ty có giữ mình lại không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. NLĐ hoàn thành tốt nhiệm vụ được giao, không bị xử lý kỷ luật lao động sẽ được tái ký HĐLĐ khi hết hạn hợp đồng (TULD Điều 5).",
+  "key_facts": [
+   "tái ký"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 5": "Điều 5. Việc làm và bảo đảm việc làm\n1. NSDLĐ phải đảm bảo việc làm cho NLĐ trong suốt thời gian có hiệu lực của hợp đồng.\n2. Trường hợp do thiếu đơn hàng hay do lý do khách quan khác như điện nước thì hai bên thỏa thuận như sau:\na) Đối với người lao động còn phép năm tạm tính đến tháng 12: Công ty thông báo cho người lao động nghỉ phép năm.\nb) Đối với người lao động đã hết phép năm tạm tính đến tháng 12: Công ty sẽ trả lương ngừng việc như sau:\n- Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu;\n- Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n3. NLĐ hoàn thành tốt nhiệm vụ được giao, không bị xử lý kỷ luật lao động sẽ được tái ký HĐLĐ khi hết hạn hợp đồng.\n4. NLĐ tham gia đình công trái pháp luật sẽ không được tái ký khi hết hạn HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "6de231bbd074429d",
+    "answer": "Theo tài liệu nội bộ, Thỏa ước lao động tập thể (TULD) có hiệu lực 3 năm kể từ ngày ký [TULD/Điều 3]. Khi hết hạn, các bên phải tiến hành thương lượng để thống nhất ký kết Thỏa ước mới hoặc sửa đổi, bổ sung và gia hạn trong vòng 90 ngày trước ngày thỏa ước hết hạn [TULD/Điều 3]. Nếu không thống nhất gia hạn trong thời hạn này, Thỏa ước sẽ hết hiệu lực tự nhiên.\n\nTuy nhiên, việc \"giữ lại\" hay chấm dứt hợp đồng lao động của từng cá nhân cụ thể không được quy định chi tiết trong các trích đoạn tài liệu đã cung cấp về hiệu lực của TULD. Quy chế tiền lương và Nội quy lao động cũng không nêu rõ thủ tục chấm dứt hợp đồng khi TULD hết hạn mà không có gia hạn. Do đó, thông tin về việc xử lý cụ thể từng nhân viên khi giấy tờ hết hạn cần tham khảo thêm các văn bản khác hoặc quy định pháp luật chung.\n\n[TULD/Điều 3]"
+   },
+   {
+    "key": "3a1fbfbebc018ff6",
+    "answer": "Không, công ty không giữ lại nhân viên khi hết hạn hợp đồng nếu nhân viên không vi phạm kỷ luật.\n\nTheo Thỏa ước lao động tập thể 2024, người lao động hoàn thành tốt nhiệm vụ và **không bị xử lý kỷ luật lao động** sẽ được **tái ký hợp đồng lao động** khi hết hạn (Điều 5).\n\nTuy nhiên, việc tái ký hay không còn phụ thuộc vào:\n1.  **Tình hình doanh nghiệp:** Nếu thiếu đơn hàng hay lý do khách quan, công ty có thể thông báo nghỉ phép năm hoặc trả lương ngừng việc (Điều 5).\n2.  **Cam kết đào tạo:** Nếu nhân viên đã được đào tạo và cam kết làm việc từ 02 năm trở lên, việc tái ký có thể bị ảnh hưởng nếu không đáp ứng điều kiện này (Điều 6).\n3.  **Quyền quyết định của chủ sở hữu:** Quy chế tiền lương cho phép Tổng Giám đốc quyết định lương/thưởng cho đối tượng ký hợp đồng không xác định thời hạn hoặc hợp đồng dưới 36 tháng, nhưng không quy định bắt buộc phải tái ký cho tất cả nhân viên.\n\nTóm lại, nếu không vi phạm, nhân viên có quyền được xem xét tái ký, nhưng công ty không có nghĩa vụ bắt buộc phải giữ lại nếu không có nhu cầu sản xuất kinh doanh."
+   },
+   {
+    "key": "35a2824bcc7666ac",
+    "answer": "Không, nếu bạn làm ăn đàng hoàng và không dính kỷ luật, công ty sẽ không giữ lại bạn khi hết hạn hợp đồng. Theo Thỏa ước lao động tập thể 2024, người lao động hoàn thành tốt nhiệm vụ và không bị xử lý kỷ luật sẽ được tái ký hợp đồng khi hết hạn [TULD Điều 5]. Ngược lại, nếu tham gia đình công trái pháp luật thì sẽ không được tái ký [TULD Điều 5]. Nội quy lao động 2024 quy định về thời hạn tạm đình chỉ công việc tối đa 15 ngày và nguyên tắc xử lý kỷ luật nhưng không có quy định giữ lại nhân viên khi hết hạn nếu họ không vi phạm [NQLD Điều 27, Điều 31]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-041",
+  "question": "Nhà có đám hiếu hỉ của bố mẹ hay con cái thì xin công ty cho mượn xe được không, mình phải tự lo những gì?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Được, nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên: NLĐ có nhu cầu mượn xe phục vụ ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con) thì Công ty cho mượn nhưng chỉ trong phạm vi tuyến đường không vượt quá 100 km/02 lượt đi và về. NLĐ phải chịu chi phí xăng dầu và các chi phí khác liên quan đến công tác phục vụ (TULD Điều 17).",
+  "key_facts": [
+   "100 km",
+   "xăng dầu"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "594eb131bdd3bd35",
+    "answer": "Tài liệu nội bộ không có thông tin về việc xin mượn xe khi có đám hiếu hỉ hay các sự kiện gia đình.\n\nCác tài liệu quy định chi tiết về các vấn đề liên quan khác như:\n- **Nghỉ việc riêng:** Có thể nghỉ và hưởng đủ lương theo quy định của Bộ luật lao động hoặc thỏa thuận không hưởng lương (trừ trường hợp luật quy định). [NQLD Điều 10], [NQLD Điều 11]\n- **Công tác đào tạo:** Công ty hỗ trợ 100% học phí cho các khóa đào tạo do công ty yêu cầu và ký cam kết làm việc từ 02 năm trở lên. [TULD Điều 6]\n- **Hội họp, công tác:** Được hưởng 100% lương và chấm 100% ngày công khi hoạt động được công ty duyệt. [QCL Điều 14], [TULD Điều 12]"
+   },
+   {
+    "key": "2d09f4a96ebb0b96",
+    "answer": "Có, Công ty cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) nếu có điều kiện và không ảnh hưởng giờ làm việc.\n\n**Điều kiện và giới hạn:**\n- Chỉ được mượn trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về [TULD Điều 17].\n- Nhân viên phải chịu chi phí xăng dầu và các khoản chi phí khác liên quan [TULD Điều 17].\n\n**Những gì bạn cần tự lo:**\n- Đảm bảo việc mượn xe không ảnh hưởng đến giờ làm việc của mình.\n- Tự lo chi phí xăng dầu và các khoản chi phí phát sinh khác [TULD Điều 17]."
+   },
+   {
+    "key": "be0e806a359b0a64",
+    "answer": "Có, nhân viên được mượn xe phục vụ đám hiếu hỉ (ma chay) hay cưới hỏi cho cha mẹ, vợ/chồng, con. Tuy nhiên, xe chỉ được mượn trong phạm vi tuyến đường không vượt quá 100 km/02 lượt đi và về [TULD Điều 17].\n\nVề chi phí, nhân viên phải tự chịu toàn bộ xăng dầu và các khoản chi phí khác liên quan đến việc mượn xe phục vụ [TULD Điều 17]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-042",
+  "question": "Theo thỏa ước, công ty có tổ chức cho anh em đi chơi xa mỗi năm không, chi bao nhiêu?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần; mức chi tùy thuộc kết quả sản xuất kinh doanh và quy định của Công ty (thỏa ước không nêu số tiền cụ thể) (TULD Điều 17).",
+  "key_facts": [
+   "01 lần",
+   "kết quả sản xuất kinh doanh"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 17": "Điều 17. Các phúc lợi khác\n1. Hàng năm, Công ty tổ chức khám sức khỏe định kỳ cho nhân viên ít nhất một lần. Ngoài ra khi nhân viên bị ốm đau, tai nạn đột xuất trong giờ làm việc được khám, sơ cấp cứu tại Trạm y tế Công ty và chuyển đến bệnh viện khi cần thiết.\n2. Người lao động có nhu cầu mượn xe của Công ty phục vụ việc riêng trong gia đình như ma chay, cưới hỏi cho người thân (cha mẹ cả bên chồng lẫn bên vợ, vợ, chồng, con), nếu có điều kiện và không ảnh hưởng đến giờ đưa rước nhân viên, Công ty sẽ cho mượn xe nhưng chỉ trong phạm vi tuyến đường đi không vượt quá 100 km/ 02 lượt đi và về. Người lao động phải chịu chi phí xăng dầu, các khoản chi phí khác có liên quan đến công tác phục vụ.\n3. Hàng năm, Công ty phối hợp cùng Công đoàn cơ sở tổ chức cho NLĐ làm việc tại công ty được tham quan du lịch 01 lần với mức chi tùy thuộc kết quả sản xuất kinh doanh và qui định của Công ty.\n4. Vào dịp sinh nhật Công ty, các ngày Lễ, Tết NLĐ được thưởng như sau:\n- Đã ký HĐLĐ có thâm niên từ 1 năm trở lên: 500.000 đồng/người\n- Đã ký HĐLĐ có thâm niên dưới 1 năm: 200.000 đồng/người\n- NLĐ đang trong thời gian thử việc: 100.000 đồng/người"
+  },
+  "answers": [
+   {
+    "key": "286a7cd49b7456c0",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, công ty tổ chức cho người lao động tham quan du lịch **01 lần** mỗi năm.\n\nChi phí cụ thể **tùy thuộc vào kết quả sản xuất kinh doanh và quy định của công ty**.\n\n*   [TULD/Điều 17]"
+   },
+   {
+    "key": "ee6310fb7e651cae",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Công ty tổ chức cho người lao động tham quan du lịch **01 lần/năm**.\n\nChi phí cụ thể **không được quy định rõ ràng** trong Thỏa ước; mức chi **tùy thuộc vào kết quả sản xuất kinh doanh và quy định của Công ty** (Điều 17, khoản 3).\n\nNgoài ra, Thỏa ước còn quy định thêm các khoản thưởng khác như:\n- Sinh nhật Công ty: 500.000đ (thâm niên >=1 năm), 200.000đ (<1 năm), 100.000đ (thử việc).\n- Lễ, Tết: Thưởng theo quy định trong Quy chế tiền lương (QCL).\n- Mượn xe phục vụ việc riêng: Chỉ trong phạm vi tuyến đường <=100km/2 lượt, nhân viên tự chịu chi phí xăng dầu.\n\n[TULD Điều 17] [QCL Điều 9]"
+   },
+   {
+    "key": "98ebb1836b5b2faa",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, Công ty tổ chức cho người lao động tham quan du lịch 01 lần/năm. Mức chi phí cụ thể tùy thuộc vào kết quả sản xuất kinh doanh và quy định của Công ty [TULD Điều 17]. Tài liệu không nêu rõ số tiền cụ thể hay điều kiện \"đi chơi xa\" (chỉ nói chung là tham quan du lịch)."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-044",
+  "question": "Chị em bầu bí, nuôi con nhỏ thì thỏa ước có chính sách gì riêng không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có một chính sách riêng về thai sản: ngoài trợ cấp do BHXH chi trả, trong thời gian nghỉ thai sản 6 tháng, CNV có thâm niên từ 3 năm trở lên được Công ty trợ cấp 2 triệu đồng trong vòng 6 tháng (đã bao gồm khoản tương đương 1% lương đóng BHTN; nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương đóng BHTN), CNV có thâm niên dưới 3 năm được trợ cấp khoản tương đương 1% tiền lương đóng BHXH trong 6 tháng (TULD Điều 11). Các quy định khác đối với lao động nữ (mang thai, nuôi con nhỏ) được thực hiện theo Pháp luật Lao động, Bảo hiểm xã hội và Nội quy lao động của Công ty (TULD Điều 8).",
+  "key_facts": [
+   "2 triệu đồng",
+   "Nội quy lao động"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 8": "Điều 8. Những quy định đối với lao động nữ\n- Thực hiện theo Pháp luật Lao động, Bảo hiểm xã hội và Nội quy lao động của Công ty.",
+   "TULD/Điều 11": "Điều 11. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo luật BHXH hiện hành, ngoài ra:\nĐối với NLĐ trong thời gian nghỉ thai sản 6 tháng: (theo quy chế tiền lương)\n- CNV có thâm niêm từ 3 năm trở lên: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản."
+  },
+  "answers": [
+   {
+    "key": "1138a03a548c15b1",
+    "answer": "Tài liệu nội bộ không có thông tin về chính sách riêng cho chị em bầu bí hoặc nuôi con nhỏ.\n\nCác văn bản quy định hiện có (QCL, NQLD, TULD) chỉ nêu chung quy định về:\n- Thưởng sinh nhật và Lễ Tết cho NLĐ có thâm niên từ 1 năm trở lên (500.000đ/người) [QCL Phụ lục 2].\n- Trách nhiệm bồi thường thiệt hại khi hư hỏng dụng cụ, thiết bị [NQLD Điều 32].\n- Chế độ khám sức khỏe định kỳ ít nhất một lần/năm [TULD Điều 17].\n\nKhông có điều khoản cụ thể nào về ưu đãi đặc biệt cho phụ nữ mang thai hoặc nuôi con nhỏ trong các trích đoạn được cung cấp."
+   },
+   {
+    "key": "0929ca7653795dbf",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, quy định chung về lao động nữ là thực hiện theo Pháp luật Lao động, BHXH và Nội quy lao động của Công ty [TULD Điều 8].\n\nTuy nhiên, quy định riêng cho **lao động nữ mang thai từ tháng thứ 7** là Công ty không bố trí đi ca đêm và không bố trí làm thêm giờ [NQLD Điều 5.2.2].\n\nVề chính sách **nuôi con nhỏ dưới 12 tháng**, Nội quy lao động quy định lao động nữ được nghỉ thêm 60 phút/ngày và không quá 03 ngày/tháng [NQLD Điều 5.2.2].\n\nVề **trở lại làm việc**, nếu sau ít nhất 04 tháng nghỉ thai sản, lao động nữ có nhu cầu đi làm sớm trước khi hết thời gian nghỉ, phải thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp giấy xác nhận của cơ sở khám chữa bệnh và được sự chấp thuận [NQLD Điều 9.1.3].\n\nNgoài ra, Thỏa ước lao động tập thể cũng quy định người lao động làm công tác công đoàn không chuyên trách được sử dụng thời gian trong giờ làm việc để làm việc này và được trả lương, với số thời gian ít nhất 24 giờ/tháng [TULD Điều 4.3]."
+   },
+   {
+    "key": "a78b41a4633d8b75",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, không có chính sách riêng biệt nào được quy định cụ thể cho \"chị em bầu bí\" hay \"nuôi con nhỏ\" trong các điều khoản đã trích.\n\nTuy nhiên, Nội quy lao động 2024 quy định các quyền lợi sau đối với lao động nữ mang thai và nuôi con:\n- Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ [NQLD Điều 5].\n- Trong thời gian nuôi con dưới 12 tháng: Được nghỉ thêm 60 phút/ngày [NQLD Điều 5].\n- Khi xử lý kỷ luật lao động, không được áp dụng đối với người lao động đang nuôi con nhỏ dưới 12 tháng [NQLD Điều 27].\n\nVề chính sách mượn xe của công ty phục vụ việc riêng (như ma chay, cưới hỏi), Thỏa ước lao động tập thể 2024 quy định: Công ty cho mượn xe trong phạm vi tuyến đường không vượt quá 100 km/02 lượt đi và về, người lao động phải chịu chi phí xăng dầu và các khoản chi phí khác liên quan [TULD Điều 17]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-046",
+  "question": "nld co phai dong y cung cap du lieu ca nhan ko, cty cam ket gi ve bao mat",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Theo thỏa ước, NLĐ đồng ý cung cấp dữ liệu cá nhân (họ tên, ngày sinh, giới tính, địa chỉ cư trú, số điện thoại, thư điện tử, số CCCD/CMND/hộ chiếu, bằng cấp); Công ty cam kết tuân thủ nghiêm ngặt quy định của pháp luật và tiêu chuẩn bảo vệ dữ liệu cá nhân, chỉ thu thập và xử lý dữ liệu cá nhân đúng theo quy định của pháp luật (TULD Điều 18).",
+  "key_facts": [
+   "bảo vệ dữ liệu cá nhân"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 18": "Điều 18. Bảo vệ Dữ liệu cá nhận\nNLĐ đồng ý cung cấp dữ liệu cá nhân cho cá nhân (bao gồm:Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp); và Công ty cam kết tuân thủ nghiêm ngặt quy định của pháp luật và tiêu chuẩn bảo vệ dữ liệu cá nhân, chỉ thu thập và xử lý dữ liệu cá nhân đúng theo quy định của pháp luật."
+  },
+  "answers": [
+   {
+    "key": "a32ffd27a70b863f",
+    "answer": "Theo Nội quy lao động 2024, việc cung cấp dữ liệu cá nhân (họ tên, ngày sinh, địa chỉ, số điện thoại, CCCD...) là **hành vi nghiêm cấm** nếu thực hiện trái quy định pháp luật [NQLD Điều 17].\n\nVề cam kết bảo mật, Nội quy lao động **không quy định cụ thể** về việc công ty cam kết bảo mật dữ liệu nhân viên trong văn bản này. Tuy nhiên, quy định cấm việc \"Mua bán, tiết lộ, chia sẻ dữ liệu cá nhân... trái quy định của pháp luật\" [NQLD Điều 17] và quy định về xử lý kỷ luật lao động cho các hành vi vi phạm [NQLD Điều 26, 28] là cơ sở pháp lý để công ty xử lý nếu có vi phạm."
+   },
+   {
+    "key": "7cfc39586c30bf42",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, người lao động **đồng ý cung cấp dữ liệu cá nhân** (bao gồm họ tên, ngày tháng năm sinh, giới tính, địa chỉ, số điện thoại, email, CCCD/Hộ chiếu, bằng cấp) cho Công ty.\n\nVề cam kết bảo mật, Công ty **cam kết tuân thủ nghiêm ngặt quy định của pháp luật và tiêu chuẩn bảo vệ dữ liệu cá nhân**, chỉ thu thập và xử lý dữ liệu đúng theo quy định của pháp luật.\n\nNgoài ra, Nội quy lao động 2024 cũng quy định người lao động không được tiết lộ thông tin bí mật thuộc quyền sở hữu của Công ty cho những người không có quyền hạn.\n\n[TULD Điều 18], [NQLD Điều 23]"
+   },
+   {
+    "key": "cd25f4af25a0ee67",
+    "answer": "Người lao động **phải đồng ý** cung cấp dữ liệu cá nhân (bao gồm họ tên, ngày sinh, địa chỉ, số điện thoại, CCCD, bằng cấp...) cho Công ty.\n\nVề cam kết bảo vệ dữ liệu:\n- **Thỏa ước lao động tập thể (TULD)**: Công ty cam kết tuân thủ nghiêm ngặt pháp luật và tiêu chuẩn bảo vệ dữ liệu, chỉ thu thập và xử lý đúng quy định [TULD Điều 18].\n- **Nội quy lao động (NQLD)**: Quy định trách nhiệm chung của người lao động trong việc bảo vệ tài sản và bí mật kinh doanh, nhưng không nêu chi tiết về cam kết bảo vệ dữ liệu cá nhân như TULD [NQLD Điều 22, Điều 23].\n\nTài liệu không quy định cụ thể về việc người lao động có quyền từ chối cung cấp dữ liệu hay mức phạt nếu vi phạm bảo mật dữ liệu cá nhân."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-047",
+  "question": "thuong bo sung tinh theo ty le thoi gian lam viec the nao theo thoa uoc",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Thỏa ước quy định lương - thưởng bổ sung và cách tính lương bổ sung theo quy chế tiền lương - tiền thưởng; thời gian tính thưởng bổ sung theo tỷ lệ số tháng làm việc thực tế (theo phụ lục số 3 quy chế tiền lương – tiền thưởng) so với số tháng trong kỳ tính lương bổ sung (TULD Điều 14).",
+  "key_facts": [
+   "số tháng làm việc thực tế"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 14": "Điều 14. Lương - thưởng bổ sung và cách tính lương bổ sung\n1. Lương - thưởng bổ sung và cách tính lương bổ sung (theo quy chế tiền lương- tiền thưởng).\n2. Thời gian tính thưởng bổ sung theo tỷ lệ số tháng làm việc thực tế (theo phụ lục số 3 quy chế tiền lương – tiền thưởng) so với số tháng trong kỳ tính lương bổ sung."
+  },
+  "answers": [
+   {
+    "key": "64fb85a416239cfd",
+    "answer": "Thỏa ước lao động tập thể 2024 quy định mức tiền thưởng bổ sung theo tỷ lệ thời gian làm việc cụ thể cho từng vị trí và nhóm chức năng. Tuy nhiên, trích đoạn tài liệu hiện có không nêu rõ các tỷ lệ phần trăm cụ thể, số ngày làm việc hay mức tiền thưởng chi tiết theo thời gian làm việc.\n\nĐể biết chính xác con số, bạn cần xem xét các điều khoản chi tiết trong Thỏa ước lao động tập thể 2024 hoặc hỏi bộ phận nhân sự.\n\n[TULD]"
+   },
+   {
+    "key": "a341530725612e59",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, thời gian tính lương - thưởng bổ sung được xác định theo tỷ lệ số tháng làm việc thực tế so với số tháng trong kỳ tính lương bổ sung.\n\nCụ thể, quy định này nằm tại Điều 14, khoản 2 của Thỏa ước lao động tập thể [TULD Điều 14].\n\nLưu ý: Quy định chi tiết về cách tính và các loại lương bổ sung (hiệu quả quý, tháng 13, hoàn thành/vượt kế hoạch năm) được quy định cụ thể trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Phụ lục 3]."
+   },
+   {
+    "key": "1f7b3f2dcdc80cc8",
+    "answer": "Theo Thỏa ước lao động tập thể 2024, thời gian tính thưởng bổ sung được xác định theo tỷ lệ số tháng làm việc thực tế (theo quy chế tiền lương – tiền thưởng) so với số tháng trong kỳ tính lương bổ sung [TULD Điều 14].\n\nTuy nhiên, Thỏa ước lao động tập thể 2024 không quy định chi tiết cách tính thời gian làm việc thực tế này, mà chỉ hướng dẫn áp dụng theo quy chế tiền lương – tiền thưởng của công ty [TULD Điều 14]. Chi tiết về cách tính thời gian làm việc thực tế (ví dụ: tính theo tỉ lệ thời gian làm việc nếu ký hợp đồng dưới 1 năm) được quy định cụ thể trong Phụ lục 3 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Phụ lục 3]."
+   }
+  ]
+ },
+ {
+  "qid": "TULD-048",
+  "question": "Trong Thỏa ước lao động tập thể, từ 'Công ty' được dùng để chỉ ai?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "'Công ty' là cách gọi tắt của bên Đại diện người sử dụng lao động: Công ty cổ phần phân phối hàng tiêu dùng Pan, do Ông Nguyễn Quốc Hoàng – Tổng giám đốc làm đại diện (TULD Mở đầu).",
+  "key_facts": [
+   "người sử dụng lao động",
+   "phân phối hàng tiêu dùng Pan"
+  ],
+  "gold_evidence": {
+   "TULD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\nCông Ty cổ phần phân phối hàng CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\ntiêu dùng Pan\nĐộc Lập – Tự Do – Hạnh Phúc\nTHỎA ƯỚC LAO ĐỘNG TẬP THỂ\n- Căn cứ Bộ luật Lao động năm 2019.\n- Căn cứ Luật Công đoàn năm 2012.\n- Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của bộ luật Lao động về điều kiện lao động và quan hệ lao động.\nĐể bảo đảm quyền lợi và trách nhiệm của người sử dụng lao động và người lao động trong quan hệ lao động. Hôm nay, ngày 30 tháng 06 năm 2024, tại văn phòng Công ty chúng tôi gồm có:\n1. ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (“Gọi tắt là Công ty”)\nCÔNG TY CỔ PHẦN PHÂN PHỐI HÀNG TIÊU DÙNG PAN\nDo : Ông NGUYỄN QUỐC HOÀNG – Tổng giám đốc - làm đại diện\nĐịa chỉ : Lô A1/1-9 Đường VL 3, KCN Vĩnh Lộc 2, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An,Việt Nam.\n2. ĐẠI DIỆN TẬP THỂ NGƯỜI LAO ĐỘNG (“Gọi tắt là Công đoàn\")\nDo : : Ông PHAN VĂN THIỆN - Chủ tịch Công đoàn cơ sở - làm đại diện.\nĐịa chỉ : 443 Lý Thường Kiệt, phường 8, quận Tân Bình, thành phố Hồ Chí Minh.\nCùng nhau ký thỏa ước lao động tập thể với các nội dung chính như sau"
+  },
+  "answers": [
+   {
+    "key": "0a6f4605e143b7f3",
+    "answer": "Trong Thỏa ước lao động tập thể (TULD), từ \"Công ty\" được dùng để chỉ **Người sử dụng lao động**.\n\nCụ thể, TULD quy định:\n*   **Đại diện Người sử dụng lao động** là Ông NGUYỄN QUỐC HOÀNG – Tổng giám đốc Công ty Cổ phần phân phối hàng tiêu dùng Pan. [TULD Điều 3]\n*   Các điều khoản trong TULD quy định trách nhiệm chung của hai bên, trong đó \"Người sử dụng lao động\" (đại diện bởi Công ty) có trách nhiệm bảo đảm điều kiện làm việc, trang bị thiết bị và tổ chức khám sức khỏe cho người lao động. [TULD Điều 2]\n\nTULD không định nghĩa trực tiếp từ \"Công ty\" bằng một câu riêng biệt, mà sử dụng thuật ngữ \"Người sử dụng lao động\" làm đại diện cho pháp nhân là Công ty trong các quy định về nghĩa vụ và quyền lợi."
+   },
+   {
+    "key": "a38c2d99c7f6ade6",
+    "answer": "Trong Thỏa ước lao động tập thể 2024, từ \"Công ty\" được dùng để chỉ **Công ty Cổ phần phân phối hàng tiêu dùng Pan** (Đại diện người sử dụng lao động).\n\n[Điều 1]"
+   },
+   {
+    "key": "ec9331130778349c",
+    "answer": "Trong Thỏa ước lao động tập thể 2024, từ \"Công ty\" được dùng để chỉ **Công ty Cổ phần phân phối hàng tiêu dùng Pan** (tên đầy đủ ghi trong phần mở đầu).\n\n[Trích đoạn 3]"
+   }
+  ]
+ },
+ {
+  "qid": "TULD-050",
+  "question": "Phạm vi điều chỉnh của Thỏa ước lao động tập thể là gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Thỏa ước quy định mối quan hệ giữa hai bên về trách nhiệm, quyền lợi của mỗi bên và đảm bảo quyền lợi cho người lao động trong thời gian thỏa ước có hiệu lực; thỏa ước đã được tập thể người lao động góp ý, bổ sung trước khi ký. Các trường hợp không quy định trong thỏa ước được giải quyết theo Bộ luật Lao động, Nội quy lao động Công ty và các văn bản quy phạm pháp luật hiện hành (TULD Điều 1).",
+  "key_facts": [
+   "trách nhiệm, quyền lợi"
+  ],
+  "gold_evidence": {
+   "TULD/Điều 1": "Điều 1. Phạm vi điều chỉnh\nBản thỏa ước lao động tập thể này quy định mối quan hệ giữa hai bên về trách nhiệm, quyền lợi của mỗi bên và đảm bảo quyền lợi cho người lao động (“NLĐ”) trong thời gian thỏa ước có hiệu lực, đồng thời thỏa ước này đã được tập thể người lao động góp ý, bổ sung trước khi ký kết. Mọi trường hợp khác trong mối quan hệ lao động không quy định trong bản Thỏa ước lao động tập thể này, sẽ được giải quyết theo Bộ luật Lao động, Nội quy lao động Công ty và các văn bản quy phạm pháp luật hiện hành."
+  },
+  "answers": [
+   {
+    "key": "851197cd2196c702",
+    "answer": "Thỏa ước lao động tập thể (TULD) của Công ty Cổ phần Bibica áp dụng cho toàn bộ quan hệ lao động giữa người sử dụng lao động và tập thể người lao động trong thời hạn 3 năm kể từ ngày ký (30/06/2024).\n\nTULD quy định việc sửa đổi, bổ sung chỉ được thực hiện theo thỏa thuận tự nguyện thông qua thương lượng tập thể. Trong khoảng thời gian từ khi TULD hết hiệu lực đến khi ký TULD mới, các vấn đề liên quan sẽ áp dụng quy định pháp luật lao động hiện hành.\n\n[TULD Điều 3], [TULD Điều 19]"
+   },
+   {
+    "key": "662e8636dae6e1e1",
+    "answer": "Phạm vi điều chỉnh của Thỏa ước lao động tập thể là quy định mối quan hệ giữa hai bên về trách nhiệm, quyền lợi của mỗi bên và đảm bảo quyền lợi cho người lao động trong thời gian thỏa ước có hiệu lực.\n\nBản thỏa ước này đã được tập thể người lao động góp ý, bổ sung trước khi ký kết. Mọi trường hợp khác trong mối quan hệ lao động không quy định trong bản Thỏa ước lao động tập thể này sẽ được giải quyết theo Bộ luật Lao động, Nội quy lao động Công ty và các văn bản quy phạm pháp luật hiện hành.\n\n[TULD Điều 1]"
+   },
+   {
+    "key": "e90b3bd1462b40bf",
+    "answer": "Phạm vi điều chỉnh của Thỏa ước lao động tập thể 2024 là quy định mối quan hệ giữa hai bên về trách nhiệm, quyền lợi của mỗi bên và đảm bảo quyền lợi cho người lao động trong thời gian thỏa ước có hiệu lực. Mọi trường hợp khác trong mối quan hệ lao động không quy định trong bản Thỏa ước sẽ được giải quyết theo Bộ luật Lao động, Nội quy lao động Công ty và các văn bản quy phạm pháp luật hiện hành.\n\n[Trích đoạn 1 | nguồn: TULD/Điều 1]"
+   }
+  ]
+ }
+]

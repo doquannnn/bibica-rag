@@ -1,0 +1,477 @@
+[
+ {
+  "qid": "NQLD-008",
+  "question": "Người lao động bị xử lý kỷ luật, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất mà thấy không thỏa đáng thì có thể làm gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nếu thấy không thỏa đáng, người đó có quyền làm đơn khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động (NQLD Điều 32).",
+  "key_facts": [
+   "khiếu nại",
+   "tranh chấp lao động cá nhân"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 32": "Điều 32. Trách nhiệm vật chất\n1. Bồi thường thiệt hại\n1.1. Người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương ghi trong hợp đồng lao động của tháng trước liền kề trước khi gây thiệt hại bằng hình thức khấu trừ hàng tháng vào lương do sơ suất làm hư hỏng dụng cụ, thiết bị với giá trị thiệt hại thực tế không quá 10 tháng lương tối thiểu vùng áp dụng tại nơi người lao động làm việc do Chính phủ công bố.\n1.2. Người lao động phải bồi thường thiệt hại một phần hoặc toàn bộ theo thời giá thị trường khi thuộc một trong các trường hợp sau:\na) Do sơ suất làm hư hỏng dụng cụ thiết bị với giá trị thiệt hại thực tế từ 10 tháng lương tối thiểu vùng trở lên áp dụng tại nơi người lao động làm việc do Chính phủ công bố;\nb) Làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặc tài sản khác do người sử dụng lao động giao;\nc) Tiêu hao vật tư quá định mức cho phép của người sử dụng lao động.\n1.3. Trường hợp người lao động gây thiệt hại cho người sử dụng lao động theo quy định tại điểm 1.2 nêu trên mà có hợp đồng trách nhiệm với người sử dụng lao động thì phải bồi thường theo hợp đồng trách nhiệm.\n1.4. Trường hợp thiệt hại do thiên tai, hỏa hoạn, địch họa, dịch bệnh, thảm họa hoặc do sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù người sử dụng lao động đã áp dụng mọi biện pháp cần thiết và khả năng cho phép thì người lao động không phải bồi thường.\n1.5. Trình tự, thủ tục và thời hiệu xử lý bồi thường thiệt hại được áp dụng theo trình tự, thủ tục và thời hiệu xử lý kỷ luật lao động.\n2. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất\nNgười bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thỏa đáng thì có đơn khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động.\n3. Trình tự, thủ tục xử lý việc bồi thường thiệt hại được áp dụng như các quy định về trình tự, thủ tục xử lý kỷ luật lao động trong nội quy này."
+  },
+  "answers": [
+   {
+    "key": "9d31c39bd5df7e71",
+    "answer": "Người lao động có quyền khiếu nại với NSDLĐ, cơ quan có thẩm quyền hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo Bộ luật Lao động [NQLD Điều 32].\n\nNgoài ra, nếu người lao động không thỏa đáng với việc xử lý kỷ luật, bị tạm đình chỉ hoặc phải bồi thường, họ cũng có quyền khiếu nại với NSDLĐ, cơ quan có thẩm quyền hoặc yêu cầu giải quyết tranh chấp lao động cá nhân [NQLD Điều 32].\n\nTài liệu nội bộ không quy định cụ thể về thời hạn hoặc thủ tục chi tiết của việc khiếu nại, chỉ nêu quyền lợi cơ bản này."
+   },
+   {
+    "key": "c7ebc1a967979d53",
+    "answer": "Người lao động có thể khiếu nại với người sử dụng lao động, cơ quan có thẩm quyền theo quy định pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động.\n\n- **Khiếu nại:** Áp dụng cho người bị xử lý kỷ luật, tạm đình chỉ công việc hoặc phải bồi thường. [NQLD Điều 32]\n- **Trình tự xử lý bồi thường:** Áp dụng theo trình tự, thủ tục và thời hiệu xử lý kỷ luật lao động trong nội quy này. [NQLD Điều 32]\n- **Khiếu nại về trách nhiệm:** Áp dụng theo quy định về khiếu nại kỷ luật lao động. [NQLD Điều 32]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-010",
+  "question": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động được hưởng chế độ ốm đau theo quy định của BHXH (NQLD Điều 8).",
+  "key_facts": [
+   "ốm đau"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 8": "Điều 8. Nghỉ bệnh\n- Nếu người lao động bị bệnh thì người lao động hoặc người thân của người lao động phải thông báo cho Công ty biết trong thời gian sớm nhất.\n- Trường hợp nghỉ bệnh thì sau khi nghỉ bệnh người lao động phải nộp giấy xác nhận của cơ sở khám, chữa bệnh, nếu không sẽ bị xem là nghỉ việc không có lý do chính đáng.\n- Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của BHXH."
+  },
+  "answers": [
+   {
+    "key": "6daf260e18969330",
+    "answer": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của Bảo hiểm xã hội (BHXH).\n\nNgoài chế độ BHXH, Công ty còn trợ cấp bổ sung cho người lao động trong thời gian nghỉ thai sản 6 tháng. Đối với người lao động nghỉ ốm đau từ 14 ngày trở lên không tham gia BHTN, Công ty chi trả thêm khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN.\n\nNguồn: [NQLD Điều 8], [QCL Điều 13], [TULD Điều 11]."
+   },
+   {
+    "key": "f1713bd367a6977a",
+    "answer": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của BHXH. [NQLD Điều 8]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-011",
+  "question": "Những trường hợp nào người lao động được nghỉ việc riêng mà vẫn hưởng đủ lương?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy quy định người lao động có quyền nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động; Nội quy không liệt kê cụ thể các trường hợp (NQLD Điều 10).",
+  "key_facts": [
+   "Bộ luật lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 10": "Điều 10. Nghỉ việc riêng có lương\nNgười lao động có quyền nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "600386357dba5b92",
+    "answer": "Người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật Lao động.\n\n- NQLD quy định quyền này và việc hưởng đủ lương dựa trên quy định của Bộ luật Lao động [NQLD Điều 10].\n- NQLD cũng cho phép thỏa thuận nghỉ không hưởng lương, ngoại trừ các trường hợp quy định của Luật BHXH và Bộ luật Lao động [NQLD Điều 11].\n- QCL và TULD không quy định riêng về trường hợp nghỉ việc riêng, chỉ dẫn chiếu Bộ luật Lao động [QCL Điều 12], [TULD Điều 10]."
+   },
+   {
+    "key": "a8a248528c431059",
+    "answer": "Theo Nội quy lao động 2024, người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động và Luật BHXH. Ngoài ra, người lao động có quyền thỏa thuận với người sử dụng lao động để nghỉ việc riêng không hưởng lương, ngoại trừ các trường hợp bắt buộc phải hưởng lương theo quy định của pháp luật.\n\n[NQLD Điều 10]\n[NQLD Điều 11]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-012",
+  "question": "Người lao động có được nghỉ không hưởng lương không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Có. Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ Luật lao động (NQLD Điều 11).",
+  "key_facts": [
+   "thỏa thuận"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 11": "Điều 11. Nghỉ việc riêng không hưởng lương:\nNgười lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ Luật lao động."
+  },
+  "answers": [
+   {
+    "key": "ae05171050fda30f",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ Luật lao động [NQLD Điều 11].\n\nTuy nhiên, nếu nghỉ việc riêng từ 14 ngày trở lên mà không tham gia Bảo hiểm thất nghiệp (BHTN), Công ty sẽ chi trả một khoản tiền tương đương 1% lương BHTN trong thời gian nghỉ [QCL Điều 13].\n\nVề nghỉ ốm đau và thai sản, người lao động được hưởng chế độ theo quy định của BHXH và các khoản trợ cấp bổ sung của Công ty [NQLD Điều 8, 9; QCL Điều 13]."
+   },
+   {
+    "key": "5359a79ae0848cdb",
+    "answer": "Có, người lao động được nghỉ không hưởng lương theo thỏa thuận với người sử dụng lao động, ngoại trừ các trường hợp quy định của Luật BHXH và Bộ luật lao động [NQLD Điều 11].\n\nTuy nhiên, đối với lao động nữ mang thai từ tháng thứ 7, Công ty không bố trí làm thêm giờ và không bố trí đi ca đêm [NQLD Điều 5]. Ngoài ra, nếu người lao động nghỉ việc riêng không hưởng lương, Công ty có thể không thanh toán số ngày phép còn dư nếu không đăng ký đúng thời gian theo thông báo [NQLD Điều 7]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-013",
+  "question": "Tiền lương làm thêm giờ, làm việc vào ngày nghỉ, ngày lễ có hưởng lương được tính theo quy định nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương được thực hiện theo quy định của Bộ Luật Lao động; Nội quy không quy định mức cụ thể (NQLD Điều 12).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 12": "Điều 12. Làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương\n1. Làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được quy định tại Điều 5 của Nội quy này.\n2. Trong quá trình hoạt động sản xuất kinh doanh, nếu cần người lao động làm thêm giờ, Công ty sẽ thông báo và thỏa thuận với người lao động về việc làm thêm giờ, làm thêm vào ngày nghỉ, ngày lễ tết. Đảm bảo:\n+ Được sự đồng ý của người lao động;\n+ Số giờ làm thêm theo quy định của Luật Lao động.\n3. Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương: Theo qui định của Bộ Luật Lao động.\n4. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào và người lao động không được từ chối trong các trường hợp sau đây:\n- Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp về quốc phòng, an ninh theo quy định của pháp luật;\n- Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa."
+  },
+  "answers": [
+   {
+    "key": "d67de28f7d0e8ddc",
+    "answer": "Tiền lương làm thêm giờ, làm việc ngày nghỉ, ngày lễ được tính theo quy định của Bộ luật Lao động.\n\n- **Cơ sở tính:** Trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12], [TULD Điều 10].\n- **Công thức:**\n  - Làm thêm giờ: Tiền lương giờ bình thường x Mức ít nhất 150%, 200% hoặc 300% (theo Bộ luật Lao động) [QCL Điều 12].\n  - Làm việc ban đêm: Tiền lương giờ bình thường + 30% tiền lương giờ bình thường [QCL Điều 12].\n  - Làm thêm giờ ban đêm: Tiền lương giờ bình thường x 150-300% + 30% tiền lương giờ bình thường + 20% tiền lương giờ ban ngày tương ứng [QCL Điều 12].\n- **Ngày nghỉ bù trùng ngày nghỉ hằng tuần:** Được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12], [TULD Điều 10].\n\nCác văn bản NQLD và TULD chỉ dẫn chiếu quy định của Bộ luật Lao động, không nêu công thức cụ thể như QCL [NQLD Điều 12], [TULD Điều 10]."
+   },
+   {
+    "key": "2e6ae68ee144cac1",
+    "answer": "Tiền lương làm thêm giờ, làm việc vào ngày nghỉ, ngày lễ được tính theo quy định của Bộ luật Lao động.\n\n- [Trích đoạn 1] quy định tiền lương làm thêm giờ được tính theo quy định của pháp luật và trường hợp làm thêm vào ngày nghỉ bù khi trùng ngày Lễ, Tết được trả lương làm thêm theo ngày nghỉ hằng tuần.\n- [Trích đoạn 2] và [Trích đoạn 4] xác nhận tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương theo qui định của Bộ Luật Lao động.\n- [Trích đoạn 3] khuyến khích nghỉ bù (hưởng nguyên lương) nhưng nếu không sắp xếp được thì được chấm tăng ca theo qui định của Luật.\n- [Trích đoạn 5] cũng khẳng định các trường hợp làm thêm giờ phải tuân thủ đầy đủ quy định tại Bộ luật Lao động."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-014",
+  "question": "Muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc thì người lao động cần được ai chấp thuận?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước (NQLD Điều 14).",
+  "key_facts": [
+   "Tổng Giám đốc",
+   "quản lý trực tiếp"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 14": "Điều 14. Đi trễ, về sớm và ra ngoài vì mục đích cá nhân\na. Trong trường hợp đến trễ hoặc vắng mặt không báo trước vì bị bệnh hoặc bất cứ lý do nào khác, người lao động phải thông báo ngay cho người quản lý qua điện thoại và thông báo lý do đến trễ hoặc vắng mặt.\nb. Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước nếu muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc.\nc. Trong trường hợp khẩn cấp, nếu người lao động không tự mình thông báo hoặc thông báo trước thì người lao động phải thông báo cho người quản lý trực tiếp hoặc Giám đốc qua điện thoại hoặc những hình thức trao đổi khác càng sớm càng tốt.\nd. Nếu vắng mặt mà không thông báo hoặc không được chấp thuận trước theo quy định tại Điều này sẽ được xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật theo quy định."
+  },
+  "answers": [
+   {
+    "key": "bf0b45d2b4005a8e",
+    "answer": "Người lao động cần được **Tổng Giám đốc hoặc người quản lý trực tiếp** chấp thuận trước khi về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc.\n\nNếu không được chấp thuận, hành vi này sẽ bị xem là nghỉ không có lý do chính đáng và có thể dẫn đến kỷ luật theo quy định của Nội quy lao động.\n\n[NQLD Điều 14]"
+   },
+   {
+    "key": "98461e0397296938",
+    "answer": "Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước khi về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc.\n\n[Trích đoạn 2 | nguồn: NQLD/Điều 14]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-015",
+  "question": "Nội quy yêu cầu thái độ giao tiếp của người lao động đối với đồng nghiệp, khách hàng và cấp trên như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải thực hiện giao tiếp văn minh lịch sự với đồng nghiệp và các đối tác, khách hàng của công ty, và không được có thái độ khiếm nhã đối với khách hàng, cấp trên (NQLD Điều 15).",
+  "key_facts": [
+   "văn minh",
+   "lịch sự",
+   "khiếm nhã"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 15": "Điều 15. Tác phong, thái độ làm việc nơi công sở\na. Tất cả mọi người phải có phong thái trang nhã và trang phục thích hợp với môi trường làm việc văn phòng.\nb. Người lao động phải có thái độ tích cực, có tinh thần trách nhiệm trong công việc.\nc. Thực hiện giao tiếp văn minh lịch sự với đồng nghiệp và các đối tác, khách hàng của công ty.\nd. Không được có thái độ khiếm nhã đối với khách hàng, cấp trên."
+  },
+  "answers": [
+   {
+    "key": "5784e17226d80e3b",
+    "answer": "Nội quy lao động 2024 quy định người lao động phải giữ thái độ tôn trọng, lịch sự và chuyên nghiệp khi giao tiếp với đồng nghiệp, khách hàng và cấp trên. Người lao động cần sử dụng ngôn ngữ văn minh, tránh các từ ngữ xúc phạm hoặc gây hiểu lầm. Việc giao tiếp phải đảm bảo sự tôn trọng lẫn nhau và duy trì môi trường làm việc tích cực.\n\n[NQLD Điều 7]"
+   },
+   {
+    "key": "1229698000e9396e",
+    "answer": "Người lao động phải thực hiện giao tiếp văn minh, lịch sự với đồng nghiệp, khách hàng và đối tác. Tuyệt đối không được có thái độ khiếm nhã đối với khách hàng hay cấp trên.\n\n[Trích đoạn 1 Điều 15, NQLD Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-016",
+  "question": "Quy định về trang phục nơi công sở gồm những yêu cầu gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải mặc trang phục theo quy định của công ty và luôn đảm bảo sạch sẽ, gọn gàng, lịch sự (NQLD Điều 16).",
+  "key_facts": [
+   "sạch sẽ",
+   "gọn gàng",
+   "lịch sự"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 16": "Điều 16. Trang phục nơi công sở\na. Mặc trang phục theo qui định của công ty.\nb. Luôn đảm bảo sạch sẽ, gọn gàng, lịch sự."
+  },
+  "answers": [
+   {
+    "key": "383f97b6a13974c5",
+    "answer": "Theo Nội quy lao động 2024, nhân viên phải tuân thủ quy định về trang phục nơi công sở. Cụ thể:\n- Nam giới: Mặc quần dài, áo sơ mi, giày dép gọn gàng.\n- Nữ giới: Mặc quần dài hoặc váy dài, áo sơ mi, giày dép gọn gàng.\n- Không được mặc quần short, váy ngắn, áo quá ngắn, quá rộng hoặc hở.\n- Không được mặc đồ lót, đồ đi biển, đồ đi gym hoặc đồ có chữ, hình ảnh không phù hợp.\n- Phụ nữ phải đội khăn hoặc buộc tóc gọn gàng.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được mặc đồ quá hở hang, hở mông, hở ngực hoặc đồ có chữ, hình ảnh không phù hợp.\n- Không được"
+   },
+   {
+    "key": "0048ce2990670d55",
+    "answer": "Người lao động phải mặc trang phục theo quy định của công ty, đảm bảo sạch sẽ, gọn gàng và lịch sự. Phong thái phải trang nhã, phù hợp với môi trường văn phòng.\n\n[NQLD Điều 16]\n[NQLD Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-018",
+  "question": "Trước khi rời khỏi vị trí làm việc, người lao động phải làm những việc gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ, bảo đảm các thiết bị đã được tắt, khóa cẩn thận; nếu để sai sót phải chịu hoàn toàn trách nhiệm trước Công ty (NQLD Điều 19).",
+  "key_facts": [
+   "vệ sinh nơi làm việc",
+   "thiết bị điện"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 19": "Điều 19. Trách nhiệm của người lao động\na. Chấp hành các quy định, quy trình, nội quy về an toàn lao động, vệ sinh lao động có liên quan đến công việc, nhiệm vụ được giao:\n+ Trước khi rời khỏi vị trí làm việc, phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận nếu để sai sót phải chịu hoàn toàn trách nhiệm trước Công ty.\n+ Chịu trách nhiệm bảo dưỡng, vệ sinh các thiết bị tại vị trí làm việc luôn sạch sẽ;\nb. Sử dụng và bảo quản các phương tiện bảo vệ cá nhân đã được trang cấp; các thiết bị an toàn lao động, vệ sinh lao động nơi làm việc;\nc. Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, gây độc hại hoặc sự cố nguy hiểm;\nd. Tham gia cấp cứu và khắc phục hậu quả tai nạn lao động khi có lệnh của người sử dụng lao động;\ne. Có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe của bản thân hoặc cho những người khác cho đến khi sự cố được khắc phục;\nf. Triệt để chấp hành các quy định, quy chế về phòng cháy chữa cháy."
+  },
+  "answers": [
+   {
+    "key": "1e625ea5a00e37bb",
+    "answer": "Người lao động phải thực hiện các việc sau trước khi rời khỏi vị trí:\n\n1.  **Xin nghỉ việc:** Phải làm đơn xin nghỉ việc và được người quản lý trực tiếp hoặc người được ủy quyền đồng ý [NQLD Điều 7].\n2.  **Thanh lý công việc:** Phải hoàn thành nhiệm vụ được giao và bàn giao công việc cho người khác [NQLD Điều 1].\n3.  **Thanh lý tài sản:** Phải trả lại toàn bộ tài sản của công ty, bao gồm văn phòng phẩm, thiết bị, máy móc, công cụ, tài liệu, sổ sách, bí mật kinh doanh và các tài liệu khác [NQLD Điều 1].\n4.  **Thanh lý quan hệ:** Phải chấm dứt các quan hệ hợp tác, ký kết với đối tác, khách hàng và các bên liên quan khác [NQLD Điều 1].\n5.  **Thanh lý kỷ luật:** Nếu có kỷ luật chưa xóa, phải được xử lý theo quy định trước khi thôi việc [NQLD Điều 28].\n6.  **Thanh toán tiền lương:** Được thanh toán tiền lương, tiền thưởng và các khoản khác theo quy định [NQLD Điều 1].\n\n*Lưu ý: Trường hợp tự ý bỏ việc không có lý do chính đáng từ 05 ngày cộng dồn trong một tháng hoặc 20 ngày trong 365 ngày có thể bị sa thải [NQLD Điều 28].*"
+   },
+   {
+    "key": "918a10b8bfdfa2d3",
+    "answer": "Trước khi rời khỏi vị trí làm việc, người lao động phải thực hiện các việc sau:\n1. Vệ sinh nơi làm việc và kiểm tra thiết bị điện, nước tại chỗ.\n2. Đảm bảo các thiết bị đã được tắt, khóa cẩn thận.\n3. Sử dụng và bảo quản các phương tiện bảo vệ cá nhân đã được trang cấp.\n4. Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, gây độc hại hoặc sự cố nguy hiểm.\n\nCác quy định này được nêu trong Nội quy lao động 2024 [NQLD Điều 19]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-020",
+  "question": "Người lao động có được mang dụng cụ, máy móc, văn bản của Công ty ra khỏi trụ sở không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Không được, nếu không có sự đồng ý của người quản lý hoặc Giám đốc (NQLD Điều 22).",
+  "key_facts": [
+   "quản lý",
+   "Giám đốc"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 22": "Điều 22. Sử dụng và bảo vệ tài sản\n1. Sử dụng\n- Người lao động chỉ được phép sử dụng các tài sản đã được công ty bàn giao hoặc trang bị để thực hiện công việc của mình. Không được sử dụng các tài sản khác không liên quan đến công việc của mình khi chưa được sự cho phép của người quản lý hoặc giám đốc.\n- Người lao động không được sử dụng tài sản của Công ty cho bất cứ lợi ích cá nhân nào.\n2. Bảo vệ tài sản\n- Người lao động trong Công ty phải có trách nhiệm bảo vệ tài sản Công ty; nếu làm thất thoát, hư hỏng thì phải bồi thường.\n- Người lao động không được phép mang các dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở của công ty mà không có sự đồng ý của người quản lý hoặc Giám đốc.\n- Nghiêm cấm người lao động chiếm đoạt bất cứ tài sản nào của công ty vì mục đích sử dụng cá nhân hoặc bán lại."
+  },
+  "answers": [
+   {
+    "key": "620cc51178fc117f",
+    "answer": "Người lao động **không được** mang dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc [NQLD Điều 22].\n\nVi phạm quy định này có thể bị xử lý kỷ luật tùy thuộc vào mức độ thiệt hại:\n- Nếu gây hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng): Bị khiển trách bằng văn bản [NQLD Điều 28].\n- Nếu gây thiệt hại nghiêm trọng hoặc hành vi chiếm đoạt, trộm cắp: Có thể bị kéo dài thời hạn nâng lương, cách chức hoặc sa thải [NQLD Điều 28]."
+   },
+   {
+    "key": "4f8f9a9d7cac98e8",
+    "answer": "Người lao động không được phép mang dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 22]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-021",
+  "question": "Các trường hợp Công ty được chuyển người lao động làm công việc khác so với hợp đồng lao động được quy định ra sao?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy không liệt kê cụ thể mà quy định trường hợp được chuyển người lao động làm việc khác thực hiện theo quy định của Bộ Luật Lao động (NQLD Điều 24).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 24": "Điều 24. Trường hợp được chuyển người lao động làm việc khác: Theo quy định của Bộ Luật Lao động.\nĐiều 24. Trường hợp được chuyển người lao động làm việc khác: Theo quy định của Bộ Luật Lao động."
+  },
+  "answers": [
+   {
+    "key": "737403a76367f7f3",
+    "answer": "Công ty được chuyển người lao động làm công việc khác so với hợp đồng trong 3 trường hợp:\n1. CNV được đào tạo, tự đào tạo, thi tuyển nội bộ đạt yêu cầu hoặc được đề bạt để phù hợp vị trí mới [QCL Điều 7].\n2. Công ty tạm thời chuyển CNV làm công việc khác khi gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, tai nạn lao động, bệnh nghề nghiệp, sự cố điện/nước hoặc nhu cầu sản xuất, kinh doanh [QCL Điều 7].\n3. Trường hợp khác theo quy định của Bộ Luật Lao động [NQLD Điều 24].\n\nLưu ý: Thời hạn điều chuyển cũng được quy định theo Bộ Luật Lao động [NQLD Điều 25]. TULD không có điều khoản riêng về vấn đề này [TULD Điều 7]."
+   },
+   {
+    "key": "4e2b9ab0957c5b73",
+    "answer": "Công ty có thể tạm thời chuyển người lao động làm công việc khác so với hợp đồng lao động trong các trường hợp: gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, áp dụng biện pháp ngăn ngừa tai nạn lao động, bệnh nghề nghiệp, sự cố điện nước hoặc do nhu cầu sản xuất, kinh doanh.\n\nVề mức lương, công ty trả theo vị trí công việc mới phù hợp quy định pháp luật. Nếu người lao động được đào tạo hoặc tự đào tạo có trình độ phù hợp với vị trí mới, hoặc qua thi tuyển nội bộ đạt yêu cầu, hoặc do công ty đề bạt, thì được xem xét chuyển đổi lương phù hợp với vị trí mới.\n\nCác trường hợp chuyển đổi khác (như theo Bộ Luật Lao động) cũng được quy định tại Điều 24, 25 của Nội quy lao động."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-022",
+  "question": "Thời hạn điều chuyển người lao động sang làm công việc khác so với hợp đồng là bao lâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy không quy định con số cụ thể mà dẫn chiếu: thời hạn điều chuyển thực hiện theo quy định của Bộ Luật Lao động (NQLD Điều 25).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 25": "Điều 25. Thời hạn điều chuyển: Theo quy định của Bộ Luật Lao động.\nĐiều 25. Thời hạn điều chuyển: Theo quy định của Bộ Luật Lao động."
+  },
+  "answers": [
+   {
+    "key": "fa0025ac5a209c3c",
+    "answer": "Theo quy định của Công ty, thời hạn điều chuyển người lao động làm công việc khác so với hợp đồng **không được nêu cụ thể** trong các văn bản nội bộ.\n\n- **QCL** chỉ liệt kê các lý do để tạm thời chuyển công việc (thiên tai, dịch bệnh, nhu cầu sản xuất...) nhưng không quy định thời hạn cụ thể [QCL Điều 7].\n- **NQLD** chỉ dẫn chiếu thời hạn điều chuyển theo quy định của Bộ Luật Lao động mà không ghi rõ con số cụ thể trong văn bản [NQLD Điều 24], [NQLD Điều 25].\n- **TULD** không có điều khoản riêng về vấn đề này.\n\nDo đó, thời hạn cụ thể phải được xác định theo quy định của Bộ Luật Lao động."
+   },
+   {
+    "key": "c19d2439e6e21444",
+    "answer": "Thời hạn điều chuyển người lao động sang làm công việc khác theo quy định của Bộ Luật Lao động.\n\nTheo Nội quy lao động, thời hạn điều chuyển được quy định tại Điều 25 theo quy định của Bộ Luật Lao động [NQLD Điều 25].\n\nTheo Quy chế tiền lương, thời hạn điều chuyển phù hợp với vị trí công việc mới và có thể tạm thời thực hiện trong trường hợp Công ty gặp khó khăn đột xuất như thiên tai, dịch bệnh hay nhu cầu sản xuất [QCL Điều 7].\n\nTheo Thỏa ước lao động tập thể, thời hạn của thỏa ước là 3 năm, nhưng không quy định cụ thể thời hạn điều chuyển trong các điều khoản đã trích [TULD Điều 3]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-023",
+  "question": "Ai có thẩm quyền ra quyết định xử lý kỷ luật lao động, và trường hợp sa thải thì ai quyết định?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động; trường hợp người lao động bị xử lý sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty (NQLD Điều 27).",
+  "key_facts": [
+   "giao kết hợp đồng",
+   "đại diện"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "b2d80af5f3c835f7",
+    "answer": "Người có thẩm quyền ra quyết định xử lý kỷ luật lao động là người giao kết hợp đồng lao động bên phía Công ty.\n\nTrường hợp xử lý hình thức Sa thải, người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty [NQLD Điều 27]."
+   },
+   {
+    "key": "5ebc4d02a8ac02f8",
+    "answer": "Người có thẩm quyền ra quyết định xử lý kỷ luật lao động là người giao kết hợp đồng lao động bên phía Công ty. Trường hợp người lao động bị xử lý Sa thải, người có thẩm quyền ra quyết định là Người đại代表 pháp luật của Công ty.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 27]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-024",
+  "question": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo điều nào của Bộ luật Lao động?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật được thực hiện theo quy định tại Điều 124 của Bộ Luật Lao Động (NQLD Điều 29).",
+  "key_facts": [
+   "Điều 124"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 29": "Điều 29. Thời hiệu xử lý kỷ luật lao động\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn là 06 tháng, kể từ ngày xảy ra hành vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử lý kỷ luật lao động là 12 tháng.\n- Các trường hợp kéo dài thời hiệu xử lý được thực hiện theo quy định tại Điều 124 của Bộ Luật Lao Động."
+  },
+  "answers": [
+   {
+    "key": "72d8b3eda878e085",
+    "answer": "Theo Nội quy lao động 2024, các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo Điều 124 của Bộ luật Lao động [NQLD Điều 29]."
+   },
+   {
+    "key": "3bf8dd9302a4dba0",
+    "answer": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo quy định tại Điều 124 của Bộ Luật Lao động.\n\n[Trích đoạn 1 | nguồn: NQLD/Điều 29]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-025",
+  "question": "Ai là người ký số trên văn bản Nội quy lao động 2024 của Bibica?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số trên văn bản, người ký là ông Nguyễn Quốc Hoàng, ký với chức danh Tổng Giám đốc (NQLD Chương IX - phần ký ban hành).",
+  "key_facts": [
+   "Nguyễn Quốc Hoàng"
+  ],
+  "gold_evidence": {
+   "NQLD/Chương IX": "Chương IX: ĐIỀU KHOẢN THI HÀNH\n- Nội quy lao động làm cơ sở để doanh nghiệp quản lý lao động, điều hành sản xuất, khen thưởng người có thành tích trong việc chấp hành tốt nội quy lao động và xử lý các trường hợp vi phạm quy định về kỷ luật lao động của doanh nghiệp;\n- Các đơn vị thành phần tùy đặc điểm sản xuất kinh doanh của đơn vị cụ thể hóa nội quy lao động cho phù hợp với thực tế, nhưng không được trái với nội quy lao động của Công ty và Pháp luật lao động khác có liên quan của Nhà Nước CHXHCN Việt Nam.\n- Bản nội quy này được phổ biến đến từng người lao động, mọi người có trách nhiệm thực hiện nghiêm chỉnh nội quy lao động, đấu tranh ngăn chặn mọi hành vi gây thiệt hai đến sản xuất kinh doanh, an ninh trật tự của doanh nghiệp.\n- Trong quá trình thực hiện, nội quy lao động sẽ được xem xét, bổ sung, thay đổi phù hợp với từng thời kỳ theo sự thống nhất của người lao động và người sử dụng lao động tuân thủ pháp luật liên quan.\n- Mọi trường hợp không quy định trong Bản Nội quy này được giải quyết theo thoả ước lao động tập thể hoặc theo Bộ luật Lao động và các văn bản pháp luật lao động hiện hành của Nhà nước.\nTp. HCM, Ngày …… tháng ……. năm 2024\n[Hình ảnh NQLD_image1.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 22/03/2024 22:45:07 Lần ký : 1\". Đây là một phần của văn bản nội bộ, cụ thể là phần xác nhận chữ ký số của người ký.]\n[Hình ảnh NQLD_image2.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 22/03/2024 22:45:07 Lần ký : 1\". Đây là một phần của văn bản nội bộ, cụ thể là phần xác nhận chữ ký số của người ký.]\nTỔNG GIÁM ĐỐC"
+  },
+  "answers": [
+   {
+    "key": "c3850aa7f8d1216e",
+    "answer": "Người ký số trên văn bản Nội quy lao động 2024 là Tổng Giám đốc Công ty.\n\nTổng Giám đốc ban hành văn bản sau khi đã trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty. Văn bản được ký kèm hình ảnh chữ ký/con dấu của Tổng Giám đốc.\n\n[NQLD Mở đầu], [NQLD Chương IX]"
+   },
+   {
+    "key": "a3db30f95b2ef26a",
+    "answer": "Tài liệu nội bộ không có thông tin về người ký số trên văn bản Nội quy lao động 2024.\n\nChỉ có trích đoạn từ Quy chế tiền lương, tiền thưởng (QCL) ghi rõ người ký là Nguyễn Quốc Hoàng, ký ngày 26/04/2024. [QCL Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-026",
+  "question": "Nội quy lao động 2024 được ký số vào ngày giờ nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số, văn bản được ký ngày 22/03/2024 lúc 22:45:07 (lần ký: 1) (NQLD Chương IX - phần ký ban hành).",
+  "key_facts": [
+   "22/03/2024",
+   "22:45:07"
+  ],
+  "gold_evidence": {
+   "NQLD/Chương IX": "Chương IX: ĐIỀU KHOẢN THI HÀNH\n- Nội quy lao động làm cơ sở để doanh nghiệp quản lý lao động, điều hành sản xuất, khen thưởng người có thành tích trong việc chấp hành tốt nội quy lao động và xử lý các trường hợp vi phạm quy định về kỷ luật lao động của doanh nghiệp;\n- Các đơn vị thành phần tùy đặc điểm sản xuất kinh doanh của đơn vị cụ thể hóa nội quy lao động cho phù hợp với thực tế, nhưng không được trái với nội quy lao động của Công ty và Pháp luật lao động khác có liên quan của Nhà Nước CHXHCN Việt Nam.\n- Bản nội quy này được phổ biến đến từng người lao động, mọi người có trách nhiệm thực hiện nghiêm chỉnh nội quy lao động, đấu tranh ngăn chặn mọi hành vi gây thiệt hai đến sản xuất kinh doanh, an ninh trật tự của doanh nghiệp.\n- Trong quá trình thực hiện, nội quy lao động sẽ được xem xét, bổ sung, thay đổi phù hợp với từng thời kỳ theo sự thống nhất của người lao động và người sử dụng lao động tuân thủ pháp luật liên quan.\n- Mọi trường hợp không quy định trong Bản Nội quy này được giải quyết theo thoả ước lao động tập thể hoặc theo Bộ luật Lao động và các văn bản pháp luật lao động hiện hành của Nhà nước.\nTp. HCM, Ngày …… tháng ……. năm 2024\n[Hình ảnh NQLD_image1.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 22/03/2024 22:45:07 Lần ký : 1\". Đây là một phần của văn bản nội bộ, cụ thể là phần xác nhận chữ ký số của người ký.]\n[Hình ảnh NQLD_image2.png: Chữ trong ảnh là: \"Người ký : Nguyễn Quốc Hoàng Ngày ký : 22/03/2024 22:45:07 Lần ký : 1\". Đây là một phần của văn bản nội bộ, cụ thể là phần xác nhận chữ ký số của người ký.]\nTỔNG GIÁM ĐỐC"
+  },
+  "answers": [
+   {
+    "key": "72ed30324a3b5427",
+    "answer": "Nội quy lao động 2024 chưa có ngày giờ ký cụ thể trong văn bản.\n\nTheo trích đoạn tài liệu, ngày ký và tháng năm của Nội quy lao động được để trống tại trang bìa và cuối văn bản, chỉ ghi là \"TP. HCM, ngày ….. tháng …..năm 2024\" [NQLD Mở đầu]. Hiệu lực của văn bản này chỉ bắt đầu kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký [NQLD Điều 4].\n\nTrong khi đó, Quy chế tiền lương và Thỏa ước lao động tập thể đã có ngày ký cụ thể là ngày 26 tháng 04 năm 2024 và ngày 30 tháng 06 năm 2024 tương ứng [QCL Điều 23], [TULD Mở đầu]."
+   },
+   {
+    "key": "a7e16c4007d50935",
+    "answer": "Nội quy lao động 2024 được ký số vào ngày 22 tháng 03 năm 2024, lúc 22:45:07 [NQLD Hình ảnh NQLD_image1]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-028",
+  "question": "Ca sản xuất 12 giờ được chia thành mấy ca, giờ bắt đầu và kết thúc của từng ca là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ca sản xuất 12 giờ (bao gồm thời gian làm thêm) có 2 ca: Ca 1 từ 7 giờ 00 đến 19 giờ 00; Ca 2 từ 19 giờ 00 đến 7 giờ 00 ngày hôm sau (NQLD Điều 5).",
+  "key_facts": [
+   "7 giờ 00",
+   "19 giờ 00"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "8db134eb779317d6",
+    "answer": "Ca sản xuất 12 giờ được chia thành 2 ca:\n- Ca 1: từ 7 giờ 00 đến 19 giờ 00.\n- Ca 2: từ 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\n\nThời gian này đã bao gồm thời gian làm thêm [NQLD Điều 5]."
+   },
+   {
+    "key": "b105ef93fcd1655e",
+    "answer": "Ca sản xuất 12 giờ được chia thành 2 ca:\n- Ca 1: từ 7 giờ 00 đến 19 giờ 00.\n- Ca 2: từ 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\n[Trích đoạn 2 | nguồn: NQLD/Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-029",
+  "question": "Công nhân ca sản xuất được nghỉ giữa ca bao nhiêu phút đối với ca ngày và ca đêm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ca làm việc ban ngày được nghỉ giữa ca 30 phút/1 ca, ca đêm được nghỉ 45 phút/1 ca; thời gian nghỉ giữa giờ được tính vào giờ làm việc (NQLD Điều 5).",
+  "key_facts": [
+   "30 phút",
+   "45 phút"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "c045da2302e5e9aa",
+    "answer": "Công nhân ca sản xuất được nghỉ giữa ca **30 phút** đối với ca làm việc ban ngày và **45 phút** đối với ca làm việc ban đêm. Thời gian nghỉ này được tính vào giờ làm việc [NQLD Điều 5]."
+   },
+   {
+    "key": "0aa6e3cbc484f456",
+    "answer": "Công nhân ca sản xuất được nghỉ 30 phút/1 ca làm việc ban ngày và 45 phút/1 ca làm việc ca đêm. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ, thời gian nghỉ giữa ca được tăng thêm 30 phút/ngày và không quá 03 ngày/tháng.\n\n[NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-030",
+  "question": "Người lao động làm đủ 12 tháng được nghỉ phép năm bao nhiêu ngày tùy theo điều kiện làm việc?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Hưởng nguyên lương theo hợp đồng lao động: 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm công việc nặng nhọc, độc hại, nguy hiểm; 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm (NQLD Điều 7).",
+  "key_facts": [
+   "12 ngày",
+   "14 ngày",
+   "16 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 7": "Điều 7. Nghỉ phép năm\n1. Người lao động làm việc đủ 12 tháng thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau:\n+ 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\n+ 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật; người làm công việc nặng nhọc, độc hại, nguy hiểm;\n+ 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n2. Đối với trường hợp làm không đủ năm (làm việc dưới 12 tháng):\nLấy số ngày nghỉ hàng năm cộng với số ngày được nghỉ tăng thêm theo thâm niên (nếu có), chia cho 12 tháng, nhân với số tháng làm việc thực tế trong năm để tính thành số ngày được nghỉ hàng năm.\n3. Cứ 05 năm làm việc tại công ty thì số ngày nghỉ hàng năm được tăng thêm 01 ngày.\n4. Lịch nghỉ phép hàng năm:\n- Mỗi tháng người lao động được nghỉ số ngày bằng tổng ngày phép chia cho 12, nếu không nghỉ thì những ngày phép đó sẽ cộng dồn vào những tháng sau. Nhân viên cũng có thể sử dụng một lần phép năm nếu không ảnh hưởng đến công việc.\n- Khi người lao động muốn nghỉ phép phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Người được ủy quyền. Tổng Giám đốc duyệt các trường hợp nghỉ liên tiếp từ 3 ngày trở lên. Bất kỳ sự thay đổi nào về số ngày phép đã được chấp thuận trước đó sẽ phải tuân thủ theo trình tự nộp đơn xin nghỉ phép/duyệt phép giống như lần xin phép ban đầu.\n- Trong các trường hợp nghỉ từ 05 ngày trở lên thì phải làm đơn xin phép trước 02 tuần.\n- Trường hợp khẩn cấp, xin nghỉ trong ngày, người lao động có thể thông báo bằng điện thoại cho cấp trên của mình trong hôm đó.\n5. Cách giải quyết số ngày phép chưa nghỉ hết trong năm:\n- Trường hợp chưa sử dụng hết thì những ngày nghỉ này sẽ được chuyển sang cho năm kế tiếp. Tuy nhiên người lao động phải nghỉ hết ngày phép của mình trước Quý I của năm sau, tức là trước ngày 30 tháng 3 năm sau.\n- Mùa thấp điểm theo thông báo Công ty cho phép Người lao động đăng ký nghỉ phép mà người lao động không đăng ký thì Công ty không thanh toán số ngày phép còn dư.\n- Người lao động do thôi việc, bị mất việc làm mà chưa nghỉ hàng năm thì được thanh toán bằng tiền những ngày chưa nghỉ."
+  },
+  "answers": [
+   {
+    "key": "3668021ab22173bb",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm như sau:\n\n- **Điều kiện bình thường:** 12 ngày làm việc.\n- **Điều kiện nặng nhọc, độc hại, nguy hiểm hoặc người chưa thành niên/khuyết tật:** 14 ngày làm việc.\n- **Nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm:** 16 ngày làm việc.\n\nSố ngày nghỉ tăng thêm 01 ngày cứ 05 năm làm việc tại công ty. Nếu làm không đủ 12 tháng, số ngày nghỉ được tính theo tỷ lệ tháng thực tế [NQLD Điều 7]."
+   },
+   {
+    "key": "ab68ca27c3638332",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm hưởng nguyên lương như sau:\n- 12 ngày làm việc đối với công việc bình thường.\n- 14 ngày làm việc đối với người chưa thành niên, người khuyết tật, hoặc làm công việc nặng nhọc, độc hại, nguy hiểm.\n- 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n\nThông tin quy định trong [NQLD Điều 7]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-031",
+  "question": "Thời hạn tạm đình chỉ công việc của người lao động tối đa là bao lâu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. Hết thời hạn tạm đình chỉ, người sử dụng lao động phải nhận người lao động trở lại làm việc (NQLD Điều 31).",
+  "key_facts": [
+   "15 ngày",
+   "90 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 31": "Điều 31. Tạm đình chỉ công việc\n1. Công ty có quyền tạm đình chỉ công việc của người lao động khi vụ việc vi phạm có những tình tiết phức tạp, nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện tập thể lao động tại cơ sở.\n2. Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.\nHết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n3. Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng.\n4. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  "answers": [
+   {
+    "key": "c3a0c910a6ef0986",
+    "answer": "Thời hạn tạm đình chỉ công việc tối đa là 90 ngày.\n\n- Thời hạn thường không quá 15 ngày.\n- Trường hợp đặc biệt không quá 90 ngày.\n\nTrong thời gian này, người lao động được tạm ứng 50% tiền lương. Nếu không bị xử lý kỷ luật, họ sẽ được trả đủ tiền lương cho thời gian bị tạm đình chỉ.\n\n[NQLD Điều 31]"
+   },
+   {
+    "key": "5a2fb88023935b7a",
+    "answer": "Thời hạn tạm đình chỉ công việc tối đa là 90 ngày.\n\n- Thời hạn không được quá 15 ngày; trường hợp đặc biệt không được quá 90 ngày [NQLD Điều 31].\n- Hết thời hạn này, người lao động được nhận trở lại làm việc [NQLD Điều 31].\n- Trong thời gian bị tạm đình chỉ, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ [NQLD Điều 31].\n- Nếu không bị xử lý kỷ luật, người lao động được trả đủ tiền lương cho thời gian bị tạm đình chỉ [NQLD Điều 31]."
+   }
+  ]
+ }
+]

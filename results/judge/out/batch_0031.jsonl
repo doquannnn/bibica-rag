@@ -1,0 +1,59 @@
+{"key": "0191f21360a85e2e", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cách chức per Đ28.3d, Đ26d listed; correct."}
+{"key": "e9411f2439d5bdad", "qid": "NQLD-046", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hedges: cách chức only 'nếu thuộc' Đ28 or other forms; not definitive."}
+{"key": "aa065c599d32dd55", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cách chức Đ28.3d correct; sa thải for serious damage conditionally supported."}
+{"key": "e29a2e0c36e1d9df", "qid": "NQLD-046", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cách chức correct but calls it heaviest form; sa thải is heavier."}
+{"key": "7d1b8085d4752675", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cách chức per Đ26/Đ28; correct."}
+{"key": "8d01620be5458c17", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách; Đ28.2.b.iii gives kéo dài nâng lương for ≥2 lates."}
+{"key": "6386df5e8a589625", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách; contradicts Đ28.2.b.iii."}
+{"key": "ef12bbd348756a64", "qid": "NQLD-048", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct form; but 'tái phạm trong 3 tháng → sa thải' wrong (until xoá kỷ luật)."}
+{"key": "83d4dcaef83a8289", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách; wrong, should be kéo dài nâng lương ≤6 tháng."}
+{"key": "24ec1d8c56e73c05", "qid": "NQLD-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đ13, Đ14, khiển trách; Đ27 steps accurate."}
+{"key": "11d3624e5ddb329b", "qid": "NQLD-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đ14 violation, khiển trách bằng văn bản; correct."}
+{"key": "5a834cb97fba82ad", "qid": "NQLD-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đ14a, khiển trách Đ28.1a; correct."}
+{"key": "69cdf2614eb8ab77", "qid": "NQLD-049", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Gives only TULD Đ7 nhắc nhở; adds 'cùng một tháng' condition, misapplies Đ14."}
+{"key": "f49c748485bdd1b1", "qid": "NQLD-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đ13, Đ14, khiển trách; correct."}
+{"key": "d35d8f62e48c66b6", "qid": "NQLD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách, places ix in khoản 1; ix is under kéo dài nâng lương."}
+{"key": "2a1bb95207b91969", "qid": "NQLD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách; ix carries kéo dài nâng lương ≤6 tháng."}
+{"key": "22737d0364ba91e3", "qid": "NQLD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says khiển trách; wrong form."}
+{"key": "665a6223499ef777", "qid": "NQLD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách and claims form unspecified, mentions cảnh cáo/phạt tiền; wrong."}
+{"key": "db85172d1d7fc06e", "qid": "NQLD-050", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Invents cảnh cáo/phạt tiền; claims Đ28 unspecified; wrong."}
+{"key": "391fbfce184e0872", "qid": "NQLD-051", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Never states sa thải; no disciplinary form given."}
+{"key": "c97c4a6b556a5eb3", "qid": "NQLD-051", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Never states sa thải; no disciplinary form given."}
+{"key": "12363e1750f33002", "qid": "NQLD-051", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Sa thải correct; cites Điều 4 instead of Điều 28."}
+{"key": "f061c76766119fa4", "qid": "NQLD-051", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims form not specified; answer exists (sa thải Đ28.4c)."}
+{"key": "fba96b41c5873bd0", "qid": "NQLD-051", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Claims internal documents lack the form; sa thải is in Đ28.4c."}
+{"key": "39cce95007980481", "qid": "NQLD-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes, 20 days cộng dồn in 365 → sa thải; extras accurate."}
+{"key": "d8fdfd92505bcf35", "qid": "NQLD-052", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Contradicts itself, says sa thải unspecified; PCCC wrongly placed under sa thải."}
+{"key": "3c9bb1ad13554abd", "qid": "NQLD-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct Đ28.4c sa thải."}
+{"key": "9424b7d8a7ed31b5", "qid": "NQLD-052", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says not sa thải; contradicts Đ28.4c."}
+{"key": "340c1e60f16c22d6", "qid": "NQLD-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Yes sa thải per Đ28; hedging but correct conclusion."}
+{"key": "1f0422f4d4e2ab9d", "qid": "NQLD-053", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Max stated as 9.000.000 instead of 27.000.000; method khấu trừ correct."}
+{"key": "3f31f20bb650cdb8", "qid": "NQLD-053", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "27.000.000, khấu trừ correct; invented rule on excess; QCL Đ12 irrelevant."}
+{"key": "07b178168afa217e", "qid": "NQLD-053", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Max stated 9.000.000 (wrong); method correct."}
+{"key": "bf53236a6c22c50c", "qid": "NQLD-053", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 tháng = 27.000.000, khấu trừ hàng tháng; correct."}
+{"key": "b284444c068c8f39", "qid": "NQLD-053", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "27.000.000, khấu trừ hàng tháng; correct."}
+{"key": "af267b31616f24b8", "qid": "NQLD-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Một phần/toàn bộ thời giá thị trường, hợp đồng trách nhiệm; correct."}
+{"key": "58a8363d07d20dbd", "qid": "NQLD-054", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct lead; bullet overstates as 'toàn bộ'."}
+{"key": "6b6949924561fe41", "qid": "NQLD-054", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct lead; says 'toàn bộ', TULD Đ15 misattributed to hợp đồng trách nhiệm."}
+{"key": "d7ec372de91b1a73", "qid": "NQLD-054", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct lead; later says must pay 'toàn bộ'."}
+{"key": "bfcd70fe012fcc95", "qid": "NQLD-054", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 'toàn bộ' only, omits 'một phần'; hợp đồng trách nhiệm correct."}
+{"key": "be5c103093416136", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không phải bồi thường, Đ32.1.4; correct."}
+{"key": "185fc362f633ac48", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không phải bồi thường, Đ32.1.4; correct."}
+{"key": "ef23f9bd14d9896f", "qid": "NQLD-055", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra says ≥10 tháng → 'toàn bộ' (doc: một phần hoặc toàn bộ)."}
+{"key": "27471e55be52342c", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không phải bồi thường; correct."}
+{"key": "b7ae15d2f2c528d5", "qid": "NQLD-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không phải bồi thường; correct."}
+{"key": "c7edf98dac49ac74", "qid": "NQLD-056", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không lý do chính đáng right; no specific form (kéo dài nâng lương)."}
+{"key": "ad833320c60795d7", "qid": "NQLD-056", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không lý do chính đáng right; form not identified."}
+{"key": "063fe27ad9c2963f", "qid": "NQLD-056", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không lý do chính đáng right; says form unspecified, misses Đ28 ix."}
+{"key": "a7c0b362a031de83", "qid": "NQLD-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "First part right; wrongly says ≥2 times → cách chức."}
+{"key": "5dfbeffacb9650a2", "qid": "NQLD-056", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "First part right; wrongly says ≥2 times → cách chức."}
+{"key": "1e270ac636e1effa", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không đúng; Đ27 cấm phạt tiền, cắt lương; correct."}
+{"key": "7a983f4fcf954ab9", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không đúng per Đ27; correct."}
+{"key": "e0ee638e34e8e6d3", "qid": "NQLD-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct verdict but misses Đ27 prohibition on phạt tiền/cắt lương."}
+{"key": "f05dbdb6c888fb8a", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct prohibition; Điều 30 citation irrelevant but Đ27 right."}
+{"key": "b88ffe77a5d3d6a4", "qid": "NQLD-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không đúng per Đ27; correct."}
+{"key": "071b7d613f413992", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07 ngày, giấy xác nhận, chấp thuận, đủ lương; QCL Đ13 extras accurate."}
+{"key": "bd198c94f970db3a", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All key elements correct."}
+{"key": "b422bbf18ac5b53a", "qid": "NQLD-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All key elements correct; QCL Đ13 extras accurate."}
+{"key": "042757dcca5e6f30", "qid": "NQLD-061", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; garbled 'trợ cấp ... 6 tháng còn lại' not in TULD Đ11."}
+{"key": "ea55b843266bf510", "qid": "NQLD-061", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; <3 năm trợ cấp is 1% lương BHXH, not BHTN."}

@@ -1,0 +1,47 @@
+{"key": "e76db120f8ba7af6", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TGĐ ban hành, thống nhất với BCH Công đoàn; đúng."}
+{"key": "a6862734c4c3a93a", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng cả hai ý."}
+{"key": "0298634c245d0a74", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Đúng cả hai ý; trích đoạn không phải trích dẫn điều."}
+{"key": "f83cb5fa965c384f", "qid": "NQLD-002", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Thêm sai: thống nhất với cả Tổng Giám đốc; chỉ BCH Công đoàn."}
+{"key": "73edf7233a67caf0", "qid": "NQLD-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo Điều 4."}
+{"key": "45d90df8815ee06c", "qid": "NQLD-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng theo Điều 4."}
+{"key": "8b5cf3a889088877", "qid": "NQLD-004", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; \"ban hành tháng 10/2024\" không có (ngày tháng để trống)."}
+{"key": "1c518060ddd32f28", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ giờ làm việc và nghỉ trưa."}
+{"key": "6ea090ff6f37272f", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ giờ làm việc và nghỉ trưa."}
+{"key": "19af39ec4859c05c", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ giờ làm việc và nghỉ trưa."}
+{"key": "be1fe4246a02f6bc", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hưởng nguyên lương; đúng."}
+{"key": "457411eda7f07408", "qid": "NQLD-007", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; diễn giải sai TULD Đ10 (áp dụng ngày nghỉ bù, không phải ngày lễ)."}
+{"key": "8e65ef939ac00ce2", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm QCL Đ12 về QTV chính xác."}
+{"key": "9befac5966617109", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "5fa16e89285a0795", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "b53855cc4b95ed0d", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiếu nại/tranh chấp đúng; chi tiết thêm từ Đ31, Đ27 chính xác."}
+{"key": "5e40891e3643a1c5", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ31 chính xác."}
+{"key": "933520ce422511df", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ31, Đ30 chính xác."}
+{"key": "9dadb5e84995a13f", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ31, Đ27 chính xác."}
+{"key": "70d8185c4a9a8b53", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; chi tiết thêm chính xác."}
+{"key": "d4c66b7a73668503", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Chế độ ốm đau theo BHXH; đúng."}
+{"key": "3a800bd0d2f70b9e", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo Bộ luật lao động; thêm Đ31, Đ11 đúng."}
+{"key": "babfaa7d3a221edf", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo Bộ luật lao động; ghi chú QCL Đ10 chính xác."}
+{"key": "a6d08cbe9939db1d", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Thỏa thuận, trừ trường hợp luật định; đúng."}
+{"key": "152b9e749a18dd9c", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "ca35db128b339580", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ6, Đ7 chính xác."}
+{"key": "f43c61f8045150bf", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ10, Đ31 chính xác."}
+{"key": "3bab3caac8d66eed", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "ebbec804ac7fac7f", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo BLLĐ; thêm QCL/TULD ngày nghỉ bù đúng."}
+{"key": "bc1afc774f2755b7", "qid": "NQLD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ý chính đúng; sai khi nói công thức ở Phụ lục 2 QCL (thực ra Điều 12)."}
+{"key": "76b572e0912af838", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nêu BLLĐ theo NQLD Đ12; chi tiết QCL Đ12 chính xác."}
+{"key": "ef4d5daa9e27dad2", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo BLLĐ; chi tiết QCL Đ12 đúng."}
+{"key": "f2e42bc904ddaca9", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo pháp luật/BLLĐ và TULD Đ10; chính xác."}
+{"key": "0cc3311b55ec9638", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TGĐ hoặc quản lý trực tiếp; đúng."}
+{"key": "e774ec7a684dee73", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "ba95fd080efa4bdb", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng."}
+{"key": "53ab988c44d2197a", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; thêm Đ13, Đ28 chấp nhận được."}
+{"key": "28655a88e416360a", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đúng; diễn giải trường hợp khẩn cấp hợp lý."}
+{"key": "e0a2d6a152f9ca28", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Văn minh lịch sự, không khiếm nhã; thêm Đ17 hợp lý."}
+{"key": "41d98295ae9ffe9a", "qid": "NQLD-015", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ ý; gán sai \"không khiếm nhã với đồng nghiệp\" cho Đ15."}
+{"key": "f0f494e305b6822b", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ý."}
+{"key": "44a31cb06a43afc3", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ ý."}
+{"key": "50f10bff6cf927e2", "qid": "NQLD-015", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ ý chính; thay \"đối tác\" bằng \"cấp trên\" trong giao tiếp lịch sự."}
+{"key": "4b9f58e13f682e9c", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ hai yêu cầu Đ16; thêm Đ15, Đ3 đúng."}
+{"key": "59b8dc7c5db9bb29", "qid": "NQLD-016", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Đủ Đ16; bịa liên hệ Đ17 với trang phục."}
+{"key": "b11558f2c1ef04b8", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ hai yêu cầu Đ16; thêm Đ15, Đ13 đúng."}
+{"key": "eab73af516108d87", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Đủ hai yêu cầu Đ16."}

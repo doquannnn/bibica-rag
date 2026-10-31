@@ -1,0 +1,128 @@
+{"key": "97d6a3c24c059b77", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives BLLD reference plus accurate QCL Dieu 7 cases"}
+{"key": "67bc638b3472cb0d", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "BLLD plus QCL Dieu 7 cases, accurate"}
+{"key": "8a8f79d57ab1d0c2", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "States NQLD refers to BLLD; QCL cases accurate"}
+{"key": "7f88b73fc22121d1", "qid": "NQLD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only QCL cases; never states NQLD defers to Bo Luat Lao dong"}
+{"key": "9ecf82fbc8ca031d", "qid": "NQLD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only QCL cases; omits NQLD referral to Bo Luat Lao dong"}
+{"key": "d72eeab15d69aaa2", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "NQLD defers to BLLD, plus accurate QCL cases"}
+{"key": "92acfacd56093276", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "NQLD defers to BLLD; QCL Dieu 7 details accurate"}
+{"key": "e7c08ecaaa3d52b8", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD"}
+{"key": "8129ceb1c79f4d36", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD, no specific days"}
+{"key": "52809f75adde18e0", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD"}
+{"key": "afc0e21c9bf14584", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD"}
+{"key": "07692a04507306e3", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD"}
+{"key": "32d505587edfb642", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: per BLLD"}
+{"key": "326788bad525c5ba", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct per BLLD; cites Dieu 24 not 25, adds irrelevant Dieu 31 tangent"}
+{"key": "a4cd85b71bb653c1", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "c341a2f8bd80df04", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "5346feeb1485745e", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "3cc1ed8b2018bae2", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "996a43a7f0088fdf", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "c2991957b0c980cd", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Contract signer; sa thai by legal representative: correct"}
+{"key": "541ca7b6c09220d2", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Dieu 124 BLLD, correct"}
+{"key": "4f9b5fda4f2fa371", "qid": "NQLD-024", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Dieu 124 correct but wrongly ties extension rule to finance/asset cases"}
+{"key": "f953b67db21f172a", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Name correct; cites only excerpt number"}
+{"key": "996133f2b0201834", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Name correct, image cited"}
+{"key": "ae66f8a6c095174e", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Name, date, signing count correct"}
+{"key": "e1588977a5d7f8eb", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Name correct; Tong Giam doc title supported"}
+{"key": "43d2498870aeaab6", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Name and date correct"}
+{"key": "ca4957152804d1c8", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Name, date, signing count correct"}
+{"key": "8522e3b4f9d0001f", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Name and title correct; citation lacks source"}
+{"key": "0279538a25311de5", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct date and time"}
+{"key": "0fbfbbdbe46cb420", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct date and time"}
+{"key": "f7e290d9b23e2e5b", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct date, time, signer"}
+{"key": "5335357c56036c18", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct date and time; no citation"}
+{"key": "c5ff2c37fcfb705c", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct date and time"}
+{"key": "e128c813710fd4a0", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts 7-19 and 19-7: correct"}
+{"key": "03a45421102cf010", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts 7-19 and 19-7: correct"}
+{"key": "6016802f701f16c0", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts 7-19 and 19-7: correct"}
+{"key": "91cac72844dcb734", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Two shifts 7-19 and 19-7: correct"}
+{"key": "855d5c36ee7f5c91", "qid": "NQLD-028", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Times correct but cited QCL Phu luc 2 Dieu 3, which lacks this"}
+{"key": "3f8c49a2f61afe69", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 and 45 minutes correct"}
+{"key": "9ccb8f7a2813ea11", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 and 45 minutes correct"}
+{"key": "031f0eb87e90076e", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 and 45 minutes correct"}
+{"key": "8ff181fea997bca5", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct; female extra break accurate"}
+{"key": "ce3df8b8c265c3fa", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct"}
+{"key": "36b754457d62fae5", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct"}
+{"key": "5d8394ad8fc64dbf", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct"}
+{"key": "bb8d6e75cb3ee160", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct"}
+{"key": "ac0f3a9b9af523f7", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12/14/16 days correct"}
+{"key": "4ed40ca5c7d44729", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Headline 90 but states 15 days normally, 90 exceptional"}
+{"key": "1504732af1d773ec", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Headline 90 but states 15 days normally, 90 exceptional"}
+{"key": "4fa20e08d2a4bedd", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15 days, 90 exceptional: correct"}
+{"key": "44f38baabc7a48e9", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15 days, 90 exceptional: correct"}
+{"key": "1d1db839e99e5bcb", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15 days, 90 exceptional: correct"}
+{"key": "ab8903f6778ed99c", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15 days, 90 exceptional: correct"}
+{"key": "32d00bff9ac34a8f", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 min/day, max 3 days/month correct"}
+{"key": "51ef3466227e7a57", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 hours and 4 days correct"}
+{"key": "53ed75a989e81864", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 hours and 4 days correct"}
+{"key": "ebfa8eaa194cfa53", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 hours and 4 days correct"}
+{"key": "7758adbc3379858a", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 hours and 4 days correct"}
+{"key": "fbf5665ebb842875", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 hours and 4 days correct"}
+{"key": "7bae5d68976369c2", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days correct"}
+{"key": "4c08f8002ad9f920", "qid": "NQLD-036", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach 3 months right; nang luong erasure misdescribed, ignores 6-month rule"}
+{"key": "fefb5e835b746eeb", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 and 6 months plus reduction rule correct"}
+{"key": "385cb248217a62aa", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 and 6 months plus reduction correct"}
+{"key": "e8670d3e3b055f07", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "3 and 6 months correct; cach chuc gloss slightly loose"}
+{"key": "dd0cd7215dc425bf", "qid": "NQLD-037", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Answers 12 days; ignores seniority, equates 12 years with 12 months"}
+{"key": "1b2ab64325d61f37", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "0aa98dd797ade5aa", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "74203e7da19e6049", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "d6212f13e2664c45", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "8b7904cbfcd21f67", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "1b5b063cb8370e05", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Reaches 14 days via seniority bonus"}
+{"key": "674103ff09f4529c", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16/12x9 = 12 days correct"}
+{"key": "ab1eb9c8a00e2789", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16/12x9 = 12 days correct"}
+{"key": "522855f8073769fe", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16/12x9 = 12 days correct"}
+{"key": "c10b191a0be9e5e8", "qid": "NQLD-038", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline says 9 days, calculation says 12; contradictory"}
+{"key": "80784c752f17ca0a", "qid": "NQLD-038", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Headline 9 days, then 12; also claims no info; contradictory"}
+{"key": "50e72c7293a121c1", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach right but says 2-month relapse avoids nang luong; inverted"}
+{"key": "641a6a628870cdae", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says relapse leads to sa thai; wrong"}
+{"key": "2654cb8b0bd895f0", "qid": "NQLD-040", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khien trach right; relapse outcome vague, no nang luong extension"}
+{"key": "2b2d53a8ad582e5d", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Relapse outcome given as possible sa thai; misses nang luong"}
+{"key": "389a28bd5d37464e", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrong point (17b), sa thai/cach chuc confusion; no nang luong"}
+{"key": "c3ae246860836955", "qid": "NQLD-040", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says discipline erased after relapse; wrong"}
+{"key": "02d3ce0ce935ad03", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc for e,f right; wrongly hedges khien trach possible"}
+{"key": "420ca566652544a4", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc only for f; wrongly gives e khien trach"}
+{"key": "48ffa329b7fbfb5b", "qid": "NQLD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Prohibited; cach chuc for e and f"}
+{"key": "25fb9018df05b1f3", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc e,f right; invents khien trach for 'diem d' and sa thai"}
+{"key": "80129788da114d95", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc for f only; wrongly says e not cach chuc"}
+{"key": "ca7d7eaa29ee5dd0", "qid": "NQLD-041", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Prohibited and cach chuc; vague, no article citations"}
+{"key": "a1ad0db71195b299", "qid": "NQLD-042", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says no meeting notice needed, then gives 05 days correctly"}
+{"key": "b1a30b2ee25b1eef", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "8beab2e21a34771d", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "e6ade27533ac408b", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "662d5e0c6f32c2f8", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "5401937e14ce0f72", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "ff0b241c75e3d067", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 working days; union and employee; Dieu 32 link"}
+{"key": "afeac596f028d58d", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 correct"}
+{"key": "febbcdf264f1b2f0", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30, 2 hours; 150% supported by QCL"}
+{"key": "99d9ce1b00ffddd2", "qid": "NQLD-043", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States overtime from 18:30; wrong, ignores 16:30 end"}
+{"key": "db47b9ad517be2b4", "qid": "NQLD-043", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States overtime from 18:30; wrong"}
+{"key": "8048ac336c0c5fa5", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30 correct; QCL rates supported"}
+{"key": "ccbf30d6adc9c868", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 months correct"}
+{"key": "161aab8c28b4ac5c", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 months correct"}
+{"key": "94e4bdb52f16e6bf", "qid": "NQLD-044", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Links to discipline time bar but gives no figure, says none specified"}
+{"key": "1ce7a616c9c4b125", "qid": "NQLD-044", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Links to discipline time bar but gives no figure, says none specified"}
+{"key": "666163dafc9ec8a2", "qid": "NQLD-044", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says 06 months then 12 if assets; equivocal for lost equipment"}
+{"key": "6421fae868731dd9", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 months correct"}
+{"key": "5345ad3890e9a6b9", "qid": "NQLD-045", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conditions sa thai on damage threshold; only 06 months; invents lesser penalty"}
+{"key": "24198bc987233f66", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thai wrongly conditional; mentions 12 months for assets; invented lesser penalties"}
+{"key": "0fc8fd87aac715a0", "qid": "NQLD-045", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thai conditional; mentions 12 months for assets; invented fallback"}
+{"key": "aabf36ddceb64e6a", "qid": "NQLD-045", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conditional sa thai, invented nang luong; 06 months only"}
+{"key": "38e05cf0daf9a4e5", "qid": "NQLD-045", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conditional sa thai, invented Ban giam doc; 06 months only"}
+{"key": "e4d75c9fd898e371", "qid": "NQLD-045", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conditional sa thai, invented nang luong; 06 months only"}
+{"key": "8d0a9355fc20865b", "qid": "NQLD-045", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conditional sa thai; 06 months only, misses 12"}
+{"key": "ecfaf40d974d69cc", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc via Dieu 28; Dieu 8 link plausible"}
+{"key": "d8964d6c4b46d660", "qid": "NQLD-046", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc right but wrongly ties to repeat offenders (Dieu 28 iii)"}
+{"key": "0d245e41e873248e", "qid": "NQLD-046", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc right; 'tam giu chuc vu' gloss and repeat-offender claim wrong"}
+{"key": "5844d84649822afa", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc per Dieu 28, Dieu 26 correct"}
+{"key": "e8e3a8b4db0eb46d", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc correct; Dieu 26 and 8 supported"}
+{"key": "459744f6bd6d70f6", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc correct; stray QCL Dieu 12 cite"}
+{"key": "0191f21360a85e2e", "qid": "NQLD-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cach chuc correct; Dieu 26 and 28 supported"}
+{"key": "307dd71aef262d83", "qid": "NQLD-048", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mentions nang luong only for relapse; wrongly says first-time khien trach"}
+{"key": "4965accb07a596b9", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach only; misses nang luong for 2+ lates per month"}
+{"key": "70706010bab8d375", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach; nang luong only on relapse; wrong"}
+{"key": "944bb1628584635a", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach only; wrong"}
+{"key": "0c7d2db6bc8fb9aa", "qid": "NQLD-048", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mentions nang luong only for relapse; first-time khien trach wrong"}
+{"key": "96b468d99368f22a", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach; vague heavier penalty; wrong"}
+{"key": "8d01620be5458c17", "qid": "NQLD-048", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khien trach only; wrong"}
