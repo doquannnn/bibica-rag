@@ -3,9 +3,10 @@ that retailer needs, see bibica_rag/po), or extract information from an image wi
 
     scripts/serve.sh 4B            # llama-server on :8080 (or 9B)
     # PO extraction uses the same local Qwen3.5-4B VLM; optional: BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
-    uv run python app.py           # http://127.0.0.1:7860
+    uv run python app.py           # http://127.0.0.1:7860 (other port: BIBICA_PORT=7861)
 """
 import json
+import os
 import time
 from functools import lru_cache
 
@@ -106,4 +107,4 @@ with gr.Blocks(title="Bibica RAG") as demo:
         gr.Button("Trích xuất", variant="primary").click(ask_image, [img, prompt], out)
 
 if __name__ == "__main__":
-    demo.queue().launch(server_name="127.0.0.1", server_port=7860)
+    demo.queue().launch(server_name="127.0.0.1", server_port=int(os.environ.get("BIBICA_PORT", "7860")))
