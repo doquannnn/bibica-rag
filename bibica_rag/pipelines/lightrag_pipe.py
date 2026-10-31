@@ -14,7 +14,7 @@ import time
 import numpy as np
 
 from ..corpus import CACHE, load_nodes
-from ..llm import BASE_URL, MODEL
+from ..llm import API_KEY, BASE_URL, EXTRA_BODY, MODEL
 from ..retrieval import DenseEmbedder
 from .base import NaiveRAG, Pipeline, _lock
 
@@ -35,8 +35,8 @@ def _make_rag(embedder):
         kw.setdefault("timeout", 1500)
         return await openai_complete_if_cache(
             MODEL, prompt, system_prompt=system_prompt, history_messages=history_messages or [],
-            base_url=BASE_URL, api_key="local", keyword_extraction=keyword_extraction,
-            extra_body={"chat_template_kwargs": {"enable_thinking": False}}, temperature=0, **kw)
+            base_url=BASE_URL, api_key=API_KEY, keyword_extraction=keyword_extraction,
+            extra_body=EXTRA_BODY, temperature=0, **kw)
 
     async def embed_func(texts):
         with _lock:

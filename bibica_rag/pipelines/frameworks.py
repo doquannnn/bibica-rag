@@ -10,11 +10,9 @@ import time
 from .. import prompts
 from ..chunking import STRATEGIES
 from ..eval.retrieval_metrics import ranked_nodes
-from ..llm import ANSWER_MAX_TOKENS, BASE_URL, MODEL, ask
+from ..llm import ANSWER_MAX_TOKENS, API_KEY, BASE_URL, EXTRA_BODY, MODEL, ask
 from ..retrieval import DenseEmbedder, get_reranker, tok_fold_plus
 from .base import NaiveRAG, Pipeline, _lock
-
-EXTRA_BODY = {"chat_template_kwargs": {"enable_thinking": False}}
 
 
 def _timed_result(answer, contexts, t_retr, t0, nodes, calls=1):
@@ -81,7 +79,7 @@ class LangChainRAG(_FrameworkBase):
         prompt = ChatPromptTemplate.from_messages([("system", prompts.SYSTEM_QA),
                                                    ("human", "TRÍCH ĐOẠN TÀI LIỆU:\n{context}\n\nCÂU HỎI: {question}"
                                                              "\n\nTRẢ LỜI:")])
-        llm = ChatOpenAI(base_url=BASE_URL, api_key="local", model=MODEL, temperature=0, max_tokens=ANSWER_MAX_TOKENS,
+        llm = ChatOpenAI(base_url=BASE_URL, api_key=API_KEY, model=MODEL, temperature=0, max_tokens=ANSWER_MAX_TOKENS,
                          extra_body=EXTRA_BODY, timeout=900)
         self.chain = prompt | llm | StrOutputParser()
 
@@ -215,7 +213,7 @@ class LlamaIndexRAG(_FrameworkBase):
                           metadata={"node_ids": ",".join(c["node_ids"]), "context": c["context"]},
                           excluded_embed_metadata_keys=["node_ids", "context"],
                           excluded_llm_metadata_keys=["context"]) for c in self.chunks]
-        self.llm = OpenAILike(model=MODEL, api_base=BASE_URL, api_key="local", is_chat_model=True, temperature=0,
+        self.llm = OpenAILike(model=MODEL, api_base=BASE_URL, api_key=API_KEY, is_chat_model=True, temperature=0,
                               max_tokens=ANSWER_MAX_TOKENS, timeout=900, additional_kwargs={"extra_body": EXTRA_BODY})
         index = VectorStoreIndex(nodes, embed_model=STEmb(embed_batch_size=8))
         vec = index.as_retriever(similarity_top_k=self.depth)
@@ -337,7 +335,7 @@ class HaystackRAG(_FrameworkBase):
         p.connect("rank.documents", "ctx.documents")
         g = HPipeline()
         g.add_component("prompt", ChatPromptBuilder(template=template, required_variables=["context", "question"]))
-        g.add_component("llm", OpenAIChatGenerator(api_key=Secret.from_token("local"), model=MODEL,
+        g.add_component("llm", OpenAIChatGenerator(api_key=Secret.from_token(API_KEY), model=MODEL,
                                                    api_base_url=BASE_URL, timeout=900,
                                                    generation_kwargs={"temperature": 0, "max_tokens": ANSWER_MAX_TOKENS,
                                                                       "extra_body": EXTRA_BODY}))
@@ -369,7 +367,7 @@ class DSPyRAG(Pipeline):
 
         self.base = NaiveRAG(chunking, retriever, top_k)
         self.name = f"dspy[{chunking}|{retriever}|k{top_k}]"
-        self.lm = dspy.LM(f"openai/{MODEL}", api_base=BASE_URL, api_key="local", temperature=0, max_tokens=ANSWER_MAX_TOKENS,
+        self.lm = dspy.LM(f"openai/{MODEL}", api_base=BASE_URL, api_key=API_KEY, temperature=0, max_tokens=ANSWER_MAX_TOKENS,
                           cache=False, extra_body=EXTRA_BODY)
 
         class AnswerSig(dspy.Signature):

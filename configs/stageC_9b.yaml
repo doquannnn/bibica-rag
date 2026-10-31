@@ -1,0 +1,10 @@
+# Stage C: does a bigger generator help? Top-4 Stage-B pipelines (4B) re-run with Qwen3.5-9B behind an
+# OpenAI-compatible API (OpenRouter), same retrieval, prompts, test split and judge rubric.
+#   export LLM_BASE_URL=https://openrouter.ai/api/v1 LLM_MODEL=qwen/qwen3.5-9b   # key: OPENROUTER_API_KEY
+#   uv run python -m bibica_rag.eval.run_pipelines --config configs/stageC_9b.yaml --workers 8
+# Run names become <run>@qwen3.5-9b (LLM_MODEL_LABEL overrides). Caveat: the hosted model is not the local
+# Q4_K_M quant, so the 4B-vs-9B gap also includes quantization and serving differences.
+- {run: cag-full-context, kind: cag}
+- {run: dspy, kind: dspy, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: naive-best-s2b, kind: naive, chunking: clause_parent, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: naive-best, kind: naive, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}

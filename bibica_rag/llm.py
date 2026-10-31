@@ -11,6 +11,22 @@ from openai import OpenAI
 
 BASE_URL = os.environ.get("LLM_BASE_URL", "http://127.0.0.1:8080/v1")
 MODEL = os.environ.get("LLM_MODEL", "qwen3.5-4B")
+# Local llama-server ignores the key; hosted OpenAI-compatible APIs (e.g. OpenRouter) need one.
+API_KEY = os.environ.get("LLM_API_KEY") or os.environ.get("OPENROUTER_API_KEY") or "local"
+# Name used in run directories / reports; hosted ids like "qwen/qwen3.5-9b" contain a slash.
+MODEL_LABEL = os.environ.get("LLM_MODEL_LABEL") or MODEL.split("/")[-1]
+IS_OPENROUTER = "openrouter.ai" in BASE_URL
+
+
+def thinking_body(thinking=False):
+    """extra_body that switches Qwen thinking on/off: llama-server reads the chat template kwarg, OpenRouter its
+    unified `reasoning` parameter."""
+    if IS_OPENROUTER:
+        return {"reasoning": {"enabled": thinking}}
+    return {"chat_template_kwargs": {"enable_thinking": thinking}}
+
+
+EXTRA_BODY = thinking_body(False)
 ANSWER_MAX_TOKENS = 400  # final answers; prompts ask for concise answers, truncations are counted in the report
 RESP_CACHE = Path(__file__).resolve().parents[1] / "data" / "cache" / "llm"
 
@@ -20,7 +36,7 @@ _client = None
 def client():
     global _client
     if _client is None:
-        _client = OpenAI(base_url=BASE_URL, api_key="local", timeout=900)
+        _client = OpenAI(base_url=BASE_URL, api_key=API_KEY, timeout=900)
     return _client
 
 
@@ -43,7 +59,7 @@ def chat(messages, max_tokens=ANSWER_MAX_TOKENS, temperature=0.0, json_mode=Fals
         path = RESP_CACHE / key[:2] / f"{key}.json"
         if path.exists() and not os.environ.get("LLM_NO_CACHE_READ"):  # set for sequential latency runs
             return {**json.loads(path.read_text(encoding="utf-8")), "cached": True}
-    extra = {"chat_template_kwargs": {"enable_thinking": thinking}}
+    extra = thinking_body(thinking)
     if json_mode:
         extra["response_format"] = {"type": "json_object"}
     t0 = time.time()

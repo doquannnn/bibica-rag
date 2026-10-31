@@ -13,7 +13,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import yaml
 
 from ..corpus import ROOT
-from ..llm import MODEL
+from ..llm import BASE_URL, MODEL, MODEL_LABEL
 from ..testset import load_testset
 from .keyfacts import score
 from .retrieval_metrics import metrics_for
@@ -65,7 +65,7 @@ def run_name(spec):
 
 
 def run_one(spec, split, workers, limit=None, root=RUNS):
-    name = f"{run_name(spec)}@{MODEL}"
+    name = f"{run_name(spec)}@{MODEL_LABEL}"
     out_dir = root / name
     out_dir.mkdir(parents=True, exist_ok=True)
     qs = load_testset(split)[:limit] if limit else load_testset(split)
@@ -76,7 +76,7 @@ def run_one(spec, split, workers, limit=None, root=RUNS):
     t0 = time.time()
     pipe = build_pipeline(spec)
     t_build = time.time() - t0
-    meta = {"run": name, "spec": spec, "model": MODEL, "split": split, **pipe.describe(), "build_s": round(t_build, 1)}
+    meta = {"run": name, "spec": spec, "model": MODEL_LABEL, "model_id": MODEL, "endpoint": BASE_URL, "split": split, **pipe.describe(), "build_s": round(t_build, 1)}
     (out_dir / "_meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
 
     def work(q):
