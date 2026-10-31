@@ -1,0 +1,40 @@
+{"key": "2bb3450ce53993cc", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 giờ and 04 ngày correct."}
+{"key": "6d04274c5fdff1b5", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both numbers correct."}
+{"key": "56ed218d3417ac77", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra pregnancy rule is supported by Điều 5."}
+{"key": "a6461f923c40b111", "qid": "NQLD-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both numbers correct."}
+{"key": "a3538bc2ba8fcb7c", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc correct."}
+{"key": "2d857e44cfd5abf6", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, recipients correct."}
+{"key": "7404227471f71ac0", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc correct."}
+{"key": "9e72b876e64ca4e3", "qid": "NQLD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with recipients."}
+{"key": "3c7d1493449ca55f", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 and 06 tháng correct."}
+{"key": "382f6cdcbe074a6d", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 and 06 tháng correct."}
+{"key": "324065424492fcea", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Verbatim correct."}
+{"key": "3be650fe3bd2c12a", "qid": "NQLD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, includes reduction rule."}
+{"key": "5c213baf10952624", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12+2=14 days correct."}
+{"key": "79adc48cef167d95", "qid": "NQLD-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "14 days correct."}
+{"key": "50d00679af3e888d", "qid": "NQLD-037", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 13 days; should be 14."}
+{"key": "7502cf06f8f8b1d7", "qid": "NQLD-037", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Computes 13 days; should be 14."}
+{"key": "662473b42f866a77", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16/12x9=12 correct."}
+{"key": "d3d08f26d09e9cf1", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 days correct."}
+{"key": "a900fd6c43829d7d", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 days correct."}
+{"key": "fcba1a5868c82d6a", "qid": "NQLD-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 days correct."}
+{"key": "3bf37e6aa96536a9", "qid": "NQLD-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách then kéo dài nâng lương ≤6 tháng; correct."}
+{"key": "507e3e188e507498", "qid": "NQLD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "First offense right; repeat wrongly suggests sa thải, misses nâng lương penalty."}
+{"key": "ee3e63527344245a", "qid": "NQLD-040", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Claims no penalty info; misses khiển trách and nâng lương."}
+{"key": "5835e10c1ba9ac30", "qid": "NQLD-040", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Khiển trách right; repeat penalty missing, invents cảnh cáo."}
+{"key": "7daff4ccd9d3e93d", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mentions cách chức but wrongly says first offense khiển trách."}
+{"key": "d2a83f65515b2758", "qid": "NQLD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Prohibited; cách chức correct."}
+{"key": "75aebd2429237213", "qid": "NQLD-041", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says penalty not specified; misses cách chức."}
+{"key": "17e0e7257b1628ab", "qid": "NQLD-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Điều 17 e,f; cách chức correct."}
+{"key": "4f15861cd9dbf91f", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "05 ngày làm việc, Công đoàn and worker correct."}
+{"key": "390f501981784c4d", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct timing and recipients."}
+{"key": "444402c5126e2c7d", "qid": "NQLD-042", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses though answer derivable via Điều 27."}
+{"key": "d15127e3217c41dd", "qid": "NQLD-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct timing and recipients."}
+{"key": "b912d78ce415e26a", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30, 2 hours correct."}
+{"key": "40e9cb73efbb43ce", "qid": "NQLD-043", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says 2 giờ 30 overtime; should be 2 hours."}
+{"key": "bd0f58cca28b7abc", "qid": "NQLD-043", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct 2 hours; invents morning/afternoon basis for rates."}
+{"key": "000c6b787e05ccee", "qid": "NQLD-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "16:30-18:30, 2 hours; QCL rates supported."}
+{"key": "825ec29a131a4019", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives 12 tháng for asset-related; correct."}
+{"key": "780266df79f55cac", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng correct with reason."}
+{"key": "3681d0f9037f4647", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng correct."}
+{"key": "35a5c6e72bc512ff", "qid": "NQLD-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "12 tháng correct via Điều 32/29."}
