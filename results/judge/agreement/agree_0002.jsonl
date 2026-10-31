@@ -1,0 +1,80 @@
+{"key": "614cd054c3fd4897", "qid": "TULD-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM + luong.bibica.com.vn correct; also correctly notes QCL bank account difference."}
+{"key": "92f9d80224e81e22", "qid": "QCL-094", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Months 15,16 right but score 106 (60+46) wrong; should be 108."}
+{"key": "3f49f7b38e93dc14", "qid": "QCL-019", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "03 năm and conditions correct; 'xét nâng ngay lập tức' unsupported."}
+{"key": "d476cd3759f5a547", "qid": "MULTI-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD Điều 3 right; omits QCL; invented priority ordering."}
+{"key": "d7982ee8a1b03351", "qid": "QCL-104", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "150 triệu (<200 triệu) gives 20 points, not 10."}
+{"key": "7b0e2c971e254625", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core correct; extra loosely related but supported details."}
+{"key": "67c7d50c1dd64d05", "qid": "MULTI-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Similarities and differences both correctly covered."}
+{"key": "2c1e5796f1e2d591", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nguyễn Quốc Hoàng correct."}
+{"key": "5494510aaad0c02b", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100% correct; extra NQLD Điều 7 details supported."}
+{"key": "f8d7a14cfc5cdf81", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly says no coefficient value given; minor citation slip."}
+{"key": "bd7ff95035069252", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated per-title nhóm 1/2/3 numbers; BTGĐ has nhóm 2 '-', nhóm 3 10."}
+{"key": "e274af3b749b5d64", "qid": "QCL-086", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "20%/30% wrong; BTGĐ nhóm 2 none, nhóm 3 = 10."}
+{"key": "31bbc68804d81321", "qid": "QCL-098", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "6 points correct."}
+{"key": "7ad503f8bc2ed46f", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30% correct."}
+{"key": "8e3183d1dde9a96e", "qid": "NQLD-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Conditions correct, extra details accurate."}
+{"key": "f347e510a7d86242", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám đốc correct."}
+{"key": "7c6cf3efde8f07ff", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Tổng Giám đốc correct."}
+{"key": "0b960a34f83c18cb", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hưởng nguyên lương correct; extras supported."}
+{"key": "a3cb8f7254e87f56", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to NQLD; hours 8:00-16:30 correct."}
+{"key": "8ff181fea997bca5", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30/45 minutes correct."}
+{"key": "0e9af97235cf138c", "qid": "NQLD-041", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Customer case cách chức right; coworker case wrongly khiển trách/sa thải."}
+{"key": "20928dea5f771bc7", "qid": "NQLD-087", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Answers about investigation, not sick leave; unsupported benefits claim."}
+{"key": "b1477804f68bf144", "qid": "QCL-037", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Next working day correct; 'nhân viên trực tiếp' label for QCL invented."}
+{"key": "4fa20e08d2a4bedd", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "15/90 days correct."}
+{"key": "4e24e7c1676f7034", "qid": "NQLD-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60 phút correct."}
+{"key": "f1f90d2e1cd3ac20", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM vs bank, same complaint procedure; intro wording slightly inconsistent."}
+{"key": "9d20da741855f54a", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% lương đóng BHXH correct."}
+{"key": "4bc467aac74cc54d", "qid": "QCL-066", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Pro-rata right; misattributes KPI-month 50% rule to vượt KH bonus."}
+{"key": "f532bee1892d7790", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related TULD Điều 17 content."}
+{"key": "b85ada933f0db55f", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Principle correct; extras supported."}
+{"key": "2a9c25c831024954", "qid": "TULD-047", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; attributes 48h/26 công to NQLD Điều 6 wrongly."}
+{"key": "0d73cab737600e8a", "qid": "TULD-047", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; invented day-based formula, wrong Phụ lục 2 cite."}
+{"key": "399bd14cb27add2d", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bank account (QCL) and ATM (TULD) plus luong.bibica.com.vn."}
+{"key": "d43d1538bda1317a", "qid": "NQLD-058", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Right conclusion but misses explicit ban on phạt tiền/cắt lương."}
+{"key": "da0ec793172133b5", "qid": "MULTI-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85%, 100.000đ, NQLD applies, TULD obligations covered."}
+{"key": "d0f00f0267b892af", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công correct; TULD Điều 12 extra supported."}
+{"key": "ac089b66c8cbdfe0", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu, 1% BHTN rule correct."}
+{"key": "e19b051753179115", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ngày 28 tháng trước correct."}
+{"key": "498028c67c935568", "qid": "NQLD-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Cannot refuse correct; extras supported."}
+{"key": "8e4c147cf9c3e6bf", "qid": "TULD-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete list correct."}
+{"key": "a6a00a5d800035fb", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "From signing date, 26/04/2024 correct."}
+{"key": "b2bb0cc6dbf03ad9", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "30 phút, 03 ngày correct."}
+{"key": "b1e3bc6e246bb94c", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All deduction items listed correctly."}
+{"key": "de4812021dcb4157", "qid": "TULD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD list complete; QCL Điều 16 comparison accurate."}
+{"key": "97f5cd56e7341240", "qid": "NQLD-076", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Không được ngủ correct."}
+{"key": "22dc8e9c8fe0cae9", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nhắc nhở lần đầu correct."}
+{"key": "8d7f33a83524aed2", "qid": "TULD-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nhắc nhở lần đầu correct."}
+{"key": "bcf3d318704d2b89", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu and 500.000đ correct."}
+{"key": "afc0e21c9bf14584", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Theo Bộ luật Lao động correct."}
+{"key": "b29147db89de9d32", "qid": "TULD-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three legal bases correct."}
+{"key": "ee6310fb7e651cae", "qid": "TULD-042", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "01 lần/năm, chi tùy kết quả correct; wrongly says Lễ Tết bonus per QCL."}
+{"key": "a1ff3fd1037ca789", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines specific number."}
+{"key": "6f4007bdbd794713", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Four groups correct."}
+{"key": "76556d4a10e79bcf", "qid": "MULTI-020", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD and NQLD right; QCL wrongly tied to Sở LĐTBXH registration."}
+{"key": "81c561811b2e1d09", "qid": "TULD-014", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misses ngày sinh nhật Công ty; talks about annual leave."}
+{"key": "c90f96df90868e54", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "NQLD Điều 24 BLLĐ plus QCL Điều 7 correct."}
+{"key": "4e2b9ab0957c5b73", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL cases and NQLD Điều 24 reference correct."}
+{"key": "367f0332317fc934", "qid": "QCL-101", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Five criteria, coefficients, points correct."}
+{"key": "340c1e60f16c22d6", "qid": "NQLD-052", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Sa thải correct; hedging cites fabricated rules (Điều 8, Tóm tắt)."}
+{"key": "48ab43146b397b2d", "qid": "QCL-102", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Details give 77/1 bậc but headline says 100/3 bậc."}
+{"key": "7fd400dc41e54f93", "qid": "QCL-084", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Trưởng ca is 35%, not 10%."}
+{"key": "cb7e5a8dd002869b", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nghỉ bù, tăng ca, TGĐ approval correct."}
+{"key": "cb34ff61b6bf33ac", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nghỉ bù, tăng ca, TGĐ approval correct."}
+{"key": "e066459c7372cd81", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only lương cơ bản increases; correct."}
+{"key": "3eb5eb3003cef340", "qid": "QCL-087", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Nhóm 2 = 30 right; total 60 and nhóm 3 30% wrong (40, 10)."}
+{"key": "345d998b658a8a85", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "20% correct."}
+{"key": "921e26a4f481634d", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ correct; omits weekly rest (1 day/week, 4 days/month)."}
+{"key": "3913c856ad6cc86b", "qid": "MULTI-029", "correctness": 0, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Wrongly refuses; info exists; cites TULD Điều 8 for pay dates."}
+{"key": "76b572e0912af838", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Includes NQLD Điều 12 BLLĐ reference; QCL formulas accurate."}
+{"key": "6de3b2faaf60ee78", "qid": "NQLD-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Sa thải and 12 tháng correct."}
+{"key": "a4d579264391495c", "qid": "TULD-002", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Name correct; cited TULD Điều 1 instead of Mở đầu."}
+{"key": "043c6047ca978924", "qid": "MULTI-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both documents' provisions correctly stated."}
+{"key": "7f1ba6419aa2a785", "qid": "MULTI-001", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Fabricated TULD '100%'; both share same rules; wrong conclusion."}
+{"key": "d0d5519c167170b1", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD schedule; omits QCL ngày 15 rule."}
+{"key": "760b0818049cadfd", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All justified reasons listed correctly."}
+{"key": "dc9e2832ae319c91", "qid": "MULTI-019", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Mostly correct; 'toàn bộ' instead of 'một phần hoặc toàn bộ'."}
+{"key": "1aa6436f37ff89bb", "qid": "NQLD-083", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although NQLD Điều 12 answers it."}
+{"key": "1138a03a548c15b1", "qid": "TULD-044", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrongly refuses; misattributes 500.000đ to QCL Phụ lục 2."}
+{"key": "2b594b672fa601cb", "qid": "TULD-044", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "2 triệu right; misattributes NQLD rules to TULD Điều 8; BHXH/BHTN slip."}
+{"key": "a39e9b433ed4e422", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90% / 10-20% correct."}
