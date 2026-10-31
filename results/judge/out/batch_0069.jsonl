@@ -1,0 +1,40 @@
+{"key": "4cbeed69fc6124e5", "qid": "QCL-036", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives QCL ngày 15 and TULD two-period schedule."}
+{"key": "6d2016588aef50d0", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD rule; omits QCL ngày 15 general rule."}
+{"key": "bde2febab8872369", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD schedule only; QCL ngày 15 rule not stated."}
+{"key": "81d27c8c1cd009c2", "qid": "QCL-036", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives TULD schedule only; QCL ngày 15 rule not stated."}
+{"key": "ba54139a2df4ed90", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Next working day plus bank-delay caveat; correct."}
+{"key": "84acc621fb0b96e5", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with bank-delay caveat."}
+{"key": "c4db3558d80118b8", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with bank-delay caveat."}
+{"key": "7ea6d9a709d59ca0", "qid": "QCL-037", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra TULD schedule fine; NQLD Điều 7 citation irrelevant."}
+{"key": "176b68b044b07390", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Account of Công ty cổ phần Bibica; correct."}
+{"key": "83b06b237ec9ba44", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL17/TULD13 details supported."}
+{"key": "808b54973eaaf2dd", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f613f3b5860079d8", "qid": "QCL-038", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra payment-method details supported."}
+{"key": "c16445d7871f9967", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48h/week or 26 days/month, 8h/day; correct."}
+{"key": "586602645afcf7e5", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD note accurate."}
+{"key": "bdd597574e90b8bb", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "778715b8699801b2", "qid": "QCL-039", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with TULD/NQLD comparison."}
+{"key": "dfd6616854541ebc", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 correct; mislabels clause as mục ii, minor."}
+{"key": "e9d8669eb3f15e7b", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 correct."}
+{"key": "2fd4b340a40c1b46", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "156.000 correct; bracket cites TULD Điều 10 which lacks formula."}
+{"key": "53288fa2d4bda904", "qid": "QCL-040", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "156.000 correct."}
+{"key": "d21745f9e3b07843", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Nghỉ bù, tăng ca, TGĐ approval; clause numbers slightly off."}
+{"key": "7e34963b6d3bf6e4", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "5f9baf6c87c2503f", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "5cfc07514f491cdf", "qid": "QCL-041", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct; extra clause 4 detail."}
+{"key": "f9fbe19afeeadf7b", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Weekly rest-day rate; quotes QCL and TULD correctly."}
+{"key": "f399027a1ff74b53", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD note accurate."}
+{"key": "16c5d74aea5ce920", "qid": "QCL-042", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra notes accurate."}
+{"key": "5bd6420f10dccc8b", "qid": "QCL-042", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; overstates NQLD Điều 12 as confirming this rule."}
+{"key": "c00111a8f365bd83", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "1% BHXH salary over 6 months; NQLD citation irrelevant."}
+{"key": "41484d796a5ccddb", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "4c961e50106a2f69", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "39f3e5621e226871", "qid": "QCL-043", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "33e5ec13acabcc0d", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "2 triệu over 6 months incl. 1% BHTN; correct."}
+{"key": "12cbbcb457990175", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1cdb7383c0b64152", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "510f11855c03db04", "qid": "QCL-044", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 11 citation irrelevant."}
+{"key": "334853c110150a83", "qid": "QCL-045", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "Contradictory opening; says 1% BHXH salary instead of 1% BHTN."}
+{"key": "312166dd05634941", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "14 days, 1% BHTN; correct."}
+{"key": "764f5793138fd7df", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct and complete."}
+{"key": "1b9343583c8f86a3", "qid": "QCL-045", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}

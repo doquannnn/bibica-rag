@@ -1,0 +1,40 @@
+{"key": "27ee28c7c80269bd", "qid": "MULTI-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three documents, companies and signers correct; signature dates supported by images."}
+{"key": "78b9f870a6ae0b06", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Names no companies or signers; answers a different question."}
+{"key": "e6fef5c9996fd5eb", "qid": "MULTI-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD parties correct; QCL/NQLD issuer (Bibica, Tổng Giám đốc) not identified."}
+{"key": "dc2f79cfa6f6f07d", "qid": "MULTI-025", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly claims documents lack signer/company information."}
+{"key": "6e22ed7fb67a808d", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Early-return conditions and both allowance tiers correct."}
+{"key": "86ac593202f92373", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All conditions and allowance tiers correct."}
+{"key": "ae1ca4a9cf56032a", "qid": "MULTI-026", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Omits the minimum 04 months condition; allowances correct."}
+{"key": "84b7fb3b492595ae", "qid": "MULTI-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Conditions and allowance tiers correct, concise."}
+{"key": "691b2f3a39db5dce", "qid": "MULTI-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Funeral deduction and car loan up to 100 km correct."}
+{"key": "cdacfa0e73017ad7", "qid": "MULTI-028", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly denies funeral deduction with invented condition; car loan part correct."}
+{"key": "e88e9ed7b378e707", "qid": "MULTI-028", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; irrelevant QCL Điều 14 items misattributed to TULD Điều 17 bereavement support."}
+{"key": "7ca00f2998decf8b", "qid": "MULTI-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Deduction of phúng điếu and car loan correctly stated."}
+{"key": "e74240aeae2a3a1a", "qid": "MULTI-029", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "48 giờ correct; weekly rest wrongly stated as 04 ngày/tuần."}
+{"key": "2b8f1312d1cd8424", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ correct; weekly rest days omitted."}
+{"key": "cbdc27b1efee6d5f", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ correct; weekly rest omitted; irrelevant pay-day info."}
+{"key": "0906111209e2fe83", "qid": "MULTI-029", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "48 giờ correct; weekly rest days omitted."}
+{"key": "1b2d800af10c3d6f", "qid": "MULTI-030", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "TULD/QCL conditions right; wrongly says award amount set by Phụ lục 04 (salary raise)."}
+{"key": "a4c6f2893554a918", "qid": "MULTI-030", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Vague; no award conditions or QCL Điều 21; misstates 'không trái Thỏa ước'."}
+{"key": "d349944ee01acaa6", "qid": "MULTI-030", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD part correct; QCL Điều 21 content missing."}
+{"key": "f100f49a15229bad", "qid": "MULTI-030", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Generic; lacks conditions, fund source and QCL Điều 21 content."}
+{"key": "4ad1d516a2ed5a9e", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; related 07% step info accurate."}
+{"key": "f44ec56795310f42", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related info."}
+{"key": "4eb7776f40d45673", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related info."}
+{"key": "b15dba61eaaf5055", "qid": "NONE-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related info."}
+{"key": "7a6599e77823532d", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; minor clause numbering slip."}
+{"key": "66135e148549ae2d", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related references."}
+{"key": "19c117f5b4f83ce8", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "a8428c2b7fb94d0d", "qid": "NONE-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related references."}
+{"key": "4ede0dfafdca5846", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Declines; related support amounts accurate (Điều 16 g iii)."}
+{"key": "6633cdff5cae8560", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; break times accurate."}
+{"key": "dcbe65317b4ec504", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; mentions it as unspecified support item."}
+{"key": "60756f155022e879", "qid": "NONE-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "715caf5fbe80ee21", "qid": "NONE-011", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": false, "note": "Declines but adds outside labor-law notice periods with wrong numbers."}
+{"key": "73df1b3de06e584a", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "32d096a0b1c39d01", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; annual-leave notice detail accurate."}
+{"key": "5e198feac803e3e2", "qid": "NONE-011", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines; related details accurate."}
+{"key": "a54d55b57c613c67", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "a83f3112d2f4d00e", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "8f3620e10cb31fb7", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "bd5db5244f9b33a0", "qid": "NONE-012", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": true, "note": "Correctly declines."}

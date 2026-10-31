@@ -1,0 +1,38 @@
+{"key": "515ec99beb0b8645", "qid": "NQLD-097", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Thresholds right; attributes criteria to QCL 2024 unsupported."}
+{"key": "024df5d88567bf69", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "936d60725a8e27c8", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "94d29848fb4d8042", "qid": "NQLD-097", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "5408fb8fe4bfbafb", "qid": "NQLD-098", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Misclassifies Điều 20 items; cites Điều 20/21 not Điều 28."}
+{"key": "06de7c7424f03a29", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f88028395bbc7e6a", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "24bfde595e6f67f3", "qid": "NQLD-098", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "cb7b917685a87866", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: definition and sa thải."}
+{"key": "4b154d72c97c6ff4", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "81ff650dbb183637", "qid": "NQLD-099", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 20 cite minor slip."}
+{"key": "85b91c9891f36143", "qid": "NQLD-099", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly conditions dismissal on damage thresholds."}
+{"key": "70cd9fc1f631abdd", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct."}
+{"key": "c09312ded1f3d121", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct."}
+{"key": "34b8e25fa633c2dd", "qid": "NQLD-100", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Full list correct."}
+{"key": "b4d86df973ec7585", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "30848959e4bd4d34", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "181a7abdd3d3898e", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 10 extras accurate."}
+{"key": "21a4ed05f6e28e6d", "qid": "QCL-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Main principle correct; extras accurate."}
+{"key": "791911ed07272c62", "qid": "QCL-002", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Answer right but attributed to NQLD Điều 1 instead of QCL."}
+{"key": "fa004b19f518966f", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "c088fcba78a7bd89", "qid": "QCL-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "fb7aa50899cfd7c6", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "6bc6b470197c0f99", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 16/15 extras accurate."}
+{"key": "c14071413da15452", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "2e1b39356e1d7bca", "qid": "QCL-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f433a0377ef3e674", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "aa4dcb485dc6d323", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "9261bb38f8993b59", "qid": "QCL-005", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Muddles formula: tiền lương + hỗ trợ, not LCB + hỗ trợ."}
+{"key": "d8f55de339f45d87", "qid": "QCL-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ca3ee346d2955163", "qid": "QCL-006", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right; equates Điều 16 thu nhập items with LCV."}
+{"key": "269fb1bf2fd718a0", "qid": "QCL-006", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right; claims LCV includes lương chế độ, phụ cấp."}
+{"key": "10c9783205277472", "qid": "QCL-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "847da0f41376192a", "qid": "QCL-006", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Definition right; unsupported LCV inclusions (chế độ, 900k)."}
+{"key": "5127bde758336a33", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "04a8c4ad7f50d649", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 8 extras accurate."}
+{"key": "9a7994ceb7150bc2", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras accurate."}
+{"key": "02f845898ec09b51", "qid": "QCL-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras accurate."}

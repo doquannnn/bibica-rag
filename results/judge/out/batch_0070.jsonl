@@ -1,0 +1,40 @@
+{"key": "aa968901eb16b0ca", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công per actual time; correct."}
+{"key": "9f0536f9f92b96ce", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "019e76067b8f945e", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD 100% salary supported."}
+{"key": "1180372095a04327", "qid": "QCL-046", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD addition supported."}
+{"key": "8fa100e8b87d586f", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% ngày công; correct."}
+{"key": "261ac1121482b32a", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD paid-day note supported."}
+{"key": "d516c4a3a1e0b2b0", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "cb135787055dd857", "qid": "QCL-047", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "29e351fb8931228f", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "80-90% / 10-20%; correct."}
+{"key": "21277259ceca9a43", "qid": "QCL-048", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Ranges right but wrongly concludes actual structure is 90/10."}
+{"key": "75dbaf356bfd5e8d", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct values; main claim cited to NQLD Điều 15 (wrong document)."}
+{"key": "d081060a6d143099", "qid": "QCL-048", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Phụ lục 2 details accurate."}
+{"key": "e42aa77b1cba5e5c", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "60% / 10-40%; correct."}
+{"key": "f0abf49a09c44e33", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1ad1828acdeb773b", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "7368063392a3c978", "qid": "QCL-049", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Phụ lục 2 40% accurate."}
+{"key": "5eff337872c66978", "qid": "QCL-050", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "All six factors; cites NQLD Điều 15 instead of QCL."}
+{"key": "204504511b76b665", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only ngày công thực tế; five of six factors missing."}
+{"key": "f603fa21269d9f1b", "qid": "QCL-050", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "All six factors; bracket cites NQLD Điều 16 (wrong)."}
+{"key": "08ccbaccfa9bd412", "qid": "QCL-050", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only ngày công thực tế listed; list very incomplete."}
+{"key": "e879340dbc4a37b3", "qid": "QCL-052", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "No; only base salary rises, KPI not adjusted; correct."}
+{"key": "df35b1b8ddf95cbf", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims no info, but QCL Điều 15 answers it."}
+{"key": "ec9b38734d520354", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims no info, missing QCL Điều 15 rule."}
+{"key": "bfd40022fcf3ba37", "qid": "QCL-052", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Claims no info, missing QCL Điều 15 rule."}
+{"key": "4009de1b5c1a0776", "qid": "QCL-053", "correctness": 0.5, "faithful": false, "citation_ok": null, "refusal_ok": null, "note": "States 7.230.769,23 first, then 7.200.000; contradictory."}
+{"key": "102a9d0bb7317842", "qid": "QCL-053", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses; formula exists in QCL Điều 16."}
+{"key": "289823b23610e777", "qid": "QCL-053", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "7.200.000 correct."}
+{"key": "7849730a0e65f74d", "qid": "QCL-053", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Wrongly says base salary stays 7.800.000."}
+{"key": "d5f1ee775565d819", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "700.000/month correct; NQLD citation spurious."}
+{"key": "d6b27d471df677c8", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "cdd41881ce0d5dd7", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with 85% condition."}
+{"key": "b2082b0f71bc97f5", "qid": "QCL-054", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with conditions."}
+{"key": "701a122f65515397", "qid": "QCL-055", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "800.000 correct but attributed to Phụ lục 03 instead of Điều 16."}
+{"key": "e7ec2471cebd79f3", "qid": "QCL-055", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "800.000 correct."}
+{"key": "b1f88b087934020a", "qid": "QCL-055", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "800.000 right; wrongly implies Tổ trưởng same rate."}
+{"key": "e3d22a46a2ec0b46", "qid": "QCL-055", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "800.000 right; wrong applicable group (CNVH/PX Cơ điện)."}
+{"key": "b2c79c3d63b970e9", "qid": "QCL-056", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "900k, 85% check, 828.000; correct."}
+{"key": "55f2b33cab78c181", "qid": "QCL-056", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong: 810.000 instead of 828.000."}
+{"key": "edf856c863f7e722", "qid": "QCL-056", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct; mislabels LT50 as ngày nghỉ lễ."}
+{"key": "5cb83369781be6fc", "qid": "QCL-056", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "828.000 correct but omits 85% eligibility check."}
