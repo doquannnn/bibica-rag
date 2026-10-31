@@ -67,6 +67,24 @@ DMS correctly". So:
   give 100% when the model reads correctly); and the live gate `BIBICA_LIVE=1 pytest tests/test_po_live.py -s`
   (customer 100%, exact field set, header accuracy and line F1 ≥ `BIBICA_PO_MIN_ACC`, default 0.9).
 
+## Results (2026-10-31, the 9 samples: 87 line items)
+| Run | Orders fully correct | Header fields | Line F1 | Qty on matched lines |
+|---|---|---|---|---|
+| `gemini-3.5-flash-lite`, image + text layer | 9/9 | 27/27 | 100% | 100% |
+| `gemini-3.5-flash-lite`, image only (`--no-text-layer`, simulates scans) | 9/9 | 27/27 | 100% | 100% |
+| `gemini-3.5-flash`, image + text layer | 3/3 completed (Aeon, BHX, COOP); the other 6 hit the free-tier daily quota | | | |
+
+Read with care: 9 documents, one per retailer, so this shows the field rules and the pipeline work on each layout;
+it is not a statistical accuracy estimate. Every new PO should be added to `data/po_gt/` once checked, and the
+self-check warnings stay the safety net in production. A first `gemini-3.5-flash` run also scored 9/9 but is
+discarded: the prompt examples then contained values copied from the samples
+(`test_prompt_examples_do_not_leak_the_ground_truth` now prevents this).
+
+Gemini free tier: **20 requests per day per model** (one request per page: 10 for the 9 samples). `gemini-2.5-flash`
+is no longer offered to new keys; `gemini-3.8-flash` returned "high demand" (503) during the test.
+Reproduce: `export GEMINI_API_KEY=...; python -m bibica_rag.po.extract "PO Extraction/" --model gemini-3.5-flash-lite
+--out results/po/x; python -m bibica_rag.po.evaluate score --pred results/po/x`.
+
 ## Open points for the owner
 - Rules applied as written in the Excel, though the PO prints another date: BigC "Order Date + 5" (09/11/23 → 14/11)
   while the PO says "Delivery Date To Store 15/11/23"; Satra "Ngày + 5" (11/28 → 03/12) while the PO says

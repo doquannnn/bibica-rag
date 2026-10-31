@@ -366,7 +366,7 @@ def main(argv=None):
     from bibica_rag.po.vlm import backend_from_env
 
     backend = backend_from_env(args.provider)
-    print(f"VLM: {backend.describe()}", file=sys.stderr)
+    print(f"VLM: {backend.provider} · {args.model or backend.model}", file=sys.stderr)
 
     spec_path = args.spec or default_spec_path()
     if not spec_path:
