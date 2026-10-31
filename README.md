@@ -27,3 +27,7 @@ uv run python -m bibica_rag.po.evaluate score --pred results/po --gt data/po_gt 
 uv run pytest tests/                                     # unit tests + model-free checks on the real samples
 BIBICA_LIVE=1 uv run pytest tests/test_po_live.py -s     # accuracy gate with the real VLM
 ```
+
+## Stage C: Qwen3.5-9B
+`scripts/bench_9b.sh` re-runs the Stage-B top pipelines (CAG, DSPy, naive-best-s2b, naive-best) with the 9B model,
+unattended and resumable, and packs everything into `results/stageC_9B.tar.gz` for judging.
