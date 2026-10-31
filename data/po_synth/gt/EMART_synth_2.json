@@ -1,0 +1,45 @@
+{
+  "file": "EMART_synth_2",
+  "customer": "E-Mart",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "4550629262",
+    "Ngày đề nghị giao hàng": "2024-06-14",
+    "Mã KH": "EMART SALA 10 MAI CHI THO,P.AN LOI DONG,TP.THU DUC",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609103195",
+        "SL đặt": 7
+      },
+      {
+        "Mã SP": "8934609105175",
+        "SL đặt": 3
+      },
+      {
+        "Mã SP": "8934609202492",
+        "SL đặt": 3
+      },
+      {
+        "Mã SP": "8934609102532",
+        "SL đặt": 2
+      },
+      {
+        "Mã SP": "8934609203116",
+        "SL đặt": 9
+      },
+      {
+        "Mã SP": "8934609105953",
+        "SL đặt": 7
+      },
+      {
+        "Mã SP": "8934609103928",
+        "SL đặt": 1
+      },
+      {
+        "Mã SP": "8934609103188",
+        "SL đặt": 1
+      }
+    ]
+  }
+}

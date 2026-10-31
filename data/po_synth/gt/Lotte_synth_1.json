@@ -1,0 +1,25 @@
+{
+  "file": "Lotte_synth_1",
+  "customer": "Lotte",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "240108-01013-00359",
+    "Ngày đề nghị giao hàng": "2024-01-11",
+    "Mã KH": "01013",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609602704",
+        "SL đặt": 4
+      },
+      {
+        "Mã SP": "8934609103881",
+        "SL đặt": 3
+      },
+      {
+        "Mã SP": "8934609605330",
+        "SL đặt": 3
+      }
+    ]
+  }
+}

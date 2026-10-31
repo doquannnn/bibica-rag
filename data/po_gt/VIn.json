@@ -1,0 +1,16 @@
+{
+  "file": "VIn.pdf",
+  "customer": "VIN",
+  "checked": true,
+  "fields": {
+    "Số PO": "4154941212",
+    "Ngày đề nghị giao hàng": "2023-11-23",
+    "Mã KH": "1291",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609103218",
+        "SL đặt": 1635
+      }
+    ]
+  }
+}

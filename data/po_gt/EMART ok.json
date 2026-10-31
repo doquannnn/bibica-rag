@@ -1,0 +1,28 @@
+{
+  "file": "EMART ok.PDF",
+  "customer": "E-Mart",
+  "checked": true,
+  "fields": {
+    "Số PO": "4500929220",
+    "Ngày đề nghị giao hàng": "2023-11-17",
+    "Mã KH": "EMART GO VAP 366 PHAN VAN TRI,P5,Q.GO VAP,TPHCM",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609471355",
+        "SL đặt": 3
+      },
+      {
+        "Mã SP": "8934609103195",
+        "SL đặt": 2
+      },
+      {
+        "Mã SP": "8934609605330",
+        "SL đặt": 1
+      },
+      {
+        "Mã SP": "8934609105540",
+        "SL đặt": 2
+      }
+    ]
+  }
+}

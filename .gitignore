@@ -13,8 +13,11 @@ RAG/
 data/docx/
 data/images/
 
+
 # Benchmark run outputs (regenerable)
 results/runs/
+results/po/
+results/po_eval/
 
 # Claude Code local settings
 .claude/settings.local.json

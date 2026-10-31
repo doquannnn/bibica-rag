@@ -1,0 +1,25 @@
+{
+  "file": "satra 3.PDF",
+  "customer": "SATRA",
+  "checked": true,
+  "fields": {
+    "Số PO": "P-004215818",
+    "Ngày đề nghị giao hàng": "2023-12-03",
+    "Mã KH": "VD-00001986",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "308934609103164",
+        "SL đặt": 1.0
+      },
+      {
+        "Mã SP": "308934609103218",
+        "SL đặt": 1.0
+      },
+      {
+        "Mã SP": "8934609103997",
+        "SL đặt": 24.0
+      }
+    ]
+  },
+  "note": "'Ngày: 11/28/2023' (tháng/ngày/năm) + 5 ngày theo Excel; PO còn in 'Ngày giao hàng: 11/29/2023'."
+}

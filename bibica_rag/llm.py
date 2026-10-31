@@ -72,3 +72,11 @@ def chat(messages, max_tokens=ANSWER_MAX_TOKENS, temperature=0.0, json_mode=Fals
 def ask(prompt, system=None, **kw):
     msgs = ([{"role": "system", "content": system}] if system else []) + [{"role": "user", "content": prompt}]
     return chat(msgs, **kw)
+
+
+# Helpers shared with the PO extraction module (bibica_rag/po).
+NO_THINK = {"chat_template_kwargs": {"enable_thinking": False}}
+
+
+def get_client():
+    return client()

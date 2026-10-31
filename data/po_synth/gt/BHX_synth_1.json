@@ -1,0 +1,28 @@
+{
+  "file": "BHX_synth_1",
+  "customer": "BHX",
+  "checked": true,
+  "synthetic": true,
+  "fields": {
+    "Số PO": "06450PO2402621411",
+    "Ngày đề nghị giao hàng": "2024-02-05",
+    "Mã KH": "6450",
+    "Chi tiết hàng": [
+      {
+        "Mã SP": "8934609103195",
+        "SL đặt": 440,
+        "Đơn vị": "Gói"
+      },
+      {
+        "Mã SP": "8934609105847",
+        "SL đặt": 420,
+        "Đơn vị": "Túi"
+      },
+      {
+        "Mã SP": "8934609412136",
+        "SL đặt": 240,
+        "Đơn vị": "Gói"
+      }
+    ]
+  }
+}

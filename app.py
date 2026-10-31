@@ -1,9 +1,12 @@
-"""Simple UI: ask questions over the Bibica HR documents, or extract information from an image with the Qwen VLM.
+"""Simple UI: ask questions over the Bibica HR documents, extract retailer purchase orders (PO PDF -> the fields
+that retailer needs, see bibica_rag/po), or extract information from an image with the Qwen VLM.
 
     scripts/serve.sh 4B            # llama-server on :8080 (or 9B)
-    uv run python app.py           # http://127.0.0.1:7860
+    # PO extraction uses the same local Qwen3.5-4B VLM; optional: BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
+    uv run python app.py           # http://127.0.0.1:7860 (other port: BIBICA_PORT=7861)
 """
 import json
+import os
 import time
 from functools import lru_cache
 
@@ -13,6 +16,7 @@ import yaml
 from bibica_rag.corpus import ROOT
 from bibica_rag.eval.run_pipelines import build_pipeline
 from bibica_rag.llm import MODEL, chat, image_part
+from bibica_rag.po.ui import build_po_tab
 
 CONFIGS = ROOT / "configs"
 
@@ -78,7 +82,8 @@ def ask_image(img_path, prompt):
 
 
 with gr.Blocks(title="Bibica RAG") as demo:
-    gr.Markdown("## Bibica — Hỏi đáp tài liệu nội bộ (Quy chế lương thưởng · Nội quy lao động · Thỏa ước LĐTT)")
+    gr.Markdown("## Bibica — Hỏi đáp tài liệu nội bộ (Quy chế lương thưởng · Nội quy lao động · Thỏa ước LĐTT) "
+                "· Trích xuất PO")
     with gr.Tab("Hỏi đáp"):
         with gr.Row():
             run = gr.Dropdown(ORDER, value=ORDER[0], label="Pipeline (mặc định: tốt nhất theo benchmark)", scale=3)
@@ -91,6 +96,8 @@ with gr.Blocks(title="Bibica RAG") as demo:
         q.submit(ask_rag, [q, run, chatbot], [chatbot, info, ctx]).then(lambda: "", None, q)
         gr.Button("Hỏi", variant="primary").click(ask_rag, [q, run, chatbot], [chatbot, info, ctx]).then(
             lambda: "", None, q)
+    with gr.Tab("Trích xuất PO"):
+        build_po_tab()
     with gr.Tab("Đọc ảnh (VLM)"):
         with gr.Row():
             img = gr.Image(type="filepath", label="Ảnh chứng từ / đơn hàng")
@@ -100,4 +107,4 @@ with gr.Blocks(title="Bibica RAG") as demo:
         gr.Button("Trích xuất", variant="primary").click(ask_image, [img, prompt], out)
 
 if __name__ == "__main__":
-    demo.launch(server_name="127.0.0.1", server_port=7860)
+    demo.queue().launch(server_name="127.0.0.1", server_port=int(os.environ.get("BIBICA_PORT", "7860")))
