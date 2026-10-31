@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 from .. import prompts
 from ..corpus import DATA, load_nodes
-from ..llm import ask, chat
+from ..llm import ask, bind, chat
 from .base import Pipeline
 
 WIKI = DATA / "wiki"
@@ -141,7 +141,7 @@ def build_qwen_wiki(workers=4):
 
     t0 = time.time()
     with ThreadPoolExecutor(workers) as ex:
-        lines = list(ex.map(write, plan))
+        lines = list(ex.map(bind(write), plan))
     (out / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"wrote {len(plan)} pages in {(time.time() - t0) / 60:.1f} min", flush=True)
 

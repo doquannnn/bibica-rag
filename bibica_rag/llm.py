@@ -1,10 +1,20 @@
-"""OpenAI-compatible client for the local llama-server (Qwen3.5 VLM), with timing."""
+"""OpenAI-compatible client for the local llama-server (Qwen3.5 VLM), with timing.
+
+The default model/endpoint come from LLM_MODEL / LLM_BASE_URL (benchmark runs use these). Several local models can be
+registered for the UI with LLM_ENDPOINTS="qwen3.5-4B=http://127.0.0.1:8080/v1,qwen3.5-9B=http://127.0.0.1:8082/v1"
+(default: those two) and selected per request with `use_model(name)`; pipelines built inside `use_model` keep that
+model.
+"""
 import base64
+import contextlib
+import contextvars
 import hashlib
 import json
 import mimetypes
 import os
 import time
+import urllib.request
+from functools import lru_cache
 from pathlib import Path
 
 from openai import OpenAI
@@ -14,14 +24,65 @@ MODEL = os.environ.get("LLM_MODEL", "qwen3.5-4B")
 ANSWER_MAX_TOKENS = 400  # final answers; prompts ask for concise answers, truncations are counted in the report
 RESP_CACHE = Path(__file__).resolve().parents[1] / "data" / "cache" / "llm"
 
-_client = None
+
+def _endpoints():
+    raw = os.environ.get("LLM_ENDPOINTS", "qwen3.5-4B=http://127.0.0.1:8080/v1,qwen3.5-9B=http://127.0.0.1:8082/v1")
+    eps = dict(item.strip().split("=", 1) for item in raw.split(",") if "=" in item)
+    eps[MODEL] = BASE_URL  # the configured default always points where LLM_BASE_URL says
+    return eps
+
+
+ENDPOINTS = _endpoints()
+_current = contextvars.ContextVar("llm_current", default=(MODEL, BASE_URL))
+
+
+def current():
+    """(model, base_url) used by chat() and by pipelines built now."""
+    return _current.get()
+
+
+@contextlib.contextmanager
+def use_model(model):
+    if model not in ENDPOINTS:
+        raise ValueError(f"unknown model {model!r}; known: {', '.join(ENDPOINTS)} (LLM_ENDPOINTS)")
+    tok = _current.set((model, ENDPOINTS[model]))
+    try:
+        yield
+    finally:
+        _current.reset(tok)
+
+
+def bind(fn):
+    """fn running with the caller's current model, also in worker threads (they do not inherit contextvars)."""
+    cur = current()
+
+    def run(*a, **kw):
+        tok = _current.set(cur)
+        try:
+            return fn(*a, **kw)
+        finally:
+            _current.reset(tok)
+    return run
+
+
+def server_status(model, timeout=2.0):
+    """'online' if the endpoint answers and serves this model name, else a short reason."""
+    url = ENDPOINTS[model].rstrip("/") + "/models"
+    try:
+        with urllib.request.urlopen(url, timeout=timeout) as r:
+            ids = [m.get("id") for m in json.loads(r.read().decode()).get("data", [])]
+    except Exception:
+        return "offline"
+    return "online" if model in ids else f"server khác model ({', '.join(map(str, ids)) or '?'})"
+
+
+@lru_cache(maxsize=None)
+def _client_for(base_url):
+    return OpenAI(base_url=base_url, api_key="local", timeout=900)
 
 
 def client():
-    global _client
-    if _client is None:
-        _client = OpenAI(base_url=BASE_URL, api_key="local", timeout=900)
-    return _client
+    return _client_for(current()[1])
 
 
 def image_part(path):
@@ -35,7 +96,7 @@ def chat(messages, max_tokens=ANSWER_MAX_TOKENS, temperature=0.0, json_mode=Fals
 
     Greedy (temperature 0) responses are cached on disk by (model, messages, params); a cache hit returns the
     timings measured when the response was generated, flagged with cached=True."""
-    model = model or MODEL
+    model = model or current()[0]
     key = None
     if temperature == 0:
         key = hashlib.sha1(json.dumps([model, messages, max_tokens, json_mode, thinking], ensure_ascii=False)

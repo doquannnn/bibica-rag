@@ -13,7 +13,7 @@ import numpy as np
 
 from ..corpus import CACHE
 from ..eval.retrieval_metrics import ranked_nodes
-from ..llm import ask
+from ..llm import ask, bind
 from ..retrieval import DenseEmbedder, build_retriever
 from .base import NaiveRAG, _chunks, _lock
 
@@ -63,7 +63,7 @@ def build_tree(chunking, embedder, leaf_per_cluster=6, workers=4):
                     "level": level}
 
         with ThreadPoolExecutor(workers) as ex:
-            level_items = list(ex.map(summarize, groups))
+            level_items = list(ex.map(bind(summarize), groups))
         summaries += level_items
         print(f"raptor level {level}: {len(level_items)} summaries", flush=True)
     path.parent.mkdir(parents=True, exist_ok=True)

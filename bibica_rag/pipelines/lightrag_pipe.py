@@ -14,7 +14,7 @@ import time
 import numpy as np
 
 from ..corpus import CACHE, load_nodes
-from ..llm import BASE_URL, MODEL
+from ..llm import current
 from ..retrieval import DenseEmbedder
 from .base import NaiveRAG, Pipeline, _lock
 
@@ -28,6 +28,7 @@ def _make_rag(embedder):
     from lightrag.utils import EmbeddingFunc
 
     emb = DenseEmbedder(embedder)
+    MODEL, BASE_URL = current()
 
     async def llm_func(prompt, system_prompt=None, history_messages=None, keyword_extraction=False, **kw):
         kw.pop("hashing_kv", None)

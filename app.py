@@ -1,9 +1,11 @@
 """Simple UI: ask questions over the Bibica HR documents, extract retailer purchase orders (PO PDF -> the fields
 that retailer needs, see bibica_rag/po), or extract information from an image with the Qwen VLM.
 
-    scripts/serve.sh 4B            # llama-server on :8080 (or 9B)
-    # PO extraction uses the same local Qwen3.5-4B VLM; optional: BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
+    scripts/serve.sh 4B            # Qwen3.5-4B on :8080 (default model)
+    scripts/serve.sh 9B 8082       # optional: Qwen3.5-9B on :8082, selectable in the "Model" dropdown
+    # PO extraction (provider "local") uses the selected model; optional: BIBICA_PO_PROVIDER=gemini GEMINI_API_KEY=...
     uv run python app.py           # http://127.0.0.1:7860 (other port: BIBICA_PORT=7861)
+Other model/endpoint pairs: LLM_ENDPOINTS="qwen3.5-4B=http://127.0.0.1:8080/v1,qwen3.5-9B=http://127.0.0.1:8082/v1".
 """
 import json
 import os
@@ -15,7 +17,7 @@ import yaml
 
 from bibica_rag.corpus import ROOT
 from bibica_rag.eval.run_pipelines import build_pipeline
-from bibica_rag.llm import MODEL, chat, image_part
+from bibica_rag.llm import ENDPOINTS, MODEL, chat, image_part, server_status, use_model
 from bibica_rag.po.ui import build_po_tab
 
 CONFIGS = ROOT / "configs"
@@ -46,20 +48,38 @@ def available_pipelines():
 ORDER, SPECS = available_pipelines()
 
 
+MODELS = list(ENDPOINTS)
+
+
+def models_status_md():
+    return " · ".join(f"`{m}` ({ENDPOINTS[m]}): {'🟢' if (st := server_status(m)) == 'online' else '🔴'} {st}"
+                      for m in MODELS)
+
+
+def check_model(model):
+    st = server_status(model)
+    if st != "online":
+        raise gr.Error(f"Model {model} chưa sẵn sàng tại {ENDPOINTS[model]}: {st}. "
+                       f"Chạy: scripts/serve.sh {model.split('-')[-1]} {ENDPOINTS[model].split(':')[-1].split('/')[0]}")
+
+
 @lru_cache(maxsize=None)
-def get_pipe(run):
-    return build_pipeline(SPECS[run])
+def get_pipe(run, model):
+    with use_model(model):  # framework pipelines (DSPy, LangChain, ...) keep the model they were built with
+        return build_pipeline(SPECS[run])
 
 
-def ask_rag(question, run, history):
+def ask_rag(question, run, model, history):
     history = history or []
     if not question.strip():
         return history, "", ""
+    check_model(model)
     t0 = time.time()
-    r = get_pipe(run).answer(question)
+    with use_model(model):
+        r = get_pipe(run, model).answer(question)
     history = history + [{"role": "user", "content": question}, {"role": "assistant", "content": r["answer"]}]
     t = r["timings"]
-    info = (f"**Pipeline:** `{run}` · **Model:** `{MODEL}`  \n"
+    info = (f"**Pipeline:** `{run}` · **Model:** `{model}`  \n"
             f"**Nguồn truy hồi:** {', '.join(r.get('retrieved_nodes', [])[:8]) or '(toàn văn)'}  \n"
             f"**Thời gian:** truy hồi {t.get('retrieval_s') or 0:.1f}s · token đầu {t.get('ttft_s') or 0:.1f}s · "
             f"tổng {time.time() - t0:.1f}s · {r.get('llm_calls', 1)} lần gọi LLM")
@@ -73,17 +93,24 @@ DEFAULT_IMG_PROMPT = ("Đây là ảnh chụp một chứng từ (ví dụ đơn
                       "Chỉ in ra JSON.")
 
 
-def ask_image(img_path, prompt):
+def ask_image(img_path, prompt, model):
     if not img_path:
         return "Hãy tải ảnh lên."
+    check_model(model)
     t0 = time.time()
-    r = chat([{"role": "user", "content": [image_part(img_path), {"type": "text", "text": prompt}]}], max_tokens=1500)
-    return f"{r['text']}\n\n---\n_{MODEL} · {time.time() - t0:.1f}s_"
+    with use_model(model):
+        r = chat([{"role": "user", "content": [image_part(img_path), {"type": "text", "text": prompt}]}], max_tokens=1500)
+    return f"{r['text']}\n\n---\n_{model} · {time.time() - t0:.1f}s_"
 
 
 with gr.Blocks(title="Bibica RAG") as demo:
     gr.Markdown("## Bibica — Hỏi đáp tài liệu nội bộ (Quy chế lương thưởng · Nội quy lao động · Thỏa ước LĐTT) "
                 "· Trích xuất PO")
+    with gr.Row():
+        model = gr.Dropdown(MODELS, value=MODEL, label="Model (Qwen3.5-9B: chính xác hơn, chậm hơn ~1,5×)", scale=1)
+        status = gr.Markdown(models_status_md())
+        gr.Button("Kiểm tra server", size="sm", scale=0).click(models_status_md, None, status)
+        model.change(models_status_md, None, status)
     with gr.Tab("Hỏi đáp"):
         with gr.Row():
             run = gr.Dropdown(ORDER, value=ORDER[0], label="Pipeline (mặc định: tốt nhất theo benchmark)", scale=3)
@@ -93,18 +120,19 @@ with gr.Blocks(title="Bibica RAG") as demo:
         info = gr.Markdown()
         with gr.Accordion("Các đoạn tài liệu đã truy hồi", open=False):
             ctx = gr.Markdown()
-        q.submit(ask_rag, [q, run, chatbot], [chatbot, info, ctx]).then(lambda: "", None, q)
-        gr.Button("Hỏi", variant="primary").click(ask_rag, [q, run, chatbot], [chatbot, info, ctx]).then(
+        q.submit(ask_rag, [q, run, model, chatbot], [chatbot, info, ctx]).then(lambda: "", None, q)
+        gr.Button("Hỏi", variant="primary").click(ask_rag, [q, run, model, chatbot], [chatbot, info, ctx]).then(
             lambda: "", None, q)
     with gr.Tab("Trích xuất PO"):
-        build_po_tab()
+        build_po_tab(local_model=model)
     with gr.Tab("Đọc ảnh (VLM)"):
         with gr.Row():
             img = gr.Image(type="filepath", label="Ảnh chứng từ / đơn hàng")
             with gr.Column():
                 prompt = gr.Textbox(DEFAULT_IMG_PROMPT, label="Yêu cầu", lines=5)
                 out = gr.Markdown()
-        gr.Button("Trích xuất", variant="primary").click(ask_image, [img, prompt], out)
+        gr.Button("Trích xuất", variant="primary").click(ask_image, [img, prompt, model], out)
+    demo.load(models_status_md, None, status)
 
 if __name__ == "__main__":
     demo.queue().launch(server_name="127.0.0.1", server_port=int(os.environ.get("BIBICA_PORT", "7860")))

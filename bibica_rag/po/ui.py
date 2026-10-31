@@ -51,12 +51,12 @@ def output_view(r: dict) -> dict:
     return out
 
 
-def run_extraction(pdf_files, specs, dms, customer, provider, use_text, progress=gr.Progress()):
+def run_extraction(pdf_files, specs, dms, customer, provider, use_text, local_model=None, progress=gr.Progress()):
     if not pdf_files:
         raise gr.Error("Chưa chọn file PDF")
     if not specs:
         raise gr.Error("Chưa có cấu hình khách hàng")
-    backend = backend_from_env(provider)
+    backend = backend_from_env(provider, local_model=local_model)
     results = []
     for path in progress.tqdm(pdf_files, desc="Đang trích xuất"):
         r = extract_po(path, specs, customer=None if customer in (None, AUTO) else customer, max_pages=30,
@@ -138,8 +138,10 @@ def export(results) -> list[str]:
     return [str(xl), str(js)]
 
 
-def build_po_tab():
-    """Components of the PO tab; call inside `with gr.Tab(...)` of a gr.Blocks."""
+def build_po_tab(local_model=None):
+    """Components of the PO tab; call inside `with gr.Tab(...)` of a gr.Blocks.
+
+    `local_model`: optional gr.Dropdown of bibica_rag.llm.ENDPOINTS (app.py's model switch) used by provider "local"."""
     specs0, msg0 = _load_specs(None)
     dms0, dms_msg0 = _load_dms(None)
     default_provider = backend_from_env().provider
@@ -149,7 +151,8 @@ def build_po_tab():
             pdfs = gr.File(label="File PO (PDF)", file_count="multiple", file_types=[".pdf"], type="filepath")
             customer = gr.Dropdown([AUTO, *specs0], value=AUTO, label="Khách hàng")
             provider = gr.Dropdown(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
-                                   label="VLM (local: Qwen3.5-4B — scripts/serve.sh 4B · gemini: cần GEMINI_API_KEY)")
+                                   label="VLM (local: model chọn ở đầu trang, mặc định Qwen3.5-4B — scripts/serve.sh 4B · "
+                                         "gemini: cần GEMINI_API_KEY)")
             btn = gr.Button("Trích xuất PO", variant="primary")
             with gr.Accordion("Cấu hình", open=False):
                 use_text = gr.Checkbox(True, label="Gửi kèm lớp chữ của PDF (nếu đọc được)")
@@ -181,7 +184,7 @@ def build_po_tab():
 
     spec_file.change(on_spec, spec_file, [specs, spec_msg, customer, spec_view])
     dms_file.change(_load_dms, dms_file, [dms, dms_msg])
-    btn.click(run_extraction, [pdfs, specs, dms, customer, provider, use_text],
+    btn.click(run_extraction, [pdfs, specs, dms, customer, provider, use_text] + ([local_model] if local_model else []),
               [results, summary, pick, head, lines, js, warn, gallery, files_out])
     pick.change(show_result, [pick, results, pdfs], [head, lines, js, warn, gallery])
 
