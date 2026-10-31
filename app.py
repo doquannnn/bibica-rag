@@ -1,5 +1,5 @@
-"""Simple UI: ask questions over the Bibica HR documents, extract retailer purchase orders (PO PDF -> the fields
-that retailer needs, see bibica_rag/po), or extract information from an image with the Qwen VLM.
+"""Simple UI: ask questions over the Bibica HR documents, or extract retailer purchase orders (PO PDF -> the fields
+that retailer needs, see bibica_rag/po).
 
     scripts/serve.sh 4B            # Qwen3.5-4B on :8080 (default model)
     scripts/serve.sh 9B 8082       # optional: Qwen3.5-9B on :8082, selectable in the "Model" dropdown
@@ -17,8 +17,8 @@ import yaml
 
 from bibica_rag.corpus import ROOT
 from bibica_rag.eval.run_pipelines import build_pipeline
-from bibica_rag.llm import ENDPOINTS, MODEL, chat, image_part, server_status, use_model
-from bibica_rag.po.ui import build_po_tab
+from bibica_rag.llm import ENDPOINTS, MODEL, server_status, use_model
+from bibica_rag.po.ui import CSS, build_po_tab
 
 CONFIGS = ROOT / "configs"
 
@@ -52,8 +52,9 @@ MODELS = list(ENDPOINTS)
 
 
 def models_status_md():
-    return " · ".join(f"`{m}` ({ENDPOINTS[m]}): {'🟢' if (st := server_status(m)) == 'online' else '🔴'} {st}"
-                      for m in MODELS)
+    """One short line: a dot per model (the endpoint is in the error shown when an offline model is used)."""
+    return "**Trạng thái:** " + " · ".join(
+        f"🟢 {m}" if (st := server_status(m)) == "online" else f"🔴 {m} ({st})" for m in MODELS)
 
 
 def check_model(model):
@@ -87,52 +88,35 @@ def ask_rag(question, run, model, history):
     return history, info, ctx or "(pipeline không truy hồi đoạn văn — dùng toàn văn / wiki)"
 
 
-DEFAULT_IMG_PROMPT = ("Đây là ảnh chụp một chứng từ (ví dụ đơn đặt hàng). Hãy trích xuất toàn bộ thông tin dưới dạng JSON "
-                      "với các trường: so_don_hang, ngay, ben_mua, ben_ban, dia_chi_giao, danh_sach_hang (ten_hang, "
-                      "don_vi, so_luong, don_gia, thanh_tien), tong_tien, ghi_chu. Trường nào không có thì để null. "
-                      "Chỉ in ra JSON.")
+with gr.Blocks(title="Bibica") as demo:
+    with gr.Row(equal_height=True):
+        with gr.Column(scale=3):
+            gr.Markdown("## Bibica — Trợ lý tài liệu nội bộ\n"
+                        "Hỏi đáp Quy chế lương thưởng · Nội quy lao động · Thỏa ước LĐTT, và trích xuất đơn đặt hàng (PO).")
+        with gr.Column(scale=2, min_width=280):
+            model = gr.Dropdown(MODELS, value=MODEL, label="Model (9B chính xác hơn, chậm hơn ~1,5×)")
+            with gr.Row(equal_height=True):
+                status = gr.Markdown(models_status_md(), elem_classes="status")
+                refresh = gr.Button("Kiểm tra lại", size="sm", scale=0, min_width=110)
+    refresh.click(models_status_md, None, status)
+    model.change(models_status_md, None, status)
 
-
-def ask_image(img_path, prompt, model):
-    if not img_path:
-        return "Hãy tải ảnh lên."
-    check_model(model)
-    t0 = time.time()
-    with use_model(model):
-        r = chat([{"role": "user", "content": [image_part(img_path), {"type": "text", "text": prompt}]}], max_tokens=1500)
-    return f"{r['text']}\n\n---\n_{model} · {time.time() - t0:.1f}s_"
-
-
-with gr.Blocks(title="Bibica RAG") as demo:
-    gr.Markdown("## Bibica — Hỏi đáp tài liệu nội bộ (Quy chế lương thưởng · Nội quy lao động · Thỏa ước LĐTT) "
-                "· Trích xuất PO")
-    with gr.Row():
-        model = gr.Dropdown(MODELS, value=MODEL, label="Model (Qwen3.5-9B: chính xác hơn, chậm hơn ~1,5×)", scale=1)
-        status = gr.Markdown(models_status_md())
-        gr.Button("Kiểm tra server", size="sm", scale=0).click(models_status_md, None, status)
-        model.change(models_status_md, None, status)
     with gr.Tab("Hỏi đáp"):
-        with gr.Row():
-            run = gr.Dropdown(ORDER, value=ORDER[0], label="Pipeline (mặc định: tốt nhất theo benchmark)", scale=3)
-        chatbot = gr.Chatbot(height=420)
-        q = gr.Textbox(placeholder="Ví dụ: Làm thêm giờ vào ngày lễ được trả bao nhiêu phần trăm lương?",
-                       label="Câu hỏi", lines=2)
+        chatbot = gr.Chatbot(height=440, label="Hội thoại")
+        with gr.Row(equal_height=True):
+            q = gr.Textbox(placeholder="Ví dụ: Làm thêm giờ vào ngày lễ được trả bao nhiêu phần trăm lương?",
+                           show_label=False, lines=2, scale=5, container=False)
+            ask = gr.Button("Hỏi", variant="primary", scale=1, min_width=100)
         info = gr.Markdown()
-        with gr.Accordion("Các đoạn tài liệu đã truy hồi", open=False):
+        with gr.Accordion("Đoạn tài liệu đã dùng để trả lời", open=False):
             ctx = gr.Markdown()
-        q.submit(ask_rag, [q, run, model, chatbot], [chatbot, info, ctx]).then(lambda: "", None, q)
-        gr.Button("Hỏi", variant="primary").click(ask_rag, [q, run, model, chatbot], [chatbot, info, ctx]).then(
-            lambda: "", None, q)
+        with gr.Accordion("Cấu hình", open=False):
+            run = gr.Dropdown(ORDER, value=ORDER[0], label="Pipeline (mặc định: tốt nhất theo benchmark)")
+        for ev in (q.submit, ask.click):
+            ev(ask_rag, [q, run, model, chatbot], [chatbot, info, ctx]).then(lambda: "", None, q)
     with gr.Tab("Trích xuất PO"):
         build_po_tab(local_model=model)
-    with gr.Tab("Đọc ảnh (VLM)"):
-        with gr.Row():
-            img = gr.Image(type="filepath", label="Ảnh chứng từ / đơn hàng")
-            with gr.Column():
-                prompt = gr.Textbox(DEFAULT_IMG_PROMPT, label="Yêu cầu", lines=5)
-                out = gr.Markdown()
-        gr.Button("Trích xuất", variant="primary").click(ask_image, [img, prompt, model], out)
     demo.load(models_status_md, None, status)
 
 if __name__ == "__main__":
-    demo.queue().launch(server_name="127.0.0.1", server_port=int(os.environ.get("BIBICA_PORT", "7860")))
+    demo.queue().launch(server_name="127.0.0.1", server_port=int(os.environ.get("BIBICA_PORT", "7860")), css=CSS)

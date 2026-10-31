@@ -18,6 +18,12 @@ from bibica_rag.po.vlm import backend_from_env
 
 AUTO = "(Tự động nhận diện)"
 PROVIDERS = ["local", "gemini"]
+SUMMARY_HEADERS = ["File", "Khách hàng", "Số dòng hàng", "Mã DMS", "Trạng thái", "Thời gian (s)"]
+# Gradio renders tables in a monospace font that breaks Vietnamese diacritics ("Sô ́dòng"): use the body font.
+CSS = """
+.gradio-container .table-wrap, .gradio-container .table-wrap * { font-family: var(--font) !important; }
+.status p { margin: 0; font-size: var(--text-sm); }
+"""
 
 
 def _load_specs(spec_file) -> tuple[dict[str, CustomerSpec], str]:
@@ -64,8 +70,16 @@ def run_extraction(pdf_files, specs, dms, customer, provider, use_text, local_mo
         r.file = Path(path).name
         results.append(r.to_dict())
     names = [r["file"] for r in results]
-    return (results, summary_rows(results), gr.update(choices=names, value=names[0]),
+    return (results, gr.update(visible=False), gr.update(visible=True), summary_rows(results),
+            gr.update(choices=names, value=names[0], visible=len(names) > 1),
             *show_result(names[0], results, pdf_files), export(results))
+
+
+def _status(r: dict) -> str:
+    if r["error"]:
+        return f"❌ Lỗi: {r['error']}"
+    n = len(r.get("warnings", []))
+    return f"⚠️ {n} cảnh báo" if n else "✅ OK"
 
 
 def summary_rows(results):
@@ -73,8 +87,8 @@ def summary_rows(results):
     for r in results:
         items = next((v for v in r["fields"].values() if isinstance(v, list)), [])
         dms = r.get("dms") or {}
-        rows.append([r["file"], r["customer"] or "", len(items), dms.get("Mã DMS") or "",
-                     len(r.get("warnings", [])), r["elapsed_s"], r["error"]])
+        rows.append([r["file"], r["customer"] or "", len(items), dms.get("Mã DMS") or "", _status(r),
+                     r["elapsed_s"]])
     return rows
 
 
@@ -85,7 +99,7 @@ def show_result(name, results, pdf_files):
     head = [[k, v] for k, v in output_view(r).items() if not isinstance(v, list)]
     items = next((v for v in r["fields"].values() if isinstance(v, list)), [])
     lines = [list(row.values()) for row in items]
-    warn = "\n".join(f"- ⚠️ {w}" for w in r.get("warnings", [])) or "✅ Không có cảnh báo tự kiểm tra."
+    warn = "\n".join(f"- ⚠️ {w}" for w in r.get("warnings", [])) or "✅ Không có cảnh báo."
     if r["error"]:
         warn = f"❌ {r['error']}\n\n" + warn
     images = []
@@ -147,14 +161,14 @@ def build_po_tab(local_model=None):
     default_provider = backend_from_env().provider
     specs, dms, results = gr.State(specs0), gr.State(dms0), gr.State([])
     with gr.Row():
-        with gr.Column(scale=1):
+        with gr.Column(scale=1, min_width=300):
             pdfs = gr.File(label="File PO (PDF)", file_count="multiple", file_types=[".pdf"], type="filepath")
             customer = gr.Dropdown([AUTO, *specs0], value=AUTO, label="Khách hàng")
-            provider = gr.Dropdown(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
-                                   label="VLM (local: model chọn ở đầu trang, mặc định Qwen3.5-4B — scripts/serve.sh 4B · "
-                                         "gemini: cần GEMINI_API_KEY)")
-            btn = gr.Button("Trích xuất PO", variant="primary")
+            btn = gr.Button("Trích xuất PO", variant="primary", size="lg")
             with gr.Accordion("Cấu hình", open=False):
+                provider = gr.Radio(PROVIDERS, value=default_provider if default_provider in PROVIDERS else "local",
+                                    label="Mô hình đọc PDF",
+                                    info="local: model chọn ở đầu trang · gemini: cần GEMINI_API_KEY")
                 use_text = gr.Checkbox(True, label="Gửi kèm lớp chữ của PDF (nếu đọc được)")
                 spec_file = gr.File(label="Trường cần trích xuất (YAML) — trống: config/po_customers.yaml",
                                     file_types=[".yaml", ".yml", ".json"], type="filepath")
@@ -163,20 +177,24 @@ def build_po_tab(local_model=None):
                 spec_msg, dms_msg = gr.Markdown(msg0), gr.Markdown(dms_msg0)
                 spec_view = gr.Code(dump_specs(specs0) if specs0 else "", language="yaml",
                                     label="Các trường theo khách hàng")
-        with gr.Column(scale=2):
-            summary = gr.Dataframe(headers=["File", "Khách hàng", "Số dòng", "Mã DMS", "Cảnh báo", "Giây", "Lỗi"],
-                                   label="Kết quả", interactive=False, wrap=True)
-            pick = gr.Dropdown([], label="Xem chi tiết file")
-            warn = gr.Markdown()
-            with gr.Row():
-                with gr.Column():
-                    head = gr.Dataframe(headers=["Trường", "Giá trị"], label="Thông tin đơn hàng",
-                                        interactive=False, wrap=True)
-                    lines = gr.Dataframe(label="Chi tiết hàng", interactive=False, wrap=True)
-                gallery = gr.Gallery(label="PDF", columns=1, height=600, object_fit="contain")
-            with gr.Accordion("JSON", open=False):
-                js = gr.JSON()
-            files_out = gr.File(label="Tải kết quả (Excel / JSON)", file_count="multiple")
+        with gr.Column(scale=3):
+            hint = gr.Markdown("**Cách dùng:** 1. Tải một hoặc nhiều file PO (PDF) · 2. Chọn khách hàng (hoặc để tự "
+                               "nhận diện) · 3. Bấm **Trích xuất PO**. Kết quả và file Excel/JSON sẽ hiện ở đây.")
+            with gr.Column(visible=False) as result_box:
+                summary = gr.Dataframe(headers=SUMMARY_HEADERS, label="Kết quả", interactive=False, wrap=True)
+                files_out = gr.File(label="Tải kết quả (Excel / JSON)", file_count="multiple")
+                pick = gr.Dropdown([], label="Xem chi tiết file", visible=False)
+                warn = gr.Markdown()
+                with gr.Tabs():
+                    with gr.Tab("Thông tin đơn hàng"):
+                        head = gr.Dataframe(headers=["Trường", "Giá trị"], label="Thông tin chung",
+                                            interactive=False, wrap=True)
+                        lines = gr.Dataframe(label="Chi tiết hàng", interactive=False, wrap=True)
+                    with gr.Tab("Xem PDF"):
+                        gallery = gr.Gallery(label="PDF", show_label=False, columns=1, height=800,
+                                             object_fit="contain")
+                    with gr.Tab("JSON"):
+                        js = gr.JSON(show_label=False)
 
     def on_spec(f):
         s, m = _load_specs(f)
@@ -185,7 +203,7 @@ def build_po_tab(local_model=None):
     spec_file.change(on_spec, spec_file, [specs, spec_msg, customer, spec_view])
     dms_file.change(_load_dms, dms_file, [dms, dms_msg])
     btn.click(run_extraction, [pdfs, specs, dms, customer, provider, use_text] + ([local_model] if local_model else []),
-              [results, summary, pick, head, lines, js, warn, gallery, files_out])
+              [results, hint, result_box, summary, pick, head, lines, js, warn, gallery, files_out])
     pick.change(show_result, [pick, results, pdfs], [head, lines, js, warn, gallery])
 
 
@@ -193,4 +211,4 @@ if __name__ == "__main__":
     with gr.Blocks(title="Bibica PO") as demo:
         gr.Markdown("## Bibica — Trích xuất đơn đặt hàng (PO) siêu thị")
         build_po_tab()
-    demo.queue().launch(server_name="127.0.0.1", server_port=7861)
+    demo.queue().launch(server_name="127.0.0.1", server_port=7861, css=CSS)
