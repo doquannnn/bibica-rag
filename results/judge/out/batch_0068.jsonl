@@ -1,0 +1,40 @@
+{"key": "fed8a475d6f8615e", "qid": "QCL-021", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Core correct; invented timing rule and misread QCL Điều 12 for QTV."}
+{"key": "2ddbe1476c5ff0b4", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra temporary-transfer rule supported."}
+{"key": "c195582bb902cacf", "qid": "QCL-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct conversion principle."}
+{"key": "1119e95e3d659a9d", "qid": "QCL-021", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; wrongly ties temporary transfer to promotion."}
+{"key": "95aa33d3a37a8c4d", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three groups correct; NQLD citation extraneous."}
+{"key": "bf12443d650a905f", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three groups correct."}
+{"key": "ff687ac418903554", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three groups correct."}
+{"key": "e62e850575bd93a2", "qid": "QCL-023", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Three groups correct; cites NQLD Điều 8 wrongly."}
+{"key": "b2e00b352034a510", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both 100% correct; extras supported."}
+{"key": "dc6a60e2a536626f", "qid": "QCL-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Holiday full pay; annual leave pay rate not stated."}
+{"key": "d340eb1c1160c730", "qid": "QCL-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Holiday 100%, leave full pay; extras supported."}
+{"key": "4033f39a1398b814", "qid": "QCL-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Holiday 100%; annual leave pay rate not stated."}
+{"key": "888b7e39da54de75", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Kế hoạch SXKD basis correct."}
+{"key": "6ad8af4150f2d8cf", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f3bd1c84dadcefc2", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with structure note."}
+{"key": "216cd4a1edc2c660", "qid": "QCL-027", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; cites TULD Điều 9 instead of QCL."}
+{"key": "78b21546fda1eaed", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "All four funds correct; cites NQLD Điều 9."}
+{"key": "fc8dd226f2d2eb1f", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Four funds correct; welfare fund extra supported."}
+{"key": "f56991015d399865", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Four funds correct."}
+{"key": "d1cb65f2c1fa53a2", "qid": "QCL-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Four funds correct; extra supported."}
+{"key": "d3687d10a3c823b7", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three funds and recipients correct."}
+{"key": "84056e2a63d5f380", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three funds and recipients correct."}
+{"key": "e2b04ef56bab4b64", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three funds and recipients correct."}
+{"key": "c409d83fa133494c", "qid": "QCL-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Three funds and recipients correct."}
+{"key": "d179d9d349bc949f", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "No KPI bonus, <50% rule correct."}
+{"key": "74a07cdbbdfc833d", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "4608a56c99db8a33", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "73574109c2c38ee3", "qid": "QCL-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "16115c452fdd0565", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; minor citation typo TQCL."}
+{"key": "acc799da785bfd45", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "03e22d5e54d59046", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; KPI 100% note supported."}
+{"key": "530e7efee93c2ce1", "qid": "QCL-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 16 birthday note roughly supported."}
+{"key": "fc389441ca38a10c", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "14-day minimum rule correct; TULD cross-ref valid."}
+{"key": "f9b06c6658946137", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ca5b4005e733546e", "qid": "QCL-034", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct rule but wrongly says it applies to company-fault stoppage."}
+{"key": "2b989feba71c1e28", "qid": "QCL-034", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f9f1dc537d1c3666", "qid": "QCL-035", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Trả đủ lương theo HĐLĐ correct."}
+{"key": "bc24dd5a6917836b", "qid": "QCL-035", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Misreads as resignation; denies existing QCL Điều 10 rule."}
+{"key": "1f3a4ce202349402", "qid": "QCL-035", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although QCL Điều 10.4.a answers."}
+{"key": "6013140734070328", "qid": "QCL-035", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although QCL Điều 10.4.a answers."}

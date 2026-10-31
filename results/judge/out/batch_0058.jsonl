@@ -1,0 +1,33 @@
+{"key": "5ca520d6746b0df1", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Declines; support amounts cited to Phụ lục 03 instead of Điều 16, minor slip."}
+{"key": "013b19eed616b1a3", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines with accurate related info."}
+{"key": "40ae1a01f55272de", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "8c10fdef5567ddea", "qid": "NONE-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "efc552543b419d98", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; union fee deduction noted."}
+{"key": "a0ba2333061497f7", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "ae4d9ac040675974", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "f8fc78f20bfcdd96", "qid": "NONE-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; BHYT 4,5% detail supported."}
+{"key": "5d208ca6e0945b9d", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; car loan info accurate."}
+{"key": "bae4aefa4a33db4e", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "16770f0d833d4a54", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; mentions đưa rước condition."}
+{"key": "d7d9baccd38a8310", "qid": "NONE-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "376cc0815ec8fa70", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly states only BHXH law reference, no specific days."}
+{"key": "bd901d06de813ec7", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "9e8b4c5df5150456", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "dd8c1b0da259229c", "qid": "NONE-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "fb4c7129546266a0", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines; quotes accurate."}
+{"key": "51181b0fba3915a4", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "ae9600779a4b4ebc", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "bc278b4c9324bbbc", "qid": "NONE-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": true, "note": "Correctly declines."}
+{"key": "9d6e2ff60964c0cc", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "0e02a9fef3c0b32b", "qid": "NQLD-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "a82652cc292f1b59", "qid": "NQLD-004", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "782da8382451017f", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct hours."}
+{"key": "301d647c43848d3c", "qid": "NQLD-006", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct hours."}
+{"key": "055fc50000f95252", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "7e0d1fe3d64a18ba", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "aa1c3424f84797f0", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra annual-leave info accurate."}
+{"key": "37bbf4066b7cc328", "qid": "NQLD-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "c040f1092775fa7a", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "15e16322ae834086", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "d3b7c449a55b458b", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "fae6c93471d5638b", "qid": "NQLD-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}

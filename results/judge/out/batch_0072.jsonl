@@ -1,0 +1,37 @@
+{"key": "bc2f7a46f6e8f1cb", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct content; cited NQLD Điều 20 is unrelated."}
+{"key": "46dd12cc4a7ce538", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "606c9593ce45cc51", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with accurate extras."}
+{"key": "42645fd4f1def033", "qid": "QCL-070", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "0e74e3b7b39d27ba", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three items; TULD extra fine; NQLD cite wrong."}
+{"key": "07b9d07f03c7c998", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three items; minor clause numbering slips."}
+{"key": "c9d18a7f07bfb6e5", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three items correct."}
+{"key": "d7e1c27d39a4e383", "qid": "QCL-071", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three items correct."}
+{"key": "3883cf4940acd2e6", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 05/23/04 and dissemination."}
+{"key": "432104fbae7bee64", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "0d8c9f02f12d976f", "qid": "QCL-072", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "dc2f74bbf2cf2636", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Effective from signing, 26/04/2024; signer/time correct."}
+{"key": "b46f95f71117fa48", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1c8f7eaae3f7d67f", "qid": "QCL-073", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "4ee2b14a5a5a798e", "qid": "QCL-074", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Name/date correct; 'Tổng Giám đốc' title unsupported; cites Mở đầu wrongly."}
+{"key": "c3efa9ea438deab8", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "afe6ca4a97dc3c76", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "fd3d6a00731db583", "qid": "QCL-074", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "d52024827aa27416", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct time/date; cites Mở đầu, signature is after Điều 23."}
+{"key": "8a5cb24904e4665f", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "821e7c5c47f9ba6d", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "6d8a069871a1820f", "qid": "QCL-075", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "574a20ac90603f0d", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15%."}
+{"key": "621360b5b1d52348", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct 15%; cites QCL Điều 9 wrongly."}
+{"key": "2810784529a9de5d", "qid": "QCL-077", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15%."}
+{"key": "8c28dd27ee1729f7", "qid": "QCL-077", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Says 15% but falsely claims Phụ lục 2 gives 20%; noncommittal."}
+{"key": "7b4481ef225f10d5", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct 20%; cites nonexistent NQLD Phụ lục 2."}
+{"key": "4dc9ddcd3806af44", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20%."}
+{"key": "e1140c4a7aa944fa", "qid": "QCL-078", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 20%."}
+{"key": "1723999839d76c5b", "qid": "QCL-079", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Wrong: 35% is Phó Quản đốc; Quản đốc is 30%."}
+{"key": "41df47ec843a1375", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30%."}
+{"key": "cc6a72be8e74e75f", "qid": "QCL-079", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "30% correct; wrongly puts Quản đốc in QTV2 (doc: nhóm 3)."}
+{"key": "cf565f19b3236557", "qid": "QCL-079", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30%; Điều 15 ranges accurate."}
+{"key": "da1f63fcbd8c4728", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 35%."}
+{"key": "cdd13d1188c78155", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 35%."}
+{"key": "a10a03385bf2df12", "qid": "QCL-080", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 35%."}
+{"key": "0450da95e741a427", "qid": "QCL-080", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "35% correct; falsely claims QĐ/PQĐ column is blank."}

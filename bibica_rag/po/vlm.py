@@ -33,7 +33,8 @@ class Backend:
         return f"{self.provider} · {self.model}"
 
 
-def backend_from_env(provider: str | None = None) -> Backend:
+def backend_from_env(provider: str | None = None, local_model: str | None = None) -> Backend:
+    """`local_model`: one of bibica_rag.llm.ENDPOINTS (the UI's model switch) instead of LLM_MODEL / LLM_BASE_URL."""
     env = os.environ
     provider = (provider or env.get("BIBICA_PO_PROVIDER") or "local").lower()
     if provider == "gemini":
@@ -42,6 +43,9 @@ def backend_from_env(provider: str | None = None) -> Backend:
     elif provider == "local":
         base = env.get("LLM_BASE_URL", "http://127.0.0.1:8080/v1")
         model, key = env.get("LLM_MODEL", "qwen3.5-4B"), "local"
+        if local_model:
+            from bibica_rag.llm import ENDPOINTS
+            base, model = ENDPOINTS[local_model], local_model
     else:
         base, model, key = "", "", ""
     return Backend(provider=provider, base_url=env.get("BIBICA_PO_BASE_URL", base),

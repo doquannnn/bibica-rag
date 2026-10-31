@@ -1,0 +1,10 @@
+{
+ "n": 80,
+ "correctness_exact": 77,
+ "faithful_agree": 73,
+ "judge_pass_agree": 73,
+ "old_judge_pass": 55,
+ "new_judge_pass": 52,
+ "old_faithful": 61,
+ "new_faithful": 58
+}

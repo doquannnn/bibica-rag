@@ -1,0 +1,38 @@
+{"key": "9c8b6376ef568068", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "743fe0249758c678", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "d7506479edbffb6b", "qid": "TULD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "2fea54556a8735a9", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "1161e91d78a7e926", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "61ea476a01b98efb", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "4a0467e3a0a9a03f", "qid": "TULD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "29b4f19bdb9b7586", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct chapters, articles, registration place."}
+{"key": "72a7923633a50f63", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "699e42c975bce6a0", "qid": "TULD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "435e914eb544f583", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "323f08c963514a27", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "0f598913c284ad0d", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "9032e0d76750049b", "qid": "TULD-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "7407905df953639d", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 2 extra citation tangential but valid."}
+{"key": "805511210f023b81", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "8cd752e7564590b7", "qid": "TULD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "d58a07f43d1b7a4c", "qid": "TULD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says entitled to benefits, not that probationers must comply; bonus correct."}
+{"key": "6333ac085d9ee286", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct role and cấp trên trực tiếp, though phrasing muddled."}
+{"key": "09203cfb848d264f", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "ee3a1a402556d7b6", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "a16d33076afcb2ea", "qid": "TULD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "5b69cbbbe083c41a", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "a0dca157ccf056b4", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "be30f1aa17061b06", "qid": "TULD-023", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; claims KPI bonus excluded for resignees, QCL prorates KPI."}
+{"key": "964541ee4d32fbdf", "qid": "TULD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; QCL Điều 13 matches."}
+{"key": "8452c12756e3bebc", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "b8b53277c13a506a", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "de6cac2c7167ad24", "qid": "TULD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "a7c7a7462f6acde8", "qid": "TULD-024", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; but NQLD Điều 3 does not mention TULD."}
+{"key": "3dfe51ad43483609", "qid": "TULD-025", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Missing paid day off on company birthday."}
+{"key": "9267c534fef0f58d", "qid": "TULD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "3378965cfb3851f7", "qid": "TULD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; QCL Điều 14 extra accurate."}
+{"key": "150c94d68e4fe15b", "qid": "TULD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "5159c0df2be28184", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; QCL Điều 10 clause numbering slightly off."}
+{"key": "21e8e012fb0737f9", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "e405ddbdd2922f46", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, matches reference and evidence."}
+{"key": "c2cdbf971dede6e6", "qid": "TULD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 7 extra accurate."}

@@ -1,0 +1,39 @@
+{"key": "0f7a2da5be78c1ff", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition from QCL Điều 2."}
+{"key": "cf7db18ac3126b12", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition, correct citation."}
+{"key": "1e00258102ba5604", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra Điều 15 detail supported."}
+{"key": "1ba72bf2d8a28d36", "qid": "QCL-008", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; Điều 5 cycle detail supported."}
+{"key": "cb49ad139cb5b02e", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Content correct but cites NQLD Điều 2 instead of QCL."}
+{"key": "cdd880ce01c3e636", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with accurate item citations."}
+{"key": "628b508b80974d58", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "ae6ed77e039cfb7f", "qid": "QCL-009", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "796d4644da31e922", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Titles and 70-85/15-30 ratios correct."}
+{"key": "8a7690cc0566178c", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct; extra Điều 15 note supported."}
+{"key": "dde4883db3044663", "qid": "QCL-011", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ratios correct but wrongly claims group 2 titles absent."}
+{"key": "3e34469cd791f422", "qid": "QCL-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "77bd1a4160249cb9", "qid": "QCL-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both figures correct; NQLD citation slip minor."}
+{"key": "036e35ad588d930c", "qid": "QCL-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both figures correct."}
+{"key": "758f17141e9d088c", "qid": "QCL-012", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Refuses although formula exists in QCL Điều 2."}
+{"key": "b91ff19a16b93141", "qid": "QCL-012", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Arithmetic wrong: 9.928.000 and 10.428.000."}
+{"key": "0183bf3d4ae2d1d8", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "07% correct."}
+{"key": "a334f54f40359980", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "227cd23b39162249", "qid": "QCL-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "e7777ab314fe5520", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both parts correct."}
+{"key": "b72140c8eb44674b", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both parts correct."}
+{"key": "4bc4bc4b9a89faa8", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 2 extra supported."}
+{"key": "d21f18e44dc45ed7", "qid": "QCL-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD Điều 5 extra supported."}
+{"key": "8f156bd99441c5c0", "qid": "QCL-015", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% correct; omits 1% BHTN totaling 100%."}
+{"key": "a6616afbce0884be", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "85% and 1% BHTN correct."}
+{"key": "2efbebe47781f1ac", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete and correct."}
+{"key": "18f92be4640bb23e", "qid": "QCL-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complete; extra definition supported."}
+{"key": "207ab0613a0fab24", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "All four groups correct; cites NQLD Điều 6 wrongly."}
+{"key": "32ca92774d6b26f7", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four groups correct."}
+{"key": "951bc737681d233f", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All four groups correct."}
+{"key": "f504f30fd30569f0", "qid": "QCL-017", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "All four groups correct; cites TULD Điều 6 wrongly."}
+{"key": "7a1a775438662c1f", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Bậc 4 correct; bracket cites NQLD Điều 6."}
+{"key": "bb711ff84d375d3b", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct."}
+{"key": "12066231ef54103d", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct."}
+{"key": "8192121b4a1493e9", "qid": "QCL-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bậc 4 correct, one-step rule noted."}
+{"key": "c6791d387c37fe4f", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "03 years correct; cites NQLD Điều 26."}
+{"key": "dd38e287aacddbee", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 years and conditions correct."}
+{"key": "82c81a1d17254490", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; bracket citation NQLD Điều 6 wrong."}
+{"key": "6b9271ff540174c5", "qid": "QCL-019", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "03 years and conditions correct."}

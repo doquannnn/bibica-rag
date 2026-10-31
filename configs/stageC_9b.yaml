@@ -1,0 +1,6 @@
+# Stage C: the Stage-B top pipelines re-run with Qwen3.5-9B (same specs, so only the generator changes).
+# Run everything with scripts/bench_9b.sh; CAG (cag-full-context) is in configs/stageB_cag.yaml and runs on its own
+# server (port 8081) because it needs ~28k context per slot.
+- {run: dspy, kind: dspy, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: naive-best-s2b, kind: naive, chunking: clause_parent, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}
+- {run: naive-best, kind: naive, chunking: clause_header, retriever: "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus"}

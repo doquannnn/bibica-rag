@@ -27,3 +27,7 @@ data/cache/
 *.log
 results/latency/
 .~lock.*
+
+# Stage C (9B) local benchmark outputs
+results/stageC_9B/
+results/stageC_9B.tar.gz

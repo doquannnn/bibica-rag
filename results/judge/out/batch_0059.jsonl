@@ -1,0 +1,34 @@
+{"key": "732769bd4b2a85e0", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL Điều 13 1% BHTN detail, minor BHXH/BHTN slip."}
+{"key": "44c94ffb287db929", "qid": "NQLD-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: chế độ ốm đau theo BHXH."}
+{"key": "44bbee258dd0dfcf", "qid": "NQLD-011", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Lists unpaid-leave cases as paid leave, repetitive; contradicts Điều 11."}
+{"key": "81754a95353b8710", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo Bộ luật lao động."}
+{"key": "af42832383395c48", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, notes no specific list."}
+{"key": "484ccd81ccfe5ba4", "qid": "NQLD-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, notes no specific list."}
+{"key": "8be0d823ebc91b51", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: thỏa thuận, exceptions per BHXH/BLLĐ."}
+{"key": "22c16dd8cb97b097", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "3d300785729cb8bd", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; odd extra remark harmless."}
+{"key": "c626645d5539b3fb", "qid": "NQLD-012", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; odd extra remark harmless."}
+{"key": "d44600673a894d06", "qid": "NQLD-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "BLLĐ stated; wrong '30%' for 300% and distorted holiday rule."}
+{"key": "569e91ae150e7113", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo BLLĐ plus supported QCL/TULD details."}
+{"key": "805e518ffce7f72d", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL formulas accurate; BLLĐ basis stated."}
+{"key": "79508183f89d2776", "qid": "NQLD-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo BLLĐ plus supported details."}
+{"key": "2fae68a41a1ab42e", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: TGĐ or quản lý trực tiếp."}
+{"key": "d99a41dee75caa56", "qid": "NQLD-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "5b6ba341b718bb7c", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: văn minh lịch sự, không khiếm nhã."}
+{"key": "e86883ac041359a1", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "d12b6284ad5233e5", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; minor addition of cấp trên to clause c."}
+{"key": "50565606899023c7", "qid": "NQLD-015", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; minor addition of cấp trên to clause c."}
+{"key": "ba2b47c7eba81929", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct both items plus Điều 15."}
+{"key": "3cefca3a6cc1a7ab", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "b79c31bb4112ca36", "qid": "NQLD-016", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "39c3428f80ff5fdf", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, complete including responsibility."}
+{"key": "5f83d9792f1f09f7", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra Điều 13c notify superior supported."}
+{"key": "1903d4afe3aba2e4", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core correct; irrelevant lateness item added."}
+{"key": "de8829530241a87b", "qid": "NQLD-018", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Core correct; extra right-to-refuse item off-topic."}
+{"key": "e3e1244c382a1ca8", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f72b744bee18e35c", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "84f73e074c31f239", "qid": "NQLD-020", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "6adca93b947c44ba", "qid": "NQLD-021", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "QCL+BLLĐ given but TULD training contract wrongly listed as transfer case."}
+{"key": "7bc4e48cc84f26fe", "qid": "NQLD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives QCL Điều 7 cases only; NQLD BLLĐ referral for cases missing."}
+{"key": "3a20a726cb1f43d5", "qid": "NQLD-021", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Gives QCL Điều 7 cases only; BLLĐ referral not stated."}
+{"key": "4afbf7a5a8a29a7b", "qid": "NQLD-021", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL Điều 7 cases plus BLLĐ referral (NQLD 24/25)."}

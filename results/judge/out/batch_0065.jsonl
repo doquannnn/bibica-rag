@@ -1,0 +1,39 @@
+{"key": "6f9f607115b74980", "qid": "NQLD-082", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Hedges that docs lack info, but cites Điều 23 ban; no clear verdict."}
+{"key": "ea305628a0410993", "qid": "NQLD-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Điều 23 forbids disclosing confidential info."}
+{"key": "d38ac981096aaa6d", "qid": "NQLD-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, Điều 23 cited."}
+{"key": "1d79a110bbffb3cd", "qid": "NQLD-082", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, Điều 23 cited."}
+{"key": "d9f0ef83110e56c5", "qid": "NQLD-083", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Consent required; both no-refusal exceptions listed."}
+{"key": "79aaa955e8b25fba", "qid": "NQLD-083", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 12 covers overtime."}
+{"key": "996c328088c6241f", "qid": "NQLD-083", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 12 covers overtime."}
+{"key": "a5ef89950656a90a", "qid": "NQLD-083", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; NQLD Điều 12 covers overtime."}
+{"key": "c572e40ca7888b17", "qid": "NQLD-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: +1 day per 5 years."}
+{"key": "2be1b82052fa490f", "qid": "NQLD-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extras supported by NQLD 7 / QCL 19."}
+{"key": "22712eed1077f4d8", "qid": "NQLD-085", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1a4af12efb6107ef", "qid": "NQLD-086", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: weekly day off changed."}
+{"key": "d465776a224ae963", "qid": "NQLD-086", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "4c27e98f83051a0c", "qid": "NQLD-086", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misreads question; misses Điều 5.2.2 rule."}
+{"key": "fcd9971e08ddb757", "qid": "NQLD-086", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "c5c0f5f5c8cb0f03", "qid": "NQLD-087", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no discipline during sick leave."}
+{"key": "c6e24019d02775de", "qid": "NQLD-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Off-topic; invented sanctions, wrong sa thải claim."}
+{"key": "d12ce323cdd500a0", "qid": "NQLD-087", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misreads question as drug suspicion."}
+{"key": "74aa6e8708e3271c", "qid": "NQLD-087", "correctness": 0, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Off-topic; wrong sanction claims."}
+{"key": "c84dbc5090dd4d04", "qid": "NQLD-088", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Conclusion right but wrongly says relapse within 3 years not recidivism."}
+{"key": "787a5daea6f606ac", "qid": "NQLD-088", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "b21c6fdf27d3c855", "qid": "NQLD-088", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "23f33bd69d4aa8cc", "qid": "NQLD-088", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "db5e17b85ca25468", "qid": "NQLD-091", "correctness": 0, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Opens with wrong No; misapplies Điều 27.1 exemptions."}
+{"key": "9f9efd22be8d8526", "qid": "NQLD-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: meeting still held."}
+{"key": "b55edccee5f3c047", "qid": "NQLD-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, Bước 5."}
+{"key": "09e147554395bfde", "qid": "NQLD-091", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "14220cd8af505b92", "qid": "NQLD-092", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: khiển trách bằng văn bản."}
+{"key": "2070f98c156c9192", "qid": "NQLD-092", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Wrongly refuses; Điều 28.1.d answers it."}
+{"key": "9cd40e48e0a0da29", "qid": "NQLD-092", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "92ba14e8d5de0657", "qid": "NQLD-092", "correctness": 0, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Misreads question; no sanction given."}
+{"key": "99fde3a9e8727181", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition."}
+{"key": "829a8fbc458d8be7", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition."}
+{"key": "e7389912b0fa0211", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition."}
+{"key": "3982d62ee2542481", "qid": "NQLD-094", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct definition."}
+{"key": "cd66c76e701ad558", "qid": "NQLD-095", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "List correct; pregnancy remark unsupported as lý do chính đáng."}
+{"key": "b94d9095cb786513", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three categories; approvers merged acceptably."}
+{"key": "f2e6aa3043deac6c", "qid": "NQLD-095", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Core list present but invents Điều 14/10 and 1-5 day items."}
+{"key": "2b2caa74ea6964ab", "qid": "NQLD-095", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three categories correct."}

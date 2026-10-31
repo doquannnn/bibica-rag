@@ -1,0 +1,40 @@
+{"key": "2d2c6d6b438a1ba3", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: no support, 0 đồng."}
+{"key": "03b9bdf03a0310a5", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, includes 85% condition."}
+{"key": "5dce286049df3dce", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: 0 đồng."}
+{"key": "487019267e00e626", "qid": "QCL-058", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: 0 đồng."}
+{"key": "e2da3451f0f415a1", "qid": "QCL-059", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 600.000, birthday month; extra NQLD cite irrelevant."}
+{"key": "f1e63b822cced697", "qid": "QCL-059", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct calculation and timing."}
+{"key": "544921ba685875fc", "qid": "QCL-059", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Core correct; TULD 100.000 'birthday' bonus is company-birthday bonus, misattributed."}
+{"key": "504baeb9fd6b73f2", "qid": "QCL-059", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; TULD company-birthday bonus described accurately."}
+{"key": "54795dd496aa5fb5", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, retirement exception included."}
+{"key": "22b0f28e500f6fb7", "qid": "QCL-060", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct answer; 'thu hồi toàn bộ' overstates doc (months of absence)."}
+{"key": "959bc7a7c2432116", "qid": "QCL-060", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct answer; 'thu hồi toàn bộ' overstates doc wording."}
+{"key": "bd8083e0984330e8", "qid": "QCL-060", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with retirement exception."}
+{"key": "93bbea6c09e46fe0", "qid": "QCL-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 58; citation typo TQCL minor."}
+{"key": "bb7ecff0cc800133", "qid": "QCL-061", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "States 100 then computes 58; contradictory result."}
+{"key": "ee0fb339e724e1f2", "qid": "QCL-061", "correctness": 0, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Wrongly refuses; formula exists in QCL Điều 16."}
+{"key": "dbc0d09d38f5cedf", "qid": "QCL-061", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 58."}
+{"key": "e0666472c6b03ab6", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Bank account/ATM and luong.bibica.com.vn correct."}
+{"key": "8642b13589e99186", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, both documents."}
+{"key": "41d5dcf677fc5805", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, distinguishes TULD ATM vs QCL bank account."}
+{"key": "103e1568a41fc806", "qid": "QCL-063", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, both documents."}
+{"key": "a0c862e4da5c4a4c", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; NQLD Điều 27 cite irrelevant, others fine."}
+{"key": "f1b943c2c212eba4", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct full procedure."}
+{"key": "f238030720dd592d", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "2b06445a451e434d", "qid": "QCL-065", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct though slightly garbled wording."}
+{"key": "fbe5a3d54ced7643", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct pro-rata; details from PL3; NQLD cite irrelevant."}
+{"key": "caac131a304822ff", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Pro-rata correct; KPI rule for resigning staff misapplied to new hires."}
+{"key": "a4b367f301a81552", "qid": "QCL-066", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct pro-rata with QCL 18.2 and PL3."}
+{"key": "e81bda4554bbeed6", "qid": "QCL-066", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Pro-rata correct; KPI 50% rule misapplied (applies to resigning staff)."}
+{"key": "9f843a55e0b3a4c5", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: until March, no payment; resignation exception."}
+{"key": "9ac0994310be1ac3", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, QCL and NQLD."}
+{"key": "80517d3259cc84e5", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "9bbf8f18132f6c25", "qid": "QCL-067", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1abeabc3360d9f48", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: ngày 28 tháng trước."}
+{"key": "10ecf0d620f1c371", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "1d80b4e3d63dd46d", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "f35a25610f30b87d", "qid": "QCL-068", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "99b087ab8501de54", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Ban TGĐ approval and leave registration correct."}
+{"key": "b44b12b9e664cb86", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct, both documents."}
+{"key": "365bd0744cd83839", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; day-28 list is unit head's duty, minor."}
+{"key": "7e10a2777fb28668", "qid": "QCL-069", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: Ban TGĐ/TGĐ approval, registration."}

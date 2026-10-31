@@ -1,0 +1,40 @@
+{"key": "586b7161785a15a7", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says 'không giống'; omits that TULD shares 48h basis and holiday rule; QCL detail correct."}
+{"key": "085a57984158774b", "qid": "MULTI-001", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Says same; misses difference that TULD only defers to law, no formula."}
+{"key": "acfa474e42ded926", "qid": "MULTI-001", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Shared points and QCL vs TULD detail difference correct; NQLD citation minor slip."}
+{"key": "dddc7fbcce1a9bfc", "qid": "MULTI-001", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Says same, misses difference; wrong '26 công/ngày' and '30%' instead of 300%."}
+{"key": "33c3b2a9036a0073", "qid": "MULTI-002", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both pay dates correct and compared."}
+{"key": "9d044559de29a439", "qid": "MULTI-002", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Only TULD dates; wrongly says QCL pay day not available (QCL ngày 15)."}
+{"key": "6179c8ae8e196ebe", "qid": "MULTI-002", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD dates correct; claims QCL lacks pay day, cannot compare."}
+{"key": "621e962153b0e2fd", "qid": "MULTI-002", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD dates correct; claims QCL lacks pay day, cannot compare."}
+{"key": "c211baa35c875b04", "qid": "MULTI-003", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Both sides correct but invents wording difference 'thắc mắc' vs 'tranh chấp'."}
+{"key": "76ecc40f075dfe92", "qid": "MULTI-003", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Complaint process correct; merges ATM/bank account without noting the differing wording."}
+{"key": "202ff321652c4283", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM (TULD) vs bank account (QCL), portal, complaint process all correct."}
+{"key": "20063e13032fa3dc", "qid": "MULTI-003", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "ATM (TULD) vs bank account (QCL), portal, complaint process all correct."}
+{"key": "56c77446533d67c1", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% in both; QCL tờ trình and actual days noted."}
+{"key": "6a63421fcfdb9a09", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% in both with QCL specifics."}
+{"key": "0ca668076164bcdb", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% in both with QCL specifics."}
+{"key": "31515f179762dacb", "qid": "MULTI-005", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "100% in both with QCL specifics."}
+{"key": "30af455379135dde", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both deduction lists complete and correct."}
+{"key": "aef1c7a4c7230442", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both deduction lists complete; differences explained."}
+{"key": "79a321c5353a0353", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both deduction lists complete; differences explained."}
+{"key": "e14cd3656d1a5c65", "qid": "MULTI-007", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both deduction lists complete and correct."}
+{"key": "47217545a3261abe", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Same 14-day rule correct; omits TULD annual-leave rule and QCL fault distinctions."}
+{"key": "f93466f781edb3a1", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Same 14-day rule correct; omits differences (annual leave first, fault cases)."}
+{"key": "cf8ee9fbcc3bbff1", "qid": "MULTI-008", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Omits differences; wrongly claims both cover thiên tai, dịch bệnh, di dời."}
+{"key": "767bbdbd6a0df003", "qid": "MULTI-008", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Same 14-day rule correct; omits TULD leave-first rule and QCL fault cases."}
+{"key": "52ee086213141295", "qid": "MULTI-010", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL and NQLD correct; TULD leave-notification rule missed."}
+{"key": "b56352ba9d84acc9", "qid": "MULTI-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "QCL, NQLD correct; TULD leave during order shortage mentioned."}
+{"key": "1f4dc2921477c5b6", "qid": "MULTI-010", "correctness": 0.5, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Attributes QCL March carryover rule to TULD Điều 5; TULD rule missing."}
+{"key": "eb1f94c80f4366d6", "qid": "MULTI-010", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "All three documents correctly summarised."}
+{"key": "b7e602f6ff866138", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to NQLD; 8:00-16:30 correct."}
+{"key": "98ab8ca7e963217c", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to NQLD; 8:00-16:30 correct."}
+{"key": "c95db08986c6a43b", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to NQLD; 8:00-16:30 correct."}
+{"key": "bc7281f38cc77849", "qid": "MULTI-011", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "TULD defers to NQLD; 8:00-16:30 correct."}
+{"key": "f295ee987234beb5", "qid": "MULTI-013", "correctness": 0.5, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Correct 'no' but attributes QCL Điều 9 exclusion to TULD Điều 9."}
+{"key": "87653fbe58dbe0af", "qid": "MULTI-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; adds unsupported 'đang làm việc tại thời điểm phát thưởng' to TULD 17."}
+{"key": "d9ceb3cd27ba63f3", "qid": "MULTI-013", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct with TULD 17 and QCL 9."}
+{"key": "89bd6b5c639961a9", "qid": "MULTI-013", "correctness": 1, "faithful": false, "citation_ok": true, "refusal_ok": null, "note": "Correct; adds unsupported 'đang làm việc tại thời điểm phát thưởng' to TULD 17."}
+{"key": "de611fb7ef59044c", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both provisions correctly stated."}
+{"key": "0a7b6b561bdde1c7", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both provisions correctly stated."}
+{"key": "8f6c451d8a41f7f6", "qid": "MULTI-014", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Both provisions correctly stated with extra detail."}
+{"key": "18a04fdb953df0cb", "qid": "MULTI-014", "correctness": 0.5, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Merges both; omits TULD 'ít nhất một lần' and NQLD specifics."}

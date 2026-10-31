@@ -1,0 +1,295 @@
+[
+ {
+  "qid": "NQLD-010",
+  "question": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động được hưởng chế độ ốm đau theo quy định của BHXH (NQLD Điều 8).",
+  "key_facts": [
+   "ốm đau"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 8": "Điều 8. Nghỉ bệnh\n- Nếu người lao động bị bệnh thì người lao động hoặc người thân của người lao động phải thông báo cho Công ty biết trong thời gian sớm nhất.\n- Trường hợp nghỉ bệnh thì sau khi nghỉ bệnh người lao động phải nộp giấy xác nhận của cơ sở khám, chữa bệnh, nếu không sẽ bị xem là nghỉ việc không có lý do chính đáng.\n- Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của BHXH."
+  },
+  "answers": [
+   {
+    "key": "732769bd4b2a85e0",
+    "answer": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của Bảo hiểm xã hội. [NQLD Điều 8]\n\nNgoài ra, đối với các trường hợp nghỉ thai sản, ốm đau, tai nạn lao động nghỉ từ 14 ngày trở lên không tham gia bảo hiểm thất nghiệp, Công ty chi trả một khoản tiền tương đương 1% lương đóng bảo hiểm thất nghiệp trong thời gian không tham gia bảo hiểm xã hội theo quy định. [QCL Điều 13]"
+   },
+   {
+    "key": "44c94ffb287db929",
+    "answer": "Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của BHXH [NQLD Điều 8]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-011",
+  "question": "Những trường hợp nào người lao động được nghỉ việc riêng mà vẫn hưởng đủ lương?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy quy định người lao động có quyền nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động; Nội quy không liệt kê cụ thể các trường hợp (NQLD Điều 10).",
+  "key_facts": [
+   "Bộ luật lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 10": "Điều 10. Nghỉ việc riêng có lương\nNgười lao động có quyền nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "44bbee258dd0dfcf",
+    "answer": "Người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp sau:\n1. Các trường hợp theo quy định của Bộ luật Lao động (Điều 10 NQLD).\n2. Các trường hợp được nghỉ việc riêng không hưởng lương theo thỏa thuận với người sử dụng lao động (Điều 11 NQLD).\n3. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n4. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n5. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n6. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n7. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n8. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n9. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n10. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n11. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11 NQLD).\n12. Các trường hợp được nghỉ việc riêng không hưởng lương theo quy định của Luật BHXH và Bộ luật Lao động (Điều 11"
+   },
+   {
+    "key": "81754a95353b8710",
+    "answer": "Người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động [NQLD Điều 10]."
+   },
+   {
+    "key": "af42832383395c48",
+    "answer": "Người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động. [NQLD Điều 10]\n\nTài liệu nội bộ không liệt kê cụ thể các sự việc nào thuộc \"quy định của Bộ luật lao động\" mà chỉ nêu nguyên tắc chung này. [NQLD Điều 10]"
+   },
+   {
+    "key": "484ccd81ccfe5ba4",
+    "answer": "Người lao động được nghỉ việc riêng và hưởng đủ lương trong các trường hợp theo quy định của Bộ luật lao động [NQLD Điều 10]. Tài liệu nội bộ không liệt kê cụ thể các trường hợp này mà chỉ nêu nguyên tắc chung. Thông tin chi tiết về các trường hợp nghỉ việc riêng có lương cần tham khảo Bộ luật lao động."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-012",
+  "question": "Người lao động có được nghỉ không hưởng lương không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Có. Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ Luật lao động (NQLD Điều 11).",
+  "key_facts": [
+   "thỏa thuận"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 11": "Điều 11. Nghỉ việc riêng không hưởng lương:\nNgười lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ Luật lao động."
+  },
+  "answers": [
+   {
+    "key": "8be0d823ebc91b51",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ luật Lao động. [NQLD Điều 11]"
+   },
+   {
+    "key": "22c16dd8cb97b097",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ luật lao động [NQLD Điều 11]."
+   },
+   {
+    "key": "3d300785729cb8bd",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ luật lao động [NQLD Điều 11]. Tài liệu không ghi nhận quyền nghỉ không hưởng lương trong các trường hợp khác như nghỉ việc riêng có lương, nghỉ ngày lễ, nghỉ phép năm hay nghỉ bệnh [NQLD Điều 10, 6, 7, 8]."
+   },
+   {
+    "key": "c626645d5539b3fb",
+    "answer": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương, ngoại trừ các trường hợp theo quy định của Luật BHXH và Bộ luật lao động [NQLD Điều 11]. Tài liệu không ghi nhận quyền nghỉ không hưởng lương trong các trường hợp nghỉ việc riêng có lương, nghỉ ngày lễ, nghỉ phép năm hay nghỉ bệnh [NQLD Điều 10, 6, 7, 8]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-013",
+  "question": "Tiền lương làm thêm giờ, làm việc vào ngày nghỉ, ngày lễ có hưởng lương được tính theo quy định nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương được thực hiện theo quy định của Bộ Luật Lao động; Nội quy không quy định mức cụ thể (NQLD Điều 12).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 12": "Điều 12. Làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương\n1. Làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được quy định tại Điều 5 của Nội quy này.\n2. Trong quá trình hoạt động sản xuất kinh doanh, nếu cần người lao động làm thêm giờ, Công ty sẽ thông báo và thỏa thuận với người lao động về việc làm thêm giờ, làm thêm vào ngày nghỉ, ngày lễ tết. Đảm bảo:\n+ Được sự đồng ý của người lao động;\n+ Số giờ làm thêm theo quy định của Luật Lao động.\n3. Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương: Theo qui định của Bộ Luật Lao động.\n4. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào và người lao động không được từ chối trong các trường hợp sau đây:\n- Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp về quốc phòng, an ninh theo quy định của pháp luật;\n- Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa."
+  },
+  "answers": [
+   {
+    "key": "d44600673a894d06",
+    "answer": "Tiền lương làm thêm giờ và làm việc vào ngày nghỉ, ngày lễ được tính theo quy định của Bộ luật Lao động, cụ thể:\n\n*   **Làm thêm giờ:** Tính trên cơ sở lương giờ thực trả hoặc đơn giá sản phẩm bình thường nhân với mức ít nhất 150%, 200% hoặc 30% (theo quy định của Bộ luật Lao động) và số giờ/sản phẩm làm thêm.\n*   **Làm việc vào ban đêm:** Tính bằng lương giờ thực trả bình thường cộng thêm ít nhất 30% lương giờ thực trả bình thường, nhân với số giờ làm việc vào ban đêm.\n*   **Làm thêm giờ vào ban đêm:** Tính bằng (Lương giờ thực trả bình thường nhân mức 150%, 200% hoặc 300% cộng thêm ít nhất 30% lương giờ thực trả bình thường) nhân với số giờ làm thêm vào ban đêm.\n*   **Làm việc vào ngày nghỉ, ngày lễ:** Được trả lương làm thêm giờ theo ngày nghỉ hằng tuần nếu ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần.\n\n[NQLD Điều 12], [QCL Điều 12]"
+   },
+   {
+    "key": "569e91ae150e7113",
+    "answer": "Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương được tính theo quy định của Bộ luật Lao động [NQLD Điều 12]. Đối với trường hợp làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần, người lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12], [TULD Điều 10]. Việc làm thêm giờ phải được thông báo, thỏa thuận và có sự đồng ý của người lao động, đảm bảo số giờ theo quy định của Luật Lao động [NQLD Điều 12]."
+   },
+   {
+    "key": "805e518ffce7f72d",
+    "answer": "Tiền lương làm thêm giờ, làm việc vào ngày nghỉ, ngày lễ có hưởng lương được tính như sau:\n\n1.  **Cơ sở tính toán**: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) [QCL Điều 12].\n2.  **Mức lương làm thêm giờ**:\n    *   Làm thêm giờ bình thường: Tiền lương giờ thực trả hoặc đơn giá sản phẩm bình thường x Mức ít nhất 150%, 200% hoặc 300% x Số giờ/sản phẩm làm thêm [QCL Điều 12].\n    *   Làm thêm giờ vào ban đêm: Tiền lương giờ thực trả hoặc đơn giá sản phẩm bình thường x Mức ít nhất 150%, 200% hoặc 300% + 30% tiền lương giờ bình thường + 20% tiền lương giờ ngày nghỉ/lễ tết x Số giờ/sản phẩm làm thêm ban đêm [QCL Điều 12].\n3.  **Quy định chung**: Các mức % cụ thể (150%, 200%, 300%) và các trường hợp bắt buộc làm thêm giờ tuân theo quy định của Bộ luật Lao động [NQLD Điều 12], [QCL Điều 12], [TULD Điều 10].\n4.  **Ngày nghỉ bù trùng Lễ/Tết**: Nếu ngày nghỉ bù trùng vào ngày Lễ, Tết theo quy định Bộ luật Lao động, người lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12], [TULD Điều 10]."
+   },
+   {
+    "key": "79508183f89d2776",
+    "answer": "Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương được tính theo quy định của Bộ luật Lao động [NQLD Điều 12]. Đối với trường hợp cụ thể là làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần, người lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12], [TULD Điều 10]. Việc làm thêm giờ phải được thông báo, thỏa thuận và có sự đồng ý của người lao động, đảm bảo số giờ theo quy định của Luật Lao động [NQLD Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-014",
+  "question": "Muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc thì người lao động cần được ai chấp thuận?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước (NQLD Điều 14).",
+  "key_facts": [
+   "Tổng Giám đốc",
+   "quản lý trực tiếp"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 14": "Điều 14. Đi trễ, về sớm và ra ngoài vì mục đích cá nhân\na. Trong trường hợp đến trễ hoặc vắng mặt không báo trước vì bị bệnh hoặc bất cứ lý do nào khác, người lao động phải thông báo ngay cho người quản lý qua điện thoại và thông báo lý do đến trễ hoặc vắng mặt.\nb. Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước nếu muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc.\nc. Trong trường hợp khẩn cấp, nếu người lao động không tự mình thông báo hoặc thông báo trước thì người lao động phải thông báo cho người quản lý trực tiếp hoặc Giám đốc qua điện thoại hoặc những hình thức trao đổi khác càng sớm càng tốt.\nd. Nếu vắng mặt mà không thông báo hoặc không được chấp thuận trước theo quy định tại Điều này sẽ được xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật theo quy định."
+  },
+  "answers": [
+   {
+    "key": "2fae68a41a1ab42e",
+    "answer": "Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước nếu muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc. [NQLD Điều 14]"
+   },
+   {
+    "key": "d99a41dee75caa56",
+    "answer": "Người lao động phải được Tổng Giám đốc hoặc người quản lý trực tiếp chấp thuận trước nếu muốn về sớm hoặc ra ngoài vì mục đích cá nhân trong giờ làm việc [NQLD Điều 14]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-015",
+  "question": "Nội quy yêu cầu thái độ giao tiếp của người lao động đối với đồng nghiệp, khách hàng và cấp trên như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải thực hiện giao tiếp văn minh lịch sự với đồng nghiệp và các đối tác, khách hàng của công ty, và không được có thái độ khiếm nhã đối với khách hàng, cấp trên (NQLD Điều 15).",
+  "key_facts": [
+   "văn minh",
+   "lịch sự",
+   "khiếm nhã"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 15": "Điều 15. Tác phong, thái độ làm việc nơi công sở\na. Tất cả mọi người phải có phong thái trang nhã và trang phục thích hợp với môi trường làm việc văn phòng.\nb. Người lao động phải có thái độ tích cực, có tinh thần trách nhiệm trong công việc.\nc. Thực hiện giao tiếp văn minh lịch sự với đồng nghiệp và các đối tác, khách hàng của công ty.\nd. Không được có thái độ khiếm nhã đối với khách hàng, cấp trên."
+  },
+  "answers": [
+   {
+    "key": "5b6ba341b718bb7c",
+    "answer": "Theo Điều 15 khoản c và d của Nội quy lao động, người lao động phải giao tiếp văn minh lịch sự với đồng nghiệp và đối tác, khách hàng; đồng thời không được có thái độ khiếm nhã đối với khách hàng, cấp trên. [NQLD Điều 15]"
+   },
+   {
+    "key": "e86883ac041359a1",
+    "answer": "Người lao động phải có thái độ tích cực, tinh thần trách nhiệm và giao tiếp văn minh lịch sự với đồng nghiệp, đối tác và khách hàng. Tuyệt đối không được có thái độ khiếm nhã đối với khách hàng hoặc cấp trên. [NQLD Điều 15]"
+   },
+   {
+    "key": "d12b6284ad5233e5",
+    "answer": "Người lao động phải có thái độ tích cực, tinh thần trách nhiệm và giao tiếp văn minh lịch sự với đồng nghiệp, đối tác, khách hàng và cấp trên. Tuyệt đối không được có thái độ khiếm nhã đối với khách hàng hoặc cấp trên. [NQLD Điều 15]"
+   },
+   {
+    "key": "50565606899023c7",
+    "answer": "Người lao động phải có thái độ tích cực, tinh thần trách nhiệm và giao tiếp văn minh lịch sự với đồng nghiệp, đối tác, khách hàng và cấp trên. Tuyệt đối không được có thái độ khiếm nhã đối với khách hàng hoặc cấp trên.\n\n[NQLD Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-016",
+  "question": "Quy định về trang phục nơi công sở gồm những yêu cầu gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải mặc trang phục theo quy định của công ty và luôn đảm bảo sạch sẽ, gọn gàng, lịch sự (NQLD Điều 16).",
+  "key_facts": [
+   "sạch sẽ",
+   "gọn gàng",
+   "lịch sự"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 16": "Điều 16. Trang phục nơi công sở\na. Mặc trang phục theo qui định của công ty.\nb. Luôn đảm bảo sạch sẽ, gọn gàng, lịch sự."
+  },
+  "answers": [
+   {
+    "key": "ba2b47c7eba81929",
+    "answer": "Theo quy định tại Điều 16 của Nội quy lao động 2024, yêu cầu về trang phục nơi công sở bao gồm:\n1. Mặc trang phục theo quy định của công ty.\n2. Luôn đảm bảo sạch sẽ, gọn gàng, lịch sự.\n\nĐối với môi trường văn phòng, nhân viên còn phải có phong thái trang nhã và trang phục thích hợp (Điều 15, NQLD).\n\n[NQLD Điều 16]"
+   },
+   {
+    "key": "3cefca3a6cc1a7ab",
+    "answer": "Quy định về trang phục nơi công sở bao gồm:\n- Mặc trang phục theo quy định của công ty, luôn đảm bảo sạch sẽ, gọn gàng, lịch sự [NQLD Điều 16].\n- Có phong thái trang nhã và trang phục thích hợp với môi trường làm việc văn phòng [NQLD Điều 15]."
+   },
+   {
+    "key": "b79c31bb4112ca36",
+    "answer": "Theo Nội quy lao động 2024, quy định về trang phục nơi công sở bao gồm:\n1. Nhân viên phải mặc trang phục theo quy định của công ty.\n2. Trang phục luôn đảm bảo sạch sẽ, gọn gàng, lịch sự.\n3. Phong thái phải trang nhã và trang phục thích hợp với môi trường làm việc văn phòng.\n\n[Từ trích đoạn 1 và 2, nguồn: NQLD/Điều 16 và NQLD/Điều 15]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-018",
+  "question": "Trước khi rời khỏi vị trí làm việc, người lao động phải làm những việc gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người lao động phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ, bảo đảm các thiết bị đã được tắt, khóa cẩn thận; nếu để sai sót phải chịu hoàn toàn trách nhiệm trước Công ty (NQLD Điều 19).",
+  "key_facts": [
+   "vệ sinh nơi làm việc",
+   "thiết bị điện"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 19": "Điều 19. Trách nhiệm của người lao động\na. Chấp hành các quy định, quy trình, nội quy về an toàn lao động, vệ sinh lao động có liên quan đến công việc, nhiệm vụ được giao:\n+ Trước khi rời khỏi vị trí làm việc, phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận nếu để sai sót phải chịu hoàn toàn trách nhiệm trước Công ty.\n+ Chịu trách nhiệm bảo dưỡng, vệ sinh các thiết bị tại vị trí làm việc luôn sạch sẽ;\nb. Sử dụng và bảo quản các phương tiện bảo vệ cá nhân đã được trang cấp; các thiết bị an toàn lao động, vệ sinh lao động nơi làm việc;\nc. Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, gây độc hại hoặc sự cố nguy hiểm;\nd. Tham gia cấp cứu và khắc phục hậu quả tai nạn lao động khi có lệnh của người sử dụng lao động;\ne. Có quyền từ chối hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe của bản thân hoặc cho những người khác cho đến khi sự cố được khắc phục;\nf. Triệt để chấp hành các quy định, quy chế về phòng cháy chữa cháy."
+  },
+  "answers": [
+   {
+    "key": "39c3428f80ff5fdf",
+    "answer": "Người lao động phải vệ sinh nơi làm việc, kiểm tra thiết bị điện, nước tại chỗ và bảo đảm các thiết bị đã được tắt, khóa cẩn thận. Nếu để sai sót, người lao động phải chịu hoàn toàn trách nhiệm trước Công ty. [NQLD Điều 19.a]"
+   },
+   {
+    "key": "5f83d9792f1f09f7",
+    "answer": "Trước khi rời khỏi vị trí làm việc, người lao động phải:\n1. Vệ sinh nơi làm việc.\n2. Kiểm tra thiết bị điện, nước tại chỗ.\n3. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận.\n4. Thông báo cho cấp trên biết mỗi khi rời vị trí làm việc hoặc ra ngoài công tác.\n[NQLD Điều 19a], [NQLD Điều 13c]"
+   },
+   {
+    "key": "1903d4afe3aba2e4",
+    "answer": "Trước khi rời khỏi vị trí làm việc, người lao động phải:\n1. Vệ sinh nơi làm việc và kiểm tra thiết bị điện, nước tại chỗ.\n2. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận.\n3. Thông báo cho cấp trên biết mỗi khi rời vị trí làm việc hoặc ra ngoài công tác.\n4. Nếu đến trễ hoặc vắng mặt không báo trước, phải thông báo ngay cho người quản lý qua điện thoại và nêu lý do.\n\n[NQLD Điều 19], [NQLD Điều 13], [NQLD Điều 14]"
+   },
+   {
+    "key": "de8829530241a87b",
+    "answer": "Trước khi rời khỏi vị trí làm việc, người lao động phải:\n1. Vệ sinh nơi làm việc và kiểm tra thiết bị điện, nước tại chỗ.\n2. Bảo đảm các thiết bị đã được tắt, khóa cẩn thận.\n3. Thông báo cho cấp trên biết mỗi khi rời vị trí làm việc hoặc ra ngoài công tác.\n4. Có quyền từ chối hoặc rời bỏ nơi làm việc nếu thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa tính mạng hoặc sức khỏe.\n\n[NQLD/Điều 19], [NQLD/Điều 13], [NQLD/Điều 19]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-020",
+  "question": "Người lao động có được mang dụng cụ, máy móc, văn bản của Công ty ra khỏi trụ sở không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Không được, nếu không có sự đồng ý của người quản lý hoặc Giám đốc (NQLD Điều 22).",
+  "key_facts": [
+   "quản lý",
+   "Giám đốc"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 22": "Điều 22. Sử dụng và bảo vệ tài sản\n1. Sử dụng\n- Người lao động chỉ được phép sử dụng các tài sản đã được công ty bàn giao hoặc trang bị để thực hiện công việc của mình. Không được sử dụng các tài sản khác không liên quan đến công việc của mình khi chưa được sự cho phép của người quản lý hoặc giám đốc.\n- Người lao động không được sử dụng tài sản của Công ty cho bất cứ lợi ích cá nhân nào.\n2. Bảo vệ tài sản\n- Người lao động trong Công ty phải có trách nhiệm bảo vệ tài sản Công ty; nếu làm thất thoát, hư hỏng thì phải bồi thường.\n- Người lao động không được phép mang các dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở của công ty mà không có sự đồng ý của người quản lý hoặc Giám đốc.\n- Nghiêm cấm người lao động chiếm đoạt bất cứ tài sản nào của công ty vì mục đích sử dụng cá nhân hoặc bán lại."
+  },
+  "answers": [
+   {
+    "key": "e3e1244c382a1ca8",
+    "answer": "Người lao động không được phép mang các dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc. [NQLD Điều 22.2]"
+   },
+   {
+    "key": "f72b744bee18e35c",
+    "answer": "Người lao động không được phép mang các dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc. [NQLD Điều 22]"
+   },
+   {
+    "key": "84f73e074c31f239",
+    "answer": "Người lao động không được phép mang dụng cụ, máy móc, văn bản và bất kỳ tài sản nào của Công ty ra khỏi trụ sở mà không có sự đồng ý của người quản lý hoặc Giám đốc. [NQLD Điều 22]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-021",
+  "question": "Các trường hợp Công ty được chuyển người lao động làm công việc khác so với hợp đồng lao động được quy định ra sao?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy không liệt kê cụ thể mà quy định trường hợp được chuyển người lao động làm việc khác thực hiện theo quy định của Bộ Luật Lao động (NQLD Điều 24).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 24": "Điều 24. Trường hợp được chuyển người lao động làm việc khác: Theo quy định của Bộ Luật Lao động.\nĐiều 24. Trường hợp được chuyển người lao động làm việc khác: Theo quy định của Bộ Luật Lao động."
+  },
+  "answers": [
+   {
+    "key": "6adca93b947c44ba",
+    "answer": "Công ty được chuyển người lao động làm công việc khác trong các trường hợp sau:\n1. Người lao động được đào tạo hoặc tự đào tạo có trình độ phù hợp với vị trí mới, hoặc qua thi tuyển nội bộ đạt yêu cầu, hoặc do Công ty đề bạt.\n2. Công ty gặp khó khăn đột xuất (thiên tai, hỏa hoạn, dịch bệnh, sự cố điện nước, nhu cầu sản xuất) và tạm thời chuyển người lao động làm công việc khác so với hợp đồng lao động.\n3. Người lao động được chuyển làm việc khác theo quy định của Bộ luật Lao động.\n4. Người lao động chưa có kinh nghiệm ở vị trí cần làm, Công ty ký hợp đồng đào tạo/tập nghề (thời gian không quá 3 tháng).\n\nNguồn: [QCL Điều 7], [NQLD Điều 24], [NQLD Điều 25], [TULD Điều 6]."
+   },
+   {
+    "key": "7bc4e48cc84f26fe",
+    "answer": "Công ty được chuyển người lao động làm việc khác so với hợp đồng trong các trường hợp sau:\n1. Công nhân viên được đào tạo, qua thi tuyển nội bộ đạt yêu cầu hoặc do Công ty đề bạt, khi có trình độ phù hợp với vị trí mới.\n2. Khi Công ty gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, sự cố điện nước, tai nạn lao động, bệnh nghề nghiệp hoặc nhu cầu sản xuất, kinh doanh. Trong trường hợp này, người lao động được trả lương theo công việc mới phù hợp quy định pháp luật.\nThông tin này quy định tại [QCL Điều 7]. Thời hạn điều chuyển thực hiện theo quy định của Bộ Luật Lao động [NQLD Điều 25]."
+   },
+   {
+    "key": "3a20a726cb1f43d5",
+    "answer": "Công ty được chuyển người lao động làm việc khác trong các trường hợp sau:\n1. Công nhân viên được đào tạo, tự đào tạo có trình độ phù hợp, qua thi tuyển nội bộ đạt yêu cầu hoặc do Công ty đề bạt.\n2. Công ty gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, áp dụng biện pháp ngăn ngừa tai nạn lao động, sự cố điện nước hoặc do nhu cầu sản xuất, kinh doanh.\nTrong trường hợp này, Công ty có thể tạm thời chuyển công nhân viên làm công việc khác và trả lương theo công việc mới, phù hợp quy định pháp luật.\n[NQLD Điều 24], [QCL Điều 7]"
+   },
+   {
+    "key": "4afbf7a5a8a29a7b",
+    "answer": "Công ty được chuyển người lao động làm việc khác so với hợp đồng trong hai trường hợp:\n1. Khi Công ty gặp khó khăn đột xuất (thiên tai, hỏa hoạn, dịch bệnh, sự cố điện nước, nhu cầu sản xuất) hoặc do đề bạt, đào tạo, thi tuyển nội bộ đạt yêu cầu. Trong trường hợp này, người lao động được xem xét chuyển đổi lương phù hợp với vị trí mới [QCL Điều 7].\n2. Việc chuyển đổi tuân theo quy định của Bộ Luật Lao động về thời hạn và điều kiện chuyển người lao động làm việc khác [NQLD Điều 24, Điều 25].\nViệc xác định lại hệ số lương do điều chuyển vị trí được gọi là \"chuyển đổi hệ số lương\" [QCL Điều 2]."
+   }
+  ]
+ }
+]

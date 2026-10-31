@@ -85,6 +85,12 @@ def main(split="test"):
     verdicts = load_verdicts()
     rows = [s for d in sorted(RUNS.iterdir()) if d.is_dir() and (d / "_meta.json").exists()
             for s in [summarize(d, verdicts, ids)] if s]
+    # results/runs/ is not tracked: keep leaderboard rows of runs whose answers are not on this machine
+    # (e.g. the Qwen3.5-4B Stage-B runs when only the 9B Stage-C runs were copied here).
+    old = OUT / "leaderboard.json"
+    if old.exists():
+        have = {r["run"] for r in rows}
+        rows += [r for r in json.loads(old.read_text(encoding="utf-8")) if r["run"] not in have]
     rows.sort(key=lambda r: (-(r["pass"] or 0), -(r["correctness"] or 0), r["latency_p50_s"] or 1e9))
     for i, r in enumerate(rows, 1):
         r["rank"] = i

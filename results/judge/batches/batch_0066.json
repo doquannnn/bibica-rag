@@ -1,0 +1,316 @@
+[
+ {
+  "qid": "NQLD-097",
+  "question": "Thế nào được coi là 'thường xuyên' không hoàn thành công việc theo hợp đồng lao động?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Là trường hợp nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ dẫn đến từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục không hoàn thành công việc theo hợp đồng lao động; tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được Công ty ban hành hợp pháp. Hành vi này bị xử lý kéo dài thời hạn nâng lương (NQLD Điều 28).",
+  "key_facts": [
+   "03 lần",
+   "03 tháng liên tục",
+   "03 kỳ đánh giá"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận)."
+  },
+  "answers": [
+   {
+    "key": "515ec99beb0b8645",
+    "answer": "Theo Điều 28 khoản 2 mục v của Nội quy lao động 2024, hành vi \"thường xuyên\" không hoàn thành công việc được xác định là:\n\n- Từ 03 lần trở lên trong một tháng; hoặc\n- Từ 03 tháng liên tục; hoặc\n- Từ 03 kỳ đánh giá liên tục.\n\nCác tiêu chí đánh giá mức độ hoàn thành công việc cụ thể được nêu trong Quy chế tiền lương, tiền thưởng Bibica năm 2024. [NQLD Điều 28 khoản 2 mục v]"
+   },
+   {
+    "key": "024df5d88567bf69",
+    "answer": "Theo Nội quy lao động 2024, hành vi \"thường xuyên\" không hoàn thành công việc được định nghĩa là: nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ dẫn đến thường xuyên không hoàn thành công việc theo hợp đồng lao động, cụ thể là từ 03 lần trở lên trong một tháng, hoặc 03 tháng liên tục, hoặc 03 kỳ đánh giá liên tục. Các tiêu chí đánh giá mức độ hoàn thành công việc được quy định trong quy chế do Công ty ban hành hợp pháp. [NQLD Điều 28]"
+   },
+   {
+    "key": "936d60725a8e27c8",
+    "answer": "Theo Nội quy lao động 2024, hành vi \"thường xuyên\" không hoàn thành công việc được xác định là: không hoàn thành công việc theo hợp đồng lao động từ 03 lần trở lên trong một tháng, hoặc 03 tháng liên tục, hoặc 03 kỳ đánh giá liên tục. Các tiêu chí đánh giá mức độ hoàn thành công việc được nêu trong quy chế hợp pháp do Công ty ban hành. [NQLD Điều 28.2.v]"
+   },
+   {
+    "key": "94d29848fb4d8042",
+    "answer": "Theo Nội quy lao động 2024, hành vi \"thường xuyên\" không hoàn thành công việc được định nghĩa là:\n- Từ 03 lần trở lên trong một tháng; hoặc\n- Từ 03 tháng liên tục; hoặc\n- Từ 03 kỳ đánh giá liên tục không hoàn thành công việc theo hợp đồng lao động.\nCác tiêu chí đánh giá mức độ hoàn thành công việc cụ thể được nêu trong quy chế do Công ty ban hành hợp pháp. [NQLD Điều 28]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-098",
+  "question": "Quấy rối tình dục bằng lời nói và quấy rối tình dục phi lời nói được hiểu như thế nào?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử. Các hành vi này bị xử lý kéo dài thời hạn nâng lương (NQLD Điều 28).",
+  "key_facts": [
+   "qua điện thoại",
+   "ngôn ngữ cơ thể"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận)."
+  },
+  "answers": [
+   {
+    "key": "5408fb8fe4bfbafb",
+    "answer": "Theo Điều 20 và Điều 21 của Nội quy lao động 2024:\n\n1. **Quấy rối tình dục bằng lời nói** bao gồm:\n   - Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục.\n   - Lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục.\n\n2. **Quấy rối tình dục phi lời nói** bao gồm:\n   - Cử chỉ có tính chất tình dục.\n   - Ngôn ngữ cơ thể.\n   - Trưng bày, miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\n\nCác hành vi này bị nghiêm cấm tại nơi làm việc và có thể dẫn đến xử lý kỷ luật lao động. [NQLD Điều 20], [NQLD Điều 21]"
+   },
+   {
+    "key": "06de7c7424f03a29",
+    "answer": "Quấy rối tình dục bằng lời nói bao gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục. Quấy rối tình dục phi lời nói bao gồm ngôn ngữ cơ thể, trưng bày hoặc miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử. [NQLD Điều 28]"
+   },
+   {
+    "key": "f88028395bbc7e6a",
+    "answer": "Theo Nội quy lao động 2024, quấy rối tình dục được hiểu như sau:\n\n1.  **Quấy rối tình dục bằng lời nói**: Bao gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục.\n2.  **Quấy rối tình dục phi lời nói**: Gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\n\nCác hành vi này được liệt kê cụ thể tại Điều 20 và Điều 28 của Nội quy lao động 2024 [NQLD Điều 20], [NQLD Điều 28]."
+   },
+   {
+    "key": "24bfde595e6f67f3",
+    "answer": "Quấy rối tình dục bằng lời nói là hành vi sử dụng ngôn ngữ trực tiếp, qua điện thoại hoặc phương tiện điện tử có nội dung tình dục hoặc ngụ ý tình dục. Quấy rối tình dục phi lời nói là hành vi sử dụng ngôn ngữ cơ thể hoặc trưng bày, miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử. Các hành vi này được quy định cụ thể tại Điều 20 và Điều 28 của Nội quy lao động 2024 [NQLD Điều 20], [NQLD Điều 28]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-099",
+  "question": "Quấy rối tình dục mang tính thể chất là gì và bị xử lý kỷ luật ở mức nào?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; người lao động vi phạm hành vi này bị xử lý kỷ luật sa thải (NQLD Điều 28).",
+  "key_facts": [
+   "tác động vào cơ thể",
+   "sa thải"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận)."
+  },
+  "answers": [
+   {
+    "key": "cb7b917685a87866",
+    "answer": "Quấy rối tình dục mang tính thể chất là hành vi có hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục.\n\nHành vi này bị xử lý kỷ luật bằng hình thức **Sa thải** nếu thuộc một trong các trường hợp sau:\n- Vi phạm quy định về quấy rối tình dục mang tính thể chất nêu trên.\n- Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm.\n\nNguồn: [NQLD Điều 28.4a, NQLD Điều 28.4b]"
+   },
+   {
+    "key": "4b154d72c97c6ff4",
+    "answer": "Quấy rối tình dục mang tính thể chất là hành động, cử chỉ, tiếp xúc hoặc tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục [NQLD Điều 28]. Hành vi này bị xử lý kỷ luật bằng hình thức sa thải [NQLD Điều 28]."
+   },
+   {
+    "key": "81ff650dbb183637",
+    "answer": "Quấy rối tình dục mang tính thể chất là hành động, cử chỉ, tiếp xúc hoặc tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục [NQLD Điều 20]. Hành vi này bị xử lý kỷ luật bằng hình thức sa thải [NQLD Điều 28]."
+   },
+   {
+    "key": "85b91c9891f36143",
+    "answer": "Quấy rối tình dục mang tính thể chất là hành động, cử chỉ, tiếp xúc hoặc tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục. Hành vi này bị xử lý bằng hình thức sa thải nếu gây thiệt hại nghiêm trọng (từ 10 tháng lương tối thiểu vùng) hoặc đặc biệt nghiêm trọng (từ 30 tháng lương tối thiểu vùng) cho công ty, hoặc nếu người lao động tái phạm sau khi bị kỷ luật kéo dài thời hạn nâng lương hoặc cách chức. [NQLD Điều 28]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-100",
+  "question": "Dữ liệu cá nhân của người lao động mà nhân viên bị cấm mua bán, tiết lộ, chia sẻ trái pháp luật gồm những thông tin gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Dữ liệu cá nhân của người lao động gồm: họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp. Việc mua bán, tiết lộ, chia sẻ các dữ liệu này trái quy định của pháp luật là hành vi bị nghiêm cấm (NQLD Điều 17).",
+  "key_facts": [
+   "ngày tháng năm sinh",
+   "số điện thoại",
+   "giới tính",
+   "bằng cấp"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 17": "Điều 17. Các hành vi bị nghiêm cấm\nTrong suốt thời gian làm việc và trong phạm vi nơi làm việc, người lao động không được thực hiện các hành vi sau:\na) Hút thuốc trong khu vực quy định không được hút thuốc;\nb) Uống rượu bia trong giờ làm việc;\nc) Bàn tán, cáo buộc sai, cản trở sản xuất hoặc ngăn cản người lao động khác thực hiện công việc;\nd) Có hành vi trái đạo đức hoặc không đứng đắn tại nơi làm việc;\ne) Cố ý cưỡng ép, lăng nhục, đe doạ hoặc doạ dẫm người lao động khác;\nf) Lăng nhục, đe doạ hoặc doạ dẫm đối tác, khách hàng của công ty;\ng) Cố ý gây thương tích cho người lao động khác hoặc đối tác, khách hàng của công ty;\nh) Sử dụng ma túy và các chất kích thịch khác trong công ty;\ni) Tổ chức đánh bạc trong công ty;\nj) Tàng trữ vũ khí, chất nổ hoặc những vật dụng nguy hiểm hoặc bị cấm khác trong trụ sở công ty;\nk) Cố ý gây thiệt hoặc trộm cắp tài sản của công ty hoặc tài sản của người lao động khác;\nl) Quấy rối tình dục hoặc bất cứ hành vi quấy rối nào khác hoặc phân biệt đối xử đối với đồng nghiệp.\nz) Mua bán, tiết lộ, chia sẽ dữ liệu cá nhân của Người lao động (Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp) trái quý định của pháp luật."
+  },
+  "answers": [
+   {
+    "key": "70cd9fc1f631abdd",
+    "answer": "Dữ liệu cá nhân bị cấm mua bán, tiết lộ, chia sẻ trái pháp luật gồm: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp.\n\n[NQLD Điều 17 khoản z], [TULD Điều 18]"
+   },
+   {
+    "key": "c09312ded1f3d121",
+    "answer": "Dữ liệu cá nhân bị cấm mua bán, tiết lộ, chia sẻ trái pháp luật bao gồm: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp. [NQLD Điều 17] [TULD Điều 18]"
+   },
+   {
+    "key": "34b8e25fa633c2dd",
+    "answer": "Dữ liệu cá nhân bị cấm mua bán, tiết lộ, chia sẻ trái pháp luật bao gồm: Họ tên, ngày tháng năm sinh, giới tính, địa chỉ nơi cư trú, số điện thoại, địa chỉ thư điện tử, số thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc hộ chiếu, bằng cấp. [NQLD Điều 17 khoản z], [TULD Điều 18]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-001",
+  "question": "Quy chế tiền lương, tiền thưởng của Bibica được xây dựng dựa trên nguyên tắc trả lương như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quy định tiền lương và tiền thưởng được xây dựng trên nguyên tắc trả lương theo công việc; bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên; tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty (QCL Điều 1).",
+  "key_facts": [
+   "trả lương theo công việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 1": "Điều 1. Phạm vi áp dụng\n1. Quy định này được xây dựng, áp dụng trong quản lý lao động, trả lương, tính thưởng đối với công nhân viên tại Công ty cổ phần Bibica.\n2. Quy định tiền lương và tiền thưởng được xây dựng trên nguyên tắc trả lương theo công việc; bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên; tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty.\n3. Mọi vấn đề khác về chế độ chính sách theo Bộ luật Lao động đương nhiên có hiệu lực thi hành.\n4. Các đối tượng ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động không quá 36 tháng, tiền lương, tiền thưởng nếu có do Tổng Giám Đốc Công ty quyết định, phù hợp với các quy định của pháp luật hiện hành.\n5. Tổng Giám đốc Công ty cùng Ban Chấp Hành Công Đoàn phối hợp xây dựng quy định tiền lương, tiền thưởng và định kỳ xem xét thay đổi và điều chỉnh quy định cho phù hợp thực tiễn từng thời kỳ và quy định pháp luật."
+  },
+  "answers": [
+   {
+    "key": "b4d86df973ec7585",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica được xây dựng trên nguyên tắc trả lương theo công việc, bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên; tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty. [QCL Điều 1]"
+   },
+   {
+    "key": "30848959e4bd4d34",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica được xây dựng trên nguyên tắc trả lương theo công việc, bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên, đồng thời tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty [QCL Điều 1]."
+   },
+   {
+    "key": "181a7abdd3d3898e",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 được xây dựng trên nguyên tắc trả lương theo công việc, bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên, tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty [QCL Điều 1].\n\nVề phương pháp tính cụ thể, Công ty áp dụng:\n- Đối với CNV gián tiếp, phục vụ: Trả theo mức lương cơ bản, hỗ trợ căn cứ vào ngày công làm việc trong tháng; Thưởng KPI căn cứ kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng [QCL Điều 10].\n- Đối với CNV sản xuất: Xác định trên cơ sở sản lượng sản xuất, đơn giá sản phẩm, ngày công, hệ số lương, hệ số năng suất cá nhân và tổng công quy đổi [QCL Điều 10].\n- Đối với công nhân bốc xếp: Xác định trên cơ sở khối lượng bốc dỡ, đơn giá bốc xếp, ngày công, hệ số lương, hệ số năng suất cá nhân và tổng công quy đổi [QCL Điều 10]."
+   },
+   {
+    "key": "21a4ed05f6e28e6d",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 được xây dựng trên nguyên tắc trả lương theo công việc, bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên. [QCL Điều 1]\n\nVề phương pháp cụ thể, công ty áp dụng trả lương cho nhân viên gián tiếp dựa trên mức lương cơ bản và hỗ trợ theo ngày công làm việc, đồng thời thưởng KPI căn cứ vào kết quả đánh giá cá nhân và hoạt động của công ty. [QCL Điều 10] Đối với đối tượng bốc xếp, lương được xác định trên cơ sở khối lượng bốc dỡ, đơn giá, ngày công, hệ số lương, hệ số năng suất và tổng công quy đổi. [QCL Điều 10]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-002",
+  "question": "Với người ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng thì ai quyết định tiền lương, tiền thưởng?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tiền lương, tiền thưởng (nếu có) của các đối tượng ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động không quá 36 tháng do Tổng Giám Đốc Công ty quyết định, phù hợp với các quy định của pháp luật hiện hành (QCL Điều 1).",
+  "key_facts": [
+   "Tổng Giám Đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 1": "Điều 1. Phạm vi áp dụng\n1. Quy định này được xây dựng, áp dụng trong quản lý lao động, trả lương, tính thưởng đối với công nhân viên tại Công ty cổ phần Bibica.\n2. Quy định tiền lương và tiền thưởng được xây dựng trên nguyên tắc trả lương theo công việc; bảo đảm công bằng hợp lý, đúng pháp luật, tương xứng khả năng và đóng góp của mọi cán bộ, nhân viên; tạo điều kiện phát triển sản xuất kinh doanh và được áp dụng thống nhất trong Công ty.\n3. Mọi vấn đề khác về chế độ chính sách theo Bộ luật Lao động đương nhiên có hiệu lực thi hành.\n4. Các đối tượng ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động không quá 36 tháng, tiền lương, tiền thưởng nếu có do Tổng Giám Đốc Công ty quyết định, phù hợp với các quy định của pháp luật hiện hành.\n5. Tổng Giám đốc Công ty cùng Ban Chấp Hành Công Đoàn phối hợp xây dựng quy định tiền lương, tiền thưởng và định kỳ xem xét thay đổi và điều chỉnh quy định cho phù hợp thực tiễn từng thời kỳ và quy định pháp luật."
+  },
+  "answers": [
+   {
+    "key": "791911ed07272c62",
+    "answer": "Đối với người ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng, tiền lương và tiền thưởng do **Tổng Giám đốc Công ty** quyết định, phù hợp với các quy định của pháp luật hiện hành.\n\n[NQLD Điều 1]"
+   },
+   {
+    "key": "fa004b19f518966f",
+    "answer": "Đối với người ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng, tiền lương và tiền thưởng (nếu có) do Tổng Giám đốc Công ty quyết định, phù hợp với các quy định của pháp luật hiện hành [QCL Điều 1]."
+   },
+   {
+    "key": "c088fcba78a7bd89",
+    "answer": "Đối với người ký hợp đồng lao động không xác định thời hạn hoặc hợp đồng không quá 36 tháng, tiền lương và tiền thưởng do Tổng Giám đốc Công ty quyết định, phù hợp với các quy định của pháp luật hiện hành [QCL Điều 1]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-004",
+  "question": "Lương cơ bản (LCB) được hiểu là gì và được tính như thế nào?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Lương cơ bản (LCB) là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01; lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng (QCL Điều 2).",
+  "key_facts": [
+   "hệ số lương",
+   "Lương tối thiểu vùng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "fb7aa50899cfd7c6",
+    "answer": "Lương cơ bản (LCB) là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, được tính bằng hệ số lương nhân với Lương tối thiểu vùng. [QCL Điều 2 khoản 6]"
+   },
+   {
+    "key": "6bc6b470197c0f99",
+    "answer": "Lương cơ bản (LCB) là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, được tính bằng hệ số lương nhân với Lương tối thiểu vùng [QCL Điều 2].\n\nCông thức tính chi tiết: LCB = Mức lương cơ bản/công chuẩn nhân với số ngày công thực tế [QCL Điều 16].\n\nKhi xét nâng lương, chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định theo từng nhóm [QCL Điều 15]."
+   },
+   {
+    "key": "c14071413da15452",
+    "answer": "Lương cơ bản (LCB) là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, được tính bằng hệ số lương nhân với Lương tối thiểu vùng [QCL Điều 2]. Hệ số lương là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành [QCL Điều 2]."
+   },
+   {
+    "key": "2e1b39356e1d7bca",
+    "answer": "Lương cơ bản (LCB) là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, được tính bằng hệ số lương nhân với Lương tối thiểu vùng [QCL Điều 2]. Khi tính lương thực tế, LCB = Mức lương cơ bản/công chuẩn nhân với số ngày công thực tế [QCL Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-005",
+  "question": "Lương cứng là gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Lương cứng = Lương cơ bản + hỗ trợ (nếu có) (QCL Điều 2).",
+  "key_facts": [
+   "Lương cơ bản",
+   "hỗ trợ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "f433a0377ef3e674",
+    "answer": "Lương cứng là tổng tiền lương cơ bản và hỗ trợ (nếu có). Trong đó, lương cơ bản được tính bằng hệ số lương nhân với lương tối thiểu vùng. [QCL Điều 2]"
+   },
+   {
+    "key": "aa4dcb485dc6d323",
+    "answer": "Lương cứng là tổng của lương cơ bản và hỗ trợ (nếu có) [QCL Điều 2]. Trong đó, lương cơ bản được tính bằng hệ số lương nhân với lương tối thiểu vùng [QCL Điều 2]. Hệ số lương là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành [QCL Điều 2]."
+   },
+   {
+    "key": "9261bb38f8993b59",
+    "answer": "Lương cứng là tổng tiền lương và hỗ trợ (nếu có). Trong đó, tiền lương bao gồm Lương cơ bản (tính bằng hệ số lương nhân với Lương tối thiểu vùng) và các khoản hỗ trợ khác. [QCL Điều 2]"
+   },
+   {
+    "key": "d8f55de339f45d87",
+    "answer": "Lương cứng là tổng của Lương cơ bản và các khoản hỗ trợ (nếu có). Trong đó, Lương cơ bản được tính bằng công thức: Hệ số lương nhân với Lương tối thiểu vùng. Hệ số lương là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành. Việc nâng lương là nâng hệ số lương từ bậc thấp lên bậc cao hơn trong cùng một ngạch lương.\n\n[Lương cứng = Lương cơ bản + hỗ trợ (nếu có)] [QCL/Điều 2]\n[Lương Cơ bản (LCB) = hệ số lương x Lương tối thiểu vùng] [QCL/Điều 2]\n[Hệ số lương (HSL) là hệ số lương cứng theo Thang lương Bảng lương Công ty] [QCL/Điều 2]\n[Nâng lương là việc nâng hệ số lương từ bậc thấp đến bậc cao hơn trong cùng một ngạch lương] [QCL/Điều 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-006",
+  "question": "Lương công việc (LCV) của người lao động bao gồm những gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Lương công việc (LCV) là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của người lao động (QCL Điều 2).",
+  "key_facts": [
+   "tiền lương",
+   "hỗ trợ",
+   "KPI"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "ca3ee346d2955163",
+    "answer": "Lương công việc (LCV) là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của người lao động.\n\nĐối với người lao động gián tiếp và phục vụ, LCV bao gồm: Lương cơ bản, thưởng KPI, lương chế độ, hỗ trợ (xăng xe, đi lại, điện thoại...), các khoản bổ sung và các khoản phải trừ. Đối với người lao động trực tiếp sản xuất, LCV được xác định trên cơ sở sản lượng, đơn giá, ngày công, hệ số lương, hệ số năng suất và tổng công quy đổi.\n\n[LQCL/Điều 2 khoản 8], [QCL/Điều 16 khoản 1], [QCL/Điều 16 khoản 2 e], [QCL/Điều 16 khoản 2 g]"
+   },
+   {
+    "key": "269fb1bf2fd718a0",
+    "answer": "Lương công việc (LCV) là tổng tiền lương, hỗ trợ (nếu có) và KPI (nếu có) của người lao động [QCL Điều 2]. Trong đó, lương cơ bản được tính bằng hệ số lương nhân với lương tối thiểu vùng [QCL Điều 2]. LCV còn bao gồm các khoản như lương chế độ (bảo hiểm, lễ, phép, thai sản...) và phụ cấp do Công ty quyết định [QCL Điều 16]."
+   },
+   {
+    "key": "10c9783205277472",
+    "answer": "Lương công việc (LCV) là tổng tiền lương, hỗ trợ (nếu có) và KPI (nếu có) của người lao động. Trong đó, lương cơ bản được tính bằng hệ số lương nhân với lương tối thiểu vùng, còn lương cứng bao gồm lương cơ bản cộng hỗ trợ (nếu có). Thưởng KPI là khoản tiền thưởng theo vị trí công việc dựa trên kết quả sản xuất kinh doanh của công ty và mức độ hoàn thành công việc hàng tháng.\n\n[QCL Điều 2], [QCL Điều 15]"
+   },
+   {
+    "key": "847da0f41376192a",
+    "answer": "Lương công việc (LCV) là tổng tiền lương, hỗ trợ (nếu có) và KPI (nếu có) của người lao động [QCL Điều 2]. Trong đó, lương cơ bản được tính bằng hệ số lương nhân với lương tối thiểu vùng [QCL Điều 2]. LCV còn bao gồm các khoản như lương chế độ (bảo hiểm xã hội, lễ, phép, ngừng việc, thai sản, bổ sung lương) và phụ cấp do Công ty quyết định [QCL Điều 16]. Đối với công nhân trực tiếp sản xuất, phân xưởng cơ điện và bốc xếp, LCV bao gồm thêm mức hỗ trợ cho Tổ trưởng là 900.000đ/tháng tính theo ngày công chuẩn [QCL Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-007",
+  "question": "Thưởng hiệu quả công việc (thưởng KPI) được định nghĩa như thế nào?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng (QCL Điều 2).",
+  "key_facts": [
+   "kết quả sản xuất kinh doanh",
+   "mức độ hoàn thành công việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "5127bde758336a33",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng. [QCL Điều 2]"
+   },
+   {
+    "key": "04a8c4ad7f50d649",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng [QCL Điều 2]. Các chỉ tiêu đánh giá KPI được chia thành 3 nhóm: (1) chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán; (2) chỉ tiêu liên quan đến công việc (mỗi tháng đủ 03 chỉ tiêu); và (3) công việc trực tiếp do trưởng đơn vị giao [QCL Điều 8]. [QCL Điều 2]"
+   },
+   {
+    "key": "9a7994ceb7150bc2",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng [QCL Điều 2].\n\nTiêu chí đánh giá KPI được chia thành 3 nhóm: (1) Chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán; (2) Chỉ tiêu liên quan đến công việc (mỗi tháng đủ 03 chỉ tiêu); và (3) Công việc trực tiếp do trưởng đơn vị giao [QCL Điều 8].\n\nCơ cấu tỷ lệ giữa lương cơ bản và KPI thay đổi theo từng nhóm vị trí: Quản trị viên nhóm 1 (80-90% cơ bản, 10-20% KPI), Quản trị viên nhóm 2 (70-85% cơ bản, 15-30% KPI) và Nhân viên (60% cơ bản, 10-40% KPI) [QCL Điều 15]."
+   },
+   {
+    "key": "02f845898ec09b51",
+    "answer": "Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc, căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng [QCL Điều 2].\n\nTiêu chí đánh giá KPI được chia thành 3 nhóm: (1) Chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán; (2) Chỉ tiêu liên quan đến công việc (mỗi tháng đủ 03 chỉ tiêu); và (3) Công việc trực tiếp do trưởng đơn vị giao [QCL Điều 8].\n\nVề phân phối, quỹ thưởng KPI được tính dựa trên doanh số thực hiện, giá vốn và hệ số điều chỉnh tối đa 120%, sau đó phân bổ cho từng cá nhân căn cứ vào hệ số thưởng Kpi cá nhân/ngày công và tỷ lệ đạt điểm Kpi cá nhân [QCL Điều 16]."
+   }
+  ]
+ }
+]

@@ -1,0 +1,35 @@
+{"key": "b468c6657aa4ec67", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct: theo BLLĐ."}
+{"key": "127556b858dc1688", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL Điều 7 supported."}
+{"key": "32a213be071ebc43", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "bd230fb2bc33ec99", "qid": "NQLD-022", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra QCL Điều 7 supported."}
+{"key": "2378ff24287b19dd", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct both authorities."}
+{"key": "c218dc9f3794186b", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "cb1d664ee8b7653b", "qid": "NQLD-023", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "a4fa9056f73ef7a4", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": null, "refusal_ok": null, "note": "Correct: Điều 124 BLLĐ; no bracket citation."}
+{"key": "b0443050930d6f5f", "qid": "NQLD-024", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "9bfa7b86ff81b759", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct signer and date; cites Mở đầu instead of Chương IX."}
+{"key": "4d97f3077c5d6b8b", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct signer; cites Mở đầu, wrong section."}
+{"key": "a49c7538e29fbab6", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct signer and timestamp."}
+{"key": "f4bf9f4381b291c9", "qid": "NQLD-025", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct; cites Mở đầu, wrong section."}
+{"key": "ac1253b006e57b8e", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": false, "refusal_ok": null, "note": "Correct date/time; cites Mở đầu, wrong section."}
+{"key": "4931e537776779e6", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct date/time."}
+{"key": "5e9d47ec284c7755", "qid": "NQLD-026", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; cites signature image."}
+{"key": "e1cec0102d26942a", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct two shifts and times."}
+{"key": "39dedeed0e7ee38c", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "d15385991fadd76b", "qid": "NQLD-028", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "670f863dca00fef8", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30/45 minutes."}
+{"key": "634ef9c6bbcad776", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "144439cc3b3f7bd6", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "92180315846117d1", "qid": "NQLD-029", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "3c2926df5aaf884d", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 12/14/16 days."}
+{"key": "465218e39dd58ef1", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "4b90470438733548", "qid": "NQLD-030", "correctness": 1, "faithful": false, "citation_ok": false, "refusal_ok": null, "note": "Correct numbers but attributed to TULD Điều 5, which lacks it."}
+{"key": "1e3256e1d55476c7", "qid": "NQLD-030", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "5f12b0a7e0f54e80", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 15/90 days."}
+{"key": "e5b85571fdb270c1", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra supported details."}
+{"key": "16e37dbe321ef666", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "eb1b15d4cb73de86", "qid": "NQLD-031", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "2f2580a780cfd83a", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct 30 phút, 03 ngày."}
+{"key": "c056dc484f85a291", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct; extra 60-minute rule supported."}
+{"key": "316fda96c2e81cba", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
+{"key": "3580da627589c089", "qid": "NQLD-033", "correctness": 1, "faithful": true, "citation_ok": true, "refusal_ok": null, "note": "Correct."}
