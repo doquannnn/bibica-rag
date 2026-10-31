@@ -11,7 +11,6 @@ tools/
 # Internal Bibica documents and anything extracted from them (kept local only)
 RAG/
 data/docx/
-data/parsed/
 data/images/
 
 # Benchmark run outputs (regenerable)
