@@ -85,3 +85,25 @@ def test_retry_on_rate_limit(monkeypatch):
         raise AssertionError
     except Bad:
         pass
+
+
+def test_daily_quota_is_not_retried(monkeypatch):
+    monkeypatch.setattr("time.sleep", lambda s: None)
+
+    class Quota(Exception):
+        status_code = 429
+
+        def __str__(self):
+            return "Generate content requests per day limit exceeded on Free Tier"
+
+    calls = []
+
+    def fn():
+        calls.append(1)
+        raise Quota()
+
+    try:
+        call_with_retry(fn)
+    except Quota:
+        pass
+    assert len(calls) == 1

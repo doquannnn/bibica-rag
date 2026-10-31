@@ -73,6 +73,7 @@ def call_with_retry(fn, retries: int = 5, base_delay: float = 4.0):
             status = getattr(e, "status_code", None)
             transient = status in (429, 500, 502, 503, 504) or e.__class__.__name__ in (
                 "APIConnectionError", "APITimeoutError", "RateLimitError", "InternalServerError")
-            if not transient or attempt == retries:
-                raise
+            msg = str(e).lower()
+            if not transient or attempt == retries or "per day" in msg or "perday" in msg:
+                raise  # a daily quota does not come back within the retry window: retrying only burns requests
             time.sleep(base_delay * 2 ** attempt)
