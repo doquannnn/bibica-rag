@@ -1,0 +1,308 @@
+[
+ {
+  "qid": "QCL-070",
+  "question": "Quỹ khen thưởng phúc lợi của Công ty được hình thành từ đâu và ai quyết định việc thưởng từ quỹ này?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua; thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở (QCL Điều 20).",
+  "key_facts": [
+   "phân phối lợi nhuận",
+   "Đại hội cổ đông",
+   "Tổng giám đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 20": "Điều 20. Quỹ khen thưởng phúc lợi của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua, thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở.\nĐiều 20. Quỹ khen thưởng phúc lợi của Công ty hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua, thưởng từ quỹ khen thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công Đoàn Cơ sở."
+  },
+  "answers": [
+   {
+    "key": "bc2f7a46f6e8f1cb",
+    "answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua. Việc thưởng từ quỹ này do Tổng Giám đốc quyết định, có tham khảo ý kiến Công đoàn Cơ sở.\n\n[NQLD Điều 20]"
+   },
+   {
+    "key": "46dd12cc4a7ce538",
+    "answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua [QCL Điều 20], [TULD Điều 16]. Việc thưởng từ quỹ này do Tổng giám đốc quyết định, có tham khảo ý kiến Công Đoàn Cơ sở [QCL Điều 20]."
+   },
+   {
+    "key": "606c9593ce45cc51",
+    "answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua [QCL Điều 20], [TULD Điều 16]. Việc thưởng từ quỹ này do Tổng giám đốc quyết định, có tham khảo ý kiến Công Đoàn Cơ sở [QCL Điều 20]. Quỹ này dùng để khen thưởng các cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho Công ty như sáng kiến cải tiến kỹ thuật, tiết kiệm vật tư... [TULD Điều 16]. Ngoài ra, quỹ cũng có thể được phân phối cho người lao động trong trường hợp thu nhập bị giảm sút khi có đề xuất của BCH Công Đoàn Cơ Sở [QCL Điều 21]."
+   },
+   {
+    "key": "42645fd4f1def033",
+    "answer": "Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thống nhất thông qua. Việc thưởng từ quỹ này do Tổng giám đốc quyết định, có tham khảo ý kiến Công Đoàn Cơ sở.\n\n[Nguồn: QCL Điều 20]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-071",
+  "question": "Quỹ khen thưởng được dùng để khen thưởng, chi cho những trường hợp nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Quỹ khen thưởng được dùng cho: 1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, tốt hơn về quy trình/chất lượng sản phẩm; 2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có); 3. Phân phối cho người lao động khi thu nhập bị giảm sút, khi có đề xuất của BCH Công Đoàn Cơ Sở, áp dụng cho CNV còn đang làm việc (QCL Điều 21).",
+  "key_facts": [
+   "sáng kiến cải tiến kỹ thuật",
+   "nghỉ mát",
+   "giảm sút"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 21": "Điều 21. Quỹ khen thưởng được thực hiện khen thưởng những trường hợp sau\n1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc tất cả các giải pháp khác trong tất cả các lĩnh vực sản xuất kinh doanh và được các đề xuất, ý tưởng mang lại các hiệu quả về kinh tế, tốt hơn về qui trình/chất lượng sản phẩm so với hiện tại.\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3. Ngoài ra quỹ khen thưởng phúc lợi có thể được phân phối cho người lao động trong trường hợp thu nhập người lao động bị giảm sút khi có đề xuất của BCH Công Đoàn Cơ Sở áp dụng cho CNV còn đang làm việc."
+  },
+  "answers": [
+   {
+    "key": "0e74e3b7b39d27ba",
+    "answer": "Quỹ khen thưởng được dùng để khen thưởng các trường hợp sau:\n1. CNV có đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, tốt hơn về quy trình/chất lượng sản phẩm.\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3. Phân phối cho người lao động trong trường hợp thu nhập bị giảm sút khi có đề xuất của BCH Công đoàn Cơ sở áp dụng cho CNV còn đang làm việc.\n4. Khen thưởng các cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho Công ty (như tiết kiệm tiêu hao vật tư, nguyên liệu...).\n\n[NQLD Điều 20], [QCL Điều 21], [TULD Điều 16]"
+   },
+   {
+    "key": "07b9d07f03c7c998",
+    "answer": "Quỹ khen thưởng được dùng để khen thưởng các trường hợp sau:\n1. Nhân viên đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, cải thiện quy trình/chất lượng sản phẩm [QCL Điều 21.3].\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có) [QCL Điều 21.2].\n3. Phân phối cho người lao động khi thu nhập bị giảm sút (có đề xuất của BCH Công đoàn Cơ sở áp dụng cho CNV đang làm việc) [QCL Điều 21.3].\nQuỹ này hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thông qua [QCL Điều 20; TULD Điều 16.2a]."
+   },
+   {
+    "key": "c9d18a7f07bfb6e5",
+    "answer": "Quỹ khen thưởng được dùng để khen thưởng các trường hợp sau:\n1. Nhân viên đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, cải thiện quy trình/chất lượng sản phẩm.\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có).\n3. Phân phối cho người lao động khi thu nhập bị giảm sút (theo đề xuất của BCH Công đoàn Cơ sở).\n\nNguồn: [QCL Điều 21], [TULD Điều 16]. Quỹ khen thưởng hình thành từ chế độ phân phối lợi nhuận hàng năm được Đại hội cổ đông thông qua."
+   },
+   {
+    "key": "d7e1c27d39a4e383",
+    "answer": "Quỹ khen thưởng được dùng để khen thưởng các trường hợp sau:\n1. Nhân viên đăng ký sáng kiến cải tiến kỹ thuật, hợp lý hóa sản xuất hoặc các giải pháp khác mang lại hiệu quả kinh tế, cải thiện quy trình/chất lượng sản phẩm [QCL Điều 21].\n2. Tổ chức nghỉ mát hàng năm cho người lao động (nếu có) [QCL Điều 21].\n3. Phân phối cho người lao động khi thu nhập bị giảm sút, theo đề xuất của BCH Công đoàn Cơ sở áp dụng cho CNV đang làm việc [QCL Điều 21].\n\nVề nguồn hình thành, quỹ này được tạo từ chế độ phân phối lợi nhuận hàng năm do Đại hội cổ đông thông qua, việc thưởng do Tổng giám đốc quyết định có tham khảo ý kiến Công đoàn Cơ sở [QCL Điều 20]. Thỏa ước lao động tập thể cũng xác nhận quỹ hình thành từ phân phối lợi nhuận để khen thưởng cá nhân, tập thể tích cực trong lao động sản xuất, mang lại ích lợi cho công ty như sáng kiến, tiết kiệm vật tư [TULD Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-072",
+  "question": "Quy định tiền lương, tiền thưởng gồm bao nhiêu chương, bao nhiêu điều và phụ lục; ai có trách nhiệm phổ biến cho nhân viên?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quy định gồm 05 chương, 23 điều và 04 phụ lục, được áp dụng thống nhất trong toàn Công ty; các đơn vị có trách nhiệm phổ biến bản quy định cho CNV trong đơn vị mình phụ trách (QCL Điều 22).",
+  "key_facts": [
+   "05 chương",
+   "23 điều",
+   "04 phụ lục"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 22": "Điều 22. Quy định tiền lương và tiền thưởng bao gồm 05 chương, 23 điều và 04 phụ lục được áp dụng thống nhất trong toàn Công ty. Các đơn vị có trách nhiệm phổ biến bản quy định này cho CNV trong đơn vị mình phụ trách.\nTùy vào tình hình hoạt động sản xuất kinh doanh theo từng thời điểm khác nhau, Công ty sẽ điều chỉnh quy định tiền lương tiền thưởng để phù hợp với thực tế hoạt động sản xuất kinh doanh của công ty."
+  },
+  "answers": [
+   {
+    "key": "3883cf4940acd2e6",
+    "answer": "Quy định tiền lương, tiền thưởng gồm 05 chương, 23 điều và 04 phụ lục. Các đơn vị có trách nhiệm phổ biến bản quy định này cho công nhân viên trong đơn vị mình phụ trách. [QCL/Điều 22]"
+   },
+   {
+    "key": "432104fbae7bee64",
+    "answer": "Quy định tiền lương và tiền thưởng gồm 05 chương, 23 điều và 04 phụ lục. Các đơn vị có trách nhiệm phổ biến bản quy định này cho cán bộ, nhân viên trong đơn vị mình phụ trách [QCL Điều 22]."
+   },
+   {
+    "key": "0d8c9f02f12d976f",
+    "answer": "Quy định tiền lương và tiền thưởng gồm 05 chương, 23 điều và 04 phụ lục. Các đơn vị có trách nhiệm phổ biến bản quy định này cho cán bộ, nhân viên trong đơn vị mình phụ trách.\n\n[Nguồn: QCL/Điều 22]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-073",
+  "question": "Quy chế tiền lương, tiền thưởng năm 2024 có hiệu lực từ khi nào và được ký ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Quy định có giá trị thực hiện kể từ ngày ký; văn bản được ký tại TP HCM ngày 26 tháng 04 năm 2024 (QCL Điều 23).",
+  "key_facts": [
+   "ngày ký",
+   "26"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[HÌNH ẢNH: QCL_image2.png]"
+  },
+  "answers": [
+   {
+    "key": "dc2f74bbf2cf2636",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 có giá trị thực hiện kể từ ngày ký, cụ thể là ngày 26 tháng 04 năm 2024. Tài liệu được ký bởi ông Nguyễn Quốc Hoàng vào lúc 21:32:24 [QCL/Điều 23]."
+   },
+   {
+    "key": "b46f95f71117fa48",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 có giá trị thực hiện kể từ ngày ký, cụ thể là ngày 26 tháng 04 năm 2024. Văn bản này được ký bởi ông Nguyễn Quốc Hoàng vào lúc 21:32:24 cùng ngày. [QCL/Điều 23]"
+   },
+   {
+    "key": "1c8f7eaae3f7d67f",
+    "answer": "Quy chế tiền lương, tiền thưởng Bibica năm 2024 có giá trị thực hiện kể từ ngày ký. Quy định này được ký ngày 26 tháng 04 năm 2024. [QCL Điều 23]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-074",
+  "question": "Ai là người ký số ban hành quy chế tiền lương, tiền thưởng năm 2024 của Bibica?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số trên văn bản, người ký là Nguyễn Quốc Hoàng (ký ngày 26/04/2024) (QCL Điều 23).",
+  "key_facts": [
+   "Nguyễn Quốc Hoàng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[HÌNH ẢNH: QCL_image2.png]"
+  },
+  "answers": [
+   {
+    "key": "4ee2b14a5a5a798e",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là ông **Nguyễn Quốc Hoàng** (Tổng Giám đốc), với ngày ký là **26/04/2024** [QCL/Mở đầu]."
+   },
+   {
+    "key": "c3efa9ea438deab8",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là ông Nguyễn Quốc Hoàng, ký ngày 26/04/2024 [QCL/Điều 23]."
+   },
+   {
+    "key": "afe6ca4a97dc3c76",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là ông Nguyễn Quốc Hoàng. Tài liệu ghi rõ ngày ký là 26/04/2024 tại TP.HCM [QCL/Điều 23]."
+   },
+   {
+    "key": "fd3d6a00731db583",
+    "answer": "Người ký số ban hành Quy chế tiền lương, tiền thưởng Bibica năm 2024 là ông Nguyễn Quốc Hoàng. Thời gian ký là ngày 26 tháng 04 năm 2024, lúc 21:32:24. [QCL/Điều 23]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-075",
+  "question": "Chữ ký số trên quy chế lương thưởng 2024 được thực hiện vào lúc mấy giờ, ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số, văn bản được ký lúc 21:32:24 ngày 26/04/2024 (QCL Điều 23).",
+  "key_facts": [
+   "21:32:24",
+   "26/04/2024"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 23": "Điều 23. Quy định này có giá trị thực hiện kể từ ngày ký.\nTP HCM, ngày 26 tháng 04 năm 2024\nCÔNG TY CỔ PHẦN BIBICA\n[HÌNH ẢNH: QCL_image2.png]"
+  },
+  "answers": [
+   {
+    "key": "d52024827aa27416",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào lúc 21:32:24 ngày 26 tháng 04 năm 2024. [QCL/Mở đầu]"
+   },
+   {
+    "key": "8a5cb24904e4665f",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào lúc 21:32:24, ngày 26 tháng 04 năm 2024 [QCL Hình ảnh QCL_image2.png]."
+   },
+   {
+    "key": "821e7c5c47f9ba6d",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào lúc 21:32:24, ngày 26 tháng 04 năm 2024. Người ký là Nguyễn Quốc Hoàng. [QCL Hình ảnh QCL_image2.png]"
+   },
+   {
+    "key": "6d8a069871a1820f",
+    "answer": "Chữ ký số trên Quy chế tiền lương, tiền thưởng Bibica năm 2024 được thực hiện vào lúc 21:32:24, ngày 26 tháng 04 năm 2024. [QCL Hình ảnh QCL_image2.png]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-077",
+  "question": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là 15% (QCL Phụ lục 2).",
+  "key_facts": [
+   "15"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "574a20ac90603f0d",
+    "answer": "Theo Phụ lục 02 Quy định chỉ tiêu và phương pháp đánh giá KPI trong Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa cho Phó Tổng giám đốc là 15%.\n\n[QCL/Phụ lục 2]"
+   },
+   {
+    "key": "621360b5b1d52348",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, Phó Tổng giám đốc có tỷ trọng thưởng KPI chuẩn tối đa là 15% [QCL Điều 9]."
+   },
+   {
+    "key": "2810784529a9de5d",
+    "answer": "Theo Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa cho Phó Tổng giám đốc là 15%. [QCL/Phụ lục 2]"
+   },
+   {
+    "key": "8c28dd27ee1729f7",
+    "answer": "Theo [QCL Điều 9], tỷ trọng thưởng KPI chuẩn tối đa của Phó Tổng giám đốc là 15%. Tuy nhiên, trong [QCL/Phụ lục 2] có ghi nhận mức này là 20%. Do hai tài liệu quy định khác nhau, cần xác định nguồn áp dụng cụ thể cho từng trường hợp."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-078",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở (thuộc nhóm Ban Tổng giám đốc) có tỷ trọng thưởng KPI chuẩn tối đa là 20% (QCL Phụ lục 2).",
+  "key_facts": [
+   "20"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "7b4481ef225f10d5",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là 20%.\n\n[NQLD/Phụ lục 2]"
+   },
+   {
+    "key": "4dc9ddcd3806af44",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là 20% theo quy định tại Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL/Phụ lục 2]."
+   },
+   {
+    "key": "e1140c4a7aa944fa",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở là 20%.\n\nNguồn: [QCL/Phụ lục 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-079",
+  "question": "Quản đốc phân xưởng có tỷ trọng thưởng KPI chuẩn tối đa là bao nhiêu phần trăm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Trưởng phòng/Quản đốc PX có tỷ trọng thưởng KPI chuẩn tối đa là 30% (QCL Phụ lục 2).",
+  "key_facts": [
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "1723999839d76c5b",
+    "answer": "Quản đốc phân xưởng thuộc nhóm \"Quản trị viên nhóm 3\" (theo QCL Điều 2). Theo Phụ lục 02 của QCL, tỷ trọng thưởng KPI chuẩn tối đa cho vị trí này là 35% (tại mục D.1.4 và E.1.4).\n\n[TULD Điều 16], [QCL Điều 2], [QCL Phụ lục 2]"
+   },
+   {
+    "key": "41df47ec843a1375",
+    "answer": "Theo Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa cho chức danh Quản đốc phân xưởng là 30% [QCL/Phụ lục 2]."
+   },
+   {
+    "key": "cc6a72be8e74e75f",
+    "answer": "Theo Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa cho Quản đốc phân xưởng là 30%.\n\nTuy nhiên, tại Điều 15 của cùng Quy chế, đối với vị trí Quản trị viên nhóm 2 (bao gồm Quản đốc), tỷ lệ KPI được quy định trong khoảng 15% đến 30%.\n\nNguồn: [QCL/Phụ lục 2], [QCL/Điều 15]"
+   },
+   {
+    "key": "cf565f19b3236557",
+    "answer": "Theo quy định tại Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, tỷ trọng thưởng KPI chuẩn tối đa cho chức danh Quản đốc phân xưởng là 30% [QCL/Phụ lục 2 Trích đoạn 1].\n\nTuy nhiên, tại Điều 16 của cùng Quy chế, phần chi tiết các khoản thu nhập, mục c. lại quy định riêng về \"Kpi Quản đốc/ Phó quản đốc, Thống kê, Trưởng ca\" nhưng không nêu cụ thể tỷ lệ phần trăm trong trích đoạn này [QCL/Điều 16].\n\nNgoài ra, theo Điều 15 về tỉ lệ cơ cấu lương, nhóm Nhân viên (NV) có tỷ lệ KPI chiếm từ 10% đến 40%, trong khi nhóm Quản trị viên nhóm 2 (QTV2) có tỷ lệ KPI từ 15% đến 30% [QCL/Điều 15]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-080",
+  "question": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Chức danh Phó Phòng/Phó Quản đốc PX có tỷ trọng thưởng KPI chuẩn tối đa là 35% (QCL Phụ lục 2).",
+  "key_facts": [
+   "35"
+  ],
+  "gold_evidence": {
+   "QCL/Phụ lục 2": "Phụ lục 02. QUY ĐỊNH CHỈ TIÊU VÀ PHƯƠNG PHÁP ĐÁNH GIÁ KPI\nI. TỈ LỆ CƠ CẤU LƯƠNG:\n| STT | CHỨC DANH CÔNG VIỆC | Tỷ trọng (%) thưởng KPI chuẩn tối đa |\n|---|---|---|\n| A | BAN TỔNG GIÁM ĐỐC |  |\n| 1.1 | Tổng giám đốc | 10 |\n| 1.2 | Phó Tổng giám đốc | 15 |\n| 1.3 | Bí thư Đảng ủy/Chủ tịch Công đoàn cơ sở | 20 |\n| B |  |  |\n| 1.1 | Giám đốc Khối | 20 |\n| 1.2 | Phó Giám đốc Khối | 20 |\n| 1.3 | Kế toán trưởng | 20 |\n| 1.4 | Trưởng Phòng | 30 |\n| 1.5 | Trưởng bộ phận/Kế toán tổng hợp | 30 |\n| 1.6 | Tổ trưởng | 40 |\n| C |  |  |\n| 1.1 | Giám đốc sản phẩm / Nhãn hàng | 20 |\n| 1.2 | Quản lý sản phẩm / Nhãn hàng | 30 |\n| 1.3 | Trợ lý sản phẩm / Nhãn hàng | 40 |\n| D |  |  |\n| 1.1 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.2 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.3 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.4 | Nhân viên lái xe | 40 |\n| 1.5 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\n| E |  |  |\n| 1.1 | Giám đốc | 15 |\n| 1.2 | Phó giám đốc | 20 |\n| 1.3 | Kế toán trưởng | 25 |\n| 1.4 | Trưởng phòng/Quản đốc PX | 30 |\n| 1.5 | Phó Phòng/Phó Quản đốc PX | 35 |\n| 1.6 | Trưởng bộ phận/ Trưởng ca | 35 |\n| 1.7 | Tổ trưởng | 40 |\n| 1.8 | Tổ phó | 40 |\n| 1.9 | Nhân viên nghiệp vụ có trình độ đại học | 40 |\n| 1.10 | Nhân viên nghiệp vụ có trình độ Cao đẳng | 40 |\n| 1.11 | Nhân viên nghiệp vụ có trình độ Trung cấp | 40 |\n| 1.12 | Nhân viên lái xe | 40 |\n| 1.13 | Nhân viên chưa qua đào tạo làm công việc giản đơn | 40 |\nII. PHÂN BỔ CHỈ TIÊU KPI VÀ PHƯƠNG PHÁP ĐÁNH GIÁ\n| CHỈ TIÊU KPI | VP CÔNG TY | CÁC NM/CTY THÀNH VIÊN |  |  |  |  |  |  |  |  |  |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| CHỈ TIÊU KPI | BTGD | GĐ/ PGĐK/TP | TP/TBP | GĐNH / SP | KSCN / NV | BAN GDNM | TP /PP | QĐ /PQĐ | TBP | Trưởng ca | KSCN / NV |\n| KPI nhóm 2 (03 chỉ tiêu KPI) | - | 20 | 30 | 40 | 50 | 20 | 30 | 30 | 40 | 50 | 50 |\n| KPI nhóm 3 (Công việc cấp quản lý trực tiếp giao) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |\n| Tổng cộng | 10 | 30 | 40 | 50 | 60 | 30 | 40 | 40 | 50 | 60 | 60 |\nCÔNG TY CỔ PHẦN BIBICA"
+  },
+  "answers": [
+   {
+    "key": "da1f63fcbd8c4728",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là 35%.\n\nNguồn: [QCL/Phụ lục 2]"
+   },
+   {
+    "key": "cdd13d1188c78155",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là 35% theo quy định tại [QCL/Phụ lục 2, Bảng 1.5] và [QCL/Phụ lục 2, Bảng 1.2]."
+   },
+   {
+    "key": "a10a03385bf2df12",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là 35%.\n\nThông tin này được quy định tại Phụ lục 02 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, trong phần phân chia theo từng nhóm chức danh (nhóm D và nhóm E), nơi liệt kê rõ ràng mức tỷ lệ này cho vị trí \"Phó Phòng/Phó Quản đốc PX\".\n\n[QCL Phụ lục 2]"
+   },
+   {
+    "key": "0450da95e741a427",
+    "answer": "Tỷ trọng thưởng KPI chuẩn tối đa của Phó Quản đốc phân xưởng là 35% theo quy định tại [QCL/Phụ lục 2, dòng 1.5]. Tuy nhiên, trong bảng phân bổ chỉ tiêu KPI chi tiết cho từng vị trí (VP Công ty, NM/CTY thành viên), cột \"QĐ/PQĐ\" (Quản đốc/Phó quản đốc) không ghi rõ tỷ lệ cụ thể mà để trống, cho thấy có thể áp dụng quy định chung hoặc cần tham khảo thêm quy định riêng của từng đơn vị thành viên."
+   }
+  ]
+ }
+]

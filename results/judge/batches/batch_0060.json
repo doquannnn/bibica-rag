@@ -1,0 +1,300 @@
+[
+ {
+  "qid": "NQLD-022",
+  "question": "Thời hạn điều chuyển người lao động sang làm công việc khác so với hợp đồng là bao lâu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nội quy không quy định con số cụ thể mà dẫn chiếu: thời hạn điều chuyển thực hiện theo quy định của Bộ Luật Lao động (NQLD Điều 25).",
+  "key_facts": [
+   "Bộ Luật Lao động"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 25": "Điều 25. Thời hạn điều chuyển: Theo quy định của Bộ Luật Lao động.\nĐiều 25. Thời hạn điều chuyển: Theo quy định của Bộ Luật Lao động."
+  },
+  "answers": [
+   {
+    "key": "b468c6657aa4ec67",
+    "answer": "Thời hạn điều chuyển người lao động sang làm công việc khác được quy định theo Bộ luật Lao động.\n\n[NQLD Điều 24], [NQLD Điều 25]"
+   },
+   {
+    "key": "127556b858dc1688",
+    "answer": "Thời hạn điều chuyển người lao động sang làm công việc khác so với hợp đồng lao động được thực hiện theo quy định của Bộ luật Lao động, không có mức cụ thể trong tài liệu nội bộ [NQLD Điều 25]. Trong trường hợp Công ty gặp khó khăn đột xuất hoặc nhu cầu sản xuất, kinh doanh, người lao động có thể bị tạm thời chuyển làm công việc khác và trả lương theo công việc mới phù hợp quy định pháp luật [QCL Điều 7]."
+   },
+   {
+    "key": "32a213be071ebc43",
+    "answer": "Thời hạn điều chuyển người lao động sang làm công việc khác so với hợp đồng lao động được thực hiện theo quy định của Bộ luật Lao động. Tài liệu nội bộ không nêu cụ thể số ngày hay thời hạn cố định cho việc điều chuyển này. [NQLD Điều 25]"
+   },
+   {
+    "key": "bd230fb2bc33ec99",
+    "answer": "Thời hạn điều chuyển người lao động sang làm công việc khác so với hợp đồng lao động được thực hiện theo quy định của Bộ luật Lao động [NQLD Điều 25]. Trong trường hợp Công ty gặp khó khăn đột xuất hoặc nhu cầu sản xuất, kinh doanh, Công ty có thể tạm thời chuyển người lao động làm công việc khác và trả lương theo công việc mới, phù hợp quy định pháp luật [QCL Điều 7]. Tài liệu nội bộ không quy định cụ thể số ngày cố định cho việc điều chuyển này."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-023",
+  "question": "Ai có thẩm quyền ra quyết định xử lý kỷ luật lao động, và trường hợp sa thải thì ai quyết định?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động; trường hợp người lao động bị xử lý sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty (NQLD Điều 27).",
+  "key_facts": [
+   "giao kết hợp đồng",
+   "đại diện"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "2378ff24287b19dd",
+    "answer": "Theo Nội quy lao động 2024:\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n[NQLD Điều 27]"
+   },
+   {
+    "key": "c218dc9f3794186b",
+    "answer": "Người có thẩm quyền ra quyết định xử lý kỷ luật lao động là người giao kết hợp đồng lao động bên phía Công ty. Trong trường hợp người lao động bị xử lý Sa thải, người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty. [NQLD Điều 27]"
+   },
+   {
+    "key": "cb1d664ee8b7653b",
+    "answer": "Người có thẩm quyền ra quyết định xử lý kỷ luật lao động là người giao kết hợp đồng lao động bên phía Công ty. Trong trường hợp người lao động bị xử lý Sa thải, người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n\n[NQLD Điều 27]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-024",
+  "question": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo điều nào của Bộ luật Lao động?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật được thực hiện theo quy định tại Điều 124 của Bộ Luật Lao Động (NQLD Điều 29).",
+  "key_facts": [
+   "Điều 124"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 29": "Điều 29. Thời hiệu xử lý kỷ luật lao động\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn là 06 tháng, kể từ ngày xảy ra hành vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh của người sử dụng lao động thì thời hiệu xử lý kỷ luật lao động là 12 tháng.\n- Các trường hợp kéo dài thời hiệu xử lý được thực hiện theo quy định tại Điều 124 của Bộ Luật Lao Động."
+  },
+  "answers": [
+   {
+    "key": "a4fa9056f73ef7a4",
+    "answer": "Theo Điều 29 của Nội quy lao động 2024, các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo quy định tại Điều 124 của Bộ luật Lao động."
+   },
+   {
+    "key": "b0443050930d6f5f",
+    "answer": "Các trường hợp kéo dài thời hiệu xử lý kỷ luật lao động được thực hiện theo quy định tại Điều 124 của Bộ luật Lao động [NQLD Điều 29]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-025",
+  "question": "Ai là người ký số trên văn bản Nội quy lao động 2024 của Bibica?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số trên văn bản, người ký là ông Nguyễn Quốc Hoàng, ký với chức danh Tổng Giám đốc (NQLD Chương IX - phần ký ban hành).",
+  "key_facts": [
+   "Nguyễn Quốc Hoàng"
+  ],
+  "gold_evidence": {
+   "NQLD/Chương IX": "Chương IX: ĐIỀU KHOẢN THI HÀNH\n- Nội quy lao động làm cơ sở để doanh nghiệp quản lý lao động, điều hành sản xuất, khen thưởng người có thành tích trong việc chấp hành tốt nội quy lao động và xử lý các trường hợp vi phạm quy định về kỷ luật lao động của doanh nghiệp;\n- Các đơn vị thành phần tùy đặc điểm sản xuất kinh doanh của đơn vị cụ thể hóa nội quy lao động cho phù hợp với thực tế, nhưng không được trái với nội quy lao động của Công ty và Pháp luật lao động khác có liên quan của Nhà Nước CHXHCN Việt Nam.\n- Bản nội quy này được phổ biến đến từng người lao động, mọi người có trách nhiệm thực hiện nghiêm chỉnh nội quy lao động, đấu tranh ngăn chặn mọi hành vi gây thiệt hai đến sản xuất kinh doanh, an ninh trật tự của doanh nghiệp.\n- Trong quá trình thực hiện, nội quy lao động sẽ được xem xét, bổ sung, thay đổi phù hợp với từng thời kỳ theo sự thống nhất của người lao động và người sử dụng lao động tuân thủ pháp luật liên quan.\n- Mọi trường hợp không quy định trong Bản Nội quy này được giải quyết theo thoả ước lao động tập thể hoặc theo Bộ luật Lao động và các văn bản pháp luật lao động hiện hành của Nhà nước.\nTp. HCM, Ngày …… tháng ……. năm 2024\n[HÌNH ẢNH: NQLD_image1.png]\n[HÌNH ẢNH: NQLD_image2.png]\nTỔNG GIÁM ĐỐC"
+  },
+  "answers": [
+   {
+    "key": "9bfa7b86ff81b759",
+    "answer": "Người ký số trên văn bản Nội quy lao động 2024 của Bibica là ông Nguyễn Quốc Hoàng, với ngày ký là 22/03/2024 [NQLD Mở đầu]."
+   },
+   {
+    "key": "4d97f3077c5d6b8b",
+    "answer": "Người ký số trên văn bản Nội quy lao động 2024 của Bibica là ông Nguyễn Quốc Hoàng. [NQLD Mở đầu]"
+   },
+   {
+    "key": "a49c7538e29fbab6",
+    "answer": "Người ký số trên văn bản Nội quy lao động 2024 của Bibica là ông Nguyễn Quốc Hoàng, với thời gian ký là ngày 22 tháng 03 năm 2024 lúc 22:45:07. [NQLD/Chương IX]"
+   },
+   {
+    "key": "f4bf9f4381b291c9",
+    "answer": "Người ký số trên văn bản Nội quy lao động 2024 của Bibica là ông Nguyễn Quốc Hoàng, với thời gian ký là ngày 22 tháng 03 năm 2024 lúc 22:45:07. [NQLD Mở đầu]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-026",
+  "question": "Nội quy lao động 2024 được ký số vào ngày giờ nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Theo chữ ký số, văn bản được ký ngày 22/03/2024 lúc 22:45:07 (lần ký: 1) (NQLD Chương IX - phần ký ban hành).",
+  "key_facts": [
+   "22/03/2024",
+   "22:45:07"
+  ],
+  "gold_evidence": {
+   "NQLD/Chương IX": "Chương IX: ĐIỀU KHOẢN THI HÀNH\n- Nội quy lao động làm cơ sở để doanh nghiệp quản lý lao động, điều hành sản xuất, khen thưởng người có thành tích trong việc chấp hành tốt nội quy lao động và xử lý các trường hợp vi phạm quy định về kỷ luật lao động của doanh nghiệp;\n- Các đơn vị thành phần tùy đặc điểm sản xuất kinh doanh của đơn vị cụ thể hóa nội quy lao động cho phù hợp với thực tế, nhưng không được trái với nội quy lao động của Công ty và Pháp luật lao động khác có liên quan của Nhà Nước CHXHCN Việt Nam.\n- Bản nội quy này được phổ biến đến từng người lao động, mọi người có trách nhiệm thực hiện nghiêm chỉnh nội quy lao động, đấu tranh ngăn chặn mọi hành vi gây thiệt hai đến sản xuất kinh doanh, an ninh trật tự của doanh nghiệp.\n- Trong quá trình thực hiện, nội quy lao động sẽ được xem xét, bổ sung, thay đổi phù hợp với từng thời kỳ theo sự thống nhất của người lao động và người sử dụng lao động tuân thủ pháp luật liên quan.\n- Mọi trường hợp không quy định trong Bản Nội quy này được giải quyết theo thoả ước lao động tập thể hoặc theo Bộ luật Lao động và các văn bản pháp luật lao động hiện hành của Nhà nước.\nTp. HCM, Ngày …… tháng ……. năm 2024\n[HÌNH ẢNH: NQLD_image1.png]\n[HÌNH ẢNH: NQLD_image2.png]\nTỔNG GIÁM ĐỐC"
+  },
+  "answers": [
+   {
+    "key": "ac1253b006e57b8e",
+    "answer": "Nội quy lao động 2024 được ký số vào ngày 22 tháng 03 năm 2024, lúc 22:45:07. [NQLD Mở đầu]"
+   },
+   {
+    "key": "4931e537776779e6",
+    "answer": "Nội quy lao động 2024 được ký số bởi ông Nguyễn Quốc Hoàng vào ngày 22/03/2024 lúc 22:45:07 [NQLD/Chương IX]."
+   },
+   {
+    "key": "5e9d47ec284c7755",
+    "answer": "Nội quy lao động 2024 được ký số bởi ông Nguyễn Quốc Hoàng vào ngày 22/03/2024 lúc 22:45:07 [NQLD_image1.png]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-028",
+  "question": "Ca sản xuất 12 giờ được chia thành mấy ca, giờ bắt đầu và kết thúc của từng ca là bao nhiêu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ca sản xuất 12 giờ (bao gồm thời gian làm thêm) có 2 ca: Ca 1 từ 7 giờ 00 đến 19 giờ 00; Ca 2 từ 19 giờ 00 đến 7 giờ 00 ngày hôm sau (NQLD Điều 5).",
+  "key_facts": [
+   "7 giờ 00",
+   "19 giờ 00"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "e1cec0102d26942a",
+    "answer": "Ca sản xuất 12 giờ được chia thành 2 ca:\n- Ca 1: Bắt đầu lúc 7 giờ 00 và kết thúc lúc 19 giờ 00.\n- Ca 2: Bắt đầu lúc 19 giờ 00 và kết thúc lúc 7 giờ 00 ngày hôm sau.\n[NQLD Điều 5.5.1.b]"
+   },
+   {
+    "key": "39dedeed0e7ee38c",
+    "answer": "Ca sản xuất 12 giờ được chia thành 2 ca:\n- Ca 1: bắt đầu lúc 7 giờ 00 và kết thúc lúc 19 giờ 00.\n- Ca 2: bắt đầu lúc 19 giờ 00 và kết thúc lúc 7 giờ 00 ngày hôm sau.\n[NQLD Điều 5]"
+   },
+   {
+    "key": "d15385991fadd76b",
+    "answer": "Ca sản xuất 12 giờ được chia thành 2 ca:\n- Ca 1: bắt đầu 7 giờ 00 và kết thúc 19 giờ 00.\n- Ca 2: bắt đầu 19 giờ 00 và kết thúc 7 giờ 00 ngày hôm sau.\n[NQLD Điều 5.1.b]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-029",
+  "question": "Công nhân ca sản xuất được nghỉ giữa ca bao nhiêu phút đối với ca ngày và ca đêm?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Ca làm việc ban ngày được nghỉ giữa ca 30 phút/1 ca, ca đêm được nghỉ 45 phút/1 ca; thời gian nghỉ giữa giờ được tính vào giờ làm việc (NQLD Điều 5).",
+  "key_facts": [
+   "30 phút",
+   "45 phút"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "670f863dca00fef8",
+    "answer": "Đối với ca sản xuất, thời gian nghỉ giữa ca là 30 phút đối với ca làm việc ban ngày và 45 phút đối với ca làm việc ban đêm. Thời gian nghỉ giữa giờ này được tính vào giờ làm việc. [NQLD Điều 5.2.1]"
+   },
+   {
+    "key": "634ef9c6bbcad776",
+    "answer": "Công nhân ca sản xuất được nghỉ giữa ca 30 phút đối với ca làm việc ban ngày và 45 phút đối với ca đêm. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. [NQLD Điều 5]"
+   },
+   {
+    "key": "144439cc3b3f7bd6",
+    "answer": "Đối với ca sản xuất, thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày và 45 phút/1 ca làm việc ban đêm. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. [NQLD Điều 5.2.1]"
+   },
+   {
+    "key": "92180315846117d1",
+    "answer": "Đối với ca sản xuất ban ngày, thời gian nghỉ giữa ca là 30 phút/1 ca. Đối với ca đêm, thời gian nghỉ giữa ca là 45 phút/1 ca. Thời gian nghỉ giữa giờ này được tính vào giờ làm việc. [NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-030",
+  "question": "Người lao động làm đủ 12 tháng được nghỉ phép năm bao nhiêu ngày tùy theo điều kiện làm việc?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Hưởng nguyên lương theo hợp đồng lao động: 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm công việc nặng nhọc, độc hại, nguy hiểm; 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm (NQLD Điều 7).",
+  "key_facts": [
+   "12 ngày",
+   "14 ngày",
+   "16 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 7": "Điều 7. Nghỉ phép năm\n1. Người lao động làm việc đủ 12 tháng thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau:\n+ 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\n+ 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật; người làm công việc nặng nhọc, độc hại, nguy hiểm;\n+ 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n2. Đối với trường hợp làm không đủ năm (làm việc dưới 12 tháng):\nLấy số ngày nghỉ hàng năm cộng với số ngày được nghỉ tăng thêm theo thâm niên (nếu có), chia cho 12 tháng, nhân với số tháng làm việc thực tế trong năm để tính thành số ngày được nghỉ hàng năm.\n3. Cứ 05 năm làm việc tại công ty thì số ngày nghỉ hàng năm được tăng thêm 01 ngày.\n4. Lịch nghỉ phép hàng năm:\n- Mỗi tháng người lao động được nghỉ số ngày bằng tổng ngày phép chia cho 12, nếu không nghỉ thì những ngày phép đó sẽ cộng dồn vào những tháng sau. Nhân viên cũng có thể sử dụng một lần phép năm nếu không ảnh hưởng đến công việc.\n- Khi người lao động muốn nghỉ phép phải làm đơn xin phép và được sự đồng ý của người quản lý trực tiếp hoặc Người được ủy quyền. Tổng Giám đốc duyệt các trường hợp nghỉ liên tiếp từ 3 ngày trở lên. Bất kỳ sự thay đổi nào về số ngày phép đã được chấp thuận trước đó sẽ phải tuân thủ theo trình tự nộp đơn xin nghỉ phép/duyệt phép giống như lần xin phép ban đầu.\n- Trong các trường hợp nghỉ từ 05 ngày trở lên thì phải làm đơn xin phép trước 02 tuần.\n- Trường hợp khẩn cấp, xin nghỉ trong ngày, người lao động có thể thông báo bằng điện thoại cho cấp trên của mình trong hôm đó.\n5. Cách giải quyết số ngày phép chưa nghỉ hết trong năm:\n- Trường hợp chưa sử dụng hết thì những ngày nghỉ này sẽ được chuyển sang cho năm kế tiếp. Tuy nhiên người lao động phải nghỉ hết ngày phép của mình trước Quý I của năm sau, tức là trước ngày 30 tháng 3 năm sau.\n- Mùa thấp điểm theo thông báo Công ty cho phép Người lao động đăng ký nghỉ phép mà người lao động không đăng ký thì Công ty không thanh toán số ngày phép còn dư.\n- Người lao động do thôi việc, bị mất việc làm mà chưa nghỉ hàng năm thì được thanh toán bằng tiền những ngày chưa nghỉ."
+  },
+  "answers": [
+   {
+    "key": "3c2926df5aaf884d",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm như sau:\n- 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường [NQLD Điều 7.1].\n- 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật; người làm công việc nặng nhọc, độc hại, nguy hiểm [NQLD Điều 7.1].\n- 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm [NQLD Điều 7.1]."
+   },
+   {
+    "key": "465218e39dd58ef1",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm như sau:\n- 12 ngày làm việc đối với công việc bình thường.\n- 14 ngày làm việc đối với lao động chưa thành niên, người khuyết tật, hoặc làm công việc nặng nhọc, độc hại, nguy hiểm.\n- 16 ngày làm việc đối với công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n[NQLD Điều 7]"
+   },
+   {
+    "key": "4b90470438733548",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm hưởng nguyên lương như sau:\n- 12 ngày làm việc đối với công việc bình thường.\n- 14 ngày làm việc đối với lao động chưa thành niên, người khuyết tật, hoặc làm công việc nặng nhọc, độc hại, nguy hiểm.\n- 16 ngày làm việc đối với công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n[TULD Điều 5]"
+   },
+   {
+    "key": "1e3256e1d55476c7",
+    "answer": "Người lao động làm đủ 12 tháng được nghỉ phép năm hưởng nguyên lương như sau:\n- 12 ngày làm việc đối với công việc bình thường [NQLD/Điều 7].\n- 14 ngày làm việc đối với lao động chưa thành niên, người khuyết tật, hoặc làm công việc nặng nhọc, độc hại, nguy hiểm [NQLD/Điều 7].\n- 16 ngày làm việc đối với nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm [NQLD/Điều 7]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-031",
+  "question": "Thời hạn tạm đình chỉ công việc của người lao động tối đa là bao lâu?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. Hết thời hạn tạm đình chỉ, người sử dụng lao động phải nhận người lao động trở lại làm việc (NQLD Điều 31).",
+  "key_facts": [
+   "15 ngày",
+   "90 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 31": "Điều 31. Tạm đình chỉ công việc\n1. Công ty có quyền tạm đình chỉ công việc của người lao động khi vụ việc vi phạm có những tình tiết phức tạp, nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện tập thể lao động tại cơ sở.\n2. Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.\nHết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n3. Trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng.\n4. Trường hợp người lao động không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc."
+  },
+  "answers": [
+   {
+    "key": "5f12b0a7e0f54e80",
+    "answer": "Thời hạn tạm đình chỉ công việc tối đa là 15 ngày; trường hợp đặc biệt không được quá 90 ngày. [NQLD Điều 31]"
+   },
+   {
+    "key": "e5b85571fdb270c1",
+    "answer": "Thời hạn tạm đình chỉ công việc tối đa là 15 ngày; trường hợp đặc biệt không quá 90 ngày. Trong thời gian này, người lao động được tạm ứng 50% tiền lương. Nếu không bị xử lý kỷ luật, người lao động được trả đủ tiền lương cho thời gian bị tạm đình chỉ. [NQLD Điều 31]"
+   },
+   {
+    "key": "16e37dbe321ef666",
+    "answer": "Thời hạn tạm đình chỉ công việc tối đa là 15 ngày. Trong trường hợp đặc biệt, thời hạn này không được quá 90 ngày. [NQLD Điều 31]"
+   },
+   {
+    "key": "eb1b15d4cb73de86",
+    "answer": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày; trường hợp đặc biệt cũng không được quá 90 ngày [NQLD/Điều 31]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-033",
+  "question": "Lao động nữ làm ca sản xuất được nghỉ thêm bao nhiêu phút mỗi ngày và tối đa bao nhiêu ngày trong tháng?",
+  "type": "numeric_table",
+  "answerable": true,
+  "reference_answer": "Lao động nữ được nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng (NQLD Điều 5).",
+  "key_facts": [
+   "30 phút",
+   "03 ngày"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "2f2580a780cfd83a",
+    "answer": "Lao động nữ làm ca sản xuất được nghỉ thêm 30 phút/ngày và tối đa không quá 03 ngày/tháng [NQLD Điều 5.2.1]."
+   },
+   {
+    "key": "c056dc484f85a291",
+    "answer": "Lao động nữ làm ca sản xuất được nghỉ thêm 30 phút mỗi ngày, không quá 03 ngày trong tháng [NQLD Điều 5]. Ngoài ra, trong thời gian nuôi con dưới 12 tháng, lao động nữ được nghỉ thêm 60 phút/ngày [NQLD Điều 5]."
+   },
+   {
+    "key": "316fda96c2e81cba",
+    "answer": "Lao động nữ làm ca sản xuất được nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng [NQLD Điều 5]. Ngoài ra, trong thời gian nuôi con dưới 12 tháng, lao động nữ được nghỉ thêm 60 phút/ngày [NQLD Điều 5]."
+   },
+   {
+    "key": "3580da627589c089",
+    "answer": "Lao động nữ làm ca sản xuất được nghỉ thêm 30 phút/ngày, không quá 03 ngày/tháng [NQLD Điều 5]. Ngoài ra, trong thời gian nuôi con dưới 12 tháng, lao động nữ được nghỉ thêm 60 phút/ngày [NQLD Điều 5]."
+   }
+  ]
+ }
+]

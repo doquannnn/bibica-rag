@@ -1,0 +1,270 @@
+[
+ {
+  "qid": "NONE-013",
+  "question": "Đi công tác thì phụ cấp lưu trú, công tác phí mỗi ngày là bao nhiêu?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu mức công tác phí hay phụ cấp lưu trú. Tài liệu chỉ quy định CNV đi công tác được hưởng 100% lương theo HĐLĐ (Thỏa ước) hoặc được chấm 100% ngày công (Quy chế lương).",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "5ca520d6746b0df1",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú và công tác phí cụ thể mỗi ngày.\n\nTài liệu chỉ quy định:\n- CNV đi công tác được chấm 100% ngày công và hưởng nguyên lương theo HĐLĐ [QCL Điều 14], [TULD Điều 12].\n- Các khoản khấu trừ từ lương bao gồm chi phí bồi thường thiệt hại, viếng đám tang, nuôi Bà mẹ Việt Nam anh hùng, bồi hoàn chi phí đào tạo... [TULD Điều 15].\n- Công ty có thể hỗ trợ xăng xe, đi lại nhưng mức hỗ trợ cụ thể (ví dụ: 700.000đ/tháng cho CNVH, 500.000đ cho BX/LĐPT) được quy định trong Phụ lục 03 của QCL cho đối tượng trực tiếp sản xuất, không phải là phụ cấp công tác phí hàng ngày [QCL Phụ lục 3 Mục iii]."
+   },
+   {
+    "key": "013b19eed616b1a3",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú và công tác phí cụ thể mỗi ngày. Tài liệu chỉ quy định CNV đi công tác được hưởng 100% lương theo HĐLĐ và 100% ngày công theo thời gian thực tế [QCL Điều 14], [TULD Điều 12]."
+   },
+   {
+    "key": "40ae1a01f55272de",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú và công tác phí cụ thể mỗi ngày khi đi công tác.\n\nCác trích đoạn cung cấp chỉ quy định về việc chấm công và thanh toán lương cho nhân viên đi công tác:\n- Theo QCL Điều 14 và TULD Điều 12: Nhân viên đi công tác được chấm 100% ngày công và hưởng 100% lương theo hợp đồng lao động.\n- Theo QCL Điều 16: Thu nhập bao gồm các khoản như lương cơ bản, thưởng KPI, hỗ trợ xăng xe, đi lại (tính theo ngày công thực tế) nhưng không đề cập đến khoản phụ cấp lưu trú hay công tác phí hàng ngày."
+   },
+   {
+    "key": "8c10fdef5567ddea",
+    "answer": "Tài liệu nội bộ không có thông tin về mức phụ cấp lưu trú và công tác phí cụ thể mỗi ngày khi đi công tác.\n\nCác trích đoạn chỉ quy định về việc nhân viên đi công tác được chấm 100% ngày công theo thời gian thực tế [QCL Điều 14], được hưởng 100% lương theo hợp đồng lao động [TULD Điều 12] và ngày nghỉ lễ được thanh toán 100% lương [QCL Điều 14]. Thông tin về các khoản hỗ trợ khác (như xăng xe, đi lại) chỉ nêu cách tính dựa trên ngày công thực tế và mức hỗ trợ chuẩn mà không liệt kê con số cụ thể [QCL Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-014",
+  "question": "Đoàn phí công đoàn bị trừ vào lương là bao nhiêu phần trăm?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu tỷ lệ đoàn phí công đoàn. Thỏa ước và Quy chế lương chỉ liệt kê công đoàn phí (cho đoàn viên công đoàn) là khoản được khấu trừ, không có mức cụ thể.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "efc552543b419d98",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về tỷ lệ phần trăm khấu trừ công đoàn phí.\n\nTuy nhiên, [QCL/Điều 16.i] và [TULD/Điều 15.a] đều quy định: Công ty sẽ trừ từ thu nhập khoản **Công đoàn phí** đối với các cá nhân là đoàn viên công đoàn. Mức khấu trừ cụ thể (nếu có) phải tuân theo quy định của pháp luật hiện hành."
+   },
+   {
+    "key": "a0ba2333061497f7",
+    "answer": "Tài liệu nội bộ không quy định cụ thể tỷ lệ phần trăm khấu trừ công đoàn phí vào lương. Tài liệu chỉ nêu Công ty sẽ trừ công đoàn phí cho các cá nhân là đoàn viên công đoàn theo quy định đã báo trước cho người lao động [TULD Điều 15]."
+   },
+   {
+    "key": "ae4d9ac040675974",
+    "answer": "Tài liệu nội bộ không quy định cụ thể tỷ lệ phần trăm khấu trừ công đoàn phí.\n\nTheo Thỏa ước lao động tập thể 2024, Công ty sẽ trừ công đoàn phí từ thu nhập của các cá nhân là đoàn viên công đoàn, nhưng không nêu rõ mức % [TULD Điều 15].\n\nTheo Quy chế tiền lương, tiền thưởng Bibica năm 2024, công đoàn phí cũng được liệt kê là một khoản phải trừ từ thu nhập, nhưng cũng không ghi nhận tỷ lệ cụ thể [QCL Điều 16]."
+   },
+   {
+    "key": "f8fc78f20bfcdd96",
+    "answer": "Tài liệu nội bộ không có thông tin về tỷ lệ phần trăm cụ thể của khoản khấu trừ công đoàn phí.\n\nTuy nhiên, các tài liệu quy định nội dung khấu trừ như sau:\n- [TULD Điều 15] và [QCL Điều 16]: Công ty sẽ trừ công đoàn phí cho các cá nhân là đoàn viên công đoàn từ thu nhập.\n- [TULD Điều 15]: Công ty sẽ trừ các chi phí theo quy định đã báo trước cho người lao động.\n- [QCL Điều 16]: Công ty sẽ trừ các khoản phải trừ theo quy định đã báo trước cho người lao động.\n\nLưu ý: Tài liệu ghi nhận mức khấu trừ BHYT là 4,5% nhưng không nêu rõ tỷ lệ cho công đoàn phí."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-016",
+  "question": "Xe đưa rước nhân viên chạy những tuyến nào và đón lúc mấy giờ?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu tuyến đường hay giờ đón của xe đưa rước. Thỏa ước chỉ nhắc đến 'giờ đưa rước nhân viên' khi quy định việc cho NLĐ mượn xe Công ty (không ảnh hưởng giờ đưa rước).",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "5d208ca6e0945b9d",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến xe đưa rước nhân viên và giờ đón cụ thể. Tài liệu chỉ quy định về việc Công ty có thể cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi tuyến đường đi không vượt quá 100 km/02 lượt đi và về, nhưng không đề cập đến dịch vụ xe đưa rước nhân viên đi làm. [TULD Điều 17]"
+   },
+   {
+    "key": "bae4aefa4a33db4e",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón của xe đưa rước nhân viên. Tài liệu chỉ quy định về việc cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi không quá 100 km/02 lượt đi và về [TULD Điều 17]."
+   },
+   {
+    "key": "16770f0d833d4a54",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón của xe đưa rước nhân viên. Tài liệu chỉ quy định về việc cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi không vượt quá 100 km/02 lượt đi và về, với điều kiện không ảnh hưởng đến giờ đưa rước nhân viên [TULD Điều 17]."
+   },
+   {
+    "key": "d7d9baccd38a8310",
+    "answer": "Tài liệu nội bộ không có thông tin về các tuyến đường cụ thể và giờ đón xe đưa rước nhân viên. Tài liệu chỉ quy định về việc cho mượn xe phục vụ việc riêng (ma chay, cưới hỏi) trong phạm vi không vượt quá 100 km/02 lượt đi và về [TULD Điều 17]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-017",
+  "question": "Lao động nam được nghỉ bao nhiêu ngày khi vợ sinh con?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu số ngày nghỉ cụ thể khi vợ sinh con. Nội quy lao động chỉ ghi chế độ thai sản đối với lao động nam thực hiện theo quy định của Luật BHXH.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "376cc0815ec8fa70",
+    "answer": "Theo Điều 9.1.2 của Nội quy lao động 2024, đối với lao động nam, thời gian nghỉ thai sản được thực hiện theo quy định của Luật Bảo hiểm xã hội hiện hành. Tài liệu không nêu cụ thể số ngày nghỉ cho lao động nam. [NQLD Điều 9]"
+   },
+   {
+    "key": "bd901d06de813ec7",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ cho lao động nam khi vợ sinh con. Các trích đoạn chỉ quy định chi tiết về chế độ nghỉ thai sản, dưỡng sức và nghỉ thêm cho lao động nữ [NQLD Điều 9], [NQLD Điều 5]."
+   },
+   {
+    "key": "9e8b4c5df5150456",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về số ngày nghỉ cho lao động nam khi vợ sinh con. Trích đoạn 2 (NQLD Điều 9) chỉ ghi nhận quyền lợi của lao động nam là \"Theo quy định của Luật BHXH\"."
+   },
+   {
+    "key": "dd8c1b0da259229c",
+    "answer": "Tài liệu nội bộ không có thông tin về số ngày nghỉ cho lao động nam khi vợ sinh con. Các trích đoạn chỉ quy định chi tiết về chế độ nghỉ thai sản, dưỡng sức và nghỉ thêm cho lao động nữ (nuôi con dưới 12 tháng, mang thai từ tháng thứ 7) [NQLD Điều 5, Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "NONE-018",
+  "question": "Ngày sinh nhật Công ty là ngày nào trong năm?",
+  "type": "unanswerable",
+  "answerable": false,
+  "reference_answer": "Các tài liệu không nêu ngày cụ thể của sinh nhật Công ty. Chúng chỉ quy định NLĐ được nghỉ hưởng nguyên lương và được thưởng (500.000/200.000/100.000 đồng) vào dịp sinh nhật Công ty.",
+  "key_facts": [],
+  "gold_evidence": {},
+  "answers": [
+   {
+    "key": "fb4c7129546266a0",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật cụ thể của Công ty.\n\nTuy nhiên, các tài liệu đều ghi nhận ngày sinh nhật Công ty là một ngày nghỉ hưởng nguyên lương và nhân viên được nhận quà/thưởng:\n- [QCL/Điều 14] Điều 14 quy định: \"Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\"\n- [TULD/Điều 7] Điều 7 ghi nhận: \"Ngoài các ngày nghỉ lễ, tết hưởng nguyên lương theo quy định của pháp luật lao động hiện hành, NLĐ còn được nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty.\"\n- [TULD/Điều 17] Điều 17 chi tiết mức thưởng sinh nhật công ty dựa trên thâm niên (500.000đ, 200.000đ hoặc 100.000đ)."
+   },
+   {
+    "key": "51181b0fba3915a4",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật cụ thể của Công ty. Các văn bản chỉ quy định về mức thưởng sinh nhật và việc nghỉ hưởng nguyên lương vào ngày kỷ niệm sinh nhật Công ty mà không nêu rõ ngày tháng. [TULD/Điều 17], [TULD/Điều 7]"
+   },
+   {
+    "key": "ae9600779a4b4ebc",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật cụ thể của Công ty. Các trích đoạn chỉ quy định mức thưởng sinh nhật dựa trên thâm niên và thời điểm thanh toán vào tháng sinh nhật của nhân viên [TULD Điều 17], [QCL Điều 16]."
+   },
+   {
+    "key": "bc278b4c9324bbbc",
+    "answer": "Tài liệu nội bộ không có thông tin về ngày sinh nhật cụ thể của Công ty. Các trích đoạn chỉ nêu rõ ngày này là \"ngày kỷ niệm sinh nhật Công ty\" và là ngày nghỉ hưởng nguyên lương [TULD Điều 7], đồng thời quy định mức thưởng sinh nhật dựa trên thâm niên [TULD Điều 17]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-002",
+  "question": "Ai là người ban hành Nội quy lao động của Công ty và trước khi ban hành phải trao đổi, thống nhất với tổ chức nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tổng Giám đốc Công ty ban hành Nội quy lao động sau khi trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty (NQLD Phần mở đầu).",
+  "key_facts": [
+   "Tổng Giám đốc",
+   "Ban chấp hành Công đoàn"
+  ],
+  "gold_evidence": {
+   "NQLD/Mở đầu": "Phần mở đầu (căn cứ, thông tin ban hành)\n| CÔNG TY CỔ PHẦN BIBICA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM |\n|---|---|\n|  | Độc lập - Tự do - Hạnh phúc |\n| Số: ……………… | TP. HCM, ngày ….. tháng …..năm 2024 |\nNỘI QUY LAO ĐỘNG\n- Căn cứ Bộ luật Lao động nước Cộng hòa xã hội chủ nghĩa Việt Nam ngày 20/11/2019;\n- Căn cứ Nghị định 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động;\n- Căn cứ tổ chức sản xuất kinh doanh và tổ chức lao động trong doanh nghiệp;\n- Sau khi trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty, Tổng Giám đốc Công ty ban hành Nội quy lao động trong Công ty gồm các quy định sau:"
+  },
+  "answers": [
+   {
+    "key": "9d6e2ff60964c0cc",
+    "answer": "Người ban hành Nội quy lao động là Tổng Giám đốc Công ty. Trước khi ban hành, nội quy phải được trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty. [NQLD Mở đầu]"
+   },
+   {
+    "key": "0e02a9fef3c0b32b",
+    "answer": "Người ban hành Nội quy lao động là Tổng Giám đốc Công ty. Trước khi ban hành, phải trao đổi và thống nhất với Ban chấp hành Công đoàn Công ty. [NQLD Mở đầu]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-004",
+  "question": "Nội quy lao động 2024 bắt đầu có hiệu lực từ thời điểm nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Các nội dung quy định trong Nội quy có hiệu lực kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký (NQLD Điều 4).",
+  "key_facts": [
+   "Thương binh và Xã hội",
+   "xác nhận đăng ký"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 4": "Điều 4. Hiệu lực thi hành\nNhững nội dung quy định trong nội quy này có hiệu lực kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký."
+  },
+  "answers": [
+   {
+    "key": "a82652cc292f1b59",
+    "answer": "Nội quy lao động 2024 có hiệu lực kể từ ngày được Sở Lao động Thương binh và Xã hội xác nhận đăng ký [NQLD Điều 4]. Tài liệu không nêu cụ thể ngày tháng năm bắt đầu thi hành."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-006",
+  "question": "Giờ làm việc hành chính trong ngày và giờ nghỉ trưa của khối văn phòng là mấy giờ?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Giờ làm việc hành chính từ 8 giờ 00 đến 16 giờ 30; thời gian nghỉ hàng ngày (nghỉ trưa) của khối hành chính từ 12 giờ 00 đến 13 giờ 00 (NQLD Điều 5).",
+  "key_facts": [
+   "8 giờ 00",
+   "16 giờ 30",
+   "12 giờ 00",
+   "13 giờ 00"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 5": "Điều 5. Thời giờ làm việc và nghỉ ngơi\n5.1 Thời gian làm việc:\na. Thời gian trong tuần:\n-Hành chánh: từ thứ hai đến thứ bảy.\n-Ca sản xuất: từ thứ hai đến chủ nhật (Công ty sẽ bố trí nghỉ vào thời điểm thích hợp đảm bảo tối thiểu 04 ngày nghỉ/tháng).\nb. Thời gian làm việc trong ngày:\n- Hành chính: từ 8 giờ 00 đến 16 giờ 30\n- Ca sản xuất 8 giờ:\n+ Ca 1: 7 giờ 00 đến 15 giờ 30\n+ Ca 2: 15 giờ 30 đến 22 giờ 30\n+ Ca 3: 22 giờ 30 đến 7 giờ 00 ngày hôm sau\n- Ca sản xuất 12 giờ (bao gồm thời gian làm thêm):\n+ Ca 1: 7 giờ 00 đến 19 giờ 00\n+ Ca 2: 19 giờ 00 đến 7 giờ 00 ngày hôm sau.\nTrong một số trường hợp, do tính chất công việc, công ty có thể bố trí giờ làm việc cho một số đối tượng khác với quy định trên nhưng vẫn đảm bảo giờ làm việc và nghỉ ngơi theo đúng quy định pháp luật.\n5.2 Thời gian nghỉ ngơi\n5.2.1 Thời gian nghỉ hàng ngày\na. Hành chính: 12 giờ 00 đến 13 giờ 00\nb. Ca sản xuất:\n- Thời gian nghỉ giữa ca là 30 phút/1 ca làm việc ban ngày, riêng ca đêm được nghỉ 45 phút/1 ca làm việc. Thời gian nghỉ giữa giờ được tính vào giờ làm việc. Đối với lao động nữ nghỉ thêm 30 phút/ngày và không quá 03 ngày/tháng.\n- Làm việc theo ca trong điều kiện bình thường được nghỉ ít nhất 12 giờ trước khi chuyển ca.\n- Làm việc theo ca trong điều kiện mùa vụ, cuối năm sản xuất theo chu kỳ sản xuất người lao động được bố trí nghỉ định kỳ khi ngừng sản xuất để vệ sinh, bảo trì, sửa chữa máy móc định kỳ trung bình ít nhất là 04 ngày trong tháng.\n5.2.2 Ngày nghỉ hàng tuần của toàn bộ Công ty:\n- NLĐ được nghỉ 1 ngày/tuần. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hàng tuần thì Công ty bảo đảm cho người lao động được nghỉ một tháng ít nhất là 4 ngày.\n- Trong trường hợp có thông báo bị mất điện, nước, công ty sẽ thay đổi ngày nghỉ hàng tuần và thông báo ngay khi nhận lịch cúp điện/nước của Công ty điện lực hay cấp nước, để người lao động biết thực hiện.\n5.2.3 Đối với lao động nữ: ngoài việc thực hiện theo các quy định nêu trên còn được nghỉ:\n+ Trong thời gian nuôi con dưới 12 tháng: được nghỉ thêm 60 phút/ngày.\n+ Lao động nữ mang thai từ tháng thứ 7: Công ty không bố trí đi ca đêm, không bố trí làm thêm giờ."
+  },
+  "answers": [
+   {
+    "key": "782da8382451017f",
+    "answer": "Thời gian làm việc hành chính trong ngày là từ 8 giờ 00 đến 16 giờ 30. Thời gian nghỉ trưa là từ 12 giờ 00 đến 13 giờ 00. [NQLD Điều 5]"
+   },
+   {
+    "key": "301d647c43848d3c",
+    "answer": "Giờ làm việc hành chính trong ngày là từ 8 giờ 00 đến 16 giờ 30. Giờ nghỉ trưa là từ 12 giờ 00 đến 13 giờ 00. [NQLD Điều 5]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-007",
+  "question": "Người lao động nghỉ vào các ngày lễ trong năm thì có được hưởng lương không?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Có. Người lao động được nghỉ làm việc, hưởng nguyên lương các ngày lễ trong năm theo quy định của Bộ luật lao động (NQLD Điều 6).",
+  "key_facts": [
+   "nguyên lương"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 6": "Điều 6. Nghỉ ngày lễ\nNgười lao động được nghỉ làm việc, hưởng nguyên lương các ngày lễ trong năm theo Quy định của Bộ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "055fc50000f95252",
+    "answer": "Người lao động được nghỉ các ngày lễ trong năm theo quy định của Bộ luật Lao động và được hưởng nguyên lương. [NQLD Điều 6] [QCL Điều 14] [TULD Điều 7]"
+   },
+   {
+    "key": "7e0d1fe3d64a18ba",
+    "answer": "Người lao động được nghỉ làm việc, hưởng nguyên lương vào các ngày lễ trong năm theo quy định của Bộ luật lao động [NQLD Điều 6]."
+   },
+   {
+    "key": "aa1c3424f84797f0",
+    "answer": "Người lao động được nghỉ làm việc, hưởng nguyên lương các ngày lễ trong năm theo Quy định của Bộ luật lao động [NQLD Điều 6]. Đối với trường hợp nghỉ phép năm, người lao động được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động [NQLD Điều 7]."
+   },
+   {
+    "key": "37bbf4066b7cc328",
+    "answer": "Người lao động được nghỉ làm việc, hưởng nguyên lương các ngày lễ trong năm theo Quy định của Bộ luật lao động [NQLD Điều 6]. Việc làm thêm giờ hoặc làm việc trong ngày nghỉ, ngày lễ có hưởng lương thực hiện theo quy định của Bộ luật Lao động [NQLD Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-008",
+  "question": "Người lao động bị xử lý kỷ luật, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất mà thấy không thỏa đáng thì có thể làm gì?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Nếu thấy không thỏa đáng, người đó có quyền làm đơn khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động (NQLD Điều 32).",
+  "key_facts": [
+   "khiếu nại",
+   "tranh chấp lao động cá nhân"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 32": "Điều 32. Trách nhiệm vật chất\n1. Bồi thường thiệt hại\n1.1. Người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương ghi trong hợp đồng lao động của tháng trước liền kề trước khi gây thiệt hại bằng hình thức khấu trừ hàng tháng vào lương do sơ suất làm hư hỏng dụng cụ, thiết bị với giá trị thiệt hại thực tế không quá 10 tháng lương tối thiểu vùng áp dụng tại nơi người lao động làm việc do Chính phủ công bố.\n1.2. Người lao động phải bồi thường thiệt hại một phần hoặc toàn bộ theo thời giá thị trường khi thuộc một trong các trường hợp sau:\na) Do sơ suất làm hư hỏng dụng cụ thiết bị với giá trị thiệt hại thực tế từ 10 tháng lương tối thiểu vùng trở lên áp dụng tại nơi người lao động làm việc do Chính phủ công bố;\nb) Làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặc tài sản khác do người sử dụng lao động giao;\nc) Tiêu hao vật tư quá định mức cho phép của người sử dụng lao động.\n1.3. Trường hợp người lao động gây thiệt hại cho người sử dụng lao động theo quy định tại điểm 1.2 nêu trên mà có hợp đồng trách nhiệm với người sử dụng lao động thì phải bồi thường theo hợp đồng trách nhiệm.\n1.4. Trường hợp thiệt hại do thiên tai, hỏa hoạn, địch họa, dịch bệnh, thảm họa hoặc do sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù người sử dụng lao động đã áp dụng mọi biện pháp cần thiết và khả năng cho phép thì người lao động không phải bồi thường.\n1.5. Trình tự, thủ tục và thời hiệu xử lý bồi thường thiệt hại được áp dụng theo trình tự, thủ tục và thời hiệu xử lý kỷ luật lao động.\n2. Khiếu nại về kỷ luật lao động, trách nhiệm vật chất\nNgười bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thỏa đáng thì có đơn khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động.\n3. Trình tự, thủ tục xử lý việc bồi thường thiệt hại được áp dụng như các quy định về trình tự, thủ tục xử lý kỷ luật lao động trong nội quy này."
+  },
+  "answers": [
+   {
+    "key": "c040f1092775fa7a",
+    "answer": "Người lao động có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự quy định của Bộ luật Lao động. [NQLD Điều 32.2]"
+   },
+   {
+    "key": "15e16322ae834086",
+    "answer": "Người lao động có thể làm đơn khiếu nại với người sử dụng lao động, cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự Bộ luật Lao động [NQLD Điều 32]."
+   },
+   {
+    "key": "d3b7c449a55b458b",
+    "answer": "Người lao động có quyền làm đơn khiếu nại với người sử dụng lao động, cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự Bộ luật Lao động. [NQLD Điều 32]"
+   },
+   {
+    "key": "fae6c93471d5638b",
+    "answer": "Người lao động có thể làm đơn khiếu nại với người sử dụng lao động, cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động cá nhân theo trình tự Bộ luật Lao động. [NQLD Điều 32]"
+   }
+  ]
+ }
+]

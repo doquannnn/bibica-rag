@@ -1,0 +1,332 @@
+[
+ {
+  "qid": "NQLD-056",
+  "question": "Nhân viên G nghỉ bệnh 2 ngày trong tháng nhưng sau đó không nộp giấy xác nhận của cơ sở khám, chữa bệnh. G bị xử lý thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Nếu sau khi nghỉ bệnh không nộp giấy xác nhận của cơ sở khám, chữa bệnh thì bị xem là nghỉ việc không có lý do chính đáng (Điều 8). Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng bị xử lý bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng, nên G thuộc trường hợp này (NQLD Điều 8, Điều 28).",
+  "key_facts": [
+   "không có lý do chính đáng",
+   "nâng lương"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 8": "Điều 8. Nghỉ bệnh\n- Nếu người lao động bị bệnh thì người lao động hoặc người thân của người lao động phải thông báo cho Công ty biết trong thời gian sớm nhất.\n- Trường hợp nghỉ bệnh thì sau khi nghỉ bệnh người lao động phải nộp giấy xác nhận của cơ sở khám, chữa bệnh, nếu không sẽ bị xem là nghỉ việc không có lý do chính đáng.\n- Trong thời gian nghỉ bệnh theo chỉ định của cơ sở khám, chữa bệnh, người lao động được hưởng chế độ ốm đau theo quy định của BHXH.",
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận)."
+  },
+  "answers": [
+   {
+    "key": "d3e84321de5b6be0",
+    "answer": "Nhân viên G bị xem là nghỉ việc không có lý do chính đáng và có thể bị xử lý kỷ luật. Theo Điều 8 của Nội quy lao động, sau khi nghỉ bệnh, người lao động phải nộp giấy xác nhận của cơ sở khám, chữa bệnh; nếu không sẽ bị xem là nghỉ việc không có lý do chính đáng. Hành vi này có thể bị xử lý kỷ luật theo quy định tại Điều 28 (Hình thức khiển trách hoặc kéo dài thời gian nâng lương) tùy mức độ vi phạm. [NQLD Điều 8], [NQLD Điều 28]"
+   },
+   {
+    "key": "694e347b1313a5d4",
+    "answer": "Nhân viên G sẽ bị xem là nghỉ việc không có lý do chính đáng và có thể bị xử lý kỷ luật. Theo Điều 8 NQLD, sau khi nghỉ bệnh, người lao động phải nộp giấy xác nhận của cơ sở khám, chữa bệnh; nếu không sẽ bị xem là nghỉ việc không có lý do chính đáng [NQLD Điều 8]. Việc nghỉ không có lý do chính đáng có thể bị xử lý kỷ luật nếu nhân viên tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày trong 365 ngày mà không có lý do chính đáng [NQLD Điều 28]."
+   },
+   {
+    "key": "21242e867a335f6a",
+    "answer": "Nhân viên G bị xem là nghỉ việc không có lý do chính đáng do không nộp giấy xác nhận của cơ sở khám, chữa bệnh sau khi nghỉ bệnh [NQLD Điều 8]. Hành vi nghỉ việc không có lý do chính đáng từ 01 ngày đến dưới 05 ngày cộng dồn trong 01 tháng sẽ bị xử lý kỷ luật bằng hình thức kéo dài thời gian nâng lương không quá 06 tháng [NQLD Điều 28.2.b.ix]."
+   },
+   {
+    "key": "3eda26ed7931c093",
+    "answer": "Nhân viên G sẽ bị xem là nghỉ việc không có lý do chính đáng do không nộp giấy xác nhận của cơ sở khám, chữa bệnh sau khi nghỉ bệnh. Hành vi này có thể dẫn đến xử lý kỷ luật tùy thuộc vào tần suất và mức độ vi phạm khác (ví dụ: nếu G thường xuyên đi trễ/vắng mặt không báo hoặc tự ý bỏ việc 05 ngày cộng dồn trong một tháng). Trong trường hợp G nộp giấy xác nhận nhưng không được chấp thuận hoặc nghỉ không đúng quy định, việc này cũng có thể bị coi là vi phạm.\n\n[NQLD Điều 8], [NQLD Điều 28], [NQLD Điều 14]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-058",
+  "question": "Quản lý bộ phận muốn trừ 200.000 đồng tiền lương của nhân viên đi trễ thay cho việc xử lý kỷ luật. Làm vậy có đúng nội quy không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không đúng. Nội quy cấm dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động; việc xử lý kỷ luật lao động phải được lập thành biên bản theo đúng trình tự (NQLD Điều 27).",
+  "key_facts": [
+   "phạt tiền",
+   "cắt lương"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "2585f7ad9e1eb159",
+    "answer": "Không đúng. Theo Điều 28.1 và Điều 28.2 của Nội quy lao động, hình thức xử lý kỷ luật cho hành vi đi trễ (vi phạm Điều 14) là \"khiển trách bằng văn bản\" hoặc \"kéo dài thời gian nâng lương\", không bao gồm phạt tiền. Việc trừ tiền lương thay thế kỷ luật là hành vi bị cấm.\n\n[NQLD Điều 28.1], [NQLD Điều 28.2]"
+   },
+   {
+    "key": "0c65e105d4024edf",
+    "answer": "Không đúng. Theo Điều 27 NQLD, công ty không được dùng hình thức phạt tiền, cắt lương thay vì xử lý kỷ luật lao động. Hành vi đi trễ không báo trước sẽ bị xử lý kỷ luật theo quy định (thường là khiển trách nếu lần đầu), không phải trừ tiền lương. [NQLD Điều 27]"
+   },
+   {
+    "key": "db7dd4052cb9f6f1",
+    "answer": "Không đúng. Theo Nội quy lao động 2024, việc đi trễ mà không báo trước hoặc không được chấp thuận sẽ bị xem là nghỉ không có lý do chính đáng và bị xử lý kỷ luật (Điều 14). Các hình thức xử lý kỷ luật được quy định cụ thể là: khiển trách, kéo dài thời gian nâng lương, cách chức hoặc sa thải (Điều 28). Tài liệu không có quy định nào cho phép trừ tiền lương trực tiếp thay thế cho hình thức xử lý kỷ luật.\n\n[NQLD Điều 14], [NQLD Điều 28]"
+   },
+   {
+    "key": "404204773bba7234",
+    "answer": "Không đúng. Theo Điều 27 của Nội quy lao động 2024, công ty cấm dùng hình thức phạt tiền hoặc cắt lương thay vì xử lý kỷ luật lao động. Hành vi đi trễ không báo trước là vi phạm kỷ luật, cần được xử lý theo quy định (ví dụ: khiển trách hoặc các hình thức khác) chứ không được trừ tiền lương trực tiếp. [NQLD Điều 27]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-061",
+  "question": "Chị K đã nghỉ thai sản được 5 tháng và muốn đi làm lại trước khi hết thời gian nghỉ. Chị cần làm gì và được hưởng lương như thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Vì đã nghỉ ít nhất 04 tháng nên chị K có thể đi làm sớm nếu có nhu cầu: phải thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc. Khi đi làm sớm, chị được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH (NQLD Điều 9).",
+  "key_facts": [
+   "07 ngày",
+   "xác nhận",
+   "đủ lương"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 9": "Điều 9. Nghỉ thai sản\n1. Đối với lao động nữ\n1.1. Thời gian hưởng chế độ khi khám thai: Theo quy định của Luật BHXH.\n1.2. Thời gian hưởng chế độ khi sinh con: Theo quy định của Luật BHXH.\n1.3. Trở lại làm việc trước khi hết thời gian nghỉ thai sản\n- Sau khi nghỉ ít nhất 04 tháng, trước khi hết thời gian nghỉ thai sản theo quy định, nếu có nhu cầu, lao động nữ phải thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc.\n- Khi đi làm sớm, lao động nữ được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH.\n1.4. Dưỡng sức, phục hồi sức khỏe sau thai sản: Theo quy định của Luật BHXH.\n2. Đối với lao động nam: Theo quy định của Luật BHXH."
+  },
+  "answers": [
+   {
+    "key": "7297367b74083a05",
+    "answer": "Chị K cần thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc. Khi đi làm sớm, chị được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH. [NQLD Điều 9.1.3]"
+   },
+   {
+    "key": "165fb652ec343209",
+    "answer": "Chị K cần thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc [NQLD Điều 9]. Khi đi làm sớm, chị K được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH [NQLD Điều 9].\n\nVề trợ cấp, vì chị K nghỉ thai sản 6 tháng và có thâm niên từ 3 năm trở lên (giả định), chị được trợ cấp 2 triệu đồng trong vòng 6 tháng (đã bao gồm khoản tương đương 1% lương đóng BHTN); nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương đóng BHTN [QCL Điều 13]."
+   },
+   {
+    "key": "a44e65d2b5349de9",
+    "answer": "Chị K cần thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc [NQLD Điều 9]. Khi đi làm sớm, chị K được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH [NQLD Điều 9].\n\nVề trợ cấp, nếu chị K nghỉ thai sản đủ 6 tháng (bao gồm 5 tháng đã nghỉ + thời gian còn lại), chị được hưởng trợ cấp theo thâm niên: nếu thâm niên đủ 3 năm trở lên thì được trợ cấp 2 triệu đồng trong vòng 6 tháng (đã bao gồm khoản tương đương 1% lương đóng BHTN), nếu 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức 1% lương đóng BHTN; nếu thâm niên dưới 3 năm thì được trợ cấp tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng [QCL Điều 13; TULD Điều 11]."
+   },
+   {
+    "key": "4a127cf61a841c61",
+    "answer": "Chị K cần thông báo cho người quản lý trực tiếp hoặc Giám đốc ít nhất trước 07 ngày, cung cấp Giấy xác nhận của cơ sở khám chữa bệnh về việc đi làm sớm không có hại đến sức khỏe và được sự chấp thuận của người quản lý trực tiếp và Giám đốc [NQLD Điều 9]. Khi đi làm sớm, chị K được thanh toán đủ lương cho những ngày đi làm, ngoài những khoản từ Quỹ BHXH [NQLD Điều 9]. Về trợ cấp, nếu chị K nghỉ đủ 6 tháng và có thâm niên dưới 3 năm sẽ được trợ cấp tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng; nếu thâm niên từ 3 năm trở lên sẽ được trợ cấp 2 triệu đồng (hoặc 1% lương đóng BHTN nếu cao hơn 2 triệu) [QCL Điều 13; TULD Điều 11]."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-062",
+  "question": "Nhân viên L bị kỷ luật kéo dài thời hạn nâng lương, 4 tháng sau lại tái phạm. L có thể bị xử lý thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Kỷ luật kéo dài thời hạn nâng lương chỉ được xóa sau 06 tháng kể từ ngày bị xử lý nếu không tái phạm (Điều 30). Tái phạm sau 4 tháng là trong thời gian chưa xóa kỷ luật, nên L thuộc trường hợp bị xử lý kỷ luật sa thải (NQLD Điều 28, Điều 30).",
+  "key_facts": [
+   "sa thải"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận).",
+   "NQLD/Điều 30": "Điều 30. Xoá kỷ luật, giảm thời hạn chấp hành kỷ luật lao động\n1. Người lao động bị khiển trách sau 03 tháng, hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau 06 tháng, kể từ ngày bị xử lý, nếu không tái phạm thì đương nhiên được xoá kỷ luật. Trường hợp bị xử lý kỷ luật lao động bằng hình thức cách chức thì sau thời hạn 03 năm, nếu tiếp tục vi phạm kỷ luật lao động thì không bị coi là tái phạm.\n2. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương sau khi chấp hành được một nửa thời hạn nếu sửa chữa tiến bộ, có thể được người sử dụng lao động xét giảm thời hạn."
+  },
+  "answers": [
+   {
+    "key": "ee872e8e29b00c27",
+    "answer": "Nhân viên L bị xử lý kỷ luật bằng hình thức **Sa thải**.\n\nTheo Điều 28.4.b) Nội quy lao động 2024, người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xóa kỷ luật sẽ bị sa thải. Vì nhân viên L tái phạm sau 4 tháng (trong thời hạn 6 tháng chưa xóa kỷ luật), nên áp dụng hình thức này.\n\n[NQLD Điều 28]"
+   },
+   {
+    "key": "fcd4e897df8e0a0c",
+    "answer": "Nhân viên L có thể bị sa thải. Theo Điều 28 khoản 4 mục b của Nội quy lao động 2024, người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật sẽ bị xử lý bằng hình thức sa thải. [NQLD Điều 28]"
+   },
+   {
+    "key": "3bdbbf0e39d198d1",
+    "answer": "Nhân viên L bị xử lý kỷ luật bằng hình thức sa thải.\n\nTheo Điều 28.4.b của Nội quy lao động 2024, người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật sẽ bị xử lý bằng hình thức sa thải. Do L tái phạm chỉ sau 4 tháng (chưa đủ 6 tháng để xoá kỷ luật theo Điều 30), hành vi này thuộc trường hợp bị sa thải.\n\n[NQLD Điều 28.4.b]"
+   },
+   {
+    "key": "b904ae366fb5594c",
+    "answer": "Nhân viên L bị xử lý kỷ luật bằng hình thức kéo dài thời hạn nâng lương. Theo Điều 28 khoản 4 và Điều 30 khoản 2 của Nội quy lao động 2024, nếu người lao động bị xử lý hình thức này mà tái phạm trong thời gian chưa xoá kỷ luật (tức là chưa đủ 6 tháng kể từ ngày bị xử lý), sẽ bị xử lý bằng hình thức sa thải. Vì L tái phạm sau 4 tháng (chưa đủ 6 tháng), L có thể bị sa thải. [NQLD Điều 28], [NQLD Điều 30]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-063",
+  "question": "Xưởng sản xuất xảy ra hỏa hoạn, Công ty yêu cầu công nhân ở lại làm thêm giờ để cứu tài sản và khắc phục hậu quả. Công nhân có được từ chối không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không được từ chối. Người sử dụng lao động có quyền yêu cầu làm thêm giờ vào bất kỳ ngày nào và người lao động không được từ chối khi thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa (NQLD Điều 12).",
+  "key_facts": [
+   "không được từ chối"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 12": "Điều 12. Làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương\n1. Làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường được quy định tại Điều 5 của Nội quy này.\n2. Trong quá trình hoạt động sản xuất kinh doanh, nếu cần người lao động làm thêm giờ, Công ty sẽ thông báo và thỏa thuận với người lao động về việc làm thêm giờ, làm thêm vào ngày nghỉ, ngày lễ tết. Đảm bảo:\n+ Được sự đồng ý của người lao động;\n+ Số giờ làm thêm theo quy định của Luật Lao động.\n3. Tiền lương làm thêm giờ, làm việc trong ngày nghỉ, ngày lễ có hưởng lương: Theo qui định của Bộ Luật Lao động.\n4. Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào và người lao động không được từ chối trong các trường hợp sau đây:\n- Thực hiện lệnh động viên, huy động bảo đảm nhiệm vụ quốc phòng, an ninh trong tình trạng khẩn cấp về quốc phòng, an ninh theo quy định của pháp luật;\n- Thực hiện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa."
+  },
+  "answers": [
+   {
+    "key": "3668cd8d7614afbd",
+    "answer": "Không, công nhân không được từ chối. Theo Điều 12 khoản 4 của Nội quy lao động và Điều 12 khoản 4 của Quy chế tiền lương, người lao động không được từ chối yêu cầu làm thêm giờ trong trường hợp bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức khi phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn. [NQLD Điều 12], [QCL Điều 12]"
+   },
+   {
+    "key": "7bf7fbb1ef76deac",
+    "answer": "Công nhân không được từ chối. Theo Điều 12 NQLD, người lao động phải thực hiện yêu cầu làm thêm giờ khi tham gia khắc phục hậu quả hỏa hoạn nhằm bảo vệ tài sản của công ty. [NQLD Điều 12]"
+   },
+   {
+    "key": "ce2acb97cbbb2079",
+    "answer": "Không được từ chối. Theo Điều 12 khoản 4 của Nội quy lao động 2024, người lao động không được từ chối yêu cầu làm thêm giờ khi thực hiện công việc nhằm bảo vệ tài sản trong khắc phục hậu quả hỏa hoạn. Tiền lương cho thời gian này được tính theo quy định của Bộ luật Lao động. [NQLD Điều 12]"
+   },
+   {
+    "key": "7d6d3f6e8e407ff5",
+    "answer": "Không, công nhân không được từ chối. Theo Điều 12 của Nội quy lao động 2024, người lao động không được từ chối yêu cầu làm thêm giờ khi thực hiện công việc nhằm bảo vệ tài sản và khắc phục hậu quả hỏa hoạn. Trong trường hợp này, việc cứu tài sản và khắc phục hậu quả hỏa hoạn thuộc trường hợp bắt buộc làm thêm giờ mà người lao động phải chấp hành. [NQLD Điều 12]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-064",
+  "question": "Nội quy lao động quy định những hình thức xử lý kỷ luật lao động nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Có 4 hình thức: (1) khiển trách bằng văn bản; (2) kéo dài thời gian nâng lương không quá 6 tháng; (3) cách chức; (4) sa thải (NQLD Điều 28).",
+  "key_facts": [
+   "khiển trách",
+   "nâng lương",
+   "cách chức",
+   "sa thải"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 28": "Điều 28. Hình thức xử lý khi vi phạm kỷ luật lao động\n1. Hình thức khiển trách bằng văn bản\nĐối với các trường hợp vi phạm kỷ luật lần đầu, không gây ra hậu quả nghiêm trọng ảnh hưởng đến hoạt động sản xuất kinh doanh của công ty thì bị xử lý theo hình thức khiển trách:\na. Vi phạm Điều 5, 13, 14, 15, 16, 19 của Nội quy này;\nb. Vi phạm điểm a, b, c điều Điều 17 của Nội quy này;\nc. Đồng phạm, che dấu các hành vi vi phạm quy định của công ty;\nd. Các hành vi khác vi phạm Nội quy gây ra hậu quả không nghiêm trọng (giá trị dưới 5.000.000 đồng).\n2. Hình thức kéo dài thời gian nâng lương không quá 6 tháng\nXử lý vi phạm bằng hình thức kéo dài thời hạn nâng lương không quá 6 tháng đối với các vi phạm sau đây:\na) Đối với người lao động đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 3 tháng kể từ ngày bị khiển trách.\nb) Có những hành vi vi phạm quy định dưới đây\ni. Nhân viên tiếp tay với người khác chống lại lợi ích của Công ty để nhận tiền hay bất kỳ lợi ích nào khác.\nii. Nhân viên cố ý gây tổn hại đến lợi ích của Công ty như:\n+ Sửa chữa và/hoặc sử dụng vật liệu và thiết bị của Công ty để tạo tài sản riêng của mình.\n+ Tham ô hoặc biển thủ tiền của Công ty ở mức độ nhẹ (tức dưới 500.000 đồng) dưới bất kỳ hình thức nào.\n+ Truyền bá, thông tin, báo cáo sai về tình hình kinh doanh của Công ty.\n+ Tiết lộ thông tin bí mật của Công ty.\n+ Tự ý đưa người lạ vào Công ty khi chưa được phép.\niii. Nhân viên thường xuyên (từ 02 lần trở lên trong một tháng) đi trễ hoặc vắng mặt mà không có thông báo hoặc không có lý do chính đáng. Các trường hợp được coi là có lý do chính đáng bao gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được người cấp trên, quản lý trực tiếp chấp thuận.\niv. Nhân viên có hành vi hoặc biểu hiện suy đồi đạo đức trong Công ty, bao gồm quấy rối tình dục bằng lời nói gồm lời nói trực tiếp, qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình dục; quấy rối tình dục phi lời nói gồm ngôn ngữ cơ thể; trưng bày, miêu tả tài liệu trữ quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử.\nv. Nhân viên không cố gắng hoặc lơ là trong việc thực hiện nhiệm vụ của mình dẫn đến thường xuyên (từ 03 lần trở lên trong tháng hoặc 03 tháng liên tục hoặc 03 kỳ đánh giá liên tục) không hoàn thành công việc theo hợp đồng lao động. Các tiêu chí đánh giá mức độ hoàn thành công việc nêu trong quy chế được ban hành hợp pháp bởi Công ty.\nvi. Nhân viên bị Công ty phát hiện được tuyển dụng không trung thực và đúng quy định do cung cấp những thông tin sai về bản thân.\nvii. Nhân viên không tuân thủ quy trình làm việc đã được Công ty hướng dẫn.\nviii. Nhân viên vi phạm quy định về nội quy PCCC.\nix. Nghỉ việc không có lý do từ trên 1 ngày đến dưới 5 ngày cộng dồn trong 1 tháng.\nx. Say rượu, uống rượu, bia hoặc sử dụng chất kích thích khác khi chưa được phép.\n3. Hình thức cách chức\nXử lý vi phạm bằng hình thức cách chức đối với các vi phạm sau đây:\na. Vi phạm điểm e, f Điều 17 của Nội quy;\nb. Sử dụng danh nghĩa công ty cho việc riêng;\nc. Cản trở giao dịch giữa công ty và khách hàng, và ngược lại;\nd. Giả mạo chứng nhận của cơ sở khám, chữa bệnh hoặc những giấy tờ khác để lừa dối công ty;\ne. Lừa đảo khi thực hiện công việc hoặc nhiệm vụ được giao;\nf. Vi phạm nhiệm vụ được giao.\n4. Hình thức sa thải\na) Người lao động vi phạm các hành vi liên quan đến trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc, quấy rối tình dục mang tính thể chất gồm hành động, cử chỉ, tiếp xúc, tác động vào cơ thể mang tính tình dục hoặc gợi ý tình dục; tiết lộ bí mật công nghệ, bí mật kinh doanh hoặc có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng tài sản, lợi ích của Công ty. Giá trị thiệt hại nghiêm trọng được xác định từ 10 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở. Giá trị thiệt hại đặc biệt nghiêm trọng được xác định từ 30 tháng lương tối thiểu vùng theo quy định Chính phủ nơi Công ty có trụ sở.\nb) Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương mà tái phạm trong thời gian chưa xoá kỷ luật hoặc bị xử lý kỷ luật cách chức mà tái phạm.\nc) Người lao động tự ý bỏ việc 05 ngày cộng dồn trong một tháng hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. (Trường hợp được coi là lý do chính đáng gồm: bị thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở y tế được thành lập hợp pháp và các trường hợp khác được Tổng Giám Đốc/Người được ủy quyền chấp thuận)."
+  },
+  "answers": [
+   {
+    "key": "c4fb573a5ddbd9dc",
+    "answer": "Nội quy lao động quy định 4 hình thức xử lý kỷ luật lao động:\n1. Khen trách bằng văn bản: Áp dụng cho vi phạm lần đầu, không gây hậu quả nghiêm trọng (giá trị dưới 5.000.000 đồng) hoặc vi phạm các điều khoản cụ thể về giờ giấc, tác phong, trang phục... [NQLD Điều 28.1].\n2. Kéo dài thời gian nâng lương không quá 6 tháng: Áp dụng cho người đã bị khiển trách mà tái phạm trong 3 tháng hoặc các hành vi vi phạm cụ thể như tham ô nhẹ, tiết lộ bí mật, thường xuyên đi trễ/vắng mặt, không hoàn thành công việc... [NQLD Điều 28.2].\n3. Cách chức: Áp dụng cho các hành vi như cưỡng ép, đe dọa, sử dụng danh nghĩa công ty, cản trở giao dịch, giả mạo giấy tờ, lừa đảo... [NQLD Điều 28.3].\n4. Sa thải: Áp dụng cho hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy, quấy rối tình dục thể chất, tiết lộ bí mật, gây thiệt hại nghiêm trọng (từ 10 tháng lương tối thiểu vùng trở lên) hoặc tự ý bỏ việc quá mức quy định... [NQLD Điều 28.4]."
+   },
+   {
+    "key": "10efd5c9edbb8def",
+    "answer": "Nội quy lao động quy định các hình thức xử lý kỷ luật lao động sau:\n1. Khen trách bằng văn bản (áp dụng cho vi phạm lần đầu, không gây hậu quả nghiêm trọng).\n2. Khen cáo bằng văn bản (áp dụng cho vi phạm gây hậu quả nghiêm trọng nhưng chưa đến mức sa thải).\n3. Cách chức (áp dụng cho người giữ chức vụ vi phạm).\n4. Sa thải (áp dụng cho các hành vi nghiêm trọng như trộm cắp, tham ô, gây thiệt hại từ 10 tháng lương tối thiểu vùng trở lên, hoặc tái phạm sau khi bị kỷ luật kéo dài thời hạn nâng lương/cách chức).\n\nTài liệu không liệt kê cụ thể hình thức \"Kê khai\" hay \"Phạt tiền\" (vì NQLD cấm phạt tiền).\n[NQLD Điều 28]"
+   },
+   {
+    "key": "d0912baaa5808eed",
+    "answer": "Nội quy lao động quy định 4 hình thức xử lý kỷ luật lao động:\n1. Khen trách bằng văn bản.\n2. Kéo dài thời gian nâng lương không quá 6 tháng.\n3. Cách chức.\n4. Sa thải.\n\nCác hình thức này được quy định chi tiết tại Điều 28 của Nội quy lao động 2024 [NQLD Điều 28]."
+   },
+   {
+    "key": "06af8f4458e0f07a",
+    "answer": "Nội quy lao động quy định các hình thức xử lý kỷ luật sau:\n1. Khen ngợi (không phải hình thức xử lý).\n2. Khen thưởng (không phải hình thức xử lý).\n3. Khen ngợi (không phải hình thức xử lý).\n4. Khen thưởng (không phải hình thức xử lý).\n5. Khen ngợi (không phải hình thức xử lý).\n6. Khen thưởng (không phải hình thức xử lý).\n7. Khen ngợi (không phải hình thức xử lý).\n8. Khen thưởng (không phải hình thức xử lý).\n9. Khen ngợi (không phải hình thức xử lý).\n10. Khen thưởng (không phải hình thức xử lý).\n11. Khen ngợi (không phải hình thức xử lý).\n12. Khen thưởng (không phải hình thức xử lý).\n13. Khen ngợi (không phải hình thức xử lý).\n14. Khen thưởng (không phải hình thức xử lý).\n15. Khen ngợi (không phải hình thức xử lý).\n16. Khen thưởng (không phải hình thức xử lý).\n17. Khen ngợi (không phải hình thức xử lý).\n18. Khen thưởng (không phải hình thức xử lý).\n19. Khen ngợi (không phải hình thức xử lý).\n20. Khen thưởng (không phải hình thức xử lý).\n21. Khen ngợi (không phải hình thức xử lý).\n22. Khen thưởng (không phải hình thức xử lý).\n23. Khen ngợi (không phải hình thức xử lý).\n24. Khen thưởng (không phải hình thức xử lý).\n25. Khen ngợi (không phải hình thức xử lý).\n26. Khen thưởng (không phải hình thức xử lý).\n27."
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-065",
+  "question": "Trình tự xử lý vi phạm kỷ luật lao động gồm những bước nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Gồm 6 bước: Bước 1 - Lập biên bản vi phạm; Bước 2 - Thông báo đến tổ chức đại diện, người đại diện của người lao động (Công đoàn cơ sở); Bước 3 - Thu thập chứng cứ chứng minh lỗi (nếu có); Bước 4 - Thông báo thông tin về cuộc họp xử lý kỷ luật lao động; Bước 5 - Họp xử lý kỷ luật lao động; Bước 6 - Ban hành quyết định xử lý kỷ luật lao động (NQLD Điều 27).",
+  "key_facts": [
+   "lập biên bản",
+   "thu thập chứng cứ",
+   "họp xử lý kỷ luật",
+   "ban hành quyết định"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "5bf3da3e94200100",
+    "answer": "Trình tự xử lý vi phạm kỷ luật lao động gồm 6 bước:\n1. Lập biên bản vi phạm.\n2. Thông báo đến tổ chức đại diện, người đại diện của người lao động.\n3. Thu thập chứng cứ chứng minh lỗi (nếu có).\n4. Thông báo thông tin về cuộc họp xử lý kỷ luật lao động (ít nhất 05 ngày làm việc trước ngày họp).\n5. Họp xử lý kỷ luật lao động.\n6. Ban hành quyết định xử lý kỷ luật lao động.\n[NQLD Điều 27]"
+   },
+   {
+    "key": "a8f3f39e3ed487cb",
+    "answer": "Trình tự xử lý vi phạm kỷ luật lao động gồm 5 bước:\n1. Lập biên bản vi phạm khi phát hiện hành vi vi phạm.\n2. Thông báo đến Công đoàn cơ sở và người đại diện người lao động về nội dung, thời gian, địa điểm họp, họ tên người bị xử lý và hành vi vi phạm.\n3. Thu thập chứng cứ chứng minh lỗi nếu phát hiện hành vi sau thời điểm xảy ra.\n4. Thỏa thuận hoặc quyết định thời gian, địa điểm họp nếu có sự thay đổi.\n5. Tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo.\n[NQLD Điều 27]"
+   },
+   {
+    "key": "9721af22abaa7259",
+    "answer": "Trình tự xử lý vi phạm kỷ luật lao động gồm 6 bước:\n1. Lập biên bản vi phạm.\n2. Thông báo đến tổ chức đại diện (Công đoàn cơ sở) và người đại diện của người lao động.\n3. Thu thập chứng cứ chứng minh lỗi (nếu có); có thể tạm đình chỉ công việc nếu vụ việc phức tạp.\n4. Thông báo thông tin về cuộc họp xử lý kỷ luật (ít nhất 05 ngày làm việc trước ngày họp).\n5. Họp xử lý kỷ luật lao động và lập biên bản.\n6. Ban hành quyết định xử lý kỷ luật lao động.\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "d635c111381d7437",
+    "answer": "Trình tự xử lý vi phạm kỷ luật lao động gồm 5 bước:\n1. Cấp trên trực tiếp lập biên bản vi phạm khi phát hiện hành vi vi phạm tại thời điểm xảy ra.\n2. Công ty thông báo đến Công đoàn cơ sở và người đại diện của người lao động về nội dung, thời gian, địa điểm họp, họ tên người bị xử lý và hành vi vi phạm.\n3. Thu thập chứng cứ chứng minh lỗi nếu hành vi được phát hiện sau thời điểm xảy ra.\n4. Các thành phần xác nhận tham dự cuộc họp; nếu không thể tham dự thì hai bên thỏa thuận thay đổi thời gian, địa điểm, nếu không thỏa thuận được thì Công ty quyết định.\n5. Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo.\n[NQLD Điều 27]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-066",
+  "question": "Người lao động đang trong những thời gian hoặc hoàn cảnh nào thì không được xử lý kỷ luật lao động?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Không được xử lý kỷ luật khi người lao động đang: (1) nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động; (2) bị tạm giữ, tạm giam; (3) chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ...; (4) lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi. Ngoài ra không xử lý kỷ luật người lao động vi phạm trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình (NQLD Điều 27).",
+  "key_facts": [
+   "tạm giam",
+   "nghỉ thai sản",
+   "12 tháng",
+   "bệnh tâm thần"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 27": "Điều 27. Nguyên tắc và trình tự xử lý kỷ luật lao động\n1. Nguyên tắc\n- Việc xử lý kỷ luật lao động phải được lập thành biên bản.\n- Không được áp dụng nhiều hình thức xử lý kỷ luật lao động đối với một hành vi vi phạm kỷ luật lao động.\n- Khi một người đồng thời có nhiều hành vi vi phạm kỷ luật lao động thì chỉ áp dụng hình thức kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất.\n- Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây:\n+ Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;\n+ Đang bị tạm giữ, tạm giam;\n+ Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ,…\n+ Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Không xử lý kỷ luật lao động người lao động vi phạm kỷ luật lao động trong khi mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình.\n- Những quy định cấm khi xử lý kỷ luật lao động:\n+ Xâm phạm thân thể, nhân phẩm của người lao động.\n+ Dùng hình thức phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\n+ Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động.\n2. Trình tự xử lý vi phạm kỷ luật lao động\nBước 1: Lập biên bản vi phạm\nKhi phát hiện người lao động có hành vi vi phạm kỷ luật lao động tại thời điểm xảy ra hành vi vi phạm, cấp trên trực tiếp quản lý người lao động tiến hành lập biên bản vi phạm đối với người lao động.\nBước 2: Thông báo đến tổ chức đại diện, người đại diện của người lao động\nSau khi lập biên bản, Công ty thông báo đến Công đoàn cơ sở mà người lao động là thành viên.\nBước 3: Thu thập chứng cứ chứng minh lỗi (nếu có)\n- Trường hợp Công ty phát hiện hành vi vi phạm kỷ luật lao động sau thời điểm hành vi vi phạm đã xảy ra thì thực hiện thu thập chứng cứ chứng minh lỗi của người lao động.\n- Nếu vụ việc vi phạm có những tình tiết phức tạp nếu xét thấy để người lao động tiếp tục làm việc sẽ gây khó khăn cho việc xác minh thì Công ty có quyền tạm đình chỉ công việc của người lao động. Việc tạm đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của công đoàn cơ sở tại nơi người lao động đang bị xem xét tạm đình chỉ công việc là thành viên.\nBước 4: Thông báo thông tin về cuộc họp xử lý kỷ luật lao động\n- Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, Công ty thông báo các thông tin về cuộc họp xử lý kỷ luật lao động đến:\n+ Công đoàn cơ sở nơi người lao động đang bị xử lý kỷ luật là thành viên;\n+ Người lao động đang bị xử lý kỷ luật , trường hợp là người dưới 18 tuổi thì phải có sự tham gia của cha, mẹ hoặc người đại diện theo pháp luật\nPhải bảo đảm các thành phần trên nhận được thông báo trước khi diễn ra cuộc họp.\n- Nội dung thông báo bao gồm:\n+ Nội dung, thời gian, địa điểm tiến hành cuộc họp xử lý kỷ luật lao động;\n+ Họ tên người bị xử lý kỷ luật lao động;\n+ Hành vi vi phạm bị xử lý kỷ luật lao động.\n- Khi nhận được thông báo của Công ty, các thành phần trên phải xác nhận tham dự cuộc họp với Công ty.\n- Trường hợp một trong các thành phần phải tham dự không thể tham dự họp theo thời gian, địa điểm đã thông báo thì người lao động đang bị xử lý kỷ luật và người sử dụng lao động thỏa thuận việc thay đổi thời gian, địa điểm họp; trường hợp hai bên không thỏa thuận được thì Công ty quyết định thời gian, địa điểm họp.\nBước 5: Họp xử lý kỷ luật lao động\n- Công ty tiến hành họp xử lý kỷ luật lao động theo thời gian, địa điểm đã thông báo tại Bước 4.\n- Trường hợp một trong các thành phần phải tham dự họp không xác nhận tham dự cuộc họp hoặc vắng mặt thì người sử dụng lao động vẫn tiến hành họp xử lý kỷ luật lao động.\n- Nội dung cuộc họp xử lý kỷ luật lao động được lập thành biên bản, thông qua trước khi kết thúc cuộc họp và có chữ ký của người tham dự cuộc họp. Trường hợp có người không ký vào biên bản thì người ghi biên bản nêu rõ họ tên, lý do không ký vào nội dung biên bản.\nBước 6: Ban hành quyết định xử lý kỷ luật lao động\n- Người giao kết hợp đồng lao động bên phía Công ty là người có thẩm quyền ra quyết định xử lý kỷ luật lao động đối với người lao động.\n- Trường hợp người lao động bị xử lý Sa thải thì người có thẩm quyền ra quyết định là Người đại diện pháp luật của Công ty.\n- Quyết định xử lý kỷ luật lao động phải được ban hành trong thời hạn của thời hiệu xử lý kỷ luật lao động hoặc thời hạn kéo dài thời hiệu xử lý kỷ luật lao động."
+  },
+  "answers": [
+   {
+    "key": "5acaaa775eb9bb8c",
+    "answer": "Người lao động không được xử lý kỷ luật trong các trường hợp sau:\n1. Đang nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động.\n2. Đang bị tạm giữ, tạm giam.\n3. Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ.\n4. Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n5. Mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi.\n[NQLD Điều 27]"
+   },
+   {
+    "key": "93d3a3653d985cd6",
+    "answer": "Người lao động không được xử lý kỷ luật trong các trường hợp sau:\n- Đang nghỉ ốm đau, điều dưỡng; nghỉ việc có sự đồng ý của người sử dụng lao động.\n- Đang bị tạm giữ, tạm giam.\n- Đang chờ kết quả điều tra xác minh về hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ.\n- Lao động nữ có thai, nghỉ thai sản hoặc nuôi con nhỏ dưới 12 tháng tuổi.\n- Mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức, điều khiển hành vi.\n- Hành vi vi phạm không được quy định trong nội quy lao động.\n[Từ NQLD Điều 27]"
+   },
+   {
+    "key": "48d80b65891d94fe",
+    "answer": "Người lao động không được xử lý kỷ luật trong các trường hợp sau:\n- Đang nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động.\n- Đang bị tạm giữ, tạm giam.\n- Đang chờ kết quả điều tra xác minh về hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ.\n- Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n- Đang mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc điều khiển hành vi.\n- Hành vi vi phạm không được quy định trong nội quy lao động.\n- Bị xử lý nhiều hình thức kỷ luật cho một hành vi (chỉ áp dụng hình thức cao nhất).\n\n[NQLD Điều 27]"
+   },
+   {
+    "key": "fd4a109a3ce75be5",
+    "answer": "Người lao động không được xử lý kỷ luật trong các trường hợp sau:\n1. Đang nghỉ ốm đau, điều dưỡng; nghỉ việc có sự đồng ý của người sử dụng lao động.\n2. Đang bị tạm giữ, tạm giam.\n3. Đang chờ kết quả điều tra xác minh về hành vi trộm cắp, tham ô, tiết lộ bí mật kinh doanh, bí mật công nghệ.\n4. Lao động nữ có thai, nghỉ thai sản; người lao động nuôi con nhỏ dưới 12 tháng tuổi.\n5. Mắc bệnh tâm thần hoặc bệnh khác làm mất khả năng nhận thức hoặc điều khiển hành vi.\n6. Hành vi vi phạm không được quy định trong nội quy lao động.\n[Tất cả từ NQLD Điều 27]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-068",
+  "question": "Những hành vi nào được coi là quấy rối tình dục tại nơi làm việc?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Gồm: (a) hành động, cử chỉ có tính chất tình dục; (b) ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục; (c) đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng (NQLD Điều 20).",
+  "key_facts": [
+   "cử chỉ",
+   "tài liệu trực quan",
+   "đánh giá ưu ái"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 20": "Điều 20. Các hành vi quấy rối tình dục tại nơi làm việc\na. Hành động, cử chỉ có tính chất tình dục;\nb. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục;\nc. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng."
+  },
+  "answers": [
+   {
+    "key": "262a5b65bd845b7e",
+    "answer": "Theo Nội quy lao động 2024, các hành vi quấy rối tình dục tại nơi làm việc bao gồm:\n1. Hành động, cử chỉ có tính chất tình dục.\n2. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục.\n3. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng.\n\nNgoài ra, hành vi quấy rối tình dục phi lời nói (ngôn ngữ cơ thể) và trưng bày, miêu tả tài liệu trực quan về tình dục cũng bị nghiêm cấm. [NQLD Điều 20]"
+   },
+   {
+    "key": "5ea22c754d430552",
+    "answer": "Hành vi quấy rối tình dục tại nơi làm việc bao gồm:\n1. Hành động, cử chỉ có tính chất tình dục.\n2. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục.\n3. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng.\n4. Hành vi suy đồi đạo đức như quấy rối bằng lời nói (trực tiếp, điện thoại, điện tử) hoặc phi lời nói (ngôn ngữ cơ thể), trưng bày tài liệu trực quan về tình dục.\n[NQLD Điều 20], [NQLD Điều 28]"
+   },
+   {
+    "key": "49e582c30160ac8c",
+    "answer": "Hành vi quấy rối tình dục tại nơi làm việc bao gồm:\n1. Hành động, cử chỉ có tính chất tình dục.\n2. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục.\n3. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng.\n\nCác hành vi này cũng bị nghiêm cấm theo Điều 17 của Nội quy lao động 2024 [NQLD Điều 20], [NQLD Điều 17]."
+   },
+   {
+    "key": "65393cf7921e0ace",
+    "answer": "Hành vi quấy rối tình dục tại nơi làm việc bao gồm:\n1. Hành động, cử chỉ có tính chất tình dục.\n2. Ngôn ngữ, tài liệu trực quan đề cập cụ thể, miêu tả hoặc liên quan đến hoạt động tình dục.\n3. Đề nghị, yêu cầu, gợi ý đổi quan hệ tình dục lấy sự đánh giá ưu ái hoặc sự hứa hẹn công việc, lương, thưởng.\n4. Hành vi hoặc biểu hiện suy đồi đạo đức, cụ thể là quấy rối tình dục bằng lời nói (trực tiếp, qua điện thoại, phương tiện điện tử) hoặc phi lời nói (ngôn ngữ cơ thể), cùng việc trưng bày, miêu tả tài liệu trực quan về tình dục.\n\n[NQLD Điều 20], [NQLD Điều 28]"
+   }
+  ]
+ },
+ {
+  "qid": "NQLD-069",
+  "question": "Công ty (người sử dụng lao động) có những trách nhiệm gì về an toàn, vệ sinh lao động?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "(a) Bảo đảm vệ sinh trong môi trường làm việc, có không gian, hệ thống thông gió và ánh sáng thích hợp, tuân thủ tiêu chuẩn bảo đảm sức khỏe cho người lao động; (b) trang bị tại nơi làm việc thiết bị y tế và sơ cứu thích hợp, cung cấp đầy đủ thiết bị bảo hộ lao động; (c) tổ chức khám sức khỏe định kỳ hàng năm cho người lao động; (d) trang bị bảng chỉ dẫn về an toàn lao động, vệ sinh lao động đặt ở vị trí dễ đọc, dễ thấy; (e) lấy ý kiến tổ chức đại diện tập thể lao động tại cơ sở khi xây dựng kế hoạch và thực hiện các hoạt động bảo đảm an toàn, vệ sinh lao động (NQLD Điều 18).",
+  "key_facts": [
+   "sơ cứu",
+   "bảo hộ lao động",
+   "định kỳ",
+   "bảng chỉ dẫn"
+  ],
+  "gold_evidence": {
+   "NQLD/Điều 18": "Điều 18. Trách nhiệm của người sử dụng lao động\na. Phải bảo đảm vệ sinh trong môi trường làm việc, có không gian, hệ thống thông gió và ánh sáng thích hợp và tuân thủ tiêu chuẩn bảo đảm sức khoẻ cho người lao động;\nb. Trang bị tại nơi làm việc những thiết bị y tế và sơ cứu thích hợp; cung cấp đầy đủ thiết bị bảo hộ lao động khi bắt đầu làm việc hoặc suốt thời gian làm việc;\nc. Chịu trách nhiệm tổ chức khám sức khỏe định kỳ hàng năm cho người lao động;\nd. Trang bị bảng chỉ dẫn về an toàn lao động, vệ sinh lao động đối với máy, thiết bị, nơi làm việc và đặt ở vị trí dễ đọc, dễ thấy tại nơi làm việc;\ne. Lấy ý kiến tổ chức đại diện tập thể lao động tại cơ sở khi xây dựng kế hoạch và thực hiện các hoạt động bảo đảm an toàn lao động, vệ sinh lao động."
+  },
+  "answers": [
+   {
+    "key": "3b97d15be40b8913",
+    "answer": "Công ty có các trách nhiệm sau về an toàn, vệ sinh lao động:\n- Bảo đảm vệ sinh môi trường làm việc, có không gian, hệ thống thông gió và ánh sáng thích hợp, tuân thủ tiêu chuẩn sức khỏe cho người lao động.\n- Trang bị tại nơi làm việc những thiết bị y tế, sơ cứu thích hợp và cung cấp đầy đủ thiết bị bảo hộ lao động khi bắt đầu hoặc suốt thời gian làm việc.\n- Chịu trách nhiệm tổ chức khám sức khỏe định kỳ hàng năm cho người lao động.\n- Trang bị bảng chỉ dẫn về an toàn lao động, vệ sinh lao động đối với máy, thiết bị, nơi làm việc và đặt ở vị trí dễ đọc, dễ thấy.\n- Lấy ý kiến tổ chức đại diện tập thể lao động khi xây dựng kế hoạch và thực hiện các hoạt động bảo đảm an toàn, vệ sinh lao động.\n[NQLD Điều 18]"
+   },
+   {
+    "key": "14bfc3c67e7302ec",
+    "answer": "Theo Nội quy lao động 2024, Công ty có các trách nhiệm sau về an toàn, vệ sinh lao động:\n- Bảo đảm vệ sinh môi trường làm việc, cung cấp không gian, hệ thống thông gió và ánh sáng thích hợp, tuân thủ tiêu chuẩn sức khỏe.\n- Trang bị thiết bị y tế, sơ cứu và đầy đủ thiết bị bảo hộ lao động.\n- Tổ chức khám sức khỏe định kỳ hàng năm cho người lao động.\n- Trang bị bảng chỉ dẫn an toàn, vệ sinh lao động ở vị trí dễ thấy.\n- Lấy ý kiến tổ chức đại diện tập thể lao động khi xây dựng và thực hiện kế hoạch an toàn, vệ sinh lao động.\n[NQLD Điều 18]"
+   },
+   {
+    "key": "7b459e5c1fc6c7d3",
+    "answer": "Công ty có trách nhiệm:\n1. Bảo đảm vệ sinh môi trường làm việc, cung cấp không gian, thông gió, ánh sáng thích hợp và tuân thủ tiêu chuẩn sức khỏe.\n2. Trang bị thiết bị y tế, sơ cứu và đầy đủ thiết bị bảo hộ lao động khi bắt đầu hoặc trong suốt thời gian làm việc.\n3. Tổ chức khám sức khỏe định kỳ hàng năm cho người lao động.\n4. Trang bị và đặt bảng chỉ dẫn an toàn, vệ sinh lao động ở vị trí dễ đọc, dễ thấy tại nơi làm việc.\n5. Lấy ý kiến tổ chức đại diện tập thể lao động khi xây dựng kế hoạch và thực hiện các hoạt động đảm bảo an toàn, vệ sinh lao động.\n\n[NQLD Điều 18]"
+   },
+   {
+    "key": "6e9ba4c0ff18c55c",
+    "answer": "Công ty có trách nhiệm:\n- Bảo đảm vệ sinh môi trường làm việc, cung cấp không gian, thông gió, ánh sáng thích hợp và tuân thủ tiêu chuẩn sức khỏe [NQLD Điều 18].\n- Trang bị thiết bị y tế, sơ cứu và đầy đủ thiết bị bảo hộ lao động khi bắt đầu hoặc trong suốt thời gian làm việc [NQLD Điều 18].\n- Tổ chức khám sức khỏe định kỳ hàng năm cho người lao động [NQLD Điều 18].\n- Trang bị bảng chỉ dẫn an toàn, vệ sinh lao động ở vị trí dễ đọc, dễ thấy tại nơi làm việc [NQLD Điều 18].\n- Lấy ý kiến tổ chức đại diện tập thể lao động khi xây dựng kế hoạch và thực hiện các hoạt động đảm bảo an toàn, vệ sinh lao động [NQLD Điều 18]."
+   }
+  ]
+ }
+]

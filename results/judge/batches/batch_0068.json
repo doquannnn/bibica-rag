@@ -1,0 +1,321 @@
+[
+ {
+  "qid": "QCL-021",
+  "question": "Nhân viên được Công ty đề bạt lên vị trí mới thì tiền lương được xử lý như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty trả lương theo vị trí công việc. CNV được Công ty đề bạt (hoặc được đào tạo/tự đào tạo có trình độ phù hợp với vị trí được phân công, hoặc qua thi tuyển nội bộ đạt yêu cầu) thì được xem xét chuyển đổi lương phù hợp với vị trí công việc mới (QCL Điều 7).",
+  "key_facts": [
+   "chuyển đổi lương",
+   "vị trí công việc mới"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 7": "Điều 7. Các trường hợp chuyển đổi lương.\n1. Công ty trả lương theo vị trí công việc.\n2. Công nhân viên được Công ty đào tạo hoặc tự đào tạo nếu có trình độ phù hợp với vị trí được phân công hoặc qua thi tuyển nội bộ đạt yêu cầu, hoặc do Công ty đề bạt thì được xem xét chuyển đổi lương phù hợp với vị trí công việc mới.\nCông ty có thể tạm thời chuyển công nhân viên làm công việc khác so với hợp đồng lao động và trả lương theo công việc mới, phù hợp quy định pháp luật trong trường hợp Công ty gặp khó khăn đột xuất do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, áp dụng biện pháp ngăn ngừa, khắc phục tai nạn lao động, bệnh nghề nghiệp, sự cố điện, nước hoặc do nhu cầu sản xuất, kinh doanh."
+  },
+  "answers": [
+   {
+    "key": "fed8a475d6f8615e",
+    "answer": "Khi nhân viên được Công ty đề bạt lên vị trí mới, tiền lương được xử lý như sau:\n\n1.  **Nguyên tắc chung:** Công ty trả lương theo vị trí công việc. Nhân viên được đào tạo, tự đào tạo có trình độ phù hợp, qua thi tuyển nội bộ đạt yêu cầu hoặc do Công ty đề bạt thì được xem xét chuyển đổi lương phù hợp với vị trí công việc mới [QCL Điều 7].\n2.  **Thời điểm:** Việc chuyển đổi hệ số lương (xác định lại hệ số lương phù hợp với sự thay đổi công việc) được thực hiện sau khi hoàn thành quá trình thử việc hoặc khi có quyết định đề bạt [QCL Điều 2, Khoản 11; QCL Điều 4].\n3.  **Đối với Quản trị viên:** Nếu là quản trị viên, việc làm thêm giờ hoặc công việc ngoài giờ do đề bạt cần được Tổng Giám đốc phê duyệt để xác định tăng ca hoặc nghỉ bù [QCL Điều 12].\n\nTài liệu không quy định cụ thể mức tiền lương mới mà chỉ nêu nguyên tắc \"xem xét chuyển đổi lương phù hợp với vị trí công việc mới\" dựa trên thang lương hiện hành."
+   },
+   {
+    "key": "2ddbe1476c5ff0b4",
+    "answer": "Khi nhân viên được Công ty đề bạt lên vị trí mới, tiền lương sẽ được xem xét chuyển đổi phù hợp với vị trí công việc mới. Công ty có thể tạm thời chuyển nhân viên làm công việc khác so với hợp đồng lao động và trả lương theo công việc mới trong trường hợp gặp khó khăn đột xuất hoặc nhu cầu sản xuất, kinh doanh. [QCL Điều 7]"
+   },
+   {
+    "key": "c195582bb902cacf",
+    "answer": "Nhân viên được Công ty đề bạt lên vị trí mới sẽ được xem xét chuyển đổi lương phù hợp với vị trí công việc mới. Việc này áp dụng khi nhân viên được đào tạo, tự đào tạo có trình độ phù hợp, qua thi tuyển nội bộ đạt yêu cầu hoặc do Công ty đề bạt. Tiền lương cụ thể sẽ được xác định dựa trên hệ số lương tương ứng với vị trí mới theo Thang lương Bảng lương Công ty. [QCL Điều 7]"
+   },
+   {
+    "key": "1119e95e3d659a9d",
+    "answer": "Nhân viên được Công ty đề bạt lên vị trí mới sẽ được xem xét chuyển đổi lương phù hợp với vị trí công việc mới. Trong trường hợp Công ty tạm thời chuyển nhân viên làm công việc khác so với hợp đồng lao động (do đề bạt hoặc các lý do đột xuất), tiền lương sẽ được trả theo công việc mới, phù hợp quy định pháp luật.\n\n[NQLD Điều 28]\n[QCL Điều 7]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-023",
+  "question": "Tiêu chí đánh giá KPI được chia thành những nhóm nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Tiêu chí đánh giá KPI chia thành 3 nhóm: Nhóm 1 gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất; Nhóm 2 gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI; Nhóm 3 là công việc trực tiếp do trưởng đơn vị giao (QCL Điều 8).",
+  "key_facts": [
+   "doanh số",
+   "03 chỉ tiêu",
+   "trưởng đơn vị giao"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 8": "Điều 8. Công ty quy định đánh giá KPI như sau\n1. Tiêu chí đánh giá: Tiêu chí đánh giá KPI được chia thành 3 nhóm:\na. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất\nb. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\nc. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\nd. Chi tiết bảng phụ lục 02 đính kèm.\n2. Tần suất đánh giá\na. Tuần suất đánh giá: tạm đánh giá hàng tháng và tổng kết đánh giá vào cuối năm.\nb. Thời gian tạm đánh giá: từ 01 – 05 hàng tháng, tổng kết đánh giá vào cuối năm dương lịch."
+  },
+  "answers": [
+   {
+    "key": "95aa33d3a37a8c4d",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất.\n2. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n[NQLD Điều 12, QCL Điều 8]"
+   },
+   {
+    "key": "bf12443d650a905f",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất.\n2. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n[QCL Điều 8]"
+   },
+   {
+    "key": "ff687ac418903554",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất.\n2. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n\n[Nguồn: QCL/Điều 8]"
+   },
+   {
+    "key": "e62e850575bd93a2",
+    "answer": "Tiêu chí đánh giá KPI được chia thành 3 nhóm:\n1. Nhóm 1: Gồm các chỉ tiêu chung của Công ty như doanh số, lợi nhuận trước thuế, giá vốn hàng bán, giá vốn sản xuất.\n2. Nhóm 2: Gồm các chỉ tiêu liên quan đến công việc, mỗi tháng có đủ 03 chỉ tiêu KPI.\n3. Nhóm 3: Công việc trực tiếp do trưởng đơn vị giao.\n[NQLD Điều 8]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-025",
+  "question": "Ngày nghỉ lễ theo Bộ luật Lao động và ngày nghỉ phép năm được Công ty thanh toán lương như thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ; nghỉ phép năm theo quy định của Bộ luật Lao động cũng được thanh toán bằng 100% tiền lương theo HĐLĐ (QCL Điều 14).",
+  "key_facts": [
+   "100%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 14": "Điều 14. Trả lương cho CNV hội họp, học tập, đi công tác\n1. CNV hội họp, học tập, đi từ thiện, đi công tác theo tờ trình được Công ty duyệt: chấm 100% ngày công theo thời gian thực tế đi hội họp, học tập, đi từ thiện, đi công tác.\n2. Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ.\n3. Tham gia sinh nhật công ty: căn cứ danh sách tham gia thực tế chấm 100% ngày công.\nNghỉ phép năm theo quy định của Bộ luật Lao động được thanh toán bằng 100% tiền lương theo HĐLĐ."
+  },
+  "answers": [
+   {
+    "key": "b2e00b352034a510",
+    "answer": "Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo hợp đồng lao động [QCL Điều 14], [NQLD Điều 6], [TULD Điều 7].\n\nNghỉ phép năm được thanh toán bằng 100% tiền lương theo hợp đồng lao động [QCL Điều 14], [NQLD Điều 7].\n\nĐối với ngày nghỉ lễ trùng vào ngày nghỉ hằng tuần, nếu người lao động làm thêm giờ sẽ được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12]."
+   },
+   {
+    "key": "dc6a60e2a536626f",
+    "answer": "Ngày nghỉ lễ theo Bộ luật Lao động được nghỉ làm việc, hưởng nguyên lương [NQLD Điều 6]. Ngày nghỉ phép năm chưa sử dụng hết sẽ được chuyển sang năm kế tiếp, nhưng người lao động phải nghỉ hết trước ngày 30/3 của năm sau; nếu không đăng ký nghỉ trong mùa thấp điểm thì không được thanh toán số ngày dư, trừ trường hợp thôi việc hoặc mất việc làm [NQLD Điều 7]. Khi nghỉ phép, người lao động được nghỉ số ngày bằng tổng ngày phép chia cho 12 và có thể sử dụng một lần nếu không ảnh hưởng công việc [NQLD Điều 7]."
+   },
+   {
+    "key": "d340eb1c1160c730",
+    "answer": "Ngày nghỉ lễ theo quy định Bộ luật Lao động được thanh toán bằng 100% tiền lương theo Hợp đồng lao động [QCL Điều 14], [NQLD Điều 6].\n\nVề ngày nghỉ phép năm:\n- Người lao động làm đủ 12 tháng được nghỉ hằng năm hưởng nguyên lương theo HĐLĐ, số ngày cụ thể tùy thuộc vào điều kiện làm việc (từ 12 đến 16 ngày) và thâm niên [NQLD Điều 7].\n- Trường hợp làm việc dưới 12 tháng, số ngày phép được tính bằng cách lấy tổng ngày phép chia cho 12 tháng rồi nhân với số tháng làm việc thực tế [NQLD Điều 7].\n- Phép năm chưa nghỉ hết sẽ được chuyển sang năm sau, nhưng phải nghỉ hết trước ngày 30/3 của năm tiếp theo; nếu không nghỉ hết, Công ty không thanh toán bằng tiền [NQLD Điều 7], [QCL Điều 19]."
+   },
+   {
+    "key": "4033f39a1398b814",
+    "answer": "Ngày nghỉ lễ theo Bộ luật Lao động được thanh toán bằng 100% tiền lương theo Hợp đồng lao động [QCL Điều 14], [NQLD Điều 6].\n\nVề ngày nghỉ phép năm, nếu chưa sử dụng hết thì được chuyển sang năm kế tiếp, nhưng người lao động phải nghỉ hết trước ngày 30 tháng 3 năm sau; nếu không đăng ký nghỉ trong mùa thấp điểm thì không được thanh toán số ngày dư [NQLD Điều 7]. Trường hợp thôi việc hoặc mất việc mà chưa nghỉ phép thì được thanh toán bằng tiền những ngày chưa nghỉ [NQLD Điều 7]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-027",
+  "question": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng dựa trên cơ sở nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của Công ty; cơ cấu tổng quỹ phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương - thưởng (QCL Điều 9).",
+  "key_facts": [
+   "kế hoạch sản xuất kinh doanh"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "888b7e39da54de75",
+    "answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty. Quỹ này bao gồm: quỹ lương công việc (gián tiếp, phục vụ, trực tiếp sản xuất), quỹ lương - thưởng bổ sung (thưởng KPI, lễ Tết, tháng 13, vượt kế hoạch...), quỹ lương chế độ và quỹ lương hỗ trợ. [QCL Điều 9]"
+   },
+   {
+    "key": "6ad8af4150f2d8cf",
+    "answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty. [QCL Điều 9]"
+   },
+   {
+    "key": "f3bd1c84dadcefc2",
+    "answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty. Quỹ này bao gồm các thành phần: quỹ lương công việc (gián tiếp, phục vụ, trực tiếp sản xuất), quỹ lương - thưởng bổ sung (thưởng KPI, lễ Tết, tháng 13, vượt kế hoạch...), quỹ lương chế độ và quỹ lương hỗ trợ. Việc phân phối phải tuân thủ đúng cơ cấu tổng quỹ đã hình thành. [QCL Điều 9]"
+   },
+   {
+    "key": "216cd4a1edc2c660",
+    "answer": "Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty.\n\nQuỹ này bao gồm các thành phần sau:\n1. Quỹ lương công việc:\n   - Quỹ lương gián tiếp (cho CNV làm việc tại Văn phòng và văn phòng Chi nhánh).\n   - Quỹ lương phục vụ (cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe...).\n   - Quỹ lương trực tiếp sản xuất (cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp và Công nhân trực tiếp sản xuất).\n2. Quỹ lương - thưởng bổ sung (bao gồm Thưởng KPI tháng, Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty...).\n3. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương...).\n4. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...).\n\n[TULD Điều 9]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-028",
+  "question": "Tổng quỹ lương - thưởng hàng năm của Công ty bao gồm những quỹ nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Tổng quỹ lương - thưởng hàng năm gồm: a. Quỹ lương công việc (quỹ lương gián tiếp, quỹ lương phục vụ, quỹ lương trực tiếp sản xuất); b. Quỹ lương - thưởng bổ sung (thưởng KPI tháng; thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty; thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm); c. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…); d. Quỹ lương hỗ trợ (hỗ trợ xăng xe, đi lại...) (QCL Điều 9).",
+  "key_facts": [
+   "Quỹ lương công việc",
+   "thưởng bổ sung",
+   "Quỹ lương chế độ",
+   "Quỹ lương hỗ trợ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "78b21546fda1eaed",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm:\n1. Quỹ lương công việc:\n   - Quỹ lương gián tiếp (cho CNV làm việc tại Văn phòng và văn phòng Chi nhánh).\n   - Quỹ lương phục vụ (cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe...).\n   - Quỹ lương trực tiếp sản xuất (cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp và Công nhân trực tiếp sản xuất).\n2. Quỹ lương - thưởng bổ sung (bao gồm Thưởng KPI tháng, Thưởng Lễ Tết, lì xì đầu năm, sinh nhật, Thưởng hiệu quả quý, Thưởng tháng 13, Thưởng hoàn thành/vượt kế hoạch năm).\n3. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương...).\n4. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...).\n[NQLD Điều 9]"
+   },
+   {
+    "key": "fc8dd226f2d2eb1f",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm:\n1. Quỹ lương công việc: gồm quỹ lương gián tiếp, quỹ lương phục vụ và quỹ lương trực tiếp sản xuất.\n2. Quỹ lương - thưởng bổ sung: gồm thưởng KPI tháng, thưởng các ngày Lễ Tết, lì xì, sinh nhật, thưởng hiệu quả quý, tháng 13, thưởng hoàn thành/vượt kế hoạch năm.\n3. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương).\n4. Quỹ lương hỗ trợ (xăng xe, đi lại).\nNgoài ra, Công ty còn có Quỹ khen thưởng phúc lợi hình thành từ phân phối lợi nhuận hàng năm do Đại hội cổ đông thông qua [QCL Điều 9], [QCL Điều 20], [TULD Điều 16]."
+   },
+   {
+    "key": "f56991015d399865",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm:\n1. Quỹ lương công việc: gồm quỹ lương gián tiếp, quỹ lương phục vụ và quỹ lương trực tiếp sản xuất.\n2. Quỹ lương - thưởng bổ sung: gồm thưởng KPI tháng (tính theo tỷ lệ thời gian làm việc), thưởng lễ Tết, lì xì, sinh nhật (không xét cho người nghỉ việc), và các thưởng bổ sung quý/năm/tháng 13 (không xét cho người đã nghỉ hoặc có đơn xin nghỉ).\n3. Quỹ lương chế độ (Lễ, Tết, phép năm...).\n4. Quỹ lương hỗ trợ (xăng xe, đi lại...).\n\nNguồn: [QCL Điều 9]"
+   },
+   {
+    "key": "d1cb65f2c1fa53a2",
+    "answer": "Tổng quỹ lương - thưởng hàng năm bao gồm:\n1. Quỹ lương công việc: gồm quỹ lương gián tiếp, quỹ lương phục vụ và quỹ lương trực tiếp sản xuất.\n2. Quỹ lương - thưởng bổ sung: gồm thưởng KPI tháng, thưởng các ngày Lễ Tết, lì xì đầu năm, sinh nhật; thưởng hiệu quả quý, tháng 13, hoàn thành và vượt kế hoạch năm.\n3. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương...).\n4. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...).\nNgoài ra, Công ty còn có Quỹ khen thưởng phúc lợi hình thành từ chế độ phân phối lợi nhuận hàng năm do Đại hội cổ đông thông qua [QCL Điều 9], [QCL Điều 20], [TULD Điều 16]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-029",
+  "question": "Quỹ lương công việc được chia thành những quỹ nào và mỗi quỹ trả lương cho đối tượng nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Quỹ lương công việc gồm: (i) Quỹ lương gián tiếp: lương cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh; (ii) Quỹ lương phục vụ: lương cho CNV tại các bộ phận QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…; (iii) Quỹ lương trực tiếp sản xuất: lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và công nhân Vệ sinh công nghiệp (VSCN), công nhân trực tiếp sản xuất (QCL Điều 9).",
+  "key_facts": [
+   "Quỹ lương gián tiếp",
+   "Quỹ lương phục vụ",
+   "Quỹ lương trực tiếp sản xuất"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "d3687d10a3c823b7",
+    "answer": "Quỹ lương công việc bao gồm:\n1. Quỹ lương gián tiếp: Trả cho CNV làm việc tại Văn phòng và văn phòng các Chi nhánh. [QCL/Điều 9.1.a.i]\n2. Quỹ lương phục vụ: Trả cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe. [QCL/Điều 9.1.a.ii]\n3. Quỹ lương trực tiếp sản xuất: Trả cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp (VSCN) và Công nhân trực tiếp sản xuất. [QCL/Điều 9.1.a.iii]"
+   },
+   {
+    "key": "84056e2a63d5f380",
+    "answer": "Quỹ lương công việc bao gồm 3 quỹ:\n1. Quỹ lương gián tiếp: trả cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\n2. Quỹ lương phục vụ: trả cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe.\n3. Quỹ lương trực tiếp sản xuất: trả cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp (VSCN) và Công nhân trực tiếp sản xuất.\n[Nguồn: QCL Điều 9]"
+   },
+   {
+    "key": "e2b04ef56bab4b64",
+    "answer": "Quỹ lương công việc bao gồm 3 loại:\n1. Quỹ lương gián tiếp: trả cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh. [QCL Điều 9]\n2. Quỹ lương phục vụ: trả cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe. [QCL Điều 9]\n3. Quỹ lương trực tiếp sản xuất: trả cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp (VSCN) và Công nhân trực tiếp sản xuất. [QCL Điều 9]"
+   },
+   {
+    "key": "c409d83fa133494c",
+    "answer": "Quỹ lương công việc bao gồm ba loại:\n1. Quỹ lương gián tiếp: trả cho CNV làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh [QCL Điều 9].\n2. Quỹ lương phục vụ: trả cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe [QCL Điều 9].\n3. Quỹ lương trực tiếp sản xuất: trả cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca, Công nhân Vệ sinh công nghiệp (VSCN) và Công nhân trực tiếp sản xuất [QCL Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-030",
+  "question": "Nếu nhân viên đã nộp đơn nghỉ việc và trong tháng chỉ làm việc được 40% thời gian thì có được thưởng KPI tháng đó không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. Với CNV có đơn nghỉ việc, thời gian làm việc của tháng ít hơn 50% thì không được tính thưởng KPI; từ trên 50% đến dưới 100% được tính thưởng KPI theo tỷ lệ; đủ 100% thì tính đủ thưởng KPI. Làm 40% thời gian nên không được thưởng KPI (QCL Điều 9).",
+  "key_facts": [
+   "50%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "d179d9d349bc949f",
+    "answer": "Không được tính thưởng KPI. Theo Điều 9 khoản 1b mục i của Quy chế tiền lương, tiền thưởng (QCL), nếu thời gian làm việc của tháng ít hơn 50% thì không được tính thưởng KPI. Vì nhân viên chỉ làm việc 40% thời gian nên không đạt điều kiện này. [QCL Điều 9]"
+   },
+   {
+    "key": "74a07cdbbdfc833d",
+    "answer": "Nhân viên đã nộp đơn nghỉ việc và chỉ làm việc 40% thời gian trong tháng **không được tính thưởng KPI**. Theo quy định, thời gian làm việc của tháng ít hơn 50% sẽ không được tính thưởng KPI [QCL Điều 9]."
+   },
+   {
+    "key": "4608a56c99db8a33",
+    "answer": "Không được tính thưởng KPI. Theo Điều 9 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, đối với trường hợp nhân viên có đơn nghỉ việc, thời gian làm việc của tháng ít hơn 50% sẽ không được tính thưởng KPI. Vì nhân viên chỉ làm việc 40% thời gian (thấp hơn 50%), nên không đủ điều kiện để nhận thưởng. [QCL Điều 9]"
+   },
+   {
+    "key": "73574109c2c38ee3",
+    "answer": "Không được thưởng KPI tháng đó. Theo Điều 9 của Quy chế tiền lương, tiền thưởng Bibica năm 2024, đối với nhân viên có đơn nghỉ việc, thời gian làm việc của tháng ít hơn 50% sẽ không được tính thưởng KPI. Vì nhân viên chỉ làm việc 40% thời gian nên không đủ điều kiện để nhận thưởng. [QCL Điều 9]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-031",
+  "question": "Nếu tôi đã nộp đơn xin nghỉ việc thì có được nhận thưởng Tết và thưởng bổ sung tháng 13 không?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Không. CNV có đơn nghỉ việc không được xét thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty…; đối với thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm, tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc thì không được xét thưởng (QCL Điều 9).",
+  "key_facts": [
+   "không được xét thưởng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 9": "Điều 9. Tổng quỹ lương - thưởng hàng năm bao gồm\n1. Tổng quỹ lương - thưởng hàng năm của Công ty được xây dựng trên cơ sở kế hoạch sản xuất kinh doanh của công ty, bao gồm:\na. Quỹ lương công việc\ni. Quỹ lương gián tiếp: Lương cho CNV của Công ty làm việc tại Văn phòng Công ty và văn phòng các Chi nhánh.\nii. Quỹ lương phục vụ: Lương cho CNV làm việc tại các bộ phận: QC đi ca, kiểm nghiệm, cơ điện, thủ kho, bốc xếp, lái xe…\niii. Quỹ lương trực tiếp sản xuất: Lương cho CNV từ Quản đốc, Phó quản đốc, Thống kê, Trưởng ca và Công nhân Vệ sinh công nghiệp (VSCN), Công nhân trực tiếp sản xuất\nb. Quỹ lương - thưởng bổ sung:\n- Thưởng KPI tháng: CNV có đơn nghỉ việc được tính như sau:\n- Thời gian làm việc của tháng ít hơn 50% không được tính thưởng KPI.\n- Thời gian làm việc của tháng lớn hơn 50% và nhỏ hơn 100% được tính thưởng KPI theo tỷ lệ.\n- Thời gian làm việc đủ 100%: tính đủ thưởng KPI.\n- Thưởng bổ sung các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty….: CNV có đơn nghỉ việc không được xét thưởng.\n- Thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm): Tại thời điểm chi thưởng CNV đã nghỉ việc hoặc có đơn xin nghỉ việc không được xét thưởng.\nc. Quỹ lương chế độ (Lễ, Tết, phép năm, nghỉ hưởng lương…)\nd. Quỹ lương hỗ trợ (Hỗ trợ xăng xe, đi lại...)\n2. Cơ cấu tổng quỹ lương - thưởng hàng năm phải được sử dụng đúng theo các quỹ hình thành nên tổng quỹ lương -thưởng."
+  },
+  "answers": [
+   {
+    "key": "16115c452fdd0565",
+    "answer": "Không được nhận. Theo Điều 9 khoản 1 mục b và mục c của Quy chế tiền lương, tiền thưởng (QCL), đối với trường hợp CNV có đơn nghỉ việc:\n- Không được xét thưởng các ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty.\n- Không được xét thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành kế hoạch năm, thưởng bổ sung vượt kế hoạch năm.\n[TQCL Điều 9]"
+   },
+   {
+    "key": "acc799da785bfd45",
+    "answer": "Nếu đã nộp đơn xin nghỉ việc, bạn **không được** nhận thưởng Tết và thưởng bổ sung tháng 13. Theo Điều 9 Quy chế tiền lương, tiền thưởng, các khoản thưởng này (bao gồm thưởng Lễ Tết, lì xì, sinh nhật, thưởng hiệu quả quý, thưởng tháng 13, thưởng hoàn thành/vượt kế hoạch năm) sẽ không được xét đối với nhân viên đã nghỉ việc hoặc có đơn xin nghỉ việc tại thời điểm chi thưởng. [QCL Điều 9]"
+   },
+   {
+    "key": "03e22d5e54d59046",
+    "answer": "Không được nhận. Theo QCL Điều 9, đối với các khoản thưởng bổ sung như thưởng Lễ Tết, lì xì đầu năm mới, sinh nhật công ty, thưởng tháng 13, thưởng hoàn thành/vượt kế hoạch năm, nhân viên có đơn nghỉ việc sẽ **không được xét thưởng**. [QCL Điều 9]\n\nTuy nhiên, nếu bạn đã nghỉ việc nhưng vẫn làm việc đủ 100% thời gian trong tháng đó, bạn vẫn được tính thưởng KPI tháng theo quy định. [QCL Điều 9]"
+   },
+   {
+    "key": "530e7efee93c2ce1",
+    "answer": "Không được nhận. Theo Điều 9 QCL, nhân viên có đơn nghỉ việc không được xét thưởng các khoản: thưởng bổ sung ngày Lễ Tết, lì xì đầu năm mới, sinh nhật công ty; thưởng hiệu quả quý, thưởng bổ sung tháng 13, thưởng bổ sung hoàn thành/vượt kế hoạch năm. Ngoài ra, Điều 16 QCL quy định nếu nghỉ việc trước tháng sinh nhật, công ty sẽ thu hồi số tiền đã thanh toán và không trả theo tỷ lệ tháng làm việc. [QCL Điều 9], [QCL Điều 16]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-034",
+  "question": "Nếu nhà máy phải ngừng việc 20 ngày làm việc vì sự cố mất điện không do lỗi của Công ty thì tiền lương ngừng việc được tính thế nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Đây là trường hợp ngừng việc trên 14 ngày làm việc do sự cố điện không do lỗi Công ty: tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu (QCL Điều 10).",
+  "key_facts": [
+   "14 ngày",
+   "mức lương tối thiểu"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 10": "Điều 10. Công ty áp dụng phương pháp tính lương như sau\n1. Phương pháp tính lương CNV gián tiếp, phục vụ: Trả theo mức lương cơ bản, hỗ trợ căn cứ vào ngày công làm việc trong tháng; Thưởng KPI căn cứ kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng.\n2. Phương pháp tính lương CNV sản xuất: áp dụng cho các đối tượng trực tiếp sản xuất từ cấp Quản đốc, Phó quản đốc, Thống kê, Trưởng ca trở xuống. Lương sẽ được xác định trên cơ sở sản lượng sản xuất và đơn giá sản phẩm, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n3. Lương bốc xếp: Áp dụng cho đối tượng bốc xếp. Lương được xác định trên cơ sở khối lượng bốc dỡ và đơn giá bốc xếp, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n4. Lương ngừng việc:\na. Nếu do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động.\nb. Nếu do lỗi của CNV thì CNV đó không được trả lương; những CNV trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu.\nc. Nếu vì sự cố về điện, nước mà không do lỗi của Công ty hoặc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa, di dời địa điểm hoạt động theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc vì lý do kinh tế thì hai bên thỏa thuận về tiền lương ngừng việc như sau:\ni. Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu.\nii. Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu."
+  },
+  "answers": [
+   {
+    "key": "fc389441ca38a10c",
+    "answer": "Trường hợp ngừng việc 20 ngày do sự cố mất điện không do lỗi của Công ty, tiền lương ngừng việc được xác định như sau:\n\n1.  **14 ngày đầu tiên:** Tiền lương ngừng việc phải được thỏa thuận nhưng **không thấp hơn mức lương tối thiểu** theo quy định tại Điều 10, khoản 10.c.i [QCL].\n2.  **Số ngày còn lại (từ ngày thứ 15 đến ngày thứ 20):** Tiền lương ngừng việc do hai bên thỏa thuận (không có giới hạn tối thiểu cụ thể trong tài liệu) theo quy định tại Điều 10, khoản 10.c.ii [QCL].\n\nNgoài ra, Thỏa ước lao động tập thể cũng xác nhận nguyên tắc này: nếu ngừng việc trên 14 ngày, tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm 14 ngày đầu không thấp hơn mức lương tối thiểu [TULD Điều 5.2.b]."
+   },
+   {
+    "key": "f9b06c6658946137",
+    "answer": "Khi nhà máy ngừng việc 20 ngày do sự cố mất điện không do lỗi của Công ty, tiền lương ngừng việc được xác định như sau:\n- Trong 14 ngày đầu tiên: Tiền lương ngừng việc phải không thấp hơn mức lương tối thiểu.\n- Từ ngày thứ 15 đến ngày thứ 20: Tiền lương ngừng việc do hai bên thỏa thuận.\nNguồn: [QCL Điều 10], [TULD Điều 5]"
+   },
+   {
+    "key": "ca5b4005e733546e",
+    "answer": "Khi nhà máy ngừng việc 20 ngày do mất điện không do lỗi của Công ty, tiền lương ngừng việc được xác định như sau:\n1.  **14 ngày đầu tiên:** Tiền lương ngừng việc phải được thỏa thuận nhưng không thấp hơn mức lương tối thiểu.\n2.  **Số ngày còn lại (từ ngày thứ 15 đến ngày thứ 20):** Tiền lương ngừng việc do hai bên thỏa thuận.\n\nQuy định này áp dụng cho cả trường hợp do lỗi của Công ty và các sự cố khách quan như mất điện, thiên tai, dịch bệnh... [QCL Điều 10.4.c], [TULD Điều 5.2]."
+   },
+   {
+    "key": "2b989feba71c1e28",
+    "answer": "Khi nhà máy ngừng việc 20 ngày do sự cố mất điện không do lỗi của Công ty, tiền lương ngừng việc được xác định như sau:\n\n1.  **Nguyên tắc chung:** Hai bên thỏa thuận mức lương ngừng việc.\n2.  **Điều kiện bắt buộc:** Phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu.\n3.  **Đối với 6 ngày còn lại:** Mức lương cho các ngày sau 14 ngày do hai bên thỏa thuận (không có quy định cụ thể về mức tối thiểu cho phần này trong trích đoạn).\n\nThông tin này quy định tại [QCL Điều 10], [TULD Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-035",
+  "question": "ngung viec do loi cua cong ty thi cnv co duoc tra luong ko",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Có. Nếu ngừng việc do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động (QCL Điều 10).",
+  "key_facts": [
+   "trả đủ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 10": "Điều 10. Công ty áp dụng phương pháp tính lương như sau\n1. Phương pháp tính lương CNV gián tiếp, phục vụ: Trả theo mức lương cơ bản, hỗ trợ căn cứ vào ngày công làm việc trong tháng; Thưởng KPI căn cứ kết quả đánh giá KPI của từng cá nhân và kết quả hoạt động của Công ty trong tháng.\n2. Phương pháp tính lương CNV sản xuất: áp dụng cho các đối tượng trực tiếp sản xuất từ cấp Quản đốc, Phó quản đốc, Thống kê, Trưởng ca trở xuống. Lương sẽ được xác định trên cơ sở sản lượng sản xuất và đơn giá sản phẩm, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n3. Lương bốc xếp: Áp dụng cho đối tượng bốc xếp. Lương được xác định trên cơ sở khối lượng bốc dỡ và đơn giá bốc xếp, ngày công, hệ số lương của cá nhân, hệ số năng suất cá nhân, tổng công quy đổi.\n4. Lương ngừng việc:\na. Nếu do lỗi của Công ty thì CNV được trả đủ tiền lương theo hợp đồng lao động.\nb. Nếu do lỗi của CNV thì CNV đó không được trả lương; những CNV trong cùng đơn vị phải ngừng việc thì được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu.\nc. Nếu vì sự cố về điện, nước mà không do lỗi của Công ty hoặc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa, di dời địa điểm hoạt động theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc vì lý do kinh tế thì hai bên thỏa thuận về tiền lương ngừng việc như sau:\ni. Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận không thấp hơn mức lương tối thiểu.\nii. Trường hợp phải ngừng việc trên 14 ngày làm việc thì tiền lương ngừng việc do hai bên thỏa thuận nhưng phải bảo đảm tiền lương ngừng việc trong 14 ngày đầu tiên không thấp hơn mức lương tối thiểu."
+  },
+  "answers": [
+   {
+    "key": "f9f1dc537d1c3666",
+    "answer": "Khi ngừng việc do lỗi của Công ty, Công nhân viên được trả đủ tiền lương theo hợp đồng lao động. [QCL Điều 10.4.a]"
+   },
+   {
+    "key": "bc24dd5a6917836b",
+    "answer": "Khi nghỉ việc do lỗi của Công ty, người lao động được hưởng chế độ nghỉ việc theo quy định của pháp luật và các văn bản nội bộ liên quan. Tuy nhiên, các trích đoạn tài liệu cung cấp không nêu cụ thể mức lương hoặc tỷ lệ thanh toán cho trường hợp nghỉ việc do lỗi của Công ty. Tài liệu chỉ quy định chi tiết về việc thu hồi tiền sinh nhật khi nghỉ việc trước tháng sinh nhật và xác định các khoản phụ cấp, lương chế độ khác [QCL Điều 16]."
+   },
+   {
+    "key": "1f3a4ce202349402",
+    "answer": "Tài liệu nội bộ không có thông tin cụ thể về mức lương khi nghỉ việc do lỗi của công ty. Tuy nhiên, [QCL Điều 16] ghi nhận \"Lương ngừng việc\" là một phần của \"Lương chế độ\" trong tổng thu nhập, và [QCL Điều 16.g.i] quy định các chế độ này phải tuân theo Bộ luật Lao động, Nội quy lao động và các quy định cụ thể trong bản quy định này. [TULD Điều 12] chỉ quy định rõ việc trả 100% lương cho CNV đi công tác, hội họp, học tập do công ty cử đi."
+   },
+   {
+    "key": "6013140734070328",
+    "answer": "Không có thông tin cụ thể về mức lương khi nghỉ việc do lỗi của công ty trong các trích đoạn cung cấp. Tài liệu chỉ quy định chi tiết về việc trả lương cho các trường hợp hội họp, đi công tác, sinh nhật và các chế độ như thai sản, ngừng việc nói chung (Điều 14, 16 QCL) nhưng không nêu rõ tỷ lệ thanh toán cho trường hợp nghỉ việc do lỗi công ty. [QCL Điều 14], [QCL Điều 16]"
+   }
+  ]
+ }
+]

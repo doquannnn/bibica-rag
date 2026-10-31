@@ -1,0 +1,320 @@
+[
+ {
+  "qid": "QCL-036",
+  "question": "Tiền lương hàng tháng được Công ty chi trả vào ngày nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của tháng (QCL Điều 11).",
+  "key_facts": [
+   "ngày 15"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "4cbeed69fc6124e5",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền lương hàng tháng được chi trả vào ngày 15 của tháng. Trong trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp là ngày trả lương. [QCL Điều 11]\n\nTuy nhiên, Thỏa ước lao động tập thể 2024 quy định tiền lương hàng tháng được chi trả 2 kỳ đối với CN Gián tiếp, Phục vụ và Sản xuất: Kỳ I vào ngày 20 của tháng và Kỳ II trả vào ngày 10 dương lịch tháng sau; còn đối với Đội ngũ bán hàng trả 01 kỳ vào ngày 15 hàng tháng. [TULD Điều 9]"
+   },
+   {
+    "key": "6d2016588aef50d0",
+    "answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của tháng đối với Đội ngũ bán hàng [TULD Điều 9]. Đối với Công nhân Gián tiếp, Phục vụ và Sản xuất, tiền lương được chi trả 2 kỳ: kỳ I vào ngày 20 của tháng và kỳ II vào ngày 10 dương lịch tháng sau [TULD Điều 9]. Trong trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp là ngày trả lương [TULD Điều 9]."
+   },
+   {
+    "key": "bde2febab8872369",
+    "answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của tháng đối với Đội ngũ bán hàng [TULD/Điều 9]. Đối với CN Gián tiếp, Phục vụ và Sản xuất, tiền lương được chi trả 2 kỳ: Kỳ I vào ngày 20 của tháng và Kỳ II trả vào ngày 10 dương lịch tháng sau [TULD/Điều 9]. Trong trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, chủ nhật), ngày làm việc kế tiếp là ngày trả lương [QCL/Điều 11], [TULD/Điều 9]."
+   },
+   {
+    "key": "81d27c8c1cd009c2",
+    "answer": "Tiền lương hàng tháng được chi trả vào ngày 15 của tháng đối với Đội ngũ bán hàng [TULD Điều 9]. Đối với Công nhân Gián tiếp, Phục vụ và Sản xuất, tiền lương được chi trả 2 kỳ: Kỳ I vào ngày 20 của tháng và Kỳ II vào ngày 10 dương lịch tháng sau [TULD Điều 9]. Trong trường hợp ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp là ngày trả lương [QCL Điều 11; TULD Điều 9]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-037",
+  "question": "Nếu ngày trả lương rơi vào Chủ nhật hoặc ngày Lễ thì khi nào nhân viên nhận được lương?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Khi ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương; trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty thì CNV có thể nhận được trễ hơn ngày chi trả (QCL Điều 11).",
+  "key_facts": [
+   "kế tiếp"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "ba54139a2df4ed90",
+    "answer": "Nếu ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp là ngày trả lương. Trong trường hợp tài khoản nhận lương của nhân viên khác với ngân hàng chi trả lương của Công ty, nhân viên có thể nhận được trễ hơn ngày chi trả.\n\nNguồn: [QCL Điều 11.11.2], [TULD Điều 9]"
+   },
+   {
+    "key": "84acc621fb0b96e5",
+    "answer": "Nếu ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), nhân viên sẽ nhận được tiền vào ngày làm việc kế tiếp. Tuy nhiên, nếu tài khoản nhận lương của nhân viên khác với ngân hàng chi trả của Công ty, nhân viên có thể nhận được trễ hơn ngày chi trả. [QCL Điều 11.2, TULD Điều 9]"
+   },
+   {
+    "key": "c4db3558d80118b8",
+    "answer": "Nếu ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương. Tuy nhiên, nếu tài khoản nhận lương của nhân viên khác với ngân hàng chi trả của Công ty, nhân viên có thể nhận được tiền trễ hơn ngày chi trả.\n\nThông tin này quy định tại:\n- [QCL Điều 11.2]\n- [TULD Điều 9]"
+   },
+   {
+    "key": "7ea6d9a709d59ca0",
+    "answer": "Nếu ngày trả lương trùng vào ngày nghỉ (Lễ, Tết, Chủ nhật), ngày làm việc kế tiếp sẽ là ngày trả lương. Tuy nhiên, nếu tài khoản nhận lương của nhân viên khác với ngân hàng chi trả của Công ty, nhân viên có thể nhận được tiền trễ hơn ngày chi trả.\n\nĐối với nhân viên Gián tiếp, Phục vụ và Sản xuất, lương được trả 2 kỳ: Kỳ I vào ngày 20 tháng và Kỳ II vào ngày 10 tháng sau. Đối với Đội ngũ bán hàng, lương được trả 1 kỳ vào ngày 15 hàng tháng.\n\n[NQLD Điều 7], [TULD Điều 9], [QCL Điều 11]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-038",
+  "question": "Tiền lương, tiền thưởng và các khoản BHXH, BHYT, BHTN của người lao động được Công ty chi trả, nộp từ tài khoản nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty chịu trách nhiệm chi trả tiền lương, tiền thưởng, các khoản trợ cấp và nộp BHXH, BHYT, BHTN cho tất cả người lao động ký HĐLĐ với Công ty từ tài khoản của Công ty cổ phần Bibica (QCL Điều 11).",
+  "key_facts": [
+   "Bibica"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 11": "Điều 11. Định kỳ chi trả lương\n11.1 Tiền lương hàng tháng được chi trả vào ngày 15 của tháng\n11.2 Trong trường hợp ngày trả lương trùng vào vào ngày nghỉ (Lễ, Tết, chủ nhật) thì ngày làm việc kế tiếp là ngày trả lương (trường hợp tài khoản nhận lương của CNV khác với ngân hàng chi trả lương của Công ty, CNV có thể nhận được trễ hơn ngày chi trả).\nCông ty.\n11.3 Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp các khoản Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp cho tất cả Người lao động ký Hợp đồng lao động với Công ty từ tài khoản của Công ty cổ phần Bibica."
+  },
+  "answers": [
+   {
+    "key": "176b68b044b07390",
+    "answer": "Tiền lương, tiền thưởng, các khoản trợ cấp và tiền đóng BHXH, BHYT, BHTN được chi trả, nộp từ tài khoản của Công ty cổ phần Bibica [QCL Điều 11.11.3]."
+   },
+   {
+    "key": "83b06b237ec9ba44",
+    "answer": "Công ty chịu trách nhiệm chi trả Tiền lương, Tiền thưởng, các khoản trợ cấp và nộp BHXH, BHYT, BHTN từ tài khoản của Công ty cổ phần Bibica [QCL Điều 11]. Người lao động nhận các khoản này qua tài khoản ngân hàng do họ cung cấp [QCL Điều 17] hoặc qua thẻ ATM [TULD Điều 13]."
+   },
+   {
+    "key": "808b54973eaaf2dd",
+    "answer": "Tiền lương, tiền thưởng, các khoản trợ cấp và BHXH, BHYT, BHTN được chi trả, nộp từ tài khoản của Công ty Cổ phần Bibica. [QCL Điều 11]"
+   },
+   {
+    "key": "f613f3b5860079d8",
+    "answer": "Tiền lương, tiền thưởng, các khoản trợ cấp và các khoản BHXH, BHYT, BHTN được Công ty chi trả, nộp từ tài khoản của Công ty cổ phần Bibica [QCL Điều 11]. Hình thức chi trả cụ thể là qua tài khoản ngân hàng do người lao động cung cấp [QCL Điều 17] hoặc qua thẻ ATM [TULD Điều 13]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-039",
+  "question": "Lương làm thêm giờ được Công ty tính trên cơ sở thời gian làm việc chuẩn là bao nhiêu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) (QCL Điều 12).",
+  "key_facts": [
+   "48 giờ",
+   "26 ngày",
+   "8 giờ"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "c16445d7871f9967",
+    "answer": "Lương làm thêm giờ được tính trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày). [QCL/Điều 12.1], [TULD/Điều 10.1]"
+   },
+   {
+    "key": "586602645afcf7e5",
+    "answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (8 giờ/ngày) theo quy định tại [TULD Điều 10] và [QCL Điều 12]. Nội quy lao động chỉ nêu nguyên tắc làm thêm ngoài giờ quy định tại Điều 5 và tuân thủ Bộ luật Lao động mà không nêu cụ thể thời gian chuẩn tính lương [NQLD Điều 12]."
+   },
+   {
+    "key": "bdd597574e90b8bb",
+    "answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 công/tháng (công 8 giờ) theo quy định tại TULD Điều 10 và QCL Điều 12. [TULD Điều 10], [QCL Điều 12]"
+   },
+   {
+    "key": "778715b8699801b2",
+    "answer": "Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/tuần hoặc 26 ngày/tháng (8 giờ/ngày) theo Quy chế tiền lương, tiền thưởng [QCL Điều 12]. Thỏa ước lao động tập thể cũng quy định tương tự là 48 giờ/tuần hoặc 26 công/tháng (công 8 giờ) [TULD Điều 10]. Nội quy lao động chỉ định làm thêm giờ là thời gian ngoài thời giờ làm việc bình thường được quy định tại Điều 5 [NQLD Điều 12]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-040",
+  "question": "Một công nhân có tiền lương giờ thực trả của ngày làm việc bình thường là 40.000 đồng, làm 3 giờ vào ban đêm (không phải làm thêm giờ). Theo công thức của quy chế, tiền lương làm việc ban đêm tối thiểu là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả + Tiền lương giờ thực trả x mức ít nhất 30%} x số giờ làm việc ban đêm = (40.000 + 40.000 x 30%) x 3 = 52.000 x 3 = 156.000 đồng (tối thiểu) (QCL Điều 12).",
+  "key_facts": [
+   "30%",
+   "156.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "dfd6616854541ebc",
+    "answer": "Theo Điều 12 khoản 2 mục ii của Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền lương làm việc vào ban đêm được tính bằng: {Tiền lương giờ thực trả của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường x Mức ít nhất 30%} x Số giờ làm việc vào ban đêm.\n\nÁp dụng số liệu:\n- Tiền lương giờ thực trả bình thường: 40.000 đồng.\n- Mức tăng thêm tối thiểu: 30%.\n- Số giờ làm việc ban đêm: 3 giờ.\n\nTính toán:\nTiền lương ban đêm = {40.000 + (40.000 x 30%)} x 3\n= {40.000 + 12.000} x 3\n= 52.000 x 3\n= 156.000 đồng.\n\n[TQCL Điều 12]"
+   },
+   {
+    "key": "e9d8669eb3f15e7b",
+    "answer": "Theo QCL Điều 12, tiền lương làm việc ban đêm tối thiểu được tính bằng: Tiền lương giờ thực trả + (Tiền lương giờ thực trả x 30%). Với mức lương giờ 40.000 đồng, công thức là: 40.000 + (40.000 x 30%) = 52.000 đồng/giờ. Do đó, 3 giờ làm việc ban đêm sẽ được trả 156.000 đồng. [QCL Điều 12]"
+   },
+   {
+    "key": "2fd4b340a40c1b46",
+    "answer": "Theo QCL Điều 12, tiền lương làm việc vào ban đêm được tính bằng: (Tiền lương giờ thực trả ngày làm việc bình thường + Tiền lương giờ thực trả ngày làm việc bình thường x Mức ít nhất 30%) x Số giờ làm việc vào ban đêm.\n\nVới tiền lương giờ 40.000 đồng và 3 giờ làm việc ban đêm:\n(40.000 + 40.000 x 30%) x 3 = (40.000 + 12.000) x 3 = 52.000 x 3 = 156.000 đồng.\n\n[TULD Điều 10]"
+   },
+   {
+    "key": "53288fa2d4bda904",
+    "answer": "Tiền lương làm việc ban đêm tối thiểu được tính theo công thức: (Tiền lương giờ thực trả + Tiền lương giờ thực trả x Mức ít nhất 30%) x Số giờ làm việc vào ban đêm. Với số liệu cụ thể: (40.000 + 40.000 x 30%) x 3 = 156.000 đồng. [QCL Điều 12]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-041",
+  "question": "Quản trị viên phát sinh công việc ngoài giờ hoặc vào cuối tuần, Lễ/Tết thì được giải quyết chế độ thế nào?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Đối với Quản trị viên, Công ty khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo quy định của Luật. QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt (QCL Điều 12).",
+  "key_facts": [
+   "nghỉ bù",
+   "tăng ca",
+   "Tổng Giám đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "d21745f9e3b07843",
+    "answer": "Đối với Quản trị viên (QTV) phát sinh công việc ngoài giờ, cuối tuần hoặc Lễ/Tết, quy định như sau:\n\n1.  **Khuyến khích nghỉ bù:** QTV được khuyến khích nghỉ bù (hưởng nguyên lương) [QCL Điều 12.2].\n2.  **Chấm tăng ca:** Trường hợp không sắp xếp được nghỉ bù, QTV được chấm tăng ca theo quy định của Luật Lao động.\n3.  **Điều kiện thực hiện:** QTV phải làm giấy xin nghỉ bù hoặc đăng ký tăng ca và được Tổng Giám đốc phê duyệt [QCL Điều 12.3].\n4.  **Ngày nghỉ trùng:** Nếu ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần, QTV làm thêm giờ vào ngày đó được trả lương làm thêm giờ theo ngày nghỉ hằng tuần [QCL Điều 12.4]."
+   },
+   {
+    "key": "7e34963b6d3bf6e4",
+    "answer": "Đối với Quản trị viên (QTV) phát sinh công việc ngoài giờ, vào ngày nghỉ cuối tuần, Lễ/Tết, Công ty khuyến khích nghỉ bù (hưởng nguyên lương). Trường hợp không sắp xếp được nghỉ bù, QTV được chấm tăng ca theo quy định của Luật Lao động. Việc QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca phải được Tổng Giám đốc phê duyệt. [QCL Điều 12]"
+   },
+   {
+    "key": "5f9baf6c87c2503f",
+    "answer": "Đối với Quản trị viên phát sinh công việc ngoài giờ, cuối tuần hoặc Lễ/Tết, công ty khuyến khích nghỉ bù (hưởng nguyên lương). Trường hợp không sắp xếp được nghỉ bù thì được tính tăng ca theo quy định của Luật Lao động. Việc xin nghỉ bù hoặc đăng ký tăng ca phải được Tổng Giám đốc phê duyệt. [QCL Điều 12]"
+   },
+   {
+    "key": "5cfc07514f491cdf",
+    "answer": "Đối với Quản trị viên (QTV), khi phát sinh công việc ngoài giờ, ngày nghỉ cuối tuần hoặc Lễ/Tết, công ty khuyến khích nghỉ bù (hưởng nguyên lương). Trường hợp không sắp xếp được nghỉ bù, QTV được chấm tăng ca theo quy định của Luật Lao động. Việc QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca phải được Tổng Giám đốc phê duyệt. Nếu QTV làm thêm giờ vào ngày nghỉ bù mà ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần, sẽ được trả lương làm thêm giờ theo ngày nghỉ hằng tuần. [QCL Điều 12]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-042",
+  "question": "Nếu ngày Lễ trùng vào ngày nghỉ hằng tuần và tôi đi làm thêm vào ngày nghỉ bù thì được trả lương làm thêm giờ theo mức của ngày nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần được trả lương làm thêm giờ theo ngày nghỉ hằng tuần (QCL Điều 12).",
+  "key_facts": [
+   "ngày nghỉ hằng tuần"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 12": "Điều 12. Tiền lương làm thêm\n1. Tiền lương làm thêm giờ: Công ty tính lương làm thêm trên cơ sở làm việc 48 giờ/ tuần hoặc 26 ngày/tháng (8 giờ/ngày).\n2. Tiền lương làm thêm giờ\na. Tiền lương làm thêm giờ = Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% X Số giờ làm thêm hoặc số sản phẩm làm thêm. Mức 150% hoặc 200% hoặc 300% theo quy định của Bộ luật Lao động\nb. Tiền lương làm việc vào ban đêm\ni. Tiền lương làm việc vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30%} X Số giờ làm việc vào ban đêm hoặc Số sản phẩm làm vào ban đêm;\nii. Tiền lương làm thêm giờ vào ban đêm = {Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 150% hoặc 200% hoặc 300% + Tiền lương giờ thực trả của ngày làm việc bình thường hoặc Đơn giá tiền lương sản phẩm của ngày làm việc bình thường X Mức ít nhất 30% + 20% X Tiền lương giờ vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương; hoặc Đơn giá tiền lương sản phẩm vào ban ngày làm việc bình thường hoặc ngày nghỉ hàng tuần hoặc ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương} X Số giờ làm thêm vào ban đêm hoặc Số sản phẩm làm thêm vào ban đêm.\n3. Đối với Quản trị viên khi phát sinh công việc làm ngoài giờ; vào ngày nghỉ cuối tuần, Lễ/Tết thì khuyến khích nghỉ bù (hưởng nguyên lương); trường hợp không sắp xếp được công việc để nghỉ bù thì được chấm tăng ca theo qui định của Luật: QTV làm giấy xin nghỉ bù hoặc đăng ký tăng ca được Tổng Giám đốc phê duyệt.\n4. Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần."
+  },
+  "answers": [
+   {
+    "key": "f9fbe19afeeadf7b",
+    "answer": "Nếu ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn đi làm thêm vào ngày nghỉ bù, bạn được trả lương làm thêm giờ theo mức của **ngày nghỉ hằng tuần**.\n\nCăn cứ:\n- [QCL Điều 12.4]: \"Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\"\n- [TULD Điều 10.3]: \"Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần theo quy định tại khoản 3 điều 111 của Bộ luật Lao động được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\""
+   },
+   {
+    "key": "f399027a1ff74b53",
+    "answer": "Khi ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn làm thêm vào ngày nghỉ bù, bạn được trả lương làm thêm giờ theo mức của ngày nghỉ hằng tuần. Quy định này có trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 [QCL Điều 12 khoản 4] và Thỏa ước lao động tập thể 2024 [TULD Điều 10 khoản 3]. Nội quy lao động 2024 chỉ nêu chung là theo quy định của Bộ luật Lao động [NQLD Điều 12 khoản 3]."
+   },
+   {
+    "key": "16c5d74aea5ce920",
+    "answer": "Khi ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn làm thêm vào ngày nghỉ bù, bạn được trả lương làm thêm giờ theo mức của ngày nghỉ hằng tuần.\n\nQuy định này có trong:\n- **QCL Điều 12, khoản 4**: \"Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần... được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\" [QCL Điều 12]\n- **TULD Điều 10, khoản 3**: \"Người lao động làm thêm giờ vào ngày nghỉ bù khi ngày Lễ, Tết trùng vào ngày nghỉ hằng tuần... được trả lương làm thêm giờ theo ngày nghỉ hằng tuần.\" [TULD Điều 10]\n- **NQLD Điều 12, khoản 4**: Không quy định cụ thể mức lương cho trường hợp này mà chỉ nêu quyền yêu cầu làm thêm giờ trong các trường hợp đặc biệt. [NQLD Điều 12]\n\nLưu ý: Mức % cụ thể (150%, 200% hay 300%) áp dụng cho ngày nghỉ hằng tuần sẽ tuân theo quy định của Bộ luật Lao động như đã nêu trong QCL Điều 12, khoản 2a. [QCL Điều 12]"
+   },
+   {
+    "key": "5bd6420f10dccc8b",
+    "answer": "Khi ngày Lễ trùng vào ngày nghỉ hằng tuần và bạn làm thêm vào ngày nghỉ bù, bạn được trả lương làm thêm giờ theo mức của ngày nghỉ hằng tuần. Quy định này được nêu rõ trong Quy chế tiền lương, tiền thưởng Bibica năm 2024 (Điều 12, Khoản 4) và Thỏa ước lao động tập thể 2024 (Điều 10, Khoản 3). Nội quy lao động 2024 (Điều 12, Khoản 3) cũng xác nhận việc này theo quy định của Bộ luật Lao động. [QCL Điều 12], [TULD Điều 10], [NQLD Điều 12]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-043",
+  "question": "Nếu một nữ nhân viên có thâm niên 2 năm nghỉ thai sản 6 tháng thì ngoài chế độ BHXH, Công ty trợ cấp thêm khoản nào?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "CNV có thâm niên dưới 3 năm được Công ty trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản (ngoài trợ cấp thai sản do BHXH chi trả theo pháp luật) (QCL Điều 13).",
+  "key_facts": [
+   "1%",
+   "BHXH"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "c00111a8f365bd83",
+    "answer": "Đối với nữ nhân viên có thâm niên 2 năm (dưới 3 năm) nghỉ thai sản 6 tháng, ngoài chế độ BHXH, Công ty chi trả một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n\n[NQLD Điều 9.1.2], [QCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "41484d796a5ccddb",
+    "answer": "Đối với nữ nhân viên có thâm niên dưới 3 năm (trong trường hợp này là 2 năm) nghỉ thai sản 6 tháng, ngoài chế độ BHXH, Công ty trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản [QCL Điều 13], [TULD Điều 11]."
+   },
+   {
+    "key": "4c961e50106a2f69",
+    "answer": "Đối với nữ nhân viên có thâm niên 2 năm (dưới 3 năm) nghỉ thai sản 6 tháng, ngoài chế độ BHXH, Công ty trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n\nNguồn: [QCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "39f3e5621e226871",
+    "answer": "Đối với nữ nhân viên có thâm niên dưới 3 năm nghỉ thai sản 6 tháng, ngoài chế độ BHXH, Công ty trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản [QCL Điều 13], [TULD Điều 11]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-044",
+  "question": "tro cap thai san cua cty cho nv co tham nien du 3 nam la bao nhieu",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "CNV có thâm niên đủ 3 năm nghỉ thai sản 6 tháng được trợ cấp 2 triệu đồng trong vòng 6 tháng (đã bao gồm khoản tiền tương đương 1% lương đóng BHTN trong 6 tháng); trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng (QCL Điều 13).",
+  "key_facts": [
+   "2 triệu",
+   "6 tháng"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "33e5ec13acabcc0d",
+    "answer": "Đối với người lao động nghỉ thai sản 6 tháng, nếu có thâm niên đủ 3 năm trở lên, Công ty chi trả trợ cấp là 2 triệu đồng trong vòng 6 tháng (số tiền này đã bao gồm khoản tương đương 1% lương đóng BHTN). Nếu 1% lương đóng BHTN cao hơn 2 triệu đồng, sẽ áp dụng mức 1% lương đóng BHTN trong vòng 6 tháng. [QCL Điều 13] [TULD Điều 11]"
+   },
+   {
+    "key": "12cbbcb457990175",
+    "answer": "Đối với nhân viên có thâm niên đủ 3 năm trở lên trong thời gian nghỉ thai sản 6 tháng, Công ty chi trợ cấp 2 triệu đồng trong vòng 6 tháng. Số tiền này đã bao gồm khoản tương đương 1% lương đóng BHTN; nếu 1% lương đóng BHTN cao hơn 2 triệu đồng thì áp dụng mức 1% lương đóng BHTN. [QCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "1cdb7383c0b64152",
+    "answer": "Đối với nhân viên nghỉ thai sản 6 tháng có thâm niên đủ 3 năm trở lên, Công ty chi trợ cấp 2 triệu đồng trong vòng 6 tháng. Số tiền này đã bao gồm khoản tương đương 1% lương đóng Bảo hiểm thất nghiệp trong cùng thời gian. Tuy nhiên, nếu 1% lương đóng BHTN cao hơn 2 triệu đồng, mức trợ cấp sẽ áp dụng là 1% lương đóng BHTN trong vòng 6 tháng.\n\nNguồn: [QCL Điều 13], [TULD Điều 11]"
+   },
+   {
+    "key": "510f11855c03db04",
+    "answer": "Đối với nhân viên nghỉ thai sản 6 tháng có thâm niên đủ 3 năm trở lên, Công ty chi trợ cấp 2 triệu đồng trong vòng 6 tháng. Số tiền này đã bao gồm khoản tương đương 1% lương đóng Bảo hiểm thất nghiệp trong cùng thời gian. Tuy nhiên, nếu 1% lương đóng BHTN cao hơn 2 triệu đồng, Công ty sẽ áp dụng mức trợ cấp tương đương 1% lương đóng BHTN trong vòng 6 tháng.\n\n[NQLD Điều 11], [QCL Điều 13], [TULD Điều 11]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-045",
+  "question": "Nghỉ ốm dài ngày nên tháng đó không đóng được bảo hiểm thất nghiệp thì công ty có bù khoản gì cho mình không?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Có. CNV nghỉ ốm đau, thai sản, tai nạn lao động... từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN (QCL Điều 13).",
+  "key_facts": [
+   "14 ngày",
+   "1%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 13": "Điều 13. Trợ cấp\nTrợ cấp BHXH trong các trường hợp thai sản, ốm đau (Do BHXH chi trả): được thực hiện theo pháp luật BHXH hiện hành, ngoài ra:\nĐối với CNV trong thời gian nghỉ thai sản 6 tháng:\n- CNV có thâm niêm đủ 3 năm: Trợ cấp 2 triệu đồng trong vòng 6 tháng (Số tiền này đã bao gồm một khoản tiền tương đương 1% lương đóng BHTN trong vòng 6 tháng), Trường hợp 1% lương đóng BHTN cao hơn 2 triệu thì áp dụng mức trợ cấp 1% lương đóng BHTN trong vòng 6 tháng;\n- CNV có thâm niên dưới 3 năm: Trợ cấp một khoản tiền tương đương 1% tiền lương đóng BHXH trong vòng 6 tháng nghỉ thai sản.\n- Đối với CNV nghỉ ốm đau, thai sản, tai nạn lao động...., nghỉ từ 14 ngày trở lên không tham gia BHTN thì Công ty chi trả cùng kỳ vào trong bảng lương một khoản tiền tương đương 1% lương BHTN trong thời gian không tham gia BHTN theo qui định."
+  },
+  "answers": [
+   {
+    "key": "334853c110150a83",
+    "answer": "Tài liệu nội bộ không có thông tin về việc công ty bù khoản tiền cụ thể nào cho người lao động khi không đóng được bảo hiểm thất nghiệp do nghỉ ốm dài ngày.\n\nTuy nhiên, theo **Điều 13 Quy chế tiền lương, tiền thưởng Bibica năm 2024**, đối với người lao động nghỉ ốm đau, thai sản, tai nạn lao động... nghỉ từ 14 ngày trở lên không tham gia bảo hiểm thất nghiệp, Công ty chi trả một khoản tiền tương đương **1% tiền lương đóng BHXH** trong thời gian không tham gia bảo hiểm thất nghiệp đó."
+   },
+   {
+    "key": "312166dd05634941",
+    "answer": "Công ty chi trả khoản tiền tương đương 1% lương đóng BHTN trong thời gian nghỉ không tham gia BHTN (bao gồm nghỉ ốm đau) nếu nghỉ từ 14 ngày trở lên. [QCL Điều 13]"
+   },
+   {
+    "key": "764f5793138fd7df",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, đối với nhân viên nghỉ ốm đau, thai sản, tai nạn lao động... nghỉ từ 14 ngày trở lên mà không tham gia bảo hiểm thất nghiệp, Công ty sẽ chi trả cùng kỳ vào bảng lương một khoản tiền tương đương 1% lương đóng BHTN trong thời gian không tham gia BHTN theo quy định [QCL Điều 13]."
+   },
+   {
+    "key": "1b9343583c8f86a3",
+    "answer": "Công ty chi trả khoản tiền tương đương 1% lương đóng BHTN trong thời gian nghỉ ốm đau không tham gia bảo hiểm thất nghiệp nếu nghỉ từ 14 ngày trở lên. Mức chi trả này được thực hiện cùng kỳ vào trong bảng lương.\n\nNguồn: [QCL Điều 13]"
+   }
+  ]
+ }
+]

@@ -1,0 +1,320 @@
+[
+ {
+  "qid": "QCL-008",
+  "question": "Theo quy chế lương, nâng lương nghĩa là gì?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Nâng lương là việc nâng hệ số lương của một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương (QCL Điều 2).",
+  "key_facts": [
+   "hệ số lương",
+   "ngạch lương"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "0f7a2da5be78c1ff",
+    "answer": "Nâng lương là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương. [QCL Điều 2.2.10]"
+   },
+   {
+    "key": "cf7db18ac3126b12",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương [QCL Điều 2]."
+   },
+   {
+    "key": "1e00258102ba5604",
+    "answer": "Theo QCL Điều 2, \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương. Khi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định theo từng nhóm. [QCL Điều 2], [QCL Điều 15]"
+   },
+   {
+    "key": "1ba72bf2d8a28d36",
+    "answer": "\"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương [QCL/Điều 2]. Việc xét nâng hệ số lương được thực hiện với chu kỳ 01 năm 1 lần [QCL/Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-009",
+  "question": "Quản trị viên được hiểu là cấp nào, và Quản trị viên nhóm 1 gồm những ai?",
+  "type": "definition",
+  "answerable": true,
+  "reference_answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên; Quản trị viên nhóm 1 là cấp quản lý gồm Ban Tổng Giám Đốc (QCL Điều 2).",
+  "key_facts": [
+   "Trưởng ca",
+   "Ban Tổng Giám Đốc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "cb49ad139cb5b02e",
+    "answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên. Quản trị viên nhóm 1 gồm Ban Tổng Giám Đốc.\n[NQLD Điều 2]"
+   },
+   {
+    "key": "cdd880ce01c3e636",
+    "answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên [QCL Điều 2, mục 12]. Quản trị viên nhóm 1 là cấp quản lý gồm Ban Tổng Giám Đốc [QCL Điều 2, mục 13]."
+   },
+   {
+    "key": "628b508b80974d58",
+    "answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên. Quản trị viên nhóm 1 gồm Ban Tổng Giám Đốc.\n\n[QCL Điều 2]"
+   },
+   {
+    "key": "ae6ed77e039cfb7f",
+    "answer": "Quản trị viên là cấp quản lý từ cấp Trưởng ca trở lên [QCL Điều 2]. Quản trị viên nhóm 1 là cấp quản lý gồm Ban Tổng Giám Đốc [QCL Điều 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-011",
+  "question": "Quản trị viên nhóm 2 gồm những chức danh nào và lương công việc của nhóm này được phân bổ giữa lương cơ bản và KPI theo tỷ lệ bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Quản trị viên nhóm 2 gồm: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc và Phó giám đốc Chi nhánh/Công ty thành viên (QCL Điều 2). Tỉ lệ cơ cấu LCV của QTV nhóm 2: lương cơ bản chiếm 70 ÷ 85%, KPI chiếm 15 ÷ 30% (QCL Điều 15).",
+  "key_facts": [
+   "Giám Đốc Khối",
+   "70",
+   "85",
+   "30"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp.",
+   "QCL/Điều 15": "Điều 15. Tỉ lệ cơ cấu LCV\nVị trí công việc Tỉ lệ lương cơ bản (%) Tỉ lệ KPI (%)\nQuản trị viên nhóm 1- (QTV1): lương cơ bản chiếm 80 ÷ 90%; KPI chiếm 10 ÷ 20 (%)\nQuản trị viên nhóm 2- (QTV2): lương cơ bản chiếm 70 ÷ 85%; KPI chiếm 15 ÷ 30 (%)\nNhân viên – (NV): lương cơ bản chiếm 60%, KPI chiếm 10 ÷ 40 (%)\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức tỉ lệ KPI theo từng nhóm.\n1. Hệ số hoàn thành năng suất (nếu có).\n2. Chuẩn hóa hệ số lương theo đúng trình độ chuyên môn nghiệp vụ của CNV:\nVí dụ: CNV có bằng cấp chuyên môn Đại học nhưng đang hưởng hệ số lương bậc trung cấp sẽ được đánh giá nếu công nhận bằng Đại học phù hợp yêu cầu công việc sẽ điều chỉnh qua bậc lương Kỹ sư, Cử nhân tương ứng.\n3. Ngày công làm việc thực tế.\n4. Hệ số thành tích\n5. Kết quả đánh giá KPI.\n6. Đối với trực tiếp sản xuất căn cứ quỹ lương sản phẩm của từng PXSX / chuyền trong tháng."
+  },
+  "answers": [
+   {
+    "key": "796d4644da31e922",
+    "answer": "Quản trị viên nhóm 2 gồm các chức danh: Giám đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng Kế toán, Giám đốc & Phó giám đốc Chi nhánh/Công ty thành viên [QCL Điều 2].\n\nVề tỷ lệ phân bổ lương công việc:\n- Lương cơ bản chiếm 70 ÷ 85%\n- Thưởng KPI chiếm 15 ÷ 30%\n[QCL Điều 15]"
+   },
+   {
+    "key": "8a7690cc0566178c",
+    "answer": "Quản trị viên nhóm 2 bao gồm: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng Kế toán, Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên [QCL Điều 2].\n\nVề tỷ lệ phân bổ lương:\n- Lương cơ bản chiếm 70 ÷ 85% [QCL Điều 15].\n- Thưởng KPI chiếm 15 ÷ 30% [QCL Điều 15].\n\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định [QCL Điều 15]."
+   },
+   {
+    "key": "dde4883db3044663",
+    "answer": "Tài liệu nội bộ không có thông tin về danh sách cụ thể các chức danh thuộc \"Quản trị viên nhóm 2\".\n\nTuy nhiên, theo QCL Điều 15, đối với vị trí Quản trị viên nhóm 2 (QTV2), cấu trúc lương được quy định như sau:\n- Lương cơ bản chiếm 70 ÷ 85%.\n- Thưởng KPI chiếm 15 ÷ 30%.\n[QCL Điều 15]"
+   },
+   {
+    "key": "3e34469cd791f422",
+    "answer": "Quản trị viên nhóm 2 bao gồm: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng Kế toán, Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên [QCL Điều 2].\n\nVề tỷ lệ phân bổ:\n- Lương cơ bản chiếm 70 ÷ 85% [QCL Điều 15].\n- Thưởng KPI chiếm 15 ÷ 30% [QCL Điều 15].\n\nKhi xét nâng lương chỉ tăng lương cơ bản; thưởng KPI không chỉnh tăng tương ứng khi tỉ lệ KPI nằm trong mức quy định [QCL Điều 15]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-012",
+  "question": "Một nhân viên có hệ số lương 1,8, lương tối thiểu vùng là 4.960.000 đồng và được hỗ trợ 500.000 đồng/tháng. Lương cơ bản và lương cứng của người này là bao nhiêu?",
+  "type": "multi_hop",
+  "answerable": true,
+  "reference_answer": "Lương cơ bản = hệ số lương x Lương tối thiểu vùng = 1,8 x 4.960.000 = 8.928.000 đồng. Lương cứng = Lương cơ bản + hỗ trợ = 8.928.000 + 500.000 = 9.428.000 đồng (QCL Điều 2).",
+  "key_facts": [
+   "8.928.000",
+   "9.428.000"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 2": "Điều 2. Định nghĩa và giải thích các từ ngữ\nTrong quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. “Công nhân viên (CNV)” là công nhân viên tại Văn phòng Công ty và các chi nhánh/ Công ty thành viên.\n2. “Chi nhánh” là các Chi nhánh của Công ty cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n3. “Công ty thành viên” là các Công ty con của Công ty Cổ phần Bibica được thành lập theo Quy định của Luật doanh nghiệp ;\n4. “Hệ số lương (HSL)” là hệ số lương cứng theo Thang lương Bảng lương Công ty đã ban hành theo phụ lục 01 đính kèm.\n5. “Xếp lương” là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên được tuyển dụng sau khi xong quá trình thử việc.\n6. “Lương Cơ bản (LCB)” là lương tại Thang lương Bảng lương công ty ban hành theo phụ lục 01, lương cơ bản được tính bằng hệ số lương x Lương tối thiểu vùng.\n7. “Lương cứng” = Lương cơ bản + hỗ trợ (nếu có).\n8. “Lương công việc (LCV)” là tổng tiền lương, hỗ trợ (nếu có), KPI (nếu có) của NLĐ\n9. Thưởng hiệu quả công việc (thưởng KPI) là khoản tiền mà người sử dụng lao động thưởng cho người lao động theo vị trí công việc căn cứ vào kết quả sản xuất kinh doanh của Công ty và mức độ hoàn thành công việc của người lao động hàng tháng.\n10. \"Nâng lương\" là việc nâng hệ số lương một cá nhân từ một bậc thấp đến bậc cao hơn trong cùng một ngạch lương.\n11. “Chuyển đổi hệ số lương\" là việc xác định lại hệ số lương phù hợp với sự thay đổi công việc hoặc do điều chuyển vị trí làm việc khác trong Công ty.\n12. \"Quản trị viên\": Là cấp quản lý từ cấp Trưởng ca trở lên.\n13. \"Quản trị viên nhóm 1 \": Là cấp quản lý gồm: Ban Tổng Giám Đốc.\n14. “Quản trị viên nhóm 2’’: Giám Đốc Khối/Phó giám đốc Khối, Kế toán trưởng/Phó trưởng phòng phòng Kế toán (Phó Giám đốc Khối), Giám Đốc & Phó giám đốc Chi nhánh/Công ty thành viên;\n15. “Quản trị viên nhóm 3 \": Là cấp quản lý gồm: Trưởng bộ phận VPCT, Kế toán tổng hợp Công ty, Giám đốc sản phẩm, Giám đốc nhãn hàng, Quản lý sản phẩm, Quản lý nhãn hàng, Trưởng - Phó phòng, Quản đốc phân xưởng, Phó Quản đốc phân xưởng, Chuyên viên ở các Khối.\n16. “Quản trị viên nhóm 4 \": Trưởng bộ phận chi nhánh/Công ty thành viên, Kế toán tổng hợp, Admin tổng hợp."
+  },
+  "answers": [
+   {
+    "key": "77bd1a4160249cb9",
+    "answer": "Lương cơ bản = Hệ số lương (1,8) x Lương tối thiểu vùng (4.960.000 đồng) = 8.928.000 đồng.\nLương cứng = Lương cơ bản (8.928.000 đồng) + Hỗ trợ (500.000 đồng) = 9.428.000 đồng.\n[NQLD Điều 2], [QCL Điều 2], [QCL Điều 3]"
+   },
+   {
+    "key": "036e35ad588d930c",
+    "answer": "Lương cơ bản = Hệ số lương x Lương tối thiểu vùng = 1,8 x 4.960.000 = 8.928.000 đồng [QCL Điều 2].\nLương cứng = Lương cơ bản + Hỗ trợ = 8.928.000 + 500.000 = 9.428.000 đồng [QCL Điều 2]."
+   },
+   {
+    "key": "758f17141e9d088c",
+    "answer": "Tài liệu nội bộ không có thông tin để trả lời câu hỏi này.\n\nCác trích đoạn cung cấp công thức tính **Lương cơ bản** dựa trên \"Mức lương cơ bản/công chuẩn\" và \"ngày công thực tế\" [QCL Điều 16], nhưng không quy định cách xác định \"Mức lương cơ bản\" hay \"công chuẩn\" cụ thể từ \"hệ số lương\" và \"lương tối thiểu vùng\". Ngoài ra, tài liệu chỉ nêu rõ mức hỗ trợ 500.000 đồng/tháng áp dụng cho đối tượng \"Bốc xếp, Lao động phổ thông\" [QCL Điều 16], không xác định đây là \"lương cứng\" hay khoản hỗ trợ riêng biệt trong tổng thu nhập."
+   },
+   {
+    "key": "b91ff19a16b93141",
+    "answer": "Lương cơ bản của nhân viên là 9.928.000 đồng (tính theo hệ số 1,8 nhân với lương tối thiểu vùng 4.960.000 đồng) [QCL Điều 2]. Lương cứng của người này là 10.428.000 đồng (bao gồm lương cơ bản 9.928.000 đồng cộng với hỗ trợ 500.000 đồng) [QCL Điều 2]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-013",
+  "question": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là bao nhiêu?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Mức chênh lệch giữa bậc lương trong 1 ngạch là từ 07% theo từng nhóm cụ thể trong thang lương; Thang lương Bảng lương được quy định chi tiết theo Phụ lục 01 (QCL Điều 3).",
+  "key_facts": [
+   "07%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 3": "Điều 3. Công ty quy định Thang lương, Bảng lương\n1. Thang lương Bảng lương được quy định chi tiết theo Phụ lục 01 đính kèm.\n2. Mức lương tối thiểu chung theo quy định của Nhà nước.\n3. Mức chênh lệch giữa bậc lương trong 1 ngạch: Từ 07% theo từng nhóm cụ thể trong thang lương."
+  },
+  "answers": [
+   {
+    "key": "0183bf3d4ae2d1d8",
+    "answer": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là 07% theo từng nhóm cụ thể trong thang lương. [QCL Điều 3]"
+   },
+   {
+    "key": "a334f54f40359980",
+    "answer": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là từ 07% theo từng nhóm cụ thể trong thang lương.\n\nNguồn: [QCL Điều 3]"
+   },
+   {
+    "key": "227cd23b39162249",
+    "answer": "Mức chênh lệch giữa các bậc lương trong cùng một ngạch là từ 07% theo từng nhóm cụ thể trong thang lương. [QCL Điều 3]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-014",
+  "question": "Khi hết thời gian thử việc, đơn vị phải làm gì và người không đạt yêu cầu thử việc bị xử lý ra sao?",
+  "type": "fact",
+  "answerable": true,
+  "reference_answer": "Sau khi hết thời gian thử việc, các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng; nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với người lao động (QCL Điều 4).",
+  "key_facts": [
+   "bảng đánh giá",
+   "chấm dứt hợp đồng thử việc"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 4": "Điều 4. Công ty quy định về việc xếp lương như sau\n1. Sau khi hết thời gian thử việc theo quy định các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng.\n2. Sau thời gian thử việc nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với Người lao động.\n3. Tiền Lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Công ty trả cho CNV tiền lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản."
+  },
+  "answers": [
+   {
+    "key": "e7777ab314fe5520",
+    "answer": "Sau khi hết thời gian thử việc, đơn vị phải lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng. Nếu người lao động không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc. [QCL Điều 4]"
+   },
+   {
+    "key": "b72140c8eb44674b",
+    "answer": "Sau khi hết thời gian thử việc, đơn vị phải lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng [QCL/Điều 4]. Nếu người lao động không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc [QCL/Điều 4]."
+   },
+   {
+    "key": "4bc4bc4b9a89faa8",
+    "answer": "Sau khi hết thời gian thử việc, đơn vị phải lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng. Nếu người lao động không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc. Nội quy lao động áp dụng đối với tất cả mọi người lao động, kể cả người lao động trong thời gian thử việc. [QCL Điều 4], [NQLD Điều 2]"
+   },
+   {
+    "key": "d21f18e44dc45ed7",
+    "answer": "Sau khi hết thời gian thử việc, đơn vị phải lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng [QCL/Điều 4]. Nếu người lao động không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc [QCL/Điều 4]. Người lao động hoàn thành tốt nhiệm vụ và không bị xử lý kỷ luật sẽ được tái ký hợp đồng khi hết hạn [TULD/Điều 5]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-015",
+  "question": "Mới vào làm, đang trong giai đoạn thử việc thì mình được trả lương khoảng bao nhiêu so với lương của vị trí đó?",
+  "type": "paraphrase",
+  "answerable": true,
+  "reference_answer": "Tiền lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách; Công ty trả lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản (QCL Điều 4).",
+  "key_facts": [
+   "85%",
+   "1%"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 4": "Điều 4. Công ty quy định về việc xếp lương như sau\n1. Sau khi hết thời gian thử việc theo quy định các đơn vị lập bảng đánh giá quá trình thử việc theo thủ tục tuyển dụng.\n2. Sau thời gian thử việc nếu không đạt yêu cầu, Công ty sẽ ra quyết định chấm dứt hợp đồng thử việc với Người lao động.\n3. Tiền Lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Công ty trả cho CNV tiền lương thử việc cùng với 1% tiền lương đóng BHTN, tổng bằng 100% lương cơ bản."
+  },
+  "answers": [
+   {
+    "key": "8f156bd99441c5c0",
+    "answer": "Theo Quy chế tiền lương, tiền thưởng Bibica năm 2024, tiền lương trong thời gian thử việc được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. [QCL Điều 4]"
+   },
+   {
+    "key": "a6616afbce0884be",
+    "answer": "Trong thời gian thử việc, tiền lương được tính ít nhất bằng 85% tiền lương của vị trí đảm trách. Tổng tiền lương thử việc cộng với 1% đóng bảo hiểm thất nghiệp sẽ bằng 100% lương cơ bản [QCL Điều 4]."
+   },
+   {
+    "key": "2efbebe47781f1ac",
+    "answer": "Trong thời gian thử việc, tiền lương được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Công ty trả cho người lao động tiền lương thử việc cùng với 1% tiền lương đóng Bảo hiểm thất nghiệp, tổng bằng 100% lương cơ bản [QCL Điều 4]."
+   },
+   {
+    "key": "18f92be4640bb23e",
+    "answer": "Trong thời gian thử việc, tiền lương được tính ít nhất bằng 85% tiền lương đối với công việc của vị trí đảm trách. Mức lương này cộng với 1% tiền lương đóng Bảo hiểm thất nghiệp (BHTN) sẽ tổng bằng 100% lương cơ bản. [QCL Điều 4]\n\nLưu ý: \"Xếp lương\" là xếp hệ số lương của vị trí sẽ đảm nhận cho nhân viên sau khi xong quá trình thử việc. [QCL Điều 2]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-017",
+  "question": "Khi xét nâng lương, nhân viên được phân thành những nhóm nào?",
+  "type": "list",
+  "answerable": true,
+  "reference_answer": "Có 4 nhóm xét nâng lương: Nhóm 1: Lao động phổ thông, công nhân kỹ thuật; Nhóm 2: Trung cấp, cao đẳng; Nhóm 3: Cử nhân, kỹ sư, trưởng ca; Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên (QCL Điều 6).",
+  "key_facts": [
+   "Lao động phổ thông",
+   "Trung cấp",
+   "kỹ sư",
+   "trưởng bộ phận"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "207ab0613a0fab24",
+    "answer": "Khi xét nâng lương, nhân viên được phân thành 4 nhóm như sau:\n1. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\n2. Nhóm 2: Trung cấp, cao đẳng.\n3. Nhóm 3: Cử nhân, kỹ sư, trưởng ca.\n4. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n[NQLD Điều 6]"
+   },
+   {
+    "key": "32ca92774d6b26f7",
+    "answer": "Khi xét nâng lương, nhân viên được phân thành 4 nhóm như sau:\n1. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\n2. Nhóm 2: Trung cấp, cao đẳng.\n3. Nhóm 3: Cử nhân, kỹ sư, trưởng ca.\n4. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n[Nguồn: QCL Điều 6]"
+   },
+   {
+    "key": "951bc737681d233f",
+    "answer": "Khi xét nâng lương, nhân viên được phân thành 4 nhóm như sau:\n1. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\n2. Nhóm 2: Trung cấp, cao đẳng.\n3. Nhóm 3: Cử nhân, kỹ sư, trưởng ca.\n4. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n\n[Nguồn: QCL/Điều 6]"
+   },
+   {
+    "key": "f504f30fd30569f0",
+    "answer": "Nhân viên được phân thành 4 nhóm như sau:\n1. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\n2. Nhóm 2: Trung cấp, cao đẳng.\n3. Nhóm 3: Cử nhân, kỹ sư, trưởng ca.\n4. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n\n[TULD Điều 6]"
+   }
+  ]
+ },
+ {
+  "qid": "QCL-018",
+  "question": "Một công nhân (không phải quản trị viên) có thâm niên 31 năm và đang hưởng lương bậc 3. Kỳ nâng lương này người đó được điều chỉnh lên bậc mấy?",
+  "type": "conditional",
+  "answerable": true,
+  "reference_answer": "Người đó được nâng lên bậc 4. Người lao động (trừ QTV) có thâm niên >=30 năm được điều chỉnh từ bậc 3 lên bậc 4. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp, mỗi kỳ nâng lương chỉ được nâng 01 bậc (QCL Điều 6).",
+  "key_facts": [
+   "bậc 4"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "7a1a775438662c1f",
+    "answer": "Theo Điều 6 khoản 3 của Quy chế tiền lương, tiền thưởng Bibica năm 2024 (QCL), đối với người lao động có thâm niên từ 25 năm trở lên:\n- CNV có thâm niên >= 30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4.\n\nVì công nhân này có thâm niên 31 năm (>= 30 năm) và đang hưởng bậc 3, nên kỳ này được nâng lên **bậc 4**.\n\n[NQLD Điều 6]"
+   },
+   {
+    "key": "bb711ff84d375d3b",
+    "answer": "Người lao động có thâm niên 31 năm (>=30 năm) sẽ được điều chỉnh từ bậc 3 lên bậc 4 [QCL Điều 6]."
+   },
+   {
+    "key": "12066231ef54103d",
+    "answer": "Người lao động thuộc nhóm 1, 2 hoặc 3 (không phải quản trị viên) có thâm niên từ 30 năm trở lên sẽ được điều chỉnh từ bậc 3 lên bậc 4. Vì người lao động có thâm niên 31 năm và đang ở bậc 3, kỳ này sẽ được nâng lên đúng bậc 4. [QCL Điều 6]"
+   },
+   {
+    "key": "8192121b4a1493e9",
+    "answer": "Người lao động có thâm niên 31 năm thuộc nhóm 1, 2 hoặc 3 (không phải QTV) sẽ được điều chỉnh từ bậc 3 lên bậc 4 theo quy định tại Điều 6 của Quy chế tiền lương. Cụ thể, đối với CNV có thâm niên từ 30 năm trở lên, mức lương được nâng từ bậc 3 lên bậc 4 [QCL Điều 6]. Lưu ý, mỗi kỳ nâng lương chỉ được nâng 01 bậc [QCL Điều 6]."
+   }
+  ]
+ },
+ {
+  "qid": "QCL-019",
+  "question": "cnv nhom 1 dang o bac 1 ma ko du dieu kien nang luong thi bao lau dc xet len bac 2?",
+  "type": "no_diacritics",
+  "answerable": true,
+  "reference_answer": "Công nhân viên thuộc nhóm 1, 2, 3 đang ở bậc I nếu không đạt điều kiện xét nâng lương (bậc 1 lên bậc 2 phải có 4A cộng dồn) thì sau 03 năm được xét nâng từ bậc I lên bậc II, với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội quy, quy định Công ty; thâm niên để nâng bậc tính từ thời điểm thay đổi vị trí công việc (QCL Điều 6).",
+  "key_facts": [
+   "03 năm"
+  ],
+  "gold_evidence": {
+   "QCL/Điều 6": "Điều 6. Quy định về tiêu chí đánh giá xét nâng lương\n1. Phân nhóm xét nâng lương như sau:\na. Nhóm 1: Lao động phổ thông, công nhân kỹ thuật.\nb. Nhóm 2: Trung cấp, cao đẳng.\nc. Nhóm 3: Cử nhân, kỹ sư, trưởng ca\nd. Nhóm 4: Quản trị viên từ cấp trưởng bộ phận trở lên.\n2. Điều kiện xét nâng hệ số lương:\na. Nhóm 1, 2, 3: Bậc 1 lên bậc 2, phải có 4A và được cộng dồn; các bậc tiếp theo, mỗi bậc cộng thêm 1A.\nKhi Công nhân viên thuộc nhóm 1, 2, 3 đang bậc I nếu không đạt điều kiện xét nâng lương như trên thì sau 03 năm xét nâng bậc I lên bậc II với điều kiện đánh giá hoàn thành công việc và không có bất cứ vi phạm nội qui và qui định Công ty, xét thâm niên để nâng bậc lương tính từ thời điểm thay đổi vị trí công việc.\n3. Nâng lương cho Người lao động (trừ QTV) có thâm niên từ 25 năm trở lên như sau:\na) CNV có thâm niên >=25 năm sẽ được điều chỉnh từ bậc 2 lên bậc 3\nb) CNV có thâm niên >=30 năm sẽ được điều chỉnh từ bậc 3 lên bậc 4\nc) CNV có thâm niên >=35 năm sẽ được điều chỉnh từ bậc 4 lên bậc 5;\nCác trường hợp đủ điều kiện ở trên nếu CNV có mức lương đang ở bậc thấp hơn sẽ được nâng lên đúng bậc. Đến các đợt nâng lương kế tiếp sẽ được nâng lên bậc kế tiếp (mỗi kỳ nâng lương chỉ được nâng 01 bậc).\n4. Thực hiện\na. Trưởng các đơn vị tại Văn phòng Công ty, Giám đốc các Chi nhánh căn cứ vào các qui định nêu trên, tổ chức đánh giá xét nâng hệ số lương và gởi kết quả về Khối Hành chánh nhân sự chậm nhất là ngày 20/12 hàng năm.\nb. Khối Hành chánh nhân sự tổng hợp kết quả đánh giá của các đơn vị trình Ban Lãnh Đạo Công ty xem xét."
+  },
+  "answers": [
+   {
+    "key": "c6791d387c37fe4f",
+    "answer": "Đối với Công nhân viên thuộc Nhóm 1 (Lao động phổ thông, công nhân kỹ thuật) đang ở bậc 1, nếu không đạt điều kiện nâng lương (4A và cộng dồn), Công ty sẽ xét nâng từ bậc 1 lên bậc 2 sau **03 năm** với điều kiện đánh giá hoàn thành công việc, không có vi phạm nội quy và quy định Công ty, xét thâm niên.\n\n[NQLD Điều 26]"
+   },
+   {
+    "key": "dd38e287aacddbee",
+    "answer": "Công nhân viên nhóm 1 đang ở bậc 1 nếu không đạt điều kiện xét nâng lương (4A và cộng dồn) thì sau **03 năm** sẽ được xét nâng từ bậc I lên bậc II. Điều kiện này áp dụng khi đánh giá hoàn thành công việc, không có vi phạm nội quy/quy định và xét thâm niên từ thời điểm thay đổi vị trí công việc. [QCL Điều 6]"
+   },
+   {
+    "key": "82c81a1d17254490",
+    "answer": "Theo Điều 6 khoản 2 mục a của QCL, CNV thuộc Nhóm 1 đang ở bậc I nếu không đạt điều kiện xét nâng lương (4A và cộng dồn) thì sau **03 năm** sẽ được xét nâng từ bậc I lên bậc II. Điều kiện là phải đánh giá hoàn thành công việc, không có vi phạm nội quy/quy định và xét thâm niên từ thời điểm thay đổi vị trí công việc.\n\n[NQLD Điều 6]"
+   },
+   {
+    "key": "6b9271ff540174c5",
+    "answer": "Theo QCL Điều 6, nếu CNV nhóm 1 đang ở bậc 1 không đạt điều kiện xét nâng lương (cần 4A), sau 03 năm sẽ được xét nâng từ bậc I lên bậc II. Điều kiện là phải hoàn thành công việc, không vi phạm nội quy/quy định và xét thâm niên từ thời điểm thay đổi vị trí công việc. [QCL Điều 6]"
+   }
+  ]
+ }
+]
