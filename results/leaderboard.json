@@ -1,5 +1,275 @@
 [
  {
+  "run": "dspy@qwen3.5-9B",
+  "name": "dspy[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "dspy",
+  "technique": "naive (DSPy)",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-9B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 187,
+  "pass_rate": 0.7791666666666667,
+  "correctness": 0.875,
+  "faithfulness": 0.9041666666666667,
+  "citation_ok": 0.9746835443037974,
+  "keyfact_all": 0.8565217391304348,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8695652173913043,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 10.77540385723114,
+  "latency_p95_s": 15.483510911464688,
+  "ttft_p50_s": 10.77540385723114,
+  "llm_calls": 1,
+  "build_s": 0.6,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    10,
+    10
+   ],
+   "doc:NQLD": [
+    66,
+    80
+   ],
+   "doc:QCL": [
+    68,
+    85
+   ],
+   "doc:TULD": [
+    35,
+    40
+   ],
+   "type:conditional": [
+    25,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    12,
+    14
+   ],
+   "type:fact": [
+    49,
+    53
+   ],
+   "type:list": [
+    18,
+    22
+   ],
+   "type:multi_hop": [
+    16,
+    23
+   ],
+   "type:no_diacritics": [
+    10,
+    15
+   ],
+   "type:numeric_table": [
+    28,
+    32
+   ],
+   "type:paraphrase": [
+    11,
+    19
+   ],
+   "type:unanswerable": [
+    10,
+    10
+   ]
+  },
+  "rank": 1
+ },
+ {
+  "run": "cag-full-context@qwen3.5-9B",
+  "name": "cag[full-corpus]",
+  "framework": "python",
+  "technique": "full-context (CAG)",
+  "chunking": "none",
+  "retriever": "none",
+  "model": "qwen3.5-9B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 183,
+  "pass_rate": 0.7625,
+  "correctness": 0.9104166666666667,
+  "faithfulness": 0.8375,
+  "citation_ok": 0.8620689655172413,
+  "keyfact_all": 0.908695652173913,
+  "refusal_acc": 0.9,
+  "answerable_correct": 0.908695652173913,
+  "recall@5": null,
+  "mrr@10": null,
+  "latency_src": "sequential",
+  "latency_p50_s": 7.230292439460754,
+  "latency_p95_s": 17.751597130298613,
+  "ttft_p50_s": 0.5041120052337646,
+  "llm_calls": 1,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    9,
+    10
+   ],
+   "doc:NQLD": [
+    63,
+    80
+   ],
+   "doc:QCL": [
+    71,
+    85
+   ],
+   "doc:TULD": [
+    32,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    9,
+    14
+   ],
+   "type:fact": [
+    45,
+    53
+   ],
+   "type:list": [
+    22,
+    22
+   ],
+   "type:multi_hop": [
+    17,
+    23
+   ],
+   "type:no_diacritics": [
+    9,
+    15
+   ],
+   "type:numeric_table": [
+    30,
+    32
+   ],
+   "type:paraphrase": [
+    12,
+    19
+   ],
+   "type:unanswerable": [
+    9,
+    10
+   ]
+  },
+  "rank": 2
+ },
+ {
+  "run": "naive-best-s2b@qwen3.5-9B",
+  "name": "naive[clause_parent|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_parent",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-9B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 180,
+  "pass_rate": 0.75,
+  "correctness": 0.8854166666666666,
+  "faithfulness": 0.8791666666666667,
+  "citation_ok": 0.9568965517241379,
+  "keyfact_all": 0.8826086956521739,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8804347826086957,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 13.143057107925415,
+  "latency_p95_s": 22.589378809928885,
+  "ttft_p50_s": 6.129370331764221,
+  "llm_calls": 1,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    10,
+    25
+   ],
+   "doc:NONE": [
+    10,
+    10
+   ],
+   "doc:NQLD": [
+    62,
+    80
+   ],
+   "doc:QCL": [
+    64,
+    85
+   ],
+   "doc:TULD": [
+    34,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    10,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    49,
+    53
+   ],
+   "type:list": [
+    21,
+    22
+   ],
+   "type:multi_hop": [
+    10,
+    23
+   ],
+   "type:no_diacritics": [
+    9,
+    15
+   ],
+   "type:numeric_table": [
+    26,
+    32
+   ],
+   "type:paraphrase": [
+    12,
+    19
+   ],
+   "type:unanswerable": [
+    10,
+    10
+   ]
+  },
+  "rank": 3
+ },
+ {
   "run": "cag-full-context@qwen3.5-4B",
   "name": "cag[full-corpus]",
   "framework": "python",
@@ -87,7 +357,97 @@
     10
    ]
   },
-  "rank": 1
+  "rank": 4
+ },
+ {
+  "run": "naive-best@qwen3.5-9B",
+  "name": "naive[clause_header|hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus|k5]",
+  "framework": "python",
+  "technique": "naive",
+  "chunking": "clause_header",
+  "retriever": "hybrid:dense:vn-embedding+dense:qwen3-emb-0.6b+bm25:foldplus",
+  "model": "qwen3.5-9B",
+  "n": 240,
+  "n_judged": 240,
+  "pass": 175,
+  "pass_rate": 0.7291666666666666,
+  "correctness": 0.8625,
+  "faithfulness": 0.85,
+  "citation_ok": 0.9491525423728814,
+  "keyfact_all": 0.8608695652173913,
+  "refusal_acc": 1,
+  "answerable_correct": 0.8565217391304348,
+  "recall@5": 0.9645652173913043,
+  "mrr@10": 0.9204830917874396,
+  "latency_src": "sequential",
+  "latency_p50_s": 12.482161521911621,
+  "latency_p95_s": 15.60520805120468,
+  "ttft_p50_s": 3.4579204320907593,
+  "llm_calls": 1,
+  "build_s": 0.0,
+  "breakdown": {
+   "doc:MULTI": [
+    8,
+    25
+   ],
+   "doc:NONE": [
+    10,
+    10
+   ],
+   "doc:NQLD": [
+    64,
+    80
+   ],
+   "doc:QCL": [
+    64,
+    85
+   ],
+   "doc:TULD": [
+    29,
+    40
+   ],
+   "type:conditional": [
+    22,
+    30
+   ],
+   "type:cross_doc": [
+    8,
+    22
+   ],
+   "type:definition": [
+    11,
+    14
+   ],
+   "type:fact": [
+    49,
+    53
+   ],
+   "type:list": [
+    16,
+    22
+   ],
+   "type:multi_hop": [
+    14,
+    23
+   ],
+   "type:no_diacritics": [
+    8,
+    15
+   ],
+   "type:numeric_table": [
+    26,
+    32
+   ],
+   "type:paraphrase": [
+    11,
+    19
+   ],
+   "type:unanswerable": [
+    10,
+    10
+   ]
+  },
+  "rank": 5
  },
  {
   "run": "dspy@qwen3.5-4B",
@@ -177,7 +537,7 @@
     10
    ]
   },
-  "rank": 2
+  "rank": 6
  },
  {
   "run": "naive-best-s2b@qwen3.5-4B",
@@ -267,7 +627,7 @@
     10
    ]
   },
-  "rank": 3
+  "rank": 7
  },
  {
   "run": "naive-best@qwen3.5-4B",
@@ -357,7 +717,7 @@
     10
    ]
   },
-  "rank": 4
+  "rank": 8
  },
  {
   "run": "llm-wiki-claude@qwen3.5-4B",
@@ -447,7 +807,7 @@
     10
    ]
   },
-  "rank": 5
+  "rank": 9
  },
  {
   "run": "langgraph-crag@qwen3.5-4B",
@@ -537,7 +897,7 @@
     10
    ]
   },
-  "rank": 6
+  "rank": 10
  },
  {
   "run": "hyde-best@qwen3.5-4B",
@@ -627,7 +987,7 @@
     10
    ]
   },
-  "rank": 7
+  "rank": 11
  },
  {
   "run": "langchain@qwen3.5-4B",
@@ -717,7 +1077,7 @@
     10
    ]
   },
-  "rank": 8
+  "rank": 12
  },
  {
   "run": "multiquery-best@qwen3.5-4B",
@@ -807,7 +1167,7 @@
     10
    ]
   },
-  "rank": 9
+  "rank": 13
  },
  {
   "run": "raptor-best@qwen3.5-4B",
@@ -897,7 +1257,7 @@
     10
    ]
   },
-  "rank": 10
+  "rank": 14
  },
  {
   "run": "llamaindex@qwen3.5-4B",
@@ -987,7 +1347,7 @@
     10
    ]
   },
-  "rank": 11
+  "rank": 15
  },
  {
   "run": "naive-best-rerank@qwen3.5-4B",
@@ -1077,7 +1437,7 @@
     10
    ]
   },
-  "rank": 12
+  "rank": 16
  },
  {
   "run": "naive-qwen3hyb@qwen3.5-4B",
@@ -1167,7 +1527,7 @@
     10
    ]
   },
-  "rank": 13
+  "rank": 17
  },
  {
   "run": "haystack@qwen3.5-4B",
@@ -1257,7 +1617,7 @@
     10
    ]
   },
-  "rank": 14
+  "rank": 18
  },
  {
   "run": "naive-clause-bm25@qwen3.5-4B",
@@ -1347,7 +1707,7 @@
     10
    ]
   },
-  "rank": 15
+  "rank": 19
  },
  {
   "run": "naive-fixed500-bge@qwen3.5-4B",
@@ -1437,7 +1797,7 @@
     10
    ]
   },
-  "rank": 16
+  "rank": 20
  },
  {
   "run": "llm-wiki-qwen@qwen3.5-4B",
@@ -1527,7 +1887,7 @@
     10
    ]
   },
-  "rank": 17
+  "rank": 21
  },
  {
   "run": "lightrag-mix@qwen3.5-4B",
@@ -1565,6 +1925,6 @@
     1
    ]
   },
-  "rank": 18
+  "rank": 22
  }
 ]
