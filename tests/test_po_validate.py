@@ -54,10 +54,10 @@ def test_backend_selection(monkeypatch):
     assert backend_from_env().provider == "local"
     monkeypatch.setenv("GEMINI_API_KEY", "k")
     b = backend_from_env()
-    assert (b.provider, b.base_url, b.model, b.api_key, b.local) == ("gemini", GEMINI_BASE_URL, "gemini-2.5-flash",
+    assert (b.provider, b.base_url, b.model, b.api_key, b.local) == ("gemini", GEMINI_BASE_URL, "gemini-3.5-flash",
                                                                      "k", False)
-    monkeypatch.setenv("BIBICA_PO_MODEL", "gemini-2.5-pro")
-    assert backend_from_env().model == "gemini-2.5-pro"
+    monkeypatch.setenv("BIBICA_PO_MODEL", "gemini-3.8-flash")
+    assert backend_from_env().model == "gemini-3.8-flash"
     assert backend_from_env("local").local
 
 

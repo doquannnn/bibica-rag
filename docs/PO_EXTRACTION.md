@@ -33,7 +33,7 @@ pictures, not cells, so it is transcribed in `config/po_customers.yaml`; print i
 5. `dms.py` — store code → MÃ DMS from the retailer's sheet; unknown codes are reported, never guessed.
 6. `validate.py` — self-checks without ground truth, shown as warnings to the reviewer (see below).
 
-VLM backend (`vlm.py`): **Gemini API** (`GEMINI_API_KEY`, default `gemini-2.5-flash`, free tier at
+VLM backend (`vlm.py`): **Gemini API** (`GEMINI_API_KEY`, default `gemini-3.5-flash`, free tier at
 https://aistudio.google.com/apikey) or the **local Qwen3.5 VLM** (`scripts/serve.sh`); any other OpenAI-compatible
 endpoint with `BIBICA_PO_PROVIDER=openai BIBICA_PO_BASE_URL=... BIBICA_PO_MODEL=... BIBICA_PO_API_KEY=...`.
 The cloud session could not download a local model (Hugging Face is blocked by its network policy), so the cloud

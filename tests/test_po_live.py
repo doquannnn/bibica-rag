@@ -17,7 +17,7 @@ from bibica_rag.po.evaluate import report_md, score_dir
 from bibica_rag.po.extract import extract_po, iter_pdfs, select_pages, text_is_usable
 from bibica_rag.po.pdf import load_pdf
 from bibica_rag.po.dms import lookup
-from bibica_rag.po.spec import PO_DIR, default_spec_path, detect_customer, find_dms_file, load_specs
+from bibica_rag.po.spec import DEFAULT_SPEC, PO_DIR, default_spec_path, detect_customer, find_dms_file, load_specs
 from bibica_rag.po.validate import validate
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -138,3 +138,16 @@ def test_pipeline_on_real_pdfs_with_scripted_vlm(tmp_path, fake_client):
         (tmp_path / f"{stem}.json").write_text(json.dumps(r.to_dict(), ensure_ascii=False), encoding="utf-8")
     rep = score_dir(tmp_path, GT_DIR, specs, only_checked=True)
     assert rep["order_exact"] == 1, report_md(rep)
+
+
+def test_prompt_examples_do_not_leak_the_ground_truth():
+    """Examples in the field descriptions come from the Excel screenshots (2021 POs), not from the evaluated samples;
+    otherwise the accuracy would be inflated. Allowed: fixed codes the Excel itself gives for the chain."""
+    from_excel = {"8935132500710", "VD-00001986", "8934609203093"}
+    spec_text = DEFAULT_SPEC.read_text(encoding="utf-8")
+    leaked = set()
+    for _, gt in _cases().values():
+        for k, v in gt["fields"].items():
+            values = [r["Mã SP"] for r in v] if isinstance(v, list) else [v]
+            leaked |= {str(x) for x in values if x and len(str(x)) >= 4 and str(x) in spec_text}
+    assert leaked <= from_excel, leaked - from_excel

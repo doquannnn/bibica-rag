@@ -4,7 +4,7 @@ Presets (env `BIBICA_PO_PROVIDER`, default: `gemini` when GEMINI_API_KEY is set,
 
 | provider | endpoint | model (default) | key |
 |---|---|---|---|
-| gemini   | https://generativelanguage.googleapis.com/v1beta/openai/ | gemini-2.5-flash | GEMINI_API_KEY (free tier at aistudio.google.com/apikey) |
+| gemini   | https://generativelanguage.googleapis.com/v1beta/openai/ | gemini-3.5-flash | GEMINI_API_KEY (free tier at aistudio.google.com/apikey) |
 | local    | LLM_BASE_URL (scripts/serve.sh, default http://127.0.0.1:8080/v1) | LLM_MODEL (qwen3.5-4B) | none |
 | openai   | BIBICA_PO_BASE_URL | BIBICA_PO_MODEL | BIBICA_PO_API_KEY |
 
@@ -38,7 +38,7 @@ def backend_from_env(provider: str | None = None) -> Backend:
     provider = (provider or env.get("BIBICA_PO_PROVIDER") or
                 ("gemini" if env.get("GEMINI_API_KEY") or env.get("GOOGLE_API_KEY") else "local")).lower()
     if provider == "gemini":
-        base, model = GEMINI_BASE_URL, "gemini-2.5-flash"
+        base, model = GEMINI_BASE_URL, "gemini-3.5-flash"
         key = env.get("GEMINI_API_KEY") or env.get("GOOGLE_API_KEY") or ""
     elif provider == "local":
         base = env.get("LLM_BASE_URL", "http://127.0.0.1:8080/v1")
